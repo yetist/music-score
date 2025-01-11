@@ -1,0 +1,34 @@
+%abc-2.2
+
+X:1
+T:Thy Hand, Belinda
+T:(melody from the opening of Dido and Aeneas)
+C:Henry Purcell (1689)
+M:C
+L:1/4
+Q:1/4=80
+%%staves {1 (2 3)}
+%%annotationfont url(../js/Figurato.otf) 16
+K:Gm
+V:1
+z/c/ c/=B/c>c|c<_B-B//A//B//G// _A/>B/|_A>AzA/A/|
+w:Thy hand, Bel-in-da! dark ------ness shades me, On thy
+V:2
+C,4-|C,4|F,4|
+V:3
+"_b"x4|"_b7n"x4|"_b"x4|
+V:1
+_A/GG/AG/F/|G2zG/G/|G/F/ z/F/F=E/>F/|
+w:bos --om let me rest, More I would, but death_ in-
+V:2
+G,,2_A,,2|G,,4|G,,4|
+V:3
+"_b985"x2"_7"x>"_6"x|"_n"x2"_b6b3"x2|"_b675b3"x2"_7,n"x2|
+V:1
+=E/E/zD/_EE/|E/D^F/ F/G/ G/<^C/||[M:3/2]D4x2|z6|
+w:vades me Death_ is now_ a wel -come_ guest!
+V:2
+%%pos vol up
+C,4|D,2E,2||[M:3/2]D,4!pp![G,,G,]2|[^F,,^F,]4[=F,,=F,]2|
+V:3
+"_n"x2"_6b"x2|"_65s"x2"_7"x"_6'"x||[M:3/2]"_s"x6|x6|

@@ -1,0 +1,100 @@
+X:1
+T:Metig
+% Ton Simpl
+C:Hengounel
+O:Breizhat
+M:C|
+L:1/8
+R:Gavotenn
+K:Am
+W:1. Me 'zo ur c'hloareg yaouank deus eskopti Kemper
+W:   O vont d'ober e studi en eskopti Treger
+W:2. War vord ar mod on ganet, e bourc'h Sant-Wenole
+W:   Ha biskoazh nemet glac'har n'am eus bet em vuhez
+W:3. Glac'har ar wir garantez, setu ma flanedenn
+W:   Planedenn rust ha kalet, da heulia\~n penn da benn.
+%E:20
+% Tamm kentan
+|:AGAB cdd2|cBGB A2A2::AGAB cdd2|cBGA G2G2:| 
+% Diwezh
+
+X:2
+T:An enez e-kreiz ar mor
+% Ton Doubl
+C:Hengounel
+O:Breizhat
+M:6/8
+K:G
+W:1. Barzh un enez e kreizh ar mor
+W:   Me 'm boa lakaet ma yar en gor
+W:2  Seitek vi dezhi am boa lakaet
+W:   Naonteg lapoused am boa bet
+W:3. D'an taol-se oan ket bet war goll
+W:   Da gaout ul lapous war an holl
+%E:12
+|:ded B2A|B2c A3|ded B2G|B2A G3:|G2A B2B|c2B A2d|%*
+e2d B2A|B2c A3|G2A B2B|c2B A2d|e2d B2G|B2A G3||%**
+% Diwezh
+
+X:3
+T:Kimiad ur Soudard Yaouank
+% Ton Doubl
+C:Prosper Proux
+O:Breizhat
+M:C|
+L:1/8
+K:G
+W:1. Ma c'halon a zo frailhet dre nerzh ma enkreziou
+W:   Ma daoulagad entanet tra li de lo tra lon la le
+W:   di le da n'o deus mui a zaero\`u
+W:2. Deuet eo siwazh an devezh ma rankan dilezel
+W:   Lec'h ka\"er ma bugaleaj tra... ma bro ga\"er Breizh-Izel
+W:3. Keno, keno, Mamm ha Tad, brema\~n n'esperit mui
+W:   E chomfe ho mab karet tra... da harpa\~n ho kozhni.
+%E:20
+% Tamm Kentan         % Eil tamm
+|:DBBG GFG2|EEGE D2D2::DBBG FGA2|%*
+ABBG FGA2|ABBG GFG2|EEGE D2D2:|%**
+% Diwezh
+
+X:4
+T:Valsounette
+C:Jacky Mollard
+D:Pennou Skoulm #1
+O:Breizhat
+%Q:C4=45
+Q:1/4=45
+M:6/8
+L:1/16
+K:Am
+% Tamm kentan
+%E:10
+|:EAcBAG FAcBA^G|ABceab c'3c'ba|gebage ^f3^gaf|^geedBA ^GAB^G=F2|%*
+EAcBAG FAcBA^G|ABceab c'3abc'|d'c'bad'c' b3efb|e^gbec'b|1 a2BAGA:|2 a4^ga||%*
+% Eil tamm
+%E:9
+b^ggeeb b^ggeec'|c'aaeec' c'aaeeb|b^ggeeb b^ggee2|FEFGAB (3cBc(3dcd(3e^ga|%*
+%E:10
+b^ggeeb b^ggeec'|c'aaeec' c'aaebc'|d'c'bad'c' b3efb|e^gbec'b |1 a4^ga:|2 a2BAGA|%**
+% Diwezh
+
+X:5
+T:Gavotte du Cap
+C:Transcription Bernard KERREST
+M:C
+L: 1/4
+K:G
+ D/G/ B/G/ F/G/ A | G/A/ c/B/ G G :||: B B B/d/ d | c/B/ A B/c/ B |
+ |G B/G/ F/G/ A | G/A/ c/B/ G G :||
+
+X:6
+T:Son ar charpentour
+T:(marche)
+M:2/4
+L:1/4
+K:Bb
+|:"Sib"FE/D/|"Solm"B,C/D/|[M:3/4]"Dom"E"Fa"F/>G F/E/|\
+	[M:2/4]"Sib"FE/D/|"Solm"B,C/D/|[M:3/4]"Dom"E/>G/"Fa"F2:|
+|:[M:2/4]"Fa"FF/C/|"Dom"EE/D/|[M:3/4]"Solm"B,/>B,/"Fa"C-C/D//E//|\
+	[M:2/4]"Sib"FF/C/|"Dom"EE/D/|[M:3/4]"Fa"C/D//C//"Sib"B,2:|
+

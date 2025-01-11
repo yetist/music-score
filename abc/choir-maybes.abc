@@ -1,0 +1,345 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+
+X:1
+T:Ah Robin, gentle Robin
+T:Round
+C:William Cornysh
+M:4/2% meter
+L:1/4% length of shortest note
+%Q: % tempo
+K:Cmaj% key
+"^1" F2 D2 E2 z2 | F2 E D E2 z2 | E>E A A G>G F F | G G E E D2 z2 |
+w:Ah Ro-bin, gen-tle Ro-bin. Tell me how thy le-man doth and thou shalt know of mine.
+"^2" D2 _B,2 A,2 z2 | D2 C _B, A,2 z2 | A, A, A, A, C C D D | E E A, A, D2 z2 |
+w:Ah Ro-bin, gen-tle Ro-bin. Tell me how thy le-man doth and thou shalt know of mine.
+
+X:2
+T:Ah Robin, gentle Robin
+T:Descant
+C:William Cornysh
+M:4/2% meter
+L:1/4% length of shortest note
+%Q: % tempo
+K:Cmaj% key
+A2 d2 c2 z2 | A2 A d c2 z2 | C>C F F E E A A | c B A G ^F2 z D |
+w:Ah Ro-bin, gen-tle Ro-bin. Tell me how thy le-man doth and thou shalt know of mine. My
+%
+A>A G F c>B A G | _B A A G A2 z D | 
+w:La-dy is un-kind y-wis, A-lack why is she so? She
+C>C F F E E/2 E/2 A A | c B A G ^F2 z2 |
+w:lov'th a-no-ther bet-ter than me and yet she will say no.
+%
+A2 d2 c2 z2 |A2 A d c2 z2 | C>C F F E E A A | c B A G ^F2 z D |
+w:Ah, Ro-bin, gen-tle Ro-bin, tell me how thy le-man doth and thou shalt know of mine. I
+%
+A>A G F A>A D D | A>A A G A2 z D |
+w:can-not think such dou-ble-ness for I find wo-men true, in
+A>A F F E>E A A | c B A G ^F2 z2 |
+w:faith my la-dy lov'th me well; she will change for no new.
+A2 d2 c2 z2 | A2 A d c2 z2 | C>C F F E E A A | c B A G ^F4 |]
+%
+w:Ah, Ro-bin, gen-tle Ro-bin, Tell me how thy le-man doth and thou shalt know of mine.
+
+X:3
+T:By the Waters of Babylon
+H:Modified from the original.
+M:4/4
+L:1/4
+K:C
+"^1" (AG/F/E) F| (GF/E/) D E| (FE/D/) C D| E E A, z|
+w:    By___  the  wa__ters the wa__ters of Ba-by-lon,
+"^2" c c c c| (cB) z B| (BA) z A| A ^G A2|
+w:  We lay down and wept_ and wept_ for thee Zi-on,
+"^3" E3/2 F/2 G A| D3/2 E/2 F G| C3/2 D/2 E F| E E A,2:|]
+w:We re-mem-ber thee, re-mem-ber thee, re-mem-ber thee Zi-on.
+
+
+X:4
+T:By the Waters of Babylon (Original)
+C:Phillip Hayes
+B:The Muses Delight: Catches, Glees, Canzonets and Canons
+F:https://archive.org/details/musesdelightcatc00haye/page/105
+M:4/4
+L:1/4
+K:Gm
+"^1"(G3/2 F/4E/4 D) E|(F3/2E/4D/4) C D|(E3/2D/4C/4 B, C| D) D G2|
+w:   By___      the Wa__    ters of  Ba_____            by-lon,
+"^2" B   B  B    B|(BA2)  _A|(_AG2) G|(G^FG2)|
+w:  We sat down and wept_ and wept_ and wept:__
+"^3" d (d/>e/) f g  | c  (c/>d/) e   f  |(B3/2c/) (de/>c/)| A2 B2|
+w:We re_mem-ber'd thee, re_   mem-ber'd thee_   O__ Si-on.
+"^4" G G/G/ F z | z/ F/ F/ f/ e z | z/ E/ E/ e/ d (c/>e/) | d d d2 |]
+w:as for our Harps, we hang'd them up: up-on the trees that* are there-in.
+
+X:5
+T:Dame, Lend Me a Loaf
+M:4/4
+L:1/4
+K:Cmaj
+"^1"C C D D | C4 | C C D D | C3 C |
+w:Dame, lend me a loaf. Dame, lend me a loaf. From
+"^2"G/2>F/2 E/2E/2 F/2>E/2 D| E2 z E | G/2>F/2 E/2E/2 F/2>E/2 D |
+w:Sar-ur-day to Sat-ur-day, hey! And long-er if you long-er may
+"^3"z2 z G-|G c/2c/2 A B | c2 z G-|G c/2c/2 A B | c3 z || 
+w:So_ that you be not wroth. So_ that you be not wroth.
+
+
+X:6
+T:Canon
+C:Thomas Tallis
+O:England
+R:Canon
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://abc.musicaviva.com/tunes/tallis-thomas/tallis-canon.abc
+M:C
+L:1/4
+K:Fmaj
+"1"F|FEFF|GGA"2"F|BBAA|GGF"3"c|
+w: Glo-ry to Thee, my God, this night, For all the bless-ings of the light, Keep
+BGAA|GGF"4"C|DEFA|GGFF|]
+w:me, oh keep me, King of kings, Be-nieath Thine own Al-migh-ty wings. Glo-
+%
+W:
+W:Can also be sung as an eight-part round
+%W:
+%W:
+%W:From Musica Viva - http://www.musicaviva.com
+%W:the Internet center for free sheet music downloads.
+
+
+X:7
+T:Rondellus
+C:Anonymous Barcelona
+M:4/4
+L:1/4
+K:Cmaj
+"^1" C2 (D/2E/2) G| (B/2A/2A/2B/2) c z |"^2" c2 (B/2A/4B/4) c| (BA) G z |"^3" G2 (F/2E/2) (D/2C/2) | D2 C2 :|
+w:Cri-mi-*na tol-***lit, As-pe-**ra mol-*lit, Ag-nus* a-*mo-ris.
+
+X:8
+T:Hey hoe, to the greene wood, A Round of 3 Voices
+C:Thomas Ravenscroft
+C:"Pammelia" (1609)
+L:1/4
+M:6/4
+K:Gmaj
+Q:1/4=180
+D2|G4 "^2"AA|B2 AG "^3"GF|G DCB,A,2|
+w:Hey hoe, to the greene wood now let us goe, sing he-ave and
+G,2 zGc B/2A/2|B2A G2F|G DCB,A,2|
+w:hoe, and there shall we find both bucke and Doe, sing he-ave and
+G,2 zDEC|D G/2G/2A/2G/2 G2F|G DCB,A,2|G,2 z2 :|
+w:hoe, the Hart the Hinde, and the lit-tle pret-ty Roae sing he-ave and hoe,
+
+X:9
+T:Hey downe a downe
+C:Thomas Ravenscroft
+B:Pammelia
+S:http://www.pbm.com/~lindahl/ravenscroft/pammelia/pam_09small.html
+M:4/4
+L:1/4
+K:C
+  G3   F/  E/|"^X"D3    E |"^X"F2   D2| C4 | 
+w:Hey down a     down, be-    hold and see,
+   C2   C    C| G4 | F > E   F    G |A3    A  |
+w:what song is this, or how may this be, three 
+   c3 c |G3 G |_B3 A/ G/|F3 G |
+w:parts in one: Sing all af-ter me with
+   A A A G/ F/ | E C C2 | G3 F/ E/| D3 E| F2 E D|C2 C2 ||
+w:hey down down a down down a down Hey troll the ber-ry drink and be mer-ry.
+W:
+W:Canon in three parts in one, in the fifth and ninth
+
+X:10
+T:Hey downe a downe
+M:4/4
+L:1/4
+K:Dmix
+[V:1]
+z4|A3 G/2 F/2|E3 F |G2 E2| D4 | 
+w:Hey down a  down, be-hold and see,
+D2 D D| A4 | G > F G A |B3 B |
+w:what song is this, or how may this be, three
+d3 d |A3 A | c3 B/2 A/2|G3 A |
+w:parts in one: Sing all af-ter me with
+B B B A/2 G/2 | F D D2 | A3 G/2 F/2| E3 F| G2 F E|D2 D2 ||
+w:hey down down a down down a down Hey troll the ber-ry drink and be mer-ry.
+%
+[V:2]
+D3 C/2 B,/2|A,3 B, |C2 A,2| G,4 | G,2 G, G,|
+w:Hey down a down, be-hold and see, what song is
+D4 |C > B, C D |E3 E |G3 G |D3 D |=F3 E/2 D/2|
+w:this, or how may this be, three parts in one: Sing all af-ter
+C3 D |E E E D/2 C/2 | B, G, G,2 | D3 C/2 B,/2| A,3 B,| C2 B, A,|G,2 G,2 |z4 ||
+w:me with hey down down a down down a down Hey troll the ber-ry drink and be mer-ry.
+
+
+
+
+X:40
+T:Dixie/Yankee Doodle
+M:4/4
+L:1/4
+K:Cmaj clef=treble
+[V:1]
+ z2 z (G/2E/2)| CC (C/2D/2) E/2F/2| GG GE| AA A3/2 G/2| A3/2 G/2 A/B/ c/d/|
+w: I* wish I was* in the land of cot-ton Old times there are not for-got-ten Look a-
+ e3 c/2G/2| c3 G/2E/2| G3 D/2E/2| C2 z (G/2E/2)|
+w:way! Look a-way!  Look a-way! Dix-ie Land. In*
+ CC (C/D/) (E/F/)| GG GE| AA A3/2 G/2| A3/2 G/ (A/B/) c/d/|
+w:Dix-ie Land* where* I was born,* ear-ly on a frost-y morn,* Look a-
+ e3 c/2G/2| c3 G/2E/2| G3 D/2E/2| C2 z z|
+w:way! Look a-way!  Look a-way! Dix-ie Land. 
+[V:2]
+z4 |CC DE| CE DG,| CC DE| C2 B,2|
+w:Yan-kee Doo-dle went to town a-rid-ing on a po-ny
+CC DE| FE DC| B,G, A,B,| C2 C2|
+w:Stuck a fea-ther in his hat and called it ma-ca-ro-ni.
+A,3/2 B,/2 A,G,| A,B, C2| G,3/2 A,/2 G,F,| E,2 G,2|
+w:Yan-kee Doo-dle keep it up, Yan-kee Doo-dle dan-dy,
+A,3/2 B,/2 A,G,| A,B, CA,| G,C B,D| C2 C z|
+w:Mind the mu-sic and the step and with the girls be han-dy.
+
+
+X:41
+T:Lift Every Voice and Sing
+C:J. Rosamond Johnson
+A:James Weldon Johnson
+C:Public Domain
+L:1/8
+M:6/8
+V:S clef=treble
+%%MIDI program 1 40 % Violin
+V:A clef=treble 
+%%MIDI program 2 41 % Viola
+V:T clef=bass 
+%%MIDI program 3 42 % Cello
+V:B clef=bass
+%%MIDI program 4 43 % Bass
+%%score ( S A ) | ( T B )
+K:G
+[V:S]
+z3 FGA | B3 B3 | B3 Bcd | B3 A3 | G3
+ GAB | c3 B3 | G3 A3 |  G3-G2 G | F3
+ FGA | B3 B3 | e3 edB | c3 (B2 A) | G3
+ GA^A | B3 BAG | A3-A2 G | G6 |
+ G3 D3 | E3 EDB, | EDB, EDB, |  D3 D3 |
+ G3 D3 | _E3 EDC | _EDC EDC | B6 | c3
+ FGA | B3 B3 |  e3 edB | c3 (B2 A) | G3
+ GA^A | B3 BAG | A3-A2  G | G6 |]
+%
+w: 1.~Lift ev- 'ry|voice and| sing, till earth and|Heav- en|ring,
++: Ring with the|har- mo-|nies of| lib- * er-|ty;
++: Let our re-|joic- ing|rise, high as the|list- t'ning *| skies,
++: Let it re-|sound loud as the|roll- * ing sea
++: Sing a|song full of the|faith that the dark past has| taught us,
++: Sing a|song, full of the|hope that the pre- sent has|brought|us;
++: fac- ing the|ris- ing| sun of our new|day be- *|gun,
++: Let us march|on till vic- to-| ry * is|won.
+%
+w: 2.~Sto-ny the  |road we| trod, bit- ter the|chast- ening|rod,
++: Felt in the|days when|hope un-| born * had|died; 
++: Yet with a|stead- y|beat, have not our|wear- y *| feet
++: Come to the|place for which our|fa- * thers|sighed?
++:We have|come o- ver a|way that with tears has been| wa- tered,
++:We have|come, tread- ing our|path through the blood of the|slaugh-|tered,
++: Out from the|gloom- y|past, till now we|stand at *|last 
++: Where the white|gleam of our bright|star * is|cast.
+%
+w: 3.~God of our|wear- y| years, God of our|si- lent|tears,
++: Thou who hast|brought us|thus far|on * the|way;
++: Thou who hast|by Thy|might, led us in-|to the *| light,
++: Keep us for-|ev- er in the|path, * we|pray.
++: Lest our|feet stray from the|pla- ces, our God, where we| met Thee;
++: Let our|hearts, drunk with the|wine of the world, we for-|get|Thee;
++: Shad- owed be-|neat Thy| hand, may we for-|ev- er *|stand,
++: True to our|God, true to our| na- * tive|land.
+[V:A]
+z3 DEF |[GB]3 ^D3 | E3 EEE | G3 F3 | E3
+ E^DE | E3 ^D3 | E3 E3 |  D3-D2 E | D3
+ DEF | G3 ^D3 | E3 E=FF | E3 ^D3 | E3
+ EEE | D3 GFG | F3- F2 G | G6 | G3 D3 |
+ E3 EDB, | EDB, EDB, | D3 D3 |
+ G3 D3 | _E3 EDC | _EDC EDC | D6 |D3
+ DEF | G3 ^D3 | E3 (E=F)F | E3 ^D3 | E3
+ EEE | D3 GFG | F3- F2 D | D6 |]
+%
+V:T
+z3 F,G,A, | B,3 A,3 | G,3 G,G,G, | G,3 C3 | B,3
+ B,CB, | A,3 (B,2 A,) | G,3 C3 | B,3-B,2 _B, | A,3
+ F,G,A, | B,3 A,3 | ^G,3 G,B,D | C3 B,2-B, | C3
+ _B,=A,G, | G,3 DCB, | C3- C2 B, | B,6 |
+ G,3 D,3 | E,3 E,D,B,, | E,D,B,, E,D,B,, | D,3 D,3 |
+ G,3 D,3 | _E,3 E,D,C, | _E,D,C, E,D,C, | (B,3 =F3) | ^F3
+ F,G,A, | B,3 A,3 | ^G,3 G,B,D | C3 B,2-B, |
+ C3 ^A,=A,G, | G,3 DCB, | C3-C2 [G,B,] | [G,B,]6 |]
+V:B
+z3 D,E,F, | G,3 F,3 | E,3 E,E,E, | D,3 ^D,3 | E,3
+ E,F,G, | A,3 B,,3 | C,3 C,3 | D,3-D,2 ^C, | D,3
+ D,E,F, | G,3 F,3 | E,3 E,G,G, | A,3 (B,2B,,) | C,3
+ ^C,C,C, | D,3 D,^D,(E,/D,/) | D,3-D,2 G,, | G,,6 |
+ G,3 D,3 | E,3 E,D,B,, | E,D,B,, E,D,B,, | D,3 D,3 |
+ G,3 D,3 | _E,3 E,D,C, | _E,D,C, E,D,C, | (G,3 ^G,3) | (A, D,2)
+ D,E,F, | G,3 F,3 | E,3 E,G,G, | A,3 (B,2B,,) |
+ C,3 ^C,C,C, | D,3 D,^D,(E,/D,/) | D,3-D,2 G,, | G,,6 |]
+
+
+%%staffsep .8
+X:42
+T:Lift Every Voice and Sing/We Shall Overcome
+L:1/8
+M:6/8
+V:S clef=treble
+%%MIDI program 1 19 % Church Organ
+%%MIDI program 2 41 % Viola
+K:G
+[V:S]
+z3 FGA | B3 B3 | B3 Bcd | B3 A3 | G3
+ GAB | c3 B3 | G3 A3 |  G3-G2 G | F3
+ FGA | B3 B3 | e3 edB | c3 (B2 A) | G3
+ GA^A | B3 BAG | A3-A2 G | G6 |
+ G3 D3 | E3 EDB, | EDB, EDB, |  D3 D3 |
+ G3 D3 | _E3 EDC | _EDC EDC | B6 | c3
+ FGA | B3 B3 |  e3 edB | c3 (B2 A) | G3
+ GA^A | B3 BAG | A3-A2  G | G6 |]
+[V:A]
+z6 | G3 G3| A3 A3|(G6|E3)-
+E3 | G3 G3| A3 A3|(G3E3|D3
+F3)| G3 G3| A3 B3| c6|d3-
+d3 | (B6| A2B A2G| G6)|
+(A3B3)| c6| B3 A3|G6-|
+G6|A6| G3 =F3|E6-|E3
+F3| G6|G6| C3 F3| E3-
+E3|D6| (C6|D6)|]
+
+X:43
+T:Lift Every Voice and Sing/Amazing Grace
+L:1/8
+M:6/8
+V:S clef=treble
+%%MIDI program 1 52 % Voice Aahs
+%%MIDI program 2 42 % Cello
+K:G
+[V:S]
+z3 FGA | B3 B3 | B3 Bcd | B3 A3 | G3
+ GAB | c3 B3 | G3 A3 |  G3-G2 G | F3
+ FGA | B3 B3 | e3 edB | c3 (B2 A) | G3
+ GA^A | B3 BAG | A3-A2 G | G6 |
+ G3 D3 | E3 EDB, | EDB, EDB, |  D3 D3 |
+ G3 D3 | _E3 EDC | _EDC EDC | B6 | c3
+ FGA | B3 B3 |  e3 edB | c3 (B2 A) | G3
+ GA^A | B3 BAG | A3-A2  G | G6 |]
+[V:A]
+z4
+D2|G4 BG | B4 A2 | G4 E2| D4
+D2|G4 BG | B4 A2 | d6-  |d4
+B2|d4 BG | B4 A2 | G4 E2| D4
+D2|G4 BG | A4 A2 | G6-  |G4
+D2|G4 BG | B4 A2 | G4 E2|D4
+D2|G4 BG | B4 AB | (d6  |c3)z
+B2|d4 BG | B4 A2 | G4 E2|D4
+D2|G4 (3BAG|B4 A2|G6|]
+

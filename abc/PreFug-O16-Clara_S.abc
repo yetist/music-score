@@ -1,0 +1,575 @@
+%%leftmargin 1cm
+%%rightmargin 1cm
+%%maxshrink 1
+
+X:0
+T:Three Preludes and Fugues
+T:Op. 16
+C:Clara Schumann (1819 - 1896)
+B:https://imslp.org/wiki/3_Preludes_and_Fugues%2C_Op.16_(Schumann%2C_Clara)
+K:C
+x|
+
+X:1-1
+T:Praeludium I
+Q:"Andante"
+M:3/4
+L:1/4
+%%staves {(1 2) (3 4)}
+%%linebreak $
+K:Gm
+%%writefields Q 0
+Q:1/4=80
+V:1 treble
+d/G^Fe/|d/GA^f/|g3/d3/-|d/f/e/d/c/^c/|\
+	d/!tie)!BAe/|d/!tie2)!BAe/|d3/d/c/B/|
+V:2
+x3|x3|g/BAG/-|G2A|!tie(!B/DEA/|!tie2(!B/DEA/|B/D/E2-|
+V:3 bass
+B,A,C|B,CE|DCB,|=B,CE|F,_G,C|F,_G,C|B,=G,/B,/A,/G,/-|
+V:4
+G,3|G,3|G,3|E,2F,|B,,3|B,,3|B,,C,2|
+V:1
+A3|d/G^Fe/|d/GA^f/|g/B=B_a/-af/d/B/_A/|\
+	G/ED_A/|G/ED_c/|B/EFG/|
+V:2
+E/EDC/|B,x2|x3|x3/=B3/-|_c/_B/x2|x3|x3|x3|
+V:3
+G,^F,=E,/F,/|G,A,C|B,CE|DDE|Fxx|B,F,_E,|\
+		%? &x/_A,2x/
+		B,F,_A,|G,3|
+V:4
+D,3|G,,G,2-|G,G,2-|G,F,E,|D,zz|E,3|E,3|E,D,_D,|
+V:1
+=E/_dcB/|_A/CGF/|E/_A,DC/|=B,/G,^F,E/|D/G,=A,^F/|\
+		G/=B,_A3/-|A2G/F/|E/edc/-|c/BAG/|
+V:2
+=E3|z/C/-C2|z/_A,/-A,2|x3|x3|z/=B,/-B,3/C/-|C/DE/- E/D/|E3|x3|
+V:3
+B,_A,G,|F,E,D,|G,F,E,|D,=A,,C,|=B,,C,E,|D,=F,E,|D,C,G,-|G,B,=A,|DCB,|
+V:4
+C,3|F,,3-|F,,3|G,,3-|G,,3|G,,3-|G,,2=B,,|C,3|=A,,3|
+V:1
+^F/d^cg/|^f/!tie)!d=B=f/|=e/!tie2)!cA_e/|d3/^c=c/|\
+	BcA|Bce|d^fg-|g/=B/c/d/e/f/|
+V:2
+^F3/G^c/|!tie(!d/^F=F=B/|!tie2(!c/=E_EA/-|A/G-G^F/|GAC|\
+	G^Fc|BcB|G2=A|
+V:3
+A,B,E|D_A,D|C^F,C|B,=E_E|D/G,^F,E/|\
+	D/G,A,^F/|G3/D3/-|D/F/E/D/C|
+V:4
+D,3-|D,3|D,3-|D,3G,,3|G,,3|G,/B,A,G,/|E,2F,|
+V:1
+dec|dec|B3/B/A/=G/|^F3/GA/|d/_A2c/|=B3/cg/|f3/ed/|_a3/gf/|e3/dc/|
+V:2
+Bc_G|Fc_G|z/F/E2|^F/D^C=C/|=B,/FE_A/-|\
+	A/GAc/-|c/=B/-B2|_a/=B/-B2|e/G/-G2|
+V:3
+D/B,A,E/|D/B,A,E/|D3/D/C/B,/|A,2D,-|D,CE|DE_A-|AGF-|FED|CDE|
+V:4
+B,,3/_G,A,/|B,,3/_G,A,/|B,,C,2|D,=E,^F,,|G,,G,2-|G,G,2-|G,3|G,3|C,B,,A,,|
+V:1
+c3/BA/|G3-|G^F2|G/G,^F,E/|D/G,A,^F/|G/B,^Fc/|\
+	B/!tie)!G^Fe/-|ed^f|Hg3|]
+V:2
+G/CDE/-|E/E/D/^C/=C/B,/|A,/EDC/|B,x2|x3|x3/C^F/|!tie(!G/B,C^F/-|FGc|B3|]
+V:3
+F,3|G,/C/B,/A,/- A,/G,/-|G,D,2|G,,A,,C,|B,,C,E,|D,E,A,|G,A,C-|CB,[EA]|[DG]3|]
+V:4
+E,D,C,|D,2_E,/D,/|C,D,2|G,,3-|G,,3|G,,3-|G,,G,,2|G,3-|G,3|]
+
+X:1-2
+T:Fuga I
+Q:"Allegro vivace"
+M:3/4
+L:1/16
+%%staves {(1 2) 3}
+K:Gm
+%%writefields Q 0
+Q:1/4=80
+V:1 treble
+z12|z12|z12|z12|
+V:2
+z12|z12|z12|G4zGBA G=F=ED|
+V:3 bass
+D4zDED CB,A,G,|^F,4zA,DC B,A,G,=F,|\
+	E,G,CB, A,B,G,A, ^F,A,DC|B,CA,B, G,2^F,2G,2B,2|
+V:1
+z12|z12|d4zd_ed cBAG|^F4zAdc BAG=F|
+V:2
+^C4z=EAG FED=C|B,DGF =EFDE ^CEAG|\
+	FG=EFD6=E2|D_EA,B, C2^F2G2B,2|
+V:3
+A,B,=E,F, G,2^C,2D,2F,2|G,6^G,2A,4-|A,2G,2F,2^F,2G,2^C,2|D,8G,,4|
+V:1
+EGcB ABGA ^FAd=c|BcAB G_AFG EFDE|\
+	CEDC B,BA^F GED^C|D4zded ^cAd=c|
+V:2
+C6^C2D4-|D2=C2B,2=B,2C2_B,2|C,2z2z4z4|z12|
+V:3
+C,6A,,2D,4-|D,2B,,2E,6=E,2|\
+	D,2^F,2 G,DCA, B,2G,2-|G,^F,A,G, F,2D,2=E,2F,2|
+V:1
+B6=B2c2e2|g6=B2c2e2|f6d2g4-|g_afg e2z2z4|z12|
+V:2
+G4zG_AG FEDC|=B,4zDGF EDC_B,|_A,CFE DECD =B,DG=F|
+	EFDE C2zc edcB|ABGA ^F2zA dcBA|
+V:3
+G,2D,2E,2G,2_A,2F,2|G,_A,F,G,E,4_A,4|D,4F,2^F,2G,4|\
+	C4zCED CB,A,G,|^F,4zA,DC B,A,G,=F,|
+V:1
+z12|G4zGBA GF=ED|^C4z=EAG FED=C|B,DGF =EFDE ^CEA=G|
+V:2
+GFED C2^C2D4-|DECD B,2DC [I:staff +1]B,A,G,B,|\
+	A,B,=E,F, G,2^C2D2 B,A,|G,2B,A, G,2^G,2 A,2=B,^C|
+V:3
+_E,G,CB, A,B,G,A, ^F,A,D=C|B,CA,B,G,4G,,4|A,,4z4z4|z12|
+V:1
+FG=EF DAdc BG_ed|c4fgef decd|B2z2z4z4|z12|z12|
+V:2
+[I:staff -1]D2=E2F2^F2 G2cB|ABGAB4FGEF|\
+	DFGF EDCB, A,B,CD|EFDE C3A, B,CDE|FGEF G=B,DC ECG,A,|
+V:3
+z4z4z2E=E|F2_EF D2G,2F,4|B,,4zB,,A,,B,, C,D,E,F,|\
+	G,4zE,B,,C, D,E,F,G,|A,F,C,D, E,D,F,E, G,E,_B,,C,|
+%
+V:1
+F4zF=EF GABc|d4zBFG ABcd|ecGA BAcB dBGA|
+V:2
+B,A,CB, D2z2z4|z12|z12|
+V:3
+D,C,E,D, F,F,G,F, =E,F,G,A,|B,A,CB, D3B, F,G,A,B,|\
+	CDEC DCED B,G,E,F,|
+V:1
+BAcB dDCD EFGA|Bdfe g3A Bcde|fdAB cBdc ecGA|
+V:2
+B,4zB,A,B, CDEF|G4zEB,C DEFG|AFCD EDFE GEB,C|
+V:3
+D,E,C,D,B,,4B,4|B,4E,4C,4|F,8F,4|
+V:1
+BAcB dB^FG ABGA|^FD^CD G_A=FG Eed=B|c2g2- ggfef4-|
+V:2
+DCED FDA,B, CDB,C|A,4=B,4=C2_A2|G4_A2c2 =BG=AB|
+V:3
+B,,6E,4C,2|D,4G,,6F2-|FEDC D2_A,2G,4|
+V:1
+f2ede4-e_dc=B|c4-c2G2_A4|F_ADE Fzz2z4|
+V:2
+c2E4_A2-A2G2-|GG_AG F2E2 DECD|=B,4zG_AG FEDC|
+V:3
+CG,A,=B, CC_DC _B,2E,2|_A,4-A,B,G,A, F,2F,,2|G,,6=B,,2C,2^F,2|
+V:1
+z12|z12|c4zced cBAG|
+V:2
+=B,4zDGF EDC_B,|_A,CFE DECD =B,DG=F|EFDE C3D EDCE|
+V:3
+A,2_A,2 =B,,2=A,,B,, C,2E,2|F,2_A,G, F,2^F,2 G,2=A,=B,|C2=F,G,E,4C,4|
+%
+V:1
+^F4zAdc BAG=F|EGcB ABGA ^FAd=c|B2G2^F2G2A4-|
+V:2
+DEA,_B, C2A2 GCB,=B,|C2A,B, C2^C2 D2=E^F|G2B,D _EDCB, A,EA,B,|
+V:3
+D,6^F,2 G,2G,,2|C,6A,,2D,4|zD,E,D, C,B,,A,,G,,^F,,4|
+V:1
+A2A2 dcBAG4-|G2B2A6e2|d4-dcBAG4-|
+V:2
+C2^FED6G,2|C6A,2 DEC^F|GDG=F EEDCB,4-|
+V:3
+zA,,D,C, B,,A,,G,,=F,, E,,G,,C,B,,|\
+	A,,B,,G,,A,, ^F,,A,,D,C, B,,C,A,,2|B,,4C,A,,B,,C, D,E,B,,C,|
+V:1
+G3d edcB AG=FE|Ddg=f edcB =A2^F2|
+V:2
+B,DED CB,^FG ED_A,G,|B,2B,=B, CB^FG =E_EDC|
+V:3
+D,4-D,D,E,D, C,B,,=B,,C,|D,4-D,DED ^C=C_B,A,|
+V:1
+G4z4z2B2-|B2A2z4z2^f2|
+V:2
+B,4zGBA G=FED|CEcB ABGA ^FAdc|
+V:3
+G,G,,D,^F, G,B,DC B,A,G,E,|=A,,2E,2 CDB,C A,2D,2|
+V:1
+gg=fg eede cc_Bc|A2G2^F2E2 D2c2|B2G2 [A,EG]2z2 [A,D^F]2z2|H[B,DG]12|]
+V:2
+B2A2 GGFG EGFG|E2D2C2B,C A,2A2|G2B,2x4x4|x12|]
+V:3
+E,6=B,2 CEDE|CC,B,,C, A,,A,G,A, ^F,D,=E,F,|G,=F,_E,D, C,2z2 D,2z2|G,,12|]
+
+X:2-1
+T:Praeludium II
+Q:"Allegretto"
+M:3/4
+L:1/4
+%%staves {(1 2) 3}
+% %linebreak $
+K:Bb
+%%writefields Q 0
+Q:1/4=90
+V:1 treble
+(f2g-|g2f)|(e2-e/f/|e2d)|(e^cd)|
+V:2
+z[FBd]/z/_d|c3|zB[Fc]-|[Fc][Fc][FB]|B2A|
+V:3 bass
+L:1/8
+(.B,,.F,.B,.D.=E.B,)|(.A,,.F,.A,.C.F.A)|\
+	(.G,,.E,.B,.E)(.A,,.[F,C])|(.B,,.F,.G,.A,.B,.A,)|\
+	(.G,.E._E.G, .^F,.D-|
+V:1
+(=Bg3/f/)|(fe/d/g|BAG/F/)|!arpeggio!f2[Gg]-|\
+	[Gg][Ff][Gg]/[Aa]/|!>!bed/^c/|
+V:2
+_AG2-|G2c/_B/|F2E|D/z/ [FBd]/z/[_d=e]|c3|B2-B/B/-|
+V:3
+D2E,G,=A,=B,&D=F,E,2D,2|x4ED&C,=B,CDE,2|\
+	DF,CF,B,A,|[B,,,B,,] D,F,B,_D=E|\
+	[A,,,A,,] C,F,A,CF|G,,B,,E,G,B,=E|
+V:1
+^c2d|f=e>d|f=e>d|dG/A/B/c/|B2A|_AA>B|
+V:2
+BA2|B2A|D=EF|=E3/F/D/E/|z[CG][CF]|DD2|
+V:3
+F,,D,F,A,DF|G,,D,B,D [A,,F,]D|B,,F,G,B,,=B,,_A,|\
+	=G,C,B,A,G,C,|F,,C,D,=E,F,F,,|F,C_CE,D,B,|
+V:1
+_A2G|cc>d|c2=B|e2d-|dcB|AA>G|
+V:2
+F2G|G^F=F|[EG]>^FG|zG2-|G2G|G2=E|
+V:3
+E,B,CDEB,|=A,EDA,_A,_A,,|G,,G,CE DG,|\
+	C,G,=A,C, B,D,|E,B,CE, DD,|C,E =E^C,A,B,|
+V:1
+[^Fd]3|=e2^f|g2^f|=e2-e/^f/|=e2d|_e2d-|
+V:2
+D3|z[G^c][Ac-]|[B^c][Bc][Ac-]|[G^c][^Gd][=GA]-|\
+	[GA][GA]^F|z[_GA]2|
+V:3
+A,D,,A,,D, ^F,A,|B,D,B,=E A,D,|G,D,G,=E A,D,|\
+	B,D,=B,D,^CD,|D,,D, =B,^CDA,|=C,A,EC, D,D|
+%
+V:1
+dcB-|BAG-|GF2|f2g-|g2f|e2e/f/|
+V:2
+_G2F|E3|[CE]2B,/C/|z[FBd]/z/_d|c3|zB[Fc]-|
+V:3
+_E,A,CE, D,B,|C,F,^F,C,B,,G,|A,,C,A,F,,G,,A,,|\
+	.B,,.F,.B,.D.=E.B,|.A,,.F,.A,.C.F.A|\
+	G,,E,B,E A,,[F,C]|
+V:1
+e2d|e^cd|=Bg>f|fe/d/g|BAG/F/|!arpeggio!f2[Gg]-|
+V:2
+[Fc][Fc][FB]|B2A|_AG2-|G2c/_B/|F2E|D/z/ [FBd]/z/[_d=e]|
+V:3
+B,,F,G,A,B,A,|G,E=EG,^F,D-|D=F,E,G, A,=B,&x4D,2|\
+	C,=B,CD ED&x4E,2|\
+	DF,CF, B,A,|[B,,,B,,]D, F,B,_D=E|
+V:1
+[Gg][Ff]g/a/|b/g/ed/>^c/|^cde/=f/|gcB/>=A/|f/d/B>c|de>A|
+V:2
+c2G/A/|B3-|BA_A|G2_G|F2=E/_E/|DA>E|
+V:3
+[A,,,A,,]C, F,A,CF|G,,B,,E,G, B,=E|\
+	^F,,^F, A,D=B,=F,|=E,,C,=E,G, C_E,|\
+	D,,D, F,B,-B,2&x4 G,_G,|F,,F, CF,FF,|
+V:1
+B2-B/d/|c2d|_e2f|g2a|b3/f/e/d/|fed-|
+V:2
+D2z|z[=EB]/z/ [FB]/z/|z[GB]/z/ [FB]/z/|\
+	z[G_d=e][A_ef]|z[Bd]2|zA[FB]|
+V:3
+B,,F,B,D Fz|G,B,C=E F,z|_E,B,EG D,z|\
+	_D,G,B,=E C,[F,_E]|B,,F,B,D Fz|C,B,A,E DD,&C,4D,2|
+V:1
+dcB-|Bc>=d|[DB]z[df]|[Bd]/z/zz|z3|[DF]3|[B,D]3|]
+V:2
+G2F|=E_E2|x3|x3|x3|x3|x3|]
+V:3
+E,=B,CG DF,&E,4F,2|_D2B,2A,2&G,2_G,2F,,2|\
+	B,,F,B,DFA[K:treble]|B^cd=efa|b2z2z2[K:bass]|\
+	B,6&F,6|F,6&B,,6|]
+
+X:2-2
+T:Fuga II
+Q:"Andante"
+M:3/4
+L:1/4
+%%staves {(1 2) (3 4)}
+K:Bb
+%%writefields Q 0
+Q:1/4=72
+V:1 treble
+Z6|
+V:2
+Z6|
+V:3 bass
+Z3|zF,B,|A,D=B,-|B,/C/ G,/A,/_B,/C/|
+V:4
+zB,,E,|D,G,=E,-|E,/F,/ C,/D,/_E,/F,/|\
+	E,/D,/-D,/C,/D,/=E,/|F,/=E,/F,/_A,/G,/F,/|=E,3/F,/D,/E,/|
+V:1
+Z3zFB|Ad=B-|B/c/ G/A/_B/c/|
+V:2
+zB,E|DG=E-|E/F/ C/D/_E/F/|E/D/- D/C/D/=E/|\
+	F/=E/F/_A/G/F/|=E3/F/D/E/|
+V:3
+B,/A,//G,//F,B,/C/|F,D/_D/C-|C3/B,C/|B,2B,|\
+	C_A,/F/=E/D/|C_B,/A,/ G,/C,/|
+V:4
+F,/>_E,/ D,/B,,/G,,/A,,/|B,,/F,/B,>B,|\
+	A,3/B,/G,/A,/|B,A,G,|F,2G,|C,3|
+V:1
+B/A/ d/=e/f/g/|f=e>e|fzz|z3|z3|
+V:2
+F-F/B/A/G/-|G/d/ c/B//A// B/A//G//|FFB|Ad=B-|B/c/ G/A/_B/c/|
+V:3
+F,B,C/D/|C2D/C//B,//|A/F//=E// F/E/D/E/|F2G/F/|=E_E/DC/-|
+V:4
+D,B,/G,/A,/B,/|CC,2|F,D,G,|D/C/B,/_A,/G,|C3/^F,/G,/=E,/|
+V:1
+zcf|=ea^f-|f/g/ =e/=f/g/a/|g/f/cd-|d/^c/f>f-|f/=e/_e>e|
+V:2
+B/A/_A2|G=A=B/A/|Gc/=B/_B|A3/A/G/^G/|A>A_A|G2-G/G/-|
+V:3
+C2D-|D/C/ C/A,/D/C/|=B,C2-|CA,D|=EFD-|D/C/-C>C-|
+V:4
+F,3/C,/=B,,/=B,/-|B,/C/F,D,|G,C,/D,/=E,/C,/|\
+	F,F,B,|A,D=B,-|B,/C/ G,/A,/_B,/C/|
+V:1
+ed/c/B/A/|G3|A2d-|d/^c/zz|z3|z3|
+V:2
+G/F/ B/A/G/_E/|D/^C/ D/F/=E/D/|^C/D/ G/F/=E/D/|\
+	=EA,D|^CFD-|D/=E/ =B/^C/D/E/|
+V:3
+CB,/_E/D/C/|B,D,G,|F,B,^G,-|G,/A,/ =E,/=F,/=G,/A,/|\
+	G,/F,//=E,// D,/A,/B,/A,/|^G,3/A,/^F,/G,/|
+V:4
+B,/A,/B,B,,|B,,3|A,,3-|A,,zz|z3|z3|
+%
+V:1
+zDG|FB^G-|G/A/ =E/^G/=G/A/-|A/G/d>c-|c/=B/g>f|
+V:2
+^C/A,/D=E-|E/DF/=E/D/|^C=CD/_E/|D3/D/=E/^F/|G3/G/A/=B/|
+V:3
+A,/=G,/ =F,/D,^C,/|D,3/D/^C/=B,/|A,D,/A,/_B,/C/|\
+	B,3/B,/=A,/D,/|G,=ED/G,/|
+V:4
+Z5|
+V:1
+f/=e/c>_B-|B/A/f>_e-|e/d/ d/c/ B/c/|d>dg-|gf>f|
+V:2
+c3/C/D/=E/|F3/F/G/A/-|A/B/ F/^F/G-|G/^F/ G/d/c/B/|_A2-A/A/-|
+V:3
+CA,G,/C,/|F,DC/F,/|B,2G,/A,/|B,/A,/B,C-|CC>F,|
+V:4
+z3|z3|zB,,E,|D,G,_E,-|E,/F,/ C,/D,/_E,/F,/|
+V:1
+B2c-|c/=B/e>e-|e/e/d>d-|d/d/c>c-|c/=B/_B>B-|
+V:2
+A3/G/F/^F/|G>G_G|F2-F/F/|E>ED-|DD>D|
+V:3
+B,E,_A,|G,C=A,-|A,/B,/ F,/G,/A,/B,/|\
+	G,/B,/ A,/G,/ ^F,/D,/|G,/G,/ D,/=E,/^F,/G,/|
+V:4
+E,/D,/E,z|Z4|
+V:1
+B/B/=A>_A-|A/G/Be|dge-|e/f/ c/d/_e/f/|e/d/gc|
+V:2
+_Dz/C/_C|B,3/EF/-|F/_A/ G/=B/c/G/|F2B/c/|FG/B/A/G/|
+V:3
+=F,/=E,/ F,/_E,=D,/|E,2G,/=A,/|\
+	B,3/D/C/_B,/|A,-A,/B,/G,/A,/|B,2C/A,/|
+V:4
+z3|zG,,C,|B,,E,C,|F,3|B,E,2|
+V:1
+fBe|dcA|B/_A/G/F/G/=A/|B/A/B/c/d/e/-|edc|Hd3|]
+V:2
+F/G//A// G/F/E/A/|B3/G/F/E/|DEG|FEA|B3-|B3|]
+V:3
+B,E,>_G|F/B,E/D/C/|B,/z/B,E|DG_G|F2E|F3|]
+V:4
+D,2C,|D,E,F,|B,,3-|B,,3|B,,3-|B,,3|]
+
+X:3-1
+T:Praeludium III
+Q:"Andante"
+M:C
+L:1/4
+%%staves {(1 2) (3 4)}
+K:Dm
+%%writefields Q 0
+Q:1/4=88
+V:1 treble
+A2d2-|d^cfe|de/f/gf|edcB/A/|G2B2-|
+V:2
+F4|G4|F2d2|B2AG/F/|E2G2-|
+V:3 bass
+A,4|B,4|A,2D2-|DEFD|E2E,2|
+V:4
+D,4-|D,4-|D,2B,A,|G,2A,B,|CC,-C,2-|
+V:1
+BAdc|B3A/G/|FE/D/^C2|A2d2-|d^cfe|
+V:2
+GF3-|F2=E2|DB,2A,/G,/|F,2F2|G4|
+V:3
+F,2B,A,|G,A,/B,/CB,|A,G,/F,/E,2|D,2A,2|B,4|
+V:4
+C,4-|C,3^C,|D,G,,A,,2|D,,2D,2-|D,4-|
+V:1
+de/f/gf|ef/g/ag|f2ef/e/|d2cd/c/|B4-|
+V:2
+F2d2-|dc/B/A2-|AB2A-|AG2F-|F2EF|
+V:3
+A,2D_A|G2E2|D2E2|F=E2C-|C_D3-|
+V:4
+D,2B,=B,|C2^C=B,/C/|D2^C=C|=B,_B,A,2|G,2_G,F,|
+V:1
+B3c/B/|A2c2-|c!tie(!Bgf|=e3f|g3a/g/|f2_ef/e/|
+V:2
+G4|FCFE|D2!tie)!B2-|B4-|Bc_d2-|dc2B-|
+V:3
+D_DC2|F,2A,2|B,2D2-|D_DGF&x_D3|E4&_DCB,2|zFB,C&A,2x2|
+V:4
+=E,3=D,/E,/|F,2F,,2|F,4|F,4-|F,4-|F,2G,2-|
+V:1
+d3c|B2d2-|d!tie(!cag|^f3g|a3b/a/|
+V:2
+BA^FG/A/|GDGF|_E2!tie)!c2-|c4-|cd_e2-|
+V:3
+D3D|G,2B,2|C2_E2-|E_EAG&x_E3|^F4-&_EDC2|
+V:4
+G,^F,D,E,/F,/|G,,4|G,4|G,4-|G,4|
+%
+V:1
+g2f2|_e3f/e/|d3=e/f/|g2c2-|c3d/e/|
+V:2
+ed2d-|dBcF-|FcBA|G3G|F[EB][FA]G|
+V:3
+FG2A|BA/G/FC|B,AGF|EDC2-|C3G,|
+V:4
+B,2A,2|G,2A,2|B,4-|B,3B,|A,G,F,E,|
+V:1
+f2ed|^c2A_B/=c/|d2FG/A/|B4-|B3A-|
+V:2
+FG/A/B=B|A2AG|FEDC|B,B,ED-|D2^C2|
+V:3
+A,G,/F,/G,F,|E,A,FE|DCB,A,|G,D,^C,F,|E,4|
+V:4
+D,2G,,^G,,|A,,A,3-|A,4|A,,4-|A,,2A,,2|
+V:1
+A2d2-|d^cfe|de/f/gf|edcB/A/|G2B2-|BAdc|
+V:2
+D2F2|G4|F2d2|B2AG/F/|E2G2-|GF3-|
+V:3
+F,2A,2|B,4|A,2D2-|DEFD|E2E,2|F,2B,A,|
+V:4
+D,,2D,2-|D,4-|D,2B,A,|G,2A,B,|CC,-C,2-|C,4-|
+V:1
+B3A/G/|FE/D/^C2|A2c2-|cB=ed|^c3d|
+V:2
+F2=E2|DB,2A,/G,/|F,2_E2|D2G2-|GG3-|
+V:3
+G,A,/B,/CB,|A,G,/F,/E,2|D,2^F,2|G,2B,2-|B,B,ED&xB,3-|
+V:4
+C,3^C,|D,G,,A,,2|D,,4|D,4-|D,4-|
+V:1
+e3f/e/|d2A2|A2GF|E2ED|H^C4|]
+V:2
+GAB2|A2A2|D3D|D2B,2|A,4|]
+V:3
+^C4&B,A,G,2|DA,DC|B,D,B,A,|G,B,,G,F,|E,4|]
+V:4
+D,4|F,2^F,2|[G,,,G,,]4-|[G,,,G,,]4|[A,,,A,,]4|]
+
+X:3-2
+T:Fuga III
+Q:"Andante con moto"
+M:C
+L:1/4
+%%staves {(1 2) (3 4)}
+K:Dm
+%%writefields Q 0
+Q:1/4=88
+V:1 treble
+z4|z4|z4|z4|A2c2-|c=Bed|^cd/e/fe|
+V:2
+!p!D2F2-|FEAG|^FG/A/BA|^Gd^c=G|^F=FEF/E/|D=B/A/^G^F/G/|AF/E/D=C|
+V:3 bass
+z4|z4|z4|z4|z4|z4|z4|
+V:4
+z4|z4|z4|z4|z4|z4|z4|
+V:1
+^da^g=d-|d=g2f/e/|f2d2-|d2^c=B/c/|d3e/=f/|e3f/=g/|a2e2|
+V:2
+=B,2E2|_B2A=B/^c/|dA_BA|G2EA-|A_B/A/Gc|=B2_B2|A2e2-|
+V:3
+z4|z4|z4|z4|z4|z4|A,2C2-|
+V:4
+z4|z4|D,2F,2-|F,E,A,G,|^F,G,/A,/B,A,|^G,D^C=G,|^F,=F,E,A,|
+V:1
+f2e2-|ed2c|=B3c/B/|A=B/c/dc|=Bf2e|A2c2-|c=Bed|^cd/e/fe|
+V:2
+ed/c/=BE|A3A|A2=D^G|A2FE|FA^G2|A2z2|z4|z4|
+V:3
+C=B,ED|^CD/E/FE|^DA^G=D|CA,^G,A,|DC=B,2|CA,FE|D2=B,2|_B,2A,=B,/^C/|
+V:4
+D,=B,/A,/^G,2|=G,F,/E,/D,E,|^F,2E,2|F,2=B,,C,|D,2E,2|A,4-|A,2^G,2|=G,4|
+V:1
+da^gd|^c3d/e/|f2d2-|d2^c2|d4-|d2ed/e/|f2^fe/f/|g3^f/^g/|
+V:2
+z4|z4|D2F2-|FEA=G|^FG/A/BA|^Gd^c=G|FA_BA-|AGc=B|
+V:3
+DA,=B,F|E_B,A,G|F2z2|z4|z4|z4|A,2C2-|C=B,ED|
+V:4
+F,2E,2-|E,2A,=B,/^C/|DF,_B,A,|^G,2A,2|D,E,/^F,/G,=F,|E,=B,_B,A,|D,2z2|z4|
+V:1
+a2de|f2e2|_e2de/d/|cd/_e/dc|B3f|edcB|Azc2-|cB2A/G/|
+V:2
+A=B/^c/d=c|=B3_B-|BA2G-|G2^F2|GAG2-|GD/E/FE|FCFE|DG/F/=E2|
+V:3
+^CD/E/FE|DAG^C|=C2B,2|A,B,/C/B,A,|G,F=ED|CB,A,G,|F,2zC,|D,2C,2|
+V:4
+z4|z4|z4|z4|z4|z4|F,,2A,,2-|A,,G,,C,B,,|
+%
+V:1
+c2BA|d2G2|c2z2|z4|z4|z4|z4|
+V:2
+F2^F2|=FD2E/D/|C2E2-|EDGF|EF/G/AG|^Fc=BG/F/|E_BA>G|
+V:3
+C3E,/^F,/|G,3C,-|C,F,G,F,/E,/|A,_A,G,=A,/=B,/|C=B,A,B,/^C/|D3E/D/|^C2A,=B,/C/|
+V:4
+A,,B,,/C,/D,C,|=B,,=F,D,_B,,|A,,2G,,2|F,,F,E,D,|C,D,/E,/F,E,|D,_A,G,2-|G,G,=F,E,|
+V:1
+F2A2-|AG=cB|AB/c/dc|_BfeB|a2de/f/|g3a/g/|f2Bc/d/|
+V:2
+FE/D/C^C|DG/F/EG-|GFBA|D2B2|A2B2-|BBA2-|AFGF|
+V:3
+DzF,2-|F,B,/A,/G,E,|D,F,^F,E,/F,/|G,D^C2|D=CB,2|^CDE2|DA,G,B,|
+V:4
+D,C,/B,,/A,,2|B,,2C,^C,|D,4|G,,2G,2|F,2G,F,|E,D,^C,2|D,2_E,D,|
+V:1
+_e3f/e/|dcBA|G2d2-|d4-|d2^cz|z4|z2A2|d4-|
+V:2
+_G2F2-|F_ED2-|D^C/D/F=E/D/|FD^GA/=B/|A3z|D2F2-|FEA=G|^FG/A/BA|
+V:3
+A,B,C2|B,^F,G,C|B,4|D,2F,2-|F,E,A,G,|F,G,/A,/B,A,|^G,D^C^C,|D,=E,/^F,/G,=F,|
+V:4
+C,B,,A,,2|B,,4-|B,,4|A,,4-|A,,4-|A,,4-|A,,4-|A,,4-|
+V:1
+ddfe|de/f/gf-|f3f|e2A2-|A2d2-|d3^c|d2z2|z4|
+V:2
+^Gd^c=G|F2d2|A^G3|=G2AG|FG/A/BA|GFE2|F2z2|^C2E2-|
+V:3
+E,B,A,^C,|D,2F,2|=B,3B,|_B,2A,=B,/^C/|D2B,2-|B,A,3|D,2F,2-|F,E,A,G,|
+V:4
+A,,4-|A,,4-|A,,2D,2-|D,^C,F,E,|D,E,/F,/G,F,|E,F,/G,/A,A,,|D,,4-|D,,4-|
+V:1
+z4|z4|d2f2-|fea_e|d=e/^f/g^c|dABA|A4-|A2G2|H^F4|]
+V:2
+EDGF|EF/G/AG|F=c_BF|A2^F2-|FGD=E|FE/D/^C2|D2D2-|D2^C2|D4|]
+V:3
+F,G,/A,/B,A,|G,D^C=B,/C/|D4|^C2=C2|=B,2_B,2|A,G,/F,/E,G,|\
+	F,2[^F,C]2|[G,=B,]2[=E,_B,]2|[^F,A,]4|]
+V:4
+D,,4-|D,,4-|D,,4-|D,,4-|D,,4-|D,,4-|D,,4-|D,,4-|HD,,4|]

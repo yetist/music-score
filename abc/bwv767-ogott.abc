@@ -1,0 +1,661 @@
+I:linebreak $
+
+X:1
+T:O Gott, du frommer Gott
+T:BWV 767
+T:Partita IX
+C:J.S. Bach
+M:C
+L:1/8
+%%measurenb 1
+%%dynalign -1
+V:f.1 treble
+%%voicecombine 3
+%%MIDI program 1 75	% Pan Flute
+V:p.1 treble
+%%voicecombine 3
+V:f.3 bass
+V:p.3 bass
+Q:1/4=60
+K:Cm
+%%staves {(f.1 f.2 p.1 p.2) (f.3 p.3)}
+V:f.1
+%%MIDI program 1 75	% Pan Flute
+x|:!f!z2z/d/g/f/ e3/d/c2|
+V:f.2
+%%MIDI channel 1
+%%pos stem down
+G|:c2=B2c2x2|
+V:f.3
+%%MIDI channel 1
+z|:zE/F/ GG, CC,z2|
+V:p.1
+%%MIDI program 2 78	% Whistle
+%%pos stem up
+%%pos vol above
+x|:x8|
+V:p.2
+%%MIDI channel 2
+x|:x6[I:staff +1]z!p!G,|[I:staff -1]
+V:p.3
+%%MIDI channel 2
+%%pos vol above
+x|:x8|
+% 2
+V:f.1
+x6x!f!d|
+V:f.2
+x6x=B|
+V:f.3
+x8|
+V:p.1
+z2z/D/G/F/ E3/D/C x|
+V:p.2
+[I:pos vol above]!p!C2=B,2C2zx|
+V:p.3
+z!p!E,/F,/ G,G,, C,C,,z2|
+% 3
+V:f.1
+e2x4z/!f!d/g/f/|
+V:f.2
+c2x4z=B|
+V:f.3
+z[I:staff -1][I:pos stem down]!f!E/F/ G[I:staff +1][I:pos stem up]G, x4|
+V:p.1
+x2z!p!DE2x2|
+V:p.2
+x2z=B,C2x2|
+V:p.3
+x4z!p!E,/F,/ G,G,,|
+% 4
+V:f.1
+eafb g3/f/e2|
+V:f.2
+!f!c2d2e2z2|
+V:f.3
+zC/A,/ B,B,, E,E,, x2|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x6 z/!p!G,/A,/B,/|
+% 5
+V:f.1
+x6x!f!f|
+V:f.2
+x6xd|
+V:f.3
+x8|
+V:p.1
+z!p!AFB G3/F/E x|
+V:p.2
+zE2D E2zx|
+V:p.3
+C3/A,/ B,B,, E,E,,z2|
+% 6
+V:f.1
+g2x4z!f!B|
+V:f.2
+e2x4z[B,D]|
+V:f.3
+[I:staff -1][I:pos stem down]!f!zG/A/ B[I:staff +1][I:pos stem up]B, x4|
+V:p.1
+x2z!p!FG2x2|
+V:p.2
+x2zDE2x2|
+V:p.3
+x4z!p!G,/A,/ B,B,,|
+% 7
+V:f.1
+E3/F/ D3/E/E2ze|
+V:f.2
+C2B,2B,2zc|
+V:f.3
+!@-5,4f!G,A,F,A,G,2z2 & [I:pos stem down]C,A,,B,,2E,,2z2|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 8
+V:f.1
+f2e2d2c2|
+V:f.2
+d2c2[G=B]2[E=A]2|
+V:f.3
+[I:staff -1]z/=B/=A/G/ z/E/D/C/ [I:staff +1]z/=B,/=A,/G,/ C/E,/D,/C,/|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 9
+V:f.1
+=B3/=A/ G/ x4 !f!B/A/c/|
+V:f.2
+Gzz2z4|
+V:f.3
+D3/C/ =B, x4 !f!C & G,G,,z2z4|
+V:p.1
+x2x/!p!=B/=A/c/ B3/A/ G/x3/|
+V:p.2
+x8|
+V:p.3
+x3!p!C D3/C/ B,x|
+% 10
+V:f.1
+[1=B/d/c/e/ d/e/c/d/ B3/=A/ G G:|
+V:f.2
+[1z8:|
+V:f.3
+[1DEFE D3/C/ =B,z:|
+V:p.1
+[1x8:|
+V:p.2
+[1x8:|
+V:p.3
+[1x8:|
+% 10
+V:f.1
+[2=B/d/c/e/ d/e/c/d/ B3/=A/ G/F/E/F/!rbstop!|
+V:f.2
+[2z8|
+V:f.3
+[2DEFE D3/C/ =B,z|
+V:p.1
+[2x8|
+V:p.2
+[2x8|
+V:p.3
+[2x8|
+% 11
+V:f.1
+G2z/F/_B/F/ G2x2|
+V:f.2
+E2z/DD/ E2x2|
+V:f.3
+z/E,/G,/E,/ _B,_B,, x4|
+V:p.1
+x6!p!z/F/B/F/|
+V:p.2
+x6z/DD/|
+V:p.3
+x4 !p!z/E,/G,/E,/ B,B,,|
+% 12
+V:f.1
+x2!f!z/G/c/G/ =A2x2|
+V:f.2
+x2z/=EE/ F2x2|
+V:f.3
+!f!z/E,/G,/E,/ CC, x4|
+V:p.1
+G2x4!p!z/G/c/G/|
+V:p.2
+E2x4z/=EE/|
+V:p.3
+x4z/!p!F,/=A,/F,/ CC,|
+% 13
+V:f.1
+x2!f!z/c/f/c/ d2x2|
+V:f.2
+x2z/=AA/B2x2|
+V:f.3
+z/!f!F,/=A,/F,/ FF, x4|
+V:p.1
+=A2x4!p!z/c/f/c/|
+V:p.2
+F2x4z/AA/|
+V:p.3
+x4!p!z/B,/D/B,/ FF,|
+% 14
+V:f.1
+x2!f!z/f/b/f/ ge/d/ c3/B/|
+V:f.2
+x2z/dd/ eB B=A|
+V:f.3
+[K:treble]z/!f!B,/D/B,/ BB, z/E/G/E/ FF,|
+V:p.1
+d2x6|
+V:p.2
+B2x6|
+V:p.3
+x8|
+% 15
+V:f.1
+%%voicecombine 1
+Bz x6|
+V:f.2
+Bz x6|
+V:f.3
+[K:bass]x8|
+V:p.1
+%%voicecombine 1
+x2 z/!p!F/B/F/ GE/D/ C3/B,/|
+V:p.2
+x2 z/DD/ EB,2=A,|
+V:p.3
+z/!p!B,,/D,/B,,/ B,B,, z/E,/G,/E,/ F,F,,|
+% 16
+V:f.1
+x !f!F/G/ _A3/B/G x3|
+V:f.2
+x DEFE x3|
+V:f.3
+x !f!B,CDE x3|
+V:p.1
+B, x4 !p!B/c/ _d3/e/|
+V:p.2
+B, x4[I:staff +1]!p!G,_A,B,|
+V:p.3
+B,, x4E,F,G,|
+% 17
+V:f.1
+x4x !f!f/g/ a3/b/|
+V:f.2
+x4x [I:staff +1][I:pos stem up]!f!DEF|
+V:f.3
+x4x [K:treble][I:pos stem down]B,CD|
+V:p.1
+c2-c/B/A/G/ F x3|
+V:p.2
+A,A,B,CD x3|
+V:p.3
+A,F,G,A,B, x3|
+% 18
+V:f.1
+g2-g/f/e/d/ c/d/e/f/ gf/e/|
+V:f.2
+EGAB Ae-' ed|
+V:f.3
+EEFG AG/A/ BB,|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 19
+V:f.1
+e2zG A2zG|
+V:f.2
+[I:staff -1][I:pos stem down]z2zE F2zE|
+V:f.3
+[K:bass]E/G,/B,/E/ E,2z/D,/F,/B,/ E,2|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 20
+V:f.1
+F2x6|
+V:f.2
+B,2x6|
+V:f.3
+z/D,/F,/A,/ [E,G,]2x4|
+V:p.1
+x2!p!zga2zg|
+V:p.2
+[I:staff -1][I:pos stem down]x2zef2ze|
+V:p.3
+x4[I:staff -1][I:pos vol down]!p!z/D/F/B/ E2|
+% 21
+V:f.1
+%%voicecombine 1
+x2!f!z/b/g/e/ ab/c'/ f3/e/|
+V:f.2
+x2zz/e/-,e3d|
+V:f.3
+[I:pos vol up]x4z/!f!C/B,/A,/ B,B,,|
+V:p.1
+f2x6|
+V:p.2
+B2x6|
+V:p.3
+z/D/F/A/ [EG]2[I:staff +1][I:pos vol down]x4|
+% 22
+V:f.1
+e2x6|
+V:f.2
+e2x6|
+V:f.3
+E,/B,/G,/E,/ E2x4|
+V:p.1
+x2!p!z/B/G/E/ AB/c/ F3/E/|
+V:p.2
+x2zz/E/-, E3D|
+V:p.3
+x4!p!z/C,/B,,/A,,/ B,,2|
+% 23
+V:f.1
+x/ !f!D/E- E/D/E- E/D/E- E/F/E/D/|
+V:f.2
+%%voicecombine 3
+x/z/[I:staff +1][I:pos stem up]!f!z/G,/ A,3/A,/ B,3/C/ B,F,|
+V:f.3
+x z/E,/ F,3/F,/ G,3/A,/ B,B,,|
+V:p.1
+E/ x/xx2x4|
+V:p.2
+E/ x/xx2x4|
+V:p.3
+E,,xx2x4|
+% 24
+V:f.1
+E/ x/x3x4|
+V:f.2
+G, x3x4|
+V:f.3
+E, x3x4|
+V:p.1
+x/ !p!d/e- e/d/e- e/d/e- e/f/e/d/|
+V:p.2
+%%voicecombine 3
+x [I:pos vol down]!p!z/G/ A3/A/ B3/c/ BF|
+V:p.3
+x [I:staff -1]z/E/ F3/F/ G3/A/ BB,|
+% 25
+V:f.1
+x6z!f!G|
+V:f.2
+x8|
+V:f.3
+x8|
+V:p.1
+e2z2z2x2|
+V:p.2
+[I:pos stem up]z/F/G z2[I:pos stem down]z4|
+V:p.3
+E3/D/ E/[I:staff +1]_A,/B,/F,/ G,/D,/E,/B,,/ E,,z|
+% 26
+V:f.1
+[Q:"Andante ("1/8=100")"]ce/c/ =B3/B/ ce/c/ B2|
+V:f.2
+x4x3z|
+V:f.3
+x4x3[I:pos vol up]!f!G,|
+V:p.1
+x8|
+V:p.2
+z2zF G2Gx|
+V:p.3
+z2!p!zD EC zx|
+% 27
+V:f.1
+x6!f!zd|
+V:f.2
+x8|
+V:f.3
+CE/C/ =B,3/B,/ CE/C/ B,3/B,/|
+V:p.1
+z2!p!zg g2x2|
+V:p.2
+z2zd ecz2|
+V:p.3
+x8|
+% 28
+V:f.1
+eg/e/ Pd3/d/ eg/e/ d2|
+V:f.2
+x8|
+V:f.3
+CC, [K:treble]x4x!f!B,|
+V:p.1
+x8|
+V:p.2
+[I:staff +1][I:pos stem up]x2zA B2Bz|
+V:p.3
+x2 z!p!F GE zx|
+% 29
+V:f.1
+x6!f!z=b|
+V:f.2
+[I:staff -1][I:pos stem down]x6zf|
+V:f.3
+EG/E/ D3/D/ EG/E/ D3/D/|
+V:p.1
+z2!p!zb b2x2|
+V:p.2
+[I:staff -1][I:pos stem down]z2zf ge x2|
+V:p.3
+x8|
+% 30
+V:f.1
+c'e/c/ P=B3/B/ eg/e/ d3/d/|
+V:f.2
+gxx2x4|
+V:f.3
+EC [K:bass]zG, CE/C/ =B,3/B,/|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 31
+V:f.1
+e2ze e2ze|
+V:f.2
+x2z_B cA/c/ G3/G/|
+V:f.3
+CE/C/ G,3/G,/ A,C/A,/ E,3/E,/|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 32
+V:f.1
+d/f/e/g/ f/a/g/b/ a/b/g/f/ gf/e/|
+V:f.2
+ABcd ee2d|
+V:f.3
+F,G,A,B, CB,/A,/ B,B,,|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 33
+V:f.1
+e/ x/x3x4|
+V:f.2
+e/ x/x3x4|
+V:f.3
+E,E,, x6|
+V:p.1
+x/ !p!c/B/A/ G/F/E/D/ E/ z/zzE|
+V:p.2
+x/ x/xx2x2xB,|
+V:p.3
+x2 z2!p!z/C/B,/A,/ G,/F,/G,/E,/|
+% 34
+V:f.1
+x8|
+V:f.2
+x8|
+V:f.3
+x8|
+V:p.1
+D/F/E/G/ F/A/G/B/ A/B/G/F/ GF/E/|
+V:p.2
+A,B,CD EE2D|
+V:p.3
+F,G,A,B, CB,/A,/ B,B,,|
+% 35
+V:f.1
+x2ze [Q:"Presto ("1/4=72")"]f2e2|
+V:f.2
+x2ze-, ed-, dc-,|
+V:f.3
+x2 zC D=B,/G,/ CA,/E,/|
+V:p.1
+E2x6|
+V:p.2
+E2x6|
+V:p.3
+E,E,, x6|
+% 36
+V:f.1
+d2-d/f/e/d/c2zb-|
+V:f.2
+c/c/=B/=A/ B2cG/=A/ _B2|
+V:f.3
+F,D,G,G,, C,C,, zG|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 37
+V:f.1
+b=a- ag- g/g/^f/=e/f2|
+V:f.2
+c2B2=A2-A/c/B/A/|
+V:f.3
+=A^F/D/ GE/B,/ C=A,DD,|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 38
+V:f.1
+%%voicecombine 0
+g2zb c'_a/=f/ bg/e/|
+V:f.2
+G2zG- GF- FE-|
+V:f.3
+G,G,,G,2_A,2G,2|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 39
+V:f.1
+a2-a/a/g/f/g2ze|
+V:f.2
+E/E/D/C/D2E2zG|
+V:f.3
+F,2-F,2z/E,/G,/B,/ EE-|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 40
+V:f.1
+f2e2d4-|
+V:f.2
+AB/F/ GA/E/ F2-F/A/G/F/|
+V:f.3
+ED- DC- C/E/D/C/=B,2|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 41
+V:f.1
+d/d/c/=B/ c/e/d/e//f// Bc/d/ ed/c/|
+V:f.2
+EFGA Gc2=B|
+V:f.3
+CDEF- FE/F/ GG,|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 42
+V:f.1
+c2z2x4|
+V:f.2
+c/_B/A/G/F2-F/E/D/C/=B,2-|
+V:f.3
+A,2-A,/G,/F,/E,/ D,2-D,/C,/=B,,/=A,,/|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 43
+V:f.1
+x4x2z=b|
+V:f.2
+B,/C/D/E/ F/G/=A/=B/ c/d/e/f/d2|
+V:f.3
+G,,/=A,,/=B,,/C,/ D,/E,/F,/G,/ =A,/=B,/C/F,/ G,3/G/|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 44
+V:f.1
+c'_b_ag f/g/e/d/ ed/c/|
+V:f.2
+(3z/c/f/ (3z/B/e/ (3z/A/d/ (3z/G/c/ =Bc2B|
+V:f.3
+_AGFE DCGG,|
+V:p.1
+x8|
+V:p.2
+x8|
+V:p.3
+x8|
+% 45
+V:f.1
+c2x6|
+V:f.2
+c2x6|
+V:f.3
+C xx2x4|
+V:p.1
+x2z!p!G AGFE|
+V:p.2
+x2z2z/DC=B,C/|
+V:p.3
+x !p!C,/D,/ E,/D,/E,/C,/ F,E,D,C,|
+% 46
+V:f.1
+%%writefields Q 0
+x !f!d/e/ [Q:1/4=60]f3/g/ e/d/[Q:1/4=52]c/d/ [Q:1/4=40]=B3/c/|
+V:f.2
+x =B/c/ d2c_AD2|
+V:f.3
+x2z/!f!=B,,/=A,,/G,,/ C,F,,G,,2|
+V:p.1
+D xx2x4|
+V:p.2
+=B, xx2x4|
+V:p.3
+G,2x6|
+% 47
+V:f.1
+Hc2z2z4|]
+V:f.2
+=E2z2z4|]
+V:f.3
+HC,,2z2z4|]
+V:p.1
+x8|]
+V:p.2
+x8|]
+V:p.3
+x8|]

@@ -1,0 +1,1680 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, S-1
+%%writefields QP 0
+
+
+X:0
+T:Rondeaux and Motets of Adam de la Halle
+F:https://en.wikipedia.org/wiki/Adam_de_la_Halle
+F:http://gallica.bnf.fr/ark:/12148/btv1b6001348v
+F:http://digital.bodleian.ox.ac.uk/inquire/p/dd9d1160-196b-48a3-9427-78c209689c1f
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n5/mode/2up
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:C
+K:C
+
+%%begintext
+%%A 13th century French trouvere, who wrote mostly secular music.
+%%Here are transcriptions of his polyphonic works.
+%%endtext
+
+%% Numbering
+%% I've only transcribed his polyphony.
+%% But, just in case I ever transcribe his complete works,
+%% I'll institute the following song numbers:
+%% 1xx Chansons
+%% 2xx Jeux-partis
+%% 3xx Rondeaux
+%% 4xx Motets
+%% 5xx Le Conge
+%% 6xx Le Roi de Sicile
+%% 7xx Le Jeu Adam
+%% 8xx Le Jeu de Robin et Marion
+%% 9xx Le Jeu du Pelerin
+
+X:300
+T:Rondeaux
+K:C
+
+X: 301
+T:Je muir d'amourette
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f72.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n292
+Z:Ali Corbin <ali.corbin:gmail.com>
+N:Triple semi-breves, Transposed up a fourth. (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:Bb Lydian
+P:ABCDAAABCDABCD
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8 
+V:3 clef=bass
+[V:1 ][P:A]  d    c2  | A   B2  | A          (BG)  | A          (AG)   ||[P:B](3:2:2FG/ (AF)  | G3 ||
+[V:2 ][P:A]  D    F2  | F  (FE) |(3:2:2D/C   (B,C) | D          (DC)   ||[P:B]      B,  (A,B,)| C3 ||
+[V:3 ][P:A]  A,   F,2 | D,  B,,2|(3:2:2D,/E, (F,E,)|(3:2:2D,E,/ (F,E,) ||[P:B]      D,  (E,D,)| C,3||
+w:  1.6.11.~Je   muir, je  muir d'a-*        mou-*  re-*        te.*        2.12.~Las     ai-*  mi!
+w: 5.~~~~~~~~A    pre- miers le  vi*         dou-*  che-*       te*        ~       ~  ~  ~
+w:7.~~~~~~~~D'une a-  trai- ant ma-*         niè-*  re-*        te*         8.~~~~~~A- dont le  vi;
+%
+[V:1 ][P:C] A   B2  | A  B2    | A          (BG)  | A (AG)   ||[P:D]  F    G2 | B3  ||
+[V:2 ][P:C] D   F2  | F (FE)   |(3:2:2D/C   (B,C) | D (DC)   ||[P:D]  B,   A,2| B,3 ||
+[V:3 ][P:C] D,  B,,2| D,(B,,C,)|(3:2:2D,/E, (F,E,)| D,(F,E,) ||[P:D]  D,   C,2| B,,3||
+w:   3.13.~Par  dé-  fau-te*     d'a-*      mi-*    e- te*      4.14.~De   mer- chi.
+w:  9.~~~~~~Et  puis le truis*   si*        fiè-*  re- te,*   10.~~~~Quant le   pri. 
+W:
+W:Je muir, je muir d'amourete.  % I die, I die, of infatuation 
+W:Las aimi!                     % Alas, ??? 
+W:Par défaute d'amiete          % By the lack of my lover 
+W:De merchi.                    % Of mercy 
+W:
+W:A premiers le vi douchete     % At first, I saw her as sweet 
+W:
+W:
+W:Je muir, je muir d'amourete.
+W:
+W:D'une atraiant manièrete      % With an attractive manner 
+W:Adont le vi;                  % ??? I saw her 
+W:Et puis le truis si fièrete,  % And while she ??? so haughty? 
+W:Quant le pri.                 % When I took her 
+W:
+W:Je muir, je muir d'amourete.
+W:Las aimi!
+W:Par défaute d'amiete
+W:De merchi.
+
+
+X: 302
+T:Li dous regars de ma Dame
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f72.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n294
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+N: The Bb in the second line of the top part is editoral.
+M:3/4
+L:1/4
+Q:1/4=120
+K:F
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1] [K:C](3:2:2cB/ (3:2:2A/ G F |(3:2:2FG/  (3:2:2A/ B c | B        c  d  | e  (3:2:2f/e  d | f2  z|| 
+[V:2] [K:F]      F   (3:2:2E/ D C |(3:2:2CB,/ (3:2:2A,/G,F,| E,       F, G, | A,       A,   B,| C2  z|| 
+[V:3] [K:F]      F,  (3:2:2A,/B,C |(3:2:2CD/  (3:2:2D/ E F | E  (3:2:2D/CB, | A, (3:2:2B,/A,G,| F,2 z|| 
+w:        1.4.7.~Li        dous**        re-*       gars**   de       ma**    Da-***            me
+w:        3.~~~~~Diex      gart**        son*       gent**   cor      de**    blas-***          me.
+w:        5.~~~~~Je        ne**          vi*        on-**    ques     par**   m'a-***           me
+%
+[V:1] [K:C](fd)   _B |(de)   (3:2:2f g/ |(3:2:2f/ e d2  | f3 ||
+[V:2] [K:F](F,G,) _E,|(G,A,) (3:2:2B,C/ |(3:2:2B,/A,G,2 | F,3||
+[V:3] [K:F](CD)   _E |(DC)   (3:2:2B,A,/|      A,   B,2 | C3 ||
+w:     2.8.~Me*  fait  es-*       pé-rer       mer-*  ci.
+w:     6.~~~~Da-*  me   plus*    plai-sant      de*    li.
+W:
+W:Li dous regars de ma Dame         % The sweet glances of my lady 
+W:Me fait espérer merci.            % Make me hope for mercy. 
+W:
+W:Diex gart son gent cor de blasme. % God keep her noble body from blame. 
+W:
+W:
+W:Li dous regars de ma Dame
+W:
+W:Je ne vi onques par m'ame         % I live not ??? on my soul 
+W:Dame plus plaisant de li.         % Lady more pleasant of it. 
+W:
+W:Li dous regars de ma Dame
+W:Me fait espérer merci.
+
+
+X: 303
+T:Hareu li maus d'amer
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f72.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n295
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:D dorian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble_8
+%
+[V:1]     B  c2 |(3c/B/A/ (BA)| G  (3A2G/F/     || G   A2  ||
+[V:2]     E  F2 |(3F/E/D/ (ED)| C  (3:2:3D^CB,  ||^C   D2  ||
+[V:3]     G, F,2|  F,      E,2| E, (3:2:2D,E,2  || E,  D,2 ||
+w: 1.4.7.~Ha-reu  li      maus d'a- mer*  2.8.~M'o-chist.
+w: 3.~~~~~~Il me  fait     dé-  si-  rer.*       ~    ~
+w: 5.~~~~~~~Par un douch   re-  gar- der*  6.~~~~Me  prist.
+W:
+W:Hareu li maus d'amer  % Help! The pain of loving 
+W:M'ochist.             % Shook me. 
+W:
+W:Il me fait désirer.   % It makes me to desire. 
+W:
+W:
+W:Hareu li maus d'amer 
+W:
+W:Par un douch regarder % With one sweet glance 
+W:Me prist.             % Took me 
+W:
+W:Hareu li maus d'amer 
+W:M'ochist.
+
+
+X: 304
+T:Fines amouretes ai
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f72.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n296
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:D dorian
+%
+%%MIDI program 1       41 %viola
+%%MIDI program 2       42 %cello
+%%MIDI program 3       69 %englhorn
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1] F2 (3F/E/D/| C2  (3:2:2D/E  |^F2        G   |      A2    (3A/G/F/|      E2      F |(3:2:2E/DE  F  |(GF)      E    | F3 ||
+[V:2] C2   B,    | C2        C    | B,2       B,  |(3:2:2A,/G,A, B,    |(3:2:2A,/G,A, F,|      A,2   A, | G,2      G,   | F,3||
+[V:3] F,2  G,    | F,2 (3:2:2G,/A,| B,2 (3:2:2C/B,|      A,2     G,    |(3:2:2A,/B,A, C |      A,2   C  | D2  (3:2:2C/B,| C3 ||
+w:    Fin- es      a-        mou-*  re-       tes*       ai;    Dieu          si**    ne       sai Quant les      ver-*  rai.
+%
+[V:1] F2  D | F2    (3E/D/C/ | D3             | D2 (3:2:2E/F |(ED)  E       | F2 (3E/D/C/| D2  (3:2:2E/F  | E2 (3:2:2D/E  |
+[V:2] C2  B,| C2      C      | B,2 (3:2:2A,/G,| A,2      B,  | C2 (3C/B,/A,/| C2   C     | B,2 (3:2:2A,/G,| A,2      B,   |
+[V:3] F,2 G,| F,2     A,     | G,2 (3:2:2A,/B,| A,2      G,  | F,2  G,      | F,2  A,    | G,2 (3:2:2A,/B,| A,2      G,   |
+w:    Or man- de-    rai       m'a-     mi-*    et-      te    Qui  est     cointe et      jo-       li-*   et-      te
+w:    Et s'ele est   de        moi      en-*  chain-     te    Tost de-       ven- ra      pale      et*    tein-    te;
+w:  Miex vaut que    je        m'en     as-*  teing-     ne,   Pour li        jo-  li      me        ti-*   eng-     ne,
+[V:1]  F2         (3F/E/D/| C2  (3:2:2D/E  |^F2        G    | A2 (3A/G/F/| E2            F |(3:2:2E/D E2 | F3  |(GF)      E   | F3  ||
+[V:2]  C (3C/B,/A,/ B,    | C2        C    | B,2 (3:2:2A,/G,| A,2  B,    |(3:2:2A,/G, A, F,|      A,3    | A,3 | G,2      G,  | F,3 ||
+[V:3]  F,2          G,    | F,2 (3:2:2G,/A,| B,2 (3:2:2C/B, | A,2  G,    |(3:2:2A,/B, A, C |      A,3    | C3  | D2 (3:2:2C/B,| C3  ||
+w:     Et          s'est    si       sa-*    vé-    rou-*     se-  te,     C'as-*    te-nir       ne      m'en   po-**          rai. 
+w:     S'il         en      est      es-*   clan-   dèle et   plain-te      Dé-*    shon-ne-      ré-      e     l'a-**         rai. 
+w:     Et          que      de       li*     me     sou-*     vieng-ne,     Car*    s'on-nour     le      gar-   de-**          rai. 
+%%newpage
+W:Fines amouretes ai;                % I am done with love 
+W:Dieu si ne sai                     % God! If only I knew 
+W:Quant les verrai.                  % When I will see her 
+W:
+W:Or manderai m'amiette              % But I will send for my love 
+W:Qui est cointe et joliette         % Who is quiet and gay 
+W:Et s'est si savérousete,           % And is so savory 
+W:C'astenir ne m'en porai.           % That I won't be able to hold off from her 
+W:
+W:Fines amouretes ai; 
+W:Dieu si ne sai 
+W:Quant les verrai.
+W:
+W:Et s'ele est de moi enchainte      % And if she is delighted with me 
+W:Tost devenra pale et teinte;       % Soon she'll become pale and blush 
+W:S'il en est esclandèle et plainte  % If it is of her ??? and lamenting 
+W:Déshonnerée l'arai.                % I will dishonor her 
+W:
+W:Fines amouretes ai;
+W:Dieu si ne sai 
+W:Quant les verrai.
+W:
+W:Miex vaut que je m'en asteingne,   % It is better I reach her 
+W:Pour li joli me tiengne,           % For ? pretty I would blush 
+W:Et que de li me souviengne,        % And that I would remember her 
+W:Car s'onnour le garderai.          % For I will guard her honor 
+W:
+W:Fines amouretes ai; 
+W:Dieu si ne sai 
+W:Quant les verrai.
+
+
+X: 305
+T:A Dieu comant amouretes
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f73.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n300
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=110
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1]     F2 (3F/E/D/|((3:2:2C/B,A,) B,    |(CD) (3:2:2E/F| G    G    (3:2:2FG/  |      A2   (3G/F/E/|((3:2:2D/CD E)||
+[V:2]     C2   D     |       E2    (3E/D/C/| F2        E  | D    E          F    |(3:2:2E/DE (3E/D/C/|       B,3    ||
+[V:3]     F,2  F,    |       A,2     A,    | F,2       F, | G,   G,   (3:2:2F,G,/|      A,2    A,    |       G,3    ||
+w:1.4.7.~A   Dieu        co-      mant       a-  mou-  re- tes,  Car*     je      m'en       vois
+w:  3.~~~~~~Do- lans        lai-     rai        les dou-  che-tes   Et*      mout    des-       trois
+w: 5.~~~~~J'en fe-        ro-      ie         ro-  ï-   ne- tes,  S'es-*   to-     ie         roys.
+%
+[V:1]       F2    (3F/E/D/|(3:2:2C/B,A,  B,    |(CD) (3:2:2E/F|     (G (3:2:2F/E D)| F3  ||
+[V:2] (3:2:2C/B,C   D     |      E2    (3E/D/C/| F2        E  |(3:2:2D/C     B,2   | C3  ||
+[V:3]       F,2     F,    |      A,2     A,    | F,2       F, |      G,3           | F,3 ||
+w: 2.8.~Sous-   pi-        rant     en        terre es-    tran-         ge
+w: 6.~~~~Co-     mant       que      la        chose em-    prai-         gne
+W:
+W:A Dieu comant amouretes,      % Oh God, What infatuation! 
+W:Car je m'en vois              % For I see myself in it(her?)  
+W:Souspirant en terre estrange  % Sighing, in a strange land.  
+W:
+W:Dolans lairai les douchetes   % Mournful, I'll leave the sweet ones,   
+W:Et mout destrois              % And ??? destroy  
+W:
+W:
+W:A Dieu comant amouretes,
+W:Car je m'en vois 
+W:
+W:J'en feroie roïnetes,         % I would make of them queens  
+W:S'estoie roys.                % If I were a king  
+W:Comant que la chose empraigne % ???  
+W:
+W:A Dieu comant amouretes,
+W:Car je m'en vois
+W:Souspirant en terre estrange
+
+
+X: 306
+T:Fi maris de vostre amour
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f73.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n302
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1][K:C] C2 (3:2:2D/E   | F2 (3:2:2F/G| A2  (3A/G/F/ | G2   
+[V:2][K:C] F2     (3F/E/D/| C2       D  | E2  (3E/D/C/ | D2   
+[V:3][K:F] F,2      G,    | F,2      B, | A,2   A,     | G,2  
+w:  1.4.7.~Fi       ma-     ris      de  vostre a-       mour,
+w:  ~~5.~~~Il       me     sert      et  nuit   et       jour.
+%
+[V:1][K:C](3:2:2FG/  |((3:2:2F/ED)   E  | F3  ||  C2 ((3:2:2D/E)  | F2   G | A2 (3A/G/F/ ||
+[V:2][K:C](3:2:2CD/  |((3:2:2C/B,A,) B, | C3  ||  F2      (3F/E/D/| C2   D | E2 (3E/D/C/ ||
+[V:3][K:F](3:2:2F,G,/|       A,2     G, | F,3 ||  F,2       G,    | F,2  B,| A,2  A,     ||
+w:         2.8.~Car*         j'ai    a-   mi  3.9.~Biaus   et       de noble a-   tour.
+w:         ~~6.~Pour*        che   l'aim  ci.     ~        ~        ~    ~   ~    ~
+W:
+W:Fi maris de vostre amour,  % Husbands, be secure in your love, 
+W:Car j'ai ami               % For I have a friend 
+W:Biaus et de noble atour.   % Beautiful and of noble dress. 
+W:
+W:Fi maris de vostre amour,
+W:
+W:
+W:Il me sert et nuit et jour.% It serves me both day and night. 
+W:Pour che l'aim ci.         % For the one that I love so. 
+W:
+W:Fi maris de vostre amour,
+W:Car j'ai ami 
+W:Biaus et de noble atour.
+
+
+X: 307
+T:Dame or sui trais
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f74.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n303
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=136
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1 ][K:C] F3            | E3  | F (DE)|  F3              ||       E2      (3E/D/C/|(E C) (E |G2)  z ||
+[V:2 ][K:C]((3:2:2C/B,A,2)| B,3 | C (ED)|  C ((3:2:2C/B,A,)||((3:2:2A,/G,     F,2)  |(E,F,)(A,|G,2) z ||
+[V:3 ][K:F] F,3           | G,3 | F, D,2|  F,3             ||       A,2 (3:2:2A,B,/ | C2   (C |D2)  z ||
+w:  1.6.14.~Dame,           or   sui tra-  ïs               2.7.15.~Par       l'o-*   coi-  son*
+w:  5.~~~~~~~~~Et           par  vo  douch ris			    *          **      *     **	
+w: 10.~~~~~~~Car            il   est as-   sis               11.~~~~~~Sur       cuer*   fé-   lon*
+%
+[V:1 ][K:C]  A ((3:2:2G/FE)| F   G2  |       A3    || ((3:2:2F/ E   D)((3:2:2FE/)|((3:2:2D/ C  B,2)| C3  ||
+[V:2 ][K:C]  A,       B,2  | C   D2  |((3:2:2E/DC2)|| ((3:2:2C/ B,  A,2)         |((3:2:2G,/F, E,2)| F,3 ||
+[V:3 ][K:F]  E       (DG,) | F,  B,2 |       A,3   || ((3:2:2F,/G,) A,2          |((3:2:2B,/A, G,2)| F,3 ||
+w:   3.8.16.~De       vos*   iex qui         sont    4.9.17.~Pri-*  vé                   lar-**      ron.
+w:   12.~~~~Dont     j'a-*  pel vo          vis      13.~~~~~~De*    tra-                 ï-**        son.
+W:
+W:Dame, or sui traïs  % Lady, but I am betrayed 
+W:Par l'ocoison       % By the chance 
+W:De vos iex qui sont % Of your eyes, which are 
+W:Privé larron.       % A deprived robber 
+W:
+W:Et par vo douch ris % And by your sweet lips??? 		
+W:
+W:
+W:Dame, or sui traïs 
+W:
+W:Car il est assis    % For it sat 
+W:Sur cuer félon      % On the cruel heart 
+W:Dont j'apel vo vis  % By which I call your face 
+W:De traïson.         % Of treachery 
+W:
+W:Dame, or sui traïs 
+W:Par l'ocoison
+W:De vos iex qui sont 
+W:Privé larron.
+
+
+X: 308
+T:Amoures et ma Dame aussi
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f74.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n305
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=130
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1 ][K:C] C   (FG) | A   A2  |  G ((3:2:2A/GE)| F2   z  |   C   FG  | A2 (3A/G/F/|(3G/F/E/ DE  | F3  ||
+[V:2 ][K:C] F    F2  | E  (ED) |(3E/D/C/  (A,B,)| C2   z  |   F   F2  | E  (ED)    |(3E/D/C/ B,2 | C3  ||
+[V:3 ][K:F] F,   B,2 | A,  A,2 |  B,       A,2  | F,2  z  |   F,  B,2 | A,   A,2   |  G,     G,2 | F,3 ||
+w:   1.4.8.~A-  mours  et  ma    Dame      aus-   si, 2.5.9.~Join-tes  mains vous     proi   mer-  chi.
+w:   3.7.~Votre grant  bi- au-    té       mar    vi          *   *     *    *        *       *    *
+w:   6.~~~~Se    n'a-  vés pi-    té       de     mi          *   *     *    *        *       *    *
+W:
+W:Amours et ma Dame aussi,       % My love and my lady, also, 
+W:Jointes mains vous proi merchi.% With clasped hands I beg mercy of you. 
+W:
+W:Votre grant biauté mar vi      % Your great beauty ??? I saw 
+W:
+W:Amours et ma Dame aussi, 
+W:Jointes mains vous proi merchi.
+W:
+W:
+W:Se n'avés pité de mi           % If you have no pity for me 
+W:
+W:Votre grant biauté mar vi
+W:
+W:Amours et ma Dame aussi, 
+W:Jointes mains vous proi merchi.
+
+
+X: 309
+T:Or est Baiers en la pasture
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f74.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n306
+Z:Ali Corbin <ali.corbin:gmail.com>
+C:Adam de la Halle
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=280
+K:A minor
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1]      A3  | G3 |(G2 A) | G3 |(GF E) | D3  |(E2 F )| E2  C ||       E2  C  ||
+[V:2]      A,3 | C3 |(CB,A,)| C3 | C3    | B,3 |(A,2G,)| A,2 A,||       A,2 A, ||
+[V:3]      E3  | C3 |(CD E) | C3 |(CB,A,)| G,3 |(A,2B,)| A,2 C ||       A,2 F, ||
+w:  1.5.9.~Or    est  Bai-**  ars  en**    la    pas-*   tu- re,  2.10.~Hu- re,
+w: 4.~~~~~~Il    por- te**    sou- ef**    l'am- ble-*   u-  re.         ~   ~ 
+w: 6.~~~~~~A-   voir  li**    fer- ai**    cou-  ver-*   tu- re,  7.~~~~~Hu-re,
+%
+[V:1]   (D2 E) | D3  | F3   | E3  |(F E D) | E3   ||(D2 E) | D3  | F3   | E3  |(F E D) | E3  ||
+[V:2]   (F,2G,)| B,3 | A,3  | C3  |(C B,A,)| G,3  ||(F,2G,)| B,3 | A,3  | C3  |(C B,A,)| G,3 ||
+[V:3]   (A,2B,)| B,3 |(CB,2)| A,3 |(A,G,A,)| B,3  ||(A,2B,)| B,3 |(CB,2)| A,3 |(A,G,A,)| B,3 ||
+w: 3.11.~Des*    deus  piés*  def-  fé-**    rés.    Des*    deus  piés*  def-  fé-**    rés  
+w: 8.~~~~~~Au*   re-   pai-*  rier  des**    prés.   Au*     re-   pai-*  rier  des**    prés.
+W:
+W:Or est Baiars en la pasture, % Baiars is in the pasture 
+W:Hure,
+W:Des deus piés defférés       % Two of his feet are esteemed 
+W:Des deus piés defférés
+W:
+W:Il porte souef l'ambleure.    % He ambles 
+W:
+W:
+W:Or est Baiars en la pasture, 
+W:
+W:Avoir li ferai couverture,   % I'll make him a blanket 
+W:Hure, 
+W:Au repairier des prés.       % For returning to his home 
+W:Au repairier des prés.
+W:
+W:Or est Baiars en la pasture, 
+W:Hure,
+W:Des deus piés defférés 
+W:Des deus piés defférés 
+
+
+X: 310
+T:A jointes mains vous proi
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f74.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n308
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:F lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1]         B,  C2 |((3:2:2E/F)     G2 |((3F/E/D/) ((3F/E/D/)  C    ||((3:2:2D/E) F2 |((3:2:2E/F)  G2 | E  F2  ||
+[V:2]         E   F2 |    ((3F/E/D/) (DE)|   D          C((3:2:2B,/A,)||       B,  (CD)|((3:2:2C/B,)(DE)| D  C2  ||
+[V:3]         G,  F,2|       A,       G,2|   G,         F,2           ||       G,   F,2|       A,    G,2| G, F,2 ||
+w:     1.4.7.~A  join-       tes     mains   vous       proi              2.8.~Dou- ce         Da-   me  mer-chi 
+w:  3.~~~~~~~Liés sui       quant    je     vous       voi.		       ~     ~          ~    ~    ~   ~
+w: 5.~~~~~~~A-  vés            mer-     chi    di         moi,              6.~~~Da-  me,        je   vous  en pri
+W:
+W:A jointes mains vous proi  % With clasped hands I beg you 
+W:Douce Dame merchi          % Sweet Lady, for mercy 
+W:
+W:Liés sui quant je vous voi.% I am gay when I see you 
+W:
+W:
+W:A jointes mains vous proi 
+W:
+W:Avés merchi di moi,        % Have mercy on me, 
+W:Dame, je vous en pri       % Lady, I beg it of you 
+W:
+W:A jointes mains vous proi 
+W:Douce Dame merchi 
+
+
+X: 311
+T:Hé Diex! Quant verrai
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f75.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n310
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:F lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1]        C2 ((3:2:2F/G)|      A2   ((3G/F/E/)| D2  ((3:2:2E/F)|      G ((3G/E/D/) B, | C3  ||
+[V:2]        F2        F   |(3:2:2E/DE ((3E/D/C/)| B,2        C   |(3:2:2D/C  D       E  | F3  ||
+[V:3]        F,2       F,  |      A,2     A,     | G,2        A,  |      G,2          G, | F,3 ||
+w:    1.4.7.~Hé       Diex!      quant    ver-     rai  2.8.~Che-        li          que  j'aim.
+w:  3.~~~~~~~Cer-     tes         je      ne       sai.       ~          ~            ~    ~
+w: 5.~~~~~~~~De       vir         son     cor      gai 6.~~~~Muir        tout         de  faim.
+W:
+W:Hé Diex! quant verrai % Oh God! When will I see 
+W:Cheli que j'aim.      % The one that I love. 
+W:
+W:Certes je ne sai.     % Surely I don't know. 	 
+W:
+W:
+W:Hé Diex! quant verrai 
+W:
+W:De vir son cor gai    % Of seeing that gay body 
+W:Muir tout de faim.    % I die all of hunger 
+W:
+W:Hé Diex! quant verrai 
+W:Cheli que j'aim.
+
+
+X: 312
+T:Diex coment porroie
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f75.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n311
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=100
+K:G Mixolydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1][K:C]       D2 ((3:2:2F/G)   | A2 ((3A/G/F/)|(EDC)  |D3 ||           E2  ((3:2:2F/G)| A2 
+[V:2][K:C]       G2     ((3F/E/D/)| E2 ((3G/F/E/)|(D2E)  |G3 ||          (ED) ((3:2:2C/D)| E2 
+[V:3][K:F]       G,2       B,     | A,2   B,     | A,3   |G,3||           A,2        B,  | A,2
+w:       1.5.9.~Diex, co-         ment por-       roi-    e        2.10.~Sans        che-   li 
+w:     4.~~~~~~~Elle  est       simple et         coi-    e,		  ~            ~     ~	 
+w:     6.~~~~~~~Ne    m'en        par- ti-        roi-    e    7.~~~~~~~Pour        les    iex
+%
+[V:1][K:C]((3A/G/F/)| A3  ||        (AG) ((3E/D/C/)| D2 ((3:2:2F/G)   |(AGF)| G3  ||
+[V:2][K:C]((3F/E/D/)| E3  ||         E2     F      | G2     ((3F/E/D/)|(EDC)| D3  ||
+[V:3][K:F]   B,     | A,3 ||         A,2    A,     | G,2       B,     |       A,3   | G,3 ||
+w:         du-        rer    3.11.~Qui  me        tient en         joi-     e?
+w:         cre-       ver 8.~~~~~~~Se   s'a-      mours n'a-       voi-     e.
+W:
+W:Diex, coment porroie     % God, how could I  
+W:Sans cheli durer         % Endure without the one 
+W:Qui me tient en joie?    % Who holds me in delight? 
+W:
+W:Elle est simple et coie, % She is simple and quiet, 
+W:
+W:
+W:Diex, coment porroie 
+W:
+W:Ne m'en partiroie        % I'd not leave her 
+W:Pour les iex crever      % For plucking out the eyes 
+W:Se s'amours n'avoie.     % If I'd not have my love 
+W:
+W:Diex, coment porroie 
+W:Sans cheli durer 
+W:Qui me tient en joie?
+
+
+X: 313
+T:Trop desire a veoir
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f75.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n313
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1][K:C]  F2      ((3F/E/D/)|(C D E) |(D  C) ((3:2:2DC/)  ||   (B,C (3:2:2B,C/) |((3:2:2D/C F  E)  | F3  ||
+[V:2][K:F]  F,2 ((3:2:2F,G,/) |(A,B,A,)|(G, F,)       D,    ||   (E,F,E,)         |((3:2:2D,/E,F, G,)| F,3 ||
+[V:3][K:F]  C2  ((3:2:2CB,/)  |(A,G,A,)|(B, A,)((3:2:2A,G,/)||   (G,F,(3:2:2G,A,/)|((3:2:2F,/G,F, E,)| F,3 ||
+w:   1.4.7.~Trop       dé-*     sir**    a*          veoir*   2.8.~Ce***            que***      j'aim.
+w: 3.~~~~~~~Ne         m'en*    puis**   re-mou-     voir*         ****             ****         *
+w: 5.~~~~~~~Et         au*      main**   et au       soir*   6.~~~~Me***            com-***     plains
+W:
+W:Trop désir a veoir     % I have too great a desire to see 
+W:Ce que j'aim.          % The one whom I love 
+W:
+W:Ne m'en puis remouvoir % I can't get rid of it 
+W:
+W:
+W:Trop désir a veoir 
+W:
+W:Et au main et au soir  % Morning and evening 
+W:Me complains           % I lament 
+W:
+W:Trop désir a veoir 
+W:Ce que j'aim.
+
+
+X:314
+T:Boine amourete
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f75.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n314
+Z:Ali Corbin <ali.corbin:gmail.com>
+N:(condensed)
+M:3/4
+L:1/4
+Q:1/4=150
+K:Cmix
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble
+%
+[V:1] c c (B/2c/2) | d2 c || c =B/2A/2 B | c3 ||
+[V:2] G A B | A2 G || G F/2E/2 F | G3 || 
+[V:3] C C (B,/2C/2)| D2 E || C D2 | C3||
+w:1.4.7.~Boine a-        mou-*    re- te  2.8.~Me     tient      gai.
+w:3.~~~~~~~Ma  com-       paig-*   ne- te;      ~       ~          ~
+w:5.~~~~~~~Ma  con-       çon-*    ne- te 6.~~~~Vous    di-       rai
+W:
+W:Boine amourete  % A simple infatuation 
+W:Me tient gai.   % keeps me gay. 
+W:
+W:Ma compaignete; % My sweet companion; 
+W:
+W:
+W:Boine amourete 
+W:
+W:Ma conçonnete   % My little song 
+W:Vous dirai      % I'll tell to you 
+W:
+W:Boine amourete 
+W:Me tient gai.
+
+
+X: 315
+T:Tant con je vivrai
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f75.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n315
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=140
+K:D Dorian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble_8
+%
+[V:1]     (A2_B)|       A ((3G/F/E/) F |(G2A)| G ((3F/E/D/) C | D3   ||    E3  | G ((3:2:2^F/E) G | A3  ||
+[V:2]     (E2 F)|((3:2:2E/D  C2)       | D3  |(D    E2)       | G3   ||    A3  | G ((3:2:2^F/E) D | E3  || 
+[V:3]      A,3  |       A,3            | G,3 |(G,   A,2)      | G,3  ||    A,3 | C3               | A,3 ||
+w:  1.5.9.~Tant         con              je    viv-*            rai  2.10.~N'a-  me-                rai
+w:6.~~~~~~~Ains         vous             ser-  vi-*             rai 7.~~~~~Loi-  au-                ment     
+%
+[V:1]   A3 | G ((3:2:2^F/E) F | G3  | G2 ((3:2:2=F/E) | ((3:2:2D/CDE)  | F3  ||  (A2_B)|       A ((3G/F/E/) F |(G2A)| G ((3F/E/D/) C | D3   ||
+[V:2]  (E3 | DC2)             | D3  |(D3              | C   B,2)       | C3  ||  (E2 F)|((3:2:2E/D  C2)       | D3  |(D    E2)       | G3   ||
+[V:3]   A,6                   | G,3 | G,6                              | F,3 ||   A,3  |       A,3            | G,3 |(G,   A,2)      | G,3  ||
+w:3.11.~Au-                     trui  que                                vous. 4.~Ja           n'en             par-  ti-*             rai 
+w:8.~~~~~mis                    m'i   sui                               tous       ~            ~                ~     ~    ~           ~
+W:
+W:Tant con je vivrai % So long as I live 
+W:N'amerai           % I'll not love 
+W:Autrui que vous.   % Anyone but you. 
+W:
+W:Ja n'en partirai   % I'll not leave you 
+W:
+W:
+W:Tant con je vivrai 
+W:
+W:Ains vous servirai % And so I'll serve you 
+W:Loiaument          % Loyally 
+W:mis m'i sui tous   % I have completely put myself there 
+W:
+W:Tant con je vivrai 
+W:N'amerai
+W:Autrui que vous. 
+
+
+X: 316
+T:Diex soit en cheste maison
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f76.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n317
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=130
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble_8
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1] E  F2   |((3:2:2ED/) ((3:2:2C/_B,A,)|       B,   (CD)|(E G2) | E        D2      | E   ((3:2:2D/CB,)  |  C         (DE) | F2  z || 
+[V:2] C (C_B,)|((3:2:2A,G,/)      F,2     |       E,   F,2 |(A,G,2)| A,       B,2     | C          D2      |((3C/B,/A,/) G,2 | F,2 z || 
+[V:3] A, F,2  |((3:2:2A,/B,)     (CD)     |((3:2:2E/D) C2  |(C D2) | C ((3:2:2B,/A,G,)| A, ((3:2:2_B,/A,G,)|  F,         B,2 | C2  z || 
+w:   Diex soit        en*         ches-*          te*  mai-  son,*   Et       bien**    et         joie**     à          fui-  son
+%
+[V:1] C         (D        E)   | F ((3:2:2F/EF) | G2 z | C ((3:2:2B,/A,G,)|       A, ((3:2:2B,/A,G,)      | F, G,2 | F,2 z |
+[V:2] A, ((3:2:2_B,/A,    G,)  | F,       A,2   | G2 z | A,       B,2     |       C         D2            | C  B,2 | C2  z |
+[V:3] E          D ((3:2:2C/B,)| C ((3:2:2C/B,C)| D2 z | E       (DE)     |((3:2:2FE/)      D ((3:2:2C/B,)| C (DE) | F2  z |
+w:    No         si-**          res       no-**   eus  Nous      en-*           voie*      à**            ses a-*   mis;
+w:    Nos        si-**          res       est**   teus Qu'il      prie-*         roit*      à**             en-**    vis;
+%
+[V:1]  E  (ED)  | C ((3:2:2C/B,C)| D2  z | E (DE)          | F       (ED)     |   C        (DE) | F2  z |
+[V:2]  A, (A,G,)| F,       A,2   | G,2 z | A, B,2          | C        D2      |((3C/B,/A,/) B,2 | C2  z |
+[V:3]  C  (DE)  |(F        E   F)| G2  z | E  D((3:2:2C/B,)| C ((3:2:2B,/A,G,)|   F,        G,2 | F,2 z |
+w:  Ch'est as*    a-       mou-*   reus    Et as**          cour-     tois**      bien      a-    pris
+w:   Mais  as*    frans    hon-*   teus  Nous a**            en       son**       lieu      tra-  mis
+%
+[V:1] C   D2  | ((3:2:2EF/) G2     | F  ((3:2:2F/EF)   | G2  z | ((3:2:2AG/) ((3:2:2F/ED) |((3:2:2ED/)    (CB,) | C3  ||
+[V:2] F   F2  | ((3:2:2ED/) C((3:2:2B,/A,)| G, A,((3:2:2G,/F,)| G,2 z | A,  _B,2   |      A,     G,2 | F,3 ||
+[V:3] F, _B,2 | A,   G,2    | C  ((3:2:2C/B,C)  | D2  z | E    F2    |    ((3E/D/C/) DE  | F3  ||
+w:   Pour a-   voir  des     pa- rei-**    sis     A    no-         hé-**   li-*  son
+w:   Qui som-  mes   de      ses nou-**    ris     Et   si          en-**   fan-*çon
+%%newpage
+W:Diex soit en cheste maison, % May God be in this house 
+W:Et bien et joie à fuison    % And wealth and joy ??? 
+W:
+W:No sires noeus              % Our Lord's birth
+W:Nous envoie à ses amis;     % Sends us to his friends 
+W:Ch'est as amoureus          % It is to the amourous 
+W:Et as courtois bien apris   % And to the courteous, well bred ones 
+W:Pour avoir des pareisis     % For the having of ??? 
+W:A nohélison                 % At Noel 
+W:
+W:Diex soit en cheste maison, 
+W:Et bien et joie à fuison
+W:
+W:Nos sires est teus          % Our Lord is such 
+W:Qu'il prieroit à envis;     % That he would plead with longing 
+W:Mais as frans honteus       % But to the ??? shameful 
+W:Nous a en son lieu tramis   % Has ???? us in his stead 
+W:Qui sommes de ses nouris    % That we are by him nourished 
+W:Et si enfançon              % And his children 
+W:
+W:Diex soit en cheste maison, 
+W:Et bien et joie à fuison
+
+X: 317
+T:Li dous regars de ma Dame
+C:Adam de la Halle
+B:Ms de Cambrai
+F:
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n513
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=120
+K:G Mixolydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1] D ((3:2:2E/F    G)|       G    ((3:2:2F/ E G) |C  (DE)  |F  (D E) |
+[V:2] G      (3G/F/E/ D |((3:2:2DC/) ((3:2:2B,/A,G,)|F, (G,A,)|B, (B,C) |
+[V:3] G,       G,2      |       G,   ((3:2:2B,/C D) |G  (DC)  |B, (G,A,)|
+w:1.4.7.~Li    dous            re-          gars**   de  ma*   da- me*   
+w:3.~~~~~Diex  gart            son          gent**   cor de*   blas-me.*
+w:5.~~~~~Je    ne              vi           on-**   ques par*  m'a-me*  
+%
+[V:1] G (FE)| F  (E D) |((3:2:2F/E) ((3:2:2G/FE)  |G3 ||
+[V:2] D  G,2| F, (A,B,)|((3:2:2CD/) ((3:2:2C/B,A,)|G,3||
+[V:3] G, B,2| C  (A,G,)|((3:2:2F,/A,)      C2     |D3 ||
+w:2.8.~Me fait es-pé-*         rer*        mer-    ci. 
+w:6.~~~~Da-me  plus plai-*    sant*        de      li.   
+W:
+W:Li dous regars de ma Dame         % The sweet glances of my lady 
+W:Me fait espérer merci.            % Make me hope for mercy. 
+W:
+W:Diex gart son gent cor de blasme. % God keep her noble body from blame. 
+W:
+W:
+W:Li dous regars de ma Dame
+W:
+W:Je ne vi onques par m'ame         % I live not ??? on my soul 
+W:Dame plus plaisant de li.         % Lady more pleasant of it. 
+W:
+W:Li dous regars de ma Dame
+W:Me fait espérer merci.
+
+%%newpage
+X:400
+T:Motets
+K:C
+
+
+X: 401
+T:A Dieu comant/Adan se sont/Super te
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f76.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n324
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=90
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble_8
+V:2 clef=treble_8
+V:3 clef=treble_8
+%%%%sysstaffsep    28.0pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1][K:C] 
+   C2  D  | E2 ((3E/D/C/)| F2  E |  D   E  F |
+w: A  Dieu  com-***       mant a-  mou-re-tes,
+   ((3:2:2E/DE) ((3E/D/C/) | B,2 D | E2   C | C2 ((3C/B,/A,/)|
+w:    Car**       je**       m'en*  vois Do- lans  por**      
+    B,2  D | E2 ((3:2:2D/E) | F2 ((3E/D/C/)|((3:2:2D/E(3:2:2DC/)  B, | C2 z |
+w:  les dou- che-      tes*  Fors   dou**          pays***       d'Ar- tois  
+((3:2:2EF/) ((3:2:2E/D) C |  D  D   E|  F2 z | E2   F | G   G  F  |
+w:     Chi*        est* si  mus et des-trois; Pour che que li bour-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   E2 z |((3E/D/C/) B, C|  D  E   F |((3E/D/C/) ((3:2:2B,C/) ((3D/C/B,/)|
+w:geois     Ont**  es-té  si four-me-   nés**         Qu'il*    ne**
+     A,    B,2| C2 z |  ((3:2:2D/CD)   E | F2 z |
+w: quiert drois ne~lois.      Gros** tour-nois
+    F2 F |((3:2:2E/DC)  B,| C   B, C | D    E   F|
+w: Ont a-        nu-** lé, con-tes et rois Jus-ti-
+    E   D   C | B,   C    D| E2 z | C   _B, A,|
+w: ches	et pré-las, tant de fois   Que main-te 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    G, A, G,| F,2  G,|_B,2  C |((3:2:2D/CD) E | F2 ((3F/E/D/)|
+w: be-le com-pain-gne  Dont Ar-       ras** me-hain-gne**     
+   ((3:2:2EF/) ((3:2:2F/D) C| D  D   E | F    F  D | E2 z |G2  F |
+w:        Lais-*     sant* a-mis et mai- sons et har-nois, Et fui-
+   ((3:2:2E/DC)   D |((3:2:2E/DE) ((3E/D/C/)| B,2 z |((3:2:2C/B,C)  D |
+w:        ent,** chà  deus,**        chà**   trois,        Sous-** pi- 
+    E2 ((3E/D/C/)| F2   E |((3:2:2D/CB,2)| C3 ||
+w: rant   en**    terre es-       tran-**  ge  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2][K:C]
+(3:2:2F/ F ((3E/D/C/) B,|((3B,/A,/G,/) ((3:2:2A,B,/) (3:2:2C/  C |(3:2:2C/  C   B,   C |(3:2:2D/  D ((3E/D/C/)  D|
+w:    A-dan   se**   sont   lo-**             é*         d'a-mours;   Mais je m'en dois    plus qui   nus**  bla-
+   E2 z |(3:2:2D/  D   E  F | E2 ((3:2:2EF/)| G (3:2:2E/ C   E |
+w: mer        Con-ques à nul jour       ne*  poi     loy-au-té 
+    F  G2 |(3:2:2G/ G (3:2:2G/  G   G | F ((3F/E/D/) (3:2:2E/  E| G G  E |(3:2:2F/ F   F ((3F/E/D/)|
+w:trou-ver.     Je cui-    dai au pre-miers  A-**         voir a-mi-e par      loi-au-ment  ouv-**  
+    E2 z |(3:2:2F/ G (3:2:2G/ G   E |(3:2:2C/ C  C ((3D/C/B,/)| A,2 z|(3D/   D/  D/  C   D |
+w:  rer.      Mais gi    peus-se lon-      gu-e-ment  ba-**     er;    Car quant je miex ai-			   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (3:2:2E/   E ((3E/D/C/) D |(3:2:2E/   E   E ((3:2:2F/E)| D2 z |(3:2:2A,/  B,  C  D|
+w:      mai, Plus  me**   con-    vient maux en-     du-*  rer.        Non-ques ce-le 
+(3:2:2C/  D   E  D|(3:2:2F/  F  E    F | G2 z |	 C   B,  A,|
+w:   que j'a-moi-e,      Ne me vaut mon-strer 	San-lant où 	   
+   (3:2:2C/ C   C (3:2:2C/  B,| A,  E (3:2:2D/  D|(3:2:2F/ F  F  E | D2 z |
+w:       je me dus-     se con-for-ter      Ne mer-    chi es-pé-*   rer.
+   A,  B, C |   D  E    F |(3:2:2E/ D   E ((3E/D/C/) | F2 z |     
+w:Tout a-des  m'é-toit paine     a moi es-   kié-**    ver.       
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+(3:2:2G/   G ((3F/E/D/) E |(3:2:2F/ F   F    G |((3:2:2D/C) B, ((3:2:2CD/)|(3:2:2G/  G  F ((3F/E/D/)| C2 z |            
+w:   Trop mi    don-** na        à pen-ser  Ains      que* je        le*       peus-se ouv- li-**    er,
+((3:2:2ED/) (3:2:2E/  F  G |(3:2:2G/   A (3:2:2G/  G  (3:2:2E/  E|  C   F ((3:2:2GF/)|(3:2:2E/  D ((3:2:2EF/) ((3E/D/C/)| D2 z |
+w:     Or*       voi je bien     sans dou-    ter que      loi-aus hom est      per-*      dus qui      veut*    a-**     mer.  
+ (3:2:2E/  E   E ((3:2:2F/G)|((3:2:2AF/)  E ((3:2:2FE/)| D2 ((3:2:2ED/)| C2 z |
+w:     Ne nus che       m'es a-     vis* ne       s'en* doit       mer-* ler;	 
+   (3:2:2E/    C   E   G | F ((3E/D/C/) E |((3:2:2GA/) ((3G/F/E/) D  | F3 ||
+w:      Fors chil qui bé-  e    A**    ser-       ver*    de**  quil- ler.	 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3][K:F]
+ F,2 F, | A,2 z | F,2 A,| G,2 F,|
+w:Super~te ~ ~ ~ ~ ~ ~
+				 A,2 F, | G,2 z | A,2 C | C2 z |
+%%%%
+ D2  C | C2 G, | B,2 A, | G,2 z | F,2 G,|
+					 A,3 | G,2 A,| F,2 G, | A,2 B, | G,2 z |
+%%%%
+ A,2 B, | A,2 z | G,2  F, | F,2 G, | 
+				    A,2 G, | F,2 z | G,2 G, | F,3 ||
+%%%%%%% repeat
+ F,2 F, | A,2 z | F,2 A,| G,2 F,|
+w:Super~te ~ ~ ~ ~ ~ ~
+				 A,2 F, | G,2 z | A,2 C | C2 z |
+%%%%
+ D2  C | C2 G, | B,2 A, | G,2 z | F,2 G,|
+					 A,3 | G,2 A,| F,2 G, | A,2 B, | G,2 z |
+%%%%
+ A,2 B, | A,2 z | G,2  F, | F,2 G, | 
+				    A,2 G, | F,2 z | G,2 G, | F,3 ||
+%%%%newpage
+W:A Dieu commant amouretes, 
+W: Car je m'en vois 
+W:Dolans por les douchetes 
+W:Fors dou pays d'Artois 
+W:Chi est si mus et destrois; 
+W:Pour che que li bourgeois 
+W:Ont esté si fourmenés 
+W:Qu'il ne quiert drois ne lois.
+W: Gros tournois 
+W: Ont anulé, 
+W: Contes et rois 
+W:Justiches et prélas, tant de fois 
+W:Que mainte bele compaingne 
+W:Dont Arras mehaingne 
+W:Laissant amis et maisons et harnois, 
+W:Et fuient, chà deus, chà trois, 
+W:Souspirant en terre estrange 
+W:
+W:Adan se sont loé d'amours; 
+W:Mais je m'en dois plus qui nus blamer 
+W:Conques à nul jour 
+W:Ne poi loyauté trouver. 
+W:Je cuidai au premiers 
+W:Avoir amie par loiaument ouvrer. 
+W:Mais g'i peusse longuement baer; 
+W:Car quant je miex aimai, 
+W:Plus me convient maux endurer. 
+W:Nonques cele que j'amoie, 
+W: Ne me vaut monstrer 		 
+W:Sanlant où je me dusse conforter
+W: Ne merchi espérer. 
+W:Tout ades m'étoit paine a moi eskiéver. 
+W:Trop mi donna à penser 
+W:Ains que je le peusse ouvlier,
+W:Or voi je bien sans douter 
+W:Que loiaus hom est perdus qui veut amer. 
+W:Ne nus che m'es avis ne s'en doit merler; 
+W: Fors chil qui bée 
+W: A server de quiller.
+W:
+W:Super te
+
+
+X: 402
+T:De ma Dame/Diex coment/Omnes
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f78.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n331
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=110
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble_8
+V:2 clef=treble_8
+V:3 clef=treble_8
+%%%%sysstaffsep    28.0pt
+%
+%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+   C2 (3A,/G,/F,/|(G,A,) B,|(3:2:2C/   F (3:2:2E/   C (3:2:2D/ B, | C2 z |
+w: De   ma**       Da-*  me     vient li      dous maus    que je   trai
+    F    F F | E(3:2:2D/C   B, |(3:2:2A,/ C (3:2:2D/ C (3:2:2D/ E | F2 z |
+w: Dont je mor-rai,**      S'es-      pe-ran-    che ne      me re-tient; 
+   C2 (3A,/G,/F,/|(G,A,)   B, | C2 (3B,/A,/G,/ |((3:2:2A,/G,F,) z |
+w: Et   la**       grans* joi-  e    que**             j'ai;**     
+  ((3:2:2CD/)  ((3:2:2C/B,) ((3:2:2A,B,/)| C  D   F |(3:2:2E/  C  ((3:2:2DC/)  B,|  C D  E | 
+w:      Car*         j'a-*        per-* choi bien et      sai C'on       m'a*  gre-vé et mel-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   F2 z |(3:2:2G/  G  (3:2:2F/  E  (3:2:2DE/|(3:2:2F/  E   C (3:2:2D/  E | F2 z |
+w: lé,         Si qu'e-     le m'a       tout*    ein-si qu'en    tro-vul-lié    
+   (3:2:2F/ E   C ((3:2:2A,B,/) | C    D   G |((3:2:2E/DC)  B,| C2 ((3:2:2CB,/) | 
+w:       Qui en so-       loie*	 estre au  de-       seu-**re. Diex       quant*  
+((3:2:2A,/G,F,) A,| G,2 A, | C2 ((3:2:2CB,/)|((3:2:2A,/G,F,) ((3:2:2A,G,/)|
+w:     ven-**  ra  l'eu-re  Qu'aie      à*          li**            par-*
+  ((3:2:2A,/G,F,) z | F  F    E |   D   C  B, | C2 ((3:2:2D/E)|
+w:       lé;**        Et de chou qu'on m'a mis  seu-      re*  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    F ((3:2:2E/D) (3E/D/C/ | B,2 z |  A,    C ((3:2:2B,C/) | D   E   D |
+w:  Mi       ex-*  cu-**     sé	     Très douche     a-*    mie  A- yés 
+    ((3:2:2C/B,) A,  B, |C2 z |((3:2:2EF/) (3E/D/C/ ((3:2:2DE/)| F2 z |
+w:         de*  moi pi-  té.          Pour*  Dieu**        mer-* chi   
+    C    D ((3:2:2EF/)| G (3G/F/E/ ((3:2:2DE/)| F ((3:2:2E/D) C | ((3:2:2B,/A,F,) A, |
+w:  On-ques       n'a-* ma   Qui**        pour* si       pa-* u	         hai-**   ne  
+   C2 ((3:2:2DE/) | F  E   D | C2 B, |  C   D   E |
+w: de-       ser-* vi ne l'ai  mi-e   Ains est par 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (FE)  F |(3:2:2G/ F  E D | F   ((3:2:2E/DC)|(3:2:2A,/ G,  A,  B, | 
+w:  en-*vi-       e C'on en a mes-       dit**       et  en leur des- 
+    C2 z |F2  F | E (3:2:2D/C B, | C2 z |
+w:  pit   Main-te-nant**     i-  rai    
+    F  E    F |  G ((3:2:2FE/) ((3:2:2D/E)| F2 z |  D    E   D |
+w: Et pour euls cré-      ver*        fe-*  rai.  Mail-leur san-
+   C2 (3C/B,/A,/ |(CD) ((3:2:2F/E)|(DE)  D |((3:2:2C/B,C) D |
+w:lant que**       je*        ne*   de-*ve-        roi-** e  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    F2  E |((3:2:2E/DC)   D | F2   E |(DC) D |
+w: Fui-te         gai-** té  fais me  voi-*e   
+    F2  E |(DC) D |((3:2:2C/B,A,) B, | C2 C |
+w: Par chi pas-*se        gent**  de  joi-e  
+   (3:2:2E/   F    E  D |((3:2:2CB,/) A, G, |(3:2:2F,/ A, (3:2:2C/ B, (3:2:2D/E | F ((3:2:2E/DC)|
+w:     Tart m'est que gi        soi-* e  En-       co- re       me a-      vés*  vous      mu-**   
+    F2 z | C  D  C |(B,A,) B,|(3:2:2C/ B,    D    E |
+w:  si    Si se-rai  de*  miex      de li Conques ne 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    F2 z |(3:2:2F/  F  E  D |(3:2:2C/  C  B, ((3:2:2A,B,/)|(CD)  E |
+w:  fu          se seu-le-te       an cui en        un*    des-*tour 
+    (FG) (3F/E/D/ | E2  (3E/D/C/ | E   D   E |F2 z |
+w:  Truis* ma-**   miet-  te**    La dou-che- te    
+    F  E  D |C2   B, | C2  E | C  B, ((3:2:2A,B,/)|
+w: La sa-de- te Blon-  de-te  Sa-vé-        rou-*  
+     C2  F | E2 ((3:2:2DE/)| D(3:2:2C/B, ((3:2:2A,/B,)| C3 ||
+w:   se-te  Que      Diex*   doint**            bon-*  jour. 
+%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+    F2 ((3E/D/C/)| D2 ((3:2:2E/D)|(C2D)|F   E   D |
+w: Diex   co-**   ment      por-* roi-*	e trou-ver 
+    C2 (3:2:2CB,/ | A,2  B, |((3:2:2A,/G,F,) ((3:2:2A,/B,)| C3 |
+w:  joi-     e*     D'a-ler         a**	            che-*   lui 
+  ((3:2:2D/E) F E  | D  E  D | C2 z |  C    D  E |
+w:       qui* a-mi-  e-te je  sui    Chain-tu-re- 
+    F ((3:2:2E/D) C | F ((3:2:2E/D) ((3:2:2CD/)| E2 z | C   B, A, |
+w: le        va*  i   en       lieu*       de*   mi,   Car tu fus  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (CD) E | D2  B, |C  (3:2:2B,/ A,   B, |((3:2:2C/B,C)  E |
+w:sie-*ve  de aus- si       Si m'en con-        quer-**ra  
+    C2 z | F ((3:2:2E/D) C |  E  D   E | F2   F |
+w: miex;  Mais      co-*ment se-rai sans ti Dieus
+    F2    E |(DC) B, |(CD)   E | F2 z |
+w: chain-tu-  re-*le   mar* le   vi
+   F2  E | E(3:2:2D/C   B, |(DE)  D | C2  B, |
+w: Au des-chain-**     dre  m'o-*chi-  es De  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (CB,)  A,|(3:2:2G,/ F, D,2| F,2 G, | A,2 B, |
+w: mes* gri-      é- tés à   vous me  con-for- 
+    C2 D | F2   F |(EF) ((3:2:2GF/) | ((3:2:2E/DC) ((3:2:2D/E)|
+w: toi-e Quant je  vous*       sen-*     toie,**          Ai-* 
+   F2 z |D  C  B, | C2 ((3:2:2B,/C)|(DC)  B, |
+w: mi!   A le sa-  veu        de*    mon* a-  
+   C2 z | C2  B, |((3:2:2A,/G,F,)  E, | F,(3:2:2E,/D, E, |
+w: mi     Ne pour        quant**  d'au- tres**        en  
+    F,2 z | G,  A,    B, | C   B,  C | D  E  D |
+w:  ai      A cleus d'ar- gent et de  soi-e Pour
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    C2   B,|C2 z | A,   C ((3:2:2D/E)| F  E    D |
+w:  m'en u- ser.  Mais las-      se*  co-ment po- 
+    C2  B, | D2    B, |(CD) (3E/D/C/ | D2 z |
+w:  roi-e   Sans che-   li*   du-**    rer
+  (CD)  E | F2 (3E/D/C/ |((3:2:2D/CB,2)| C2 z |
+w: Qui* me tient en**           joi-**   e.
+    C2  B, |((3:2:2C/B,A,) B, | C2 ((3:2:2D/E)| F2 ((3:2:2E/D)|
+w: Can-chon-       è-**    te  che-       lui* proi-      e*
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (CB,) A, |(G,F,) ((3:2:2E,/F,)|G,2 z | F2    F |
+w:  qui* le   m'en-*       voi-*   a;     puis-que 
+   ((3:2:2E/DC) B, | A, C  D |(3:2:2F/ E    (3:2:2C/  D (3:2:2C/ B, | C2 z |
+w:        jou** ne puis a-ler      là Qu'il       en vien-   gne à     moi  
+   C2 ((3:2:2CB,/) |((3:2:2A,/G,A,) (3A,/G,/F,/ | E,2 z | F,   G, A, |
+w: Chi      droit*         a*  jour   fail-**     li     Pour fai-re  
+   C(3:2:2B,/A,  B, | B,2 z | A, D ((3:2:2CB,/)|((3:2:2A,/G,F,) A, |
+w: tous**       ses   bons.   Et il       mor-*        ra**   quant 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  ((3:2:2C/B,C) D | E2 ((3:2:2CD/)|((3:2:2C/B,A,) B,|((3:2:2C/B,C) D |
+w:       il**  ert poins      Can-*       ter**   à         hau-** te 
+    C2 z | F2 (3F/E/D/ | F2 F |(FE) (3F/E/D/ |
+w: vois:   Par  chi**    va la  mi-*  gno-**  
+    C2 D |(ED) (3E/D/C/ |((3:2:2D/CD) E | F3 ||
+w:  ti-se, Par*  chi**    ou**	     je vois. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3]
+  F,3 | G,2 z | F,2 D, | F,2 z | 
+w:Omnes. ~ ~ ~ ~
+				 F,3 | F,2 z | A,2 G, | F,2 z |
+  F,3 | G,2 z | F,2 D, | F,2 z |
+				 F,3 | F,2 z | A,2 G, | F,2 z |
+  F,3 | G,2 z | F,2 D, | F,2 z |
+				 F,3 | F,2 z | A,2 G, | F,2 z |
+  F,3 | G,2 z | F,2 D, | F,2 z |
+				 F,3 | F,2 z | A,2 G, | F,2 z ||
+  F,3 | G,3 | F,3 | D,3 |
+			 F,2 z| F,2 F, | A,2 G, | F,2 z |
+  F,3 | G,3 | F,3 | D,3 |
+			 F,2 z| F,2 F, | A,2 G, | F,2 z |
+  F,3 | G,3 | F,3 | D,3 |
+			 F,2 z| F,2 F, | A,2 G, | F,2 z |
+  F,3 | G,3 | F,3 | D,3 |
+			 F,2 z| F,2 F, | A,2 G, | F,2 z ||
+  F,2 G, | F,2 D, | F,2 z | F,3 |
+				F,3 | A,3 | G,3 | F,2 z|
+  F,2 G, | F,2 D, | F,2 z | F,3 |		     
+				F,3 | A,3 | G,3 | F,2 z|
+  F,2 G, | F,2 D, | F,2 z | F,3 |		     
+				F,3 | A,3 | G,3 | F,2 z|
+  F,2 G, | F,2 D, | F,2 z | F,3 |		      
+				F,3 | A,3 | G,3 | F,2 z||
+%%%%newpage
+W:De ma Dame vient 
+W:Li dous maus que je trai 
+W:Dont je morrai, 
+W:S'esperanche ne me retient; 
+W:Et la grans joie que j'ai; 
+W:Car j'aperchoi bien et sai 
+W:C'on m'a grevé et mellé, 
+W:Si qu'ele m'a tout einsi qu'en trovullié 
+W:Qui en soloie estre au deseure. 
+W: Diex quant venra l'eure 
+W: Qu'aie à li parlé; 
+W:Et de chou qu'on m'a mis seure 
+W: Mi excusé
+W: Très douche amie 
+W: Ayés de moi pité. 
+W: Pour Dieu merchi 
+W: Onques n'ama qui 
+W:Pour si pau haine deservi 
+W: Ne l'ai mie
+W: Ains est par envie 
+W: C'on en a mesdit
+W: Et en leur despit 
+W: Maintenant irai 
+W:Et pour euls créver ferai. 
+W:Mailleur sanlant que je ne deveroie 
+W:Fuite gaité fais me voie 
+W:Par chi passe gent de joie 
+W:Tart m'est que gi soie 
+W:Encore me avés vous musi 
+W:Si serai de miex de li 
+W:Conques ne fu se seulete 
+W:Ancui en un destour 
+W: Truis m'amiette 
+W: La douchete 
+W: La sadete 
+W: Blondete 
+W: Savérousete 
+W:Que Diex doint bonjour.
+W:
+W: Diex coment porroie 
+W:  Trouver joie 
+W: D'aler a chelui 
+W: Qui amiete je sui
+W: Chainturele va i 
+W: En lieu de mi, 
+W:Car tu fus sieve de aussi 
+W:Si m'en conquerra miex;
+W:Mais coment serai sans ti 
+W:Dieus chainturele mar le vi
+W:Au deschaindre m'ochies
+W:De mes griétés à vous me confortoie 
+W:Quant je vous sentoie, 
+W:  Aimi! 
+W:A le saveur de mon ami 
+W:Ne pour quant d'autres en ai 
+W:A cleus d'argent et de soie 
+W: Pour m'en user. 
+W:Mais lasse coment poroie 
+W: Sans cheli durer
+W: Qui me tient en joie.
+W:Canchonète chelui proie 
+W: Qui le m'envoia; 
+W:Puisque jou ne puis aler là 
+W:Qu'il en viengne à moi 
+W:Chi droit a jour failli 
+W:Pour faire tous ses bons. 
+W:Et il morra quant il ert poins 
+W:Canter à haute vois: 
+W:Par chi va la mignotise, 
+W:Par chi ou je vois.
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:Omnes.
+
+
+X: 403
+T:Entre Adan et Hankier/Chief bienséans/Aptatur
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f79.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n344
+Z:Ali Corbin <ali.corbin:gmail.com>
+C:Adam de la Halle
+M:3/4
+L:1/4
+Q:1/4=130
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble_8
+V:2 clef=treble_8
+V:3 clef=treble_8
+%%%%sysstaffsep    28.0pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+[K:C] F3| ((3:2:2E/D)  C2|C3 | B, (CD)| C3 |z3|
+w:  Entre       A-*   dan et   Ha- ni-*kiet,
+    D  C (3:2:2B,/A,| B,  G, A,| C2 z| F  E2 | F ((3:2:2E/D  C)| B, C2 |
+w: Ha-nart**          et Gar-te- lot,  A grant es-      ba-*noi qui ot  
+    F,3 | G,3 | A,2 z| C   D  E | F2   F  |  E   D ((3:2:2EF/)|
+w:  Leur  re-   vel  Quant il ho-que-tent, Plus tost      cla-*
+    (3:2:2G/F   E   D | E2 z | F ((3:2:2E/D) C | B,2 z | C     F,  G,| A, B,2|
+w:    pe-tent  Que Fre-tel     Li       da-*moi- sel    Mais qu'il ai-ent  a- 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    C    B,  A,| G,    A,  G,|F,3 |z3| F   F   E | D    C ((3:2:2B,/C)|
+w: vant bai-sié Saint Tor-tu- rel      Et si chan-tent tous      sans* 
+   D3 |(3:2:2E/ D   C  B,| C3 |z3| F ((3:2:2F/ED) | C (A,B,)|
+w: li-     vre Viès et no- vel     Gon-     te-** los fait*  
+    C  C2 |z3| E   D  C | D   C  B, | C   D   E |  F  F   E |
+w: l'i-vre    Si pro-pre-ment et si  bel Que sanle a son mu- 
+    D2 z | C     D  E | F ((3:2:2E/D) C | B,2 z | C A,2 | B, (CD) |
+w:  sel  Qu'il doi-ve traire       à* se fin.   Et quant  il font* 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    F ((3:2:2E/DC) | C2 z | C C2 |  B, ((3:2:2C/B,A,)| C      C2 | F, A,2 |
+w: li        mo-**  lin    En-san-le          tout**  quatre, Et  au  plas-
+   A, B,2 | C  (DE)| F ((3:2:2E/DC)|(FE2)|  F ((3:2:2E/DC)|((3:2:2DC/) (CB,)|
+w:tre ba-  tre  En* ho-       que-** tant* Sont      si**        sé-*   dui-*
+   C3 | z3 | E (3E/D/C/ D | E2  F | F2 ((3:2:2E/D)| C3|
+w:sant,      Si  gai,** si joi-ant  Et        si*   ri-
+    B, (DE) |  C  ((3:2:2C/B,A,)| C2 z | D ((3:2:2E/FG) |F D2 | F3 ||
+w: ant Chil* iiij        en-** 	 fant   Que       nu-** le gent tant.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+[K:F] C3 |(3C/B,/A,/ G,2 |(F,2G,)|((3:2:2F,/E,) D,2|F,3| F, G,2 |
+w:  Chief   bien-**  sé-   ans,*         On-**	    des fre-ma-  
+    A,3 | z3 | C    (CD) | C  A,2| F,3 | F, ((3:2:2B,/A,G,)|
+w:  ins,     Plain front* re-lui-  sans  et        pa-**    
+    F,3 | z3 |[K:C]((3:2:2A,=B,/) ((3:2:2A,/G,F,)|A, B,2| C3 | z3 |
+w: rans,                 Res-*	         gars**   a-trai-ans       
+   D ((3:2:2F/ED)| C  B,2 |C3 | D  (DE)| F3 | E   F (3:2:2E/D|
+w:Vairs      hu-** me-li-  ans, Ca-til-*lans  et fri-**       
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    C3 | z3| C3 | B, (A,B,)| [K:F] C2 (3C/B,/A,/| G,3|
+w:  ans.    Nés  par  me-*  sure        au**      vi- 
+  (A,2B,)| A, G,2 | F,3 |z3| F, (F,G,)|((3:2:2F,/E,)  D,2 |
+w: aire*   af-fé-   rans,   Bou- che-*        te*    rians,
+    F,3 | F,  G,2 |A,3| D, E,2| F,3 |z3|
+w:  Ver- meil-le-  te,  a  dens blans.
+    G, ((3:2:2B,/A,G,)| F,  E,2 | F,3 | ((3:2:2G,/F,E,2)|F,3|(G,A,2)|
+w: Gor-       ge**     bien nais-sans,         Col**	 re-  ploi-* 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    C3 |z3| F  (FE)| D   E2| F3 |   F  E2|
+w:  ans,   Pis dur*  et	poi-gnans, Bou-ti-
+    D3 | C  B,2 | C3 |z3| F,  F,2 |A, G,2|
+w: ne	sou-le-  vans,    Ma-nière a- ve- 
+    F,3 | F,  G,2 |A,3| A, B,2| C3 | D  (DC) |
+w: nans,  Et plus  li re-ma-nans    Ont fait* 
+    D E2 | F3 |((3:2:2E/DC)    D |  D  (ED)| ((3:2:2CD/) (CB,) |C3 ||
+w: tant* den-         chans** Que pris est*	A-***          dans.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3]
+[K:F] F,3 | C,3 | F,3 |(G,  A,2|F,3)| z3 |
+w:    Aptatur. ~ ~ ~ ~ ~
+      D,3 | E,3 | F,3 | F, (A,2|C3) | z3 |
+      C3  | B,3 | A,3 |(A,  G,2|F,3)| z3 | 
+      G,3 | A,3 |(F,3 | G,)(G,2|F,3)| z3 |
+%%%%%
+      F,3 | C,3 |(F,3 | G,  A,2|F,3)| z3 |
+      D,3 | E,3 | F,3 |(F,  A,2|C3) | z3 |
+      C3  | B,3 | A,3 |(A,  G,2|F,3)| z3 | 
+      G,3 | A,3 |(F,3 | G,)(G,2|F,3)| z3 |
+%%%%%
+      F,3 | C,3 |(F,3 | G,  A,2|F,3)| z3 |
+      D,3 | E,3 | F,3 |(F,  A,2|C3) | z3 |
+      C3  | B,3 | A,3 |(A,  G,2|F,3)| z3 | 
+      G,3 | A,3 | F,2 z | G,3 | G,3 | F,3 ||
+W:
+W:Entre Adan et Hanikiet,
+W:Hanart et Gartelot, 
+W:A grant esbanoi qui ot 
+W: Leur revel 
+W:Quant il hoquetent, 
+W:Plus tost clapetent
+W: Que Fretel 
+W: Li damoisel 
+W:Mais qu'il aient avant baisié 
+W: Saint Torturel 
+W:Et si chantent tous sans livre 
+W: Viès et novel 
+W:Gontelos fait l'ivre 
+W:Si proprement et si bel 
+W:Que sanle a son musel 
+W:Qu'il doive traire à se fin. 
+W:Et quant il font li molin 
+W:Ensanle tout quatre, 
+W:Et au plastre batre
+W: En hoquetant 
+W:Sont si séduisant, 
+W:Si gai, si joiant
+W: Et si riant 
+W:Chil iiij enfant 
+W:Que nule gent tant.
+W:
+W:
+W: Chief bienséans, 
+W: On des fremains, 
+W:Plain front reluisans et parans, 
+W: Res gars atraians 
+W: Vairs humelians, 
+W: Catillans et frians.
+W:Nés par mesure au vi aire afférans, 
+W: Bouchete rians, 
+W: Vermeillete, a dens blans.
+W: Gorge bien naissans, 
+W: Col reploians, 
+W: Pis dur et poignans, 
+W: Boutine soulevans, 
+W: Manière avenans, 
+W: Et plus li remanans
+W: Ont fait tant denchans 
+W: Que pris est Adans.
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:Aptatur.
+
+
+X: 404
+T:J'os bien mamie/Je n'os a ma mie/Seculum
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f81.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n351
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=120
+K:C Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble_8
+%%%%sysstaffsep    28.0pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+    c2 (3B/A/G/ | F2 ((3:2:2E/F)| G2 ((3:2:2A/B)|d2 (3c/B/A/|B2 ((3:2:2A/B)|c2 z |
+w: J'os  bien**   à         m'a-* mie       par-*ler  lès** son        ma-* ri,   
+  (BA) (3A/G/F/| G2 ((3:2:2A/B)|c2 (3B/A/G/|F2    G|((3:2:2A/GA)  B|c2 z |
+w: Et*   bai-** sier       et*  a-   co-**  ler d'en-      cos-**té li;   
+   d2 (3c/B/A/|G2 (3A/B/c/ | (BA)    G|(AG)  F|(GA) ((3c/B/c/)|A2 z |
+w: Et   lui**  ort  ja-**    lous* cla-mer* Wi-hot*    aus-**  si,   
+   c2 (3B/A/G/|(AG) (3F/E/D/|D2 ((3:2:2F/G)|(AG)  F| G2 z |
+w: Et   hors**  de*   sa**   mai-      son*  en-*frem-er,  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   G2 (3G/F/E/|D2 ((3:2:2E/F) |G2 ((3:2:2A/B)|c2 (3B/A/G/|(AB) ((3:2:2A/G)|
+w:  Et   tous** mes      bons* de        ma-*miet- te**    a-*       che-* 
+   A2   G|(GF)  E|((3:2:2F/ED) ((3:2:2GA/)|(3G/F/E/  D  E|F2 z ||
+w: ver, et le* vi-       lai-**       ne*    fai-** re mu-ser     
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+   G2   A |B2 ((3:2:2A/B)|c2  B|((3:2:2c/BA) ((3:2:2GA/)|((3:2:2G/FE)   F|G2 z |
+w: Je n'os à         ma*  mie a-       ler**        Pour*         son** ma-ri    
+  (EF) ((3:2:2E/D)|C2  E |G2    A|B2  G| (AG)  F |G2 z |
+w:Que*        il*  ne se peust de mi Gar- de* do- ner.  
+   A2   B|c2 (3B/A/G/| F2 ((3:2:2GA/) | G (3F/E/D/ ((3:2:2EF/)|((3:2:2E/DC) D|E2 z |
+w: Car je ne   puis** gar-**           der  D'en-**       cos-*       té***  li     
+   G2  F|((3:2:2E/DE)  F| G2 ((3:2:2F/G)|A2  B | c2 z |
+w: De son       bel** vi- ai-       re*  re-gar-der,   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   c2 ((3:2:2Bc/)|((3:2:2B/AG) ((3:2:2GF/)|((3:2:2E/DC) ((3:2:2D/E)|((3:2:2G/AGF)|((3:2:2E/FE) D |
+w: Car       en-*        tre**        a-*         mie**        et*         a-***         mi**  An 
+   E2    D |(CB,) C |D2  E|(DC) ((3:2:2C/B,)|C2 z || 
+w:jeux sont a*  che-ler Li mal*       d'a-* mer.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3]
+C3 | B,3 | C3 | D3 | E3 | C3 |
+w:Seculum ~ ~ ~ ~ ~
+                               B,3 | C3 | C3 | B,3 | D3 | C3 |
+D3 | C3 | B,3 | A,3 | A,3 | A,3 |
+                                 C3 | A,3 | G,3 | A,3 | C3 |
+C3 | A,3 | C3 | C3 | B,3 | 
+                          A,3 | C3 | G,3 | G,3 | F,3 || 
+W:
+W:J'os bien à m'amie parler 
+W: Lès son mari, 
+W:Et baisier et acoler 
+W: D'encosté li; 
+W:Et lui ort jalous clamer 
+W: Wihot aussi,
+W:Et hors de sa maison enfremer, 
+W:Et tous mes bons de mamiette achever,
+W:Et le vilaine faire muser
+W:
+W:
+W:Je n'os à ma mie aler
+W: Pour son mari 
+W:Que il ne se peust de mi 
+W: Garde doner. 
+W:Car je ne puis garder 
+W: D'encosté li 
+W:De son bel viaire regarder, 
+W:Car entre amie et ami 
+W:An jeux sont a cheler 
+W: Li mal d'amer.
+W:
+W:
+W:Seculum
+
+
+X: 405
+T:J'ai adès d'amour chanté/Omnes
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f81.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n356
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=110
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+V:1 clef=treble_8
+V:2 clef=treble_8
+%
+%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+    C2 ((3:2:2D/E)|F2   E |(DC)    B,|C2 z | D2 ((3:2:2C/B,)|C2  F |
+w: J'ai       a-*  dès d'a-mour* chan-té     et        ser-* vi En 
+   E (3:2:2D/C ((3:2:2D/E)|F2 z | C2 (3D/E/F/| E2  C |(DC) _B,| C2  F |
+w:bon**	              es-*poir    Ma   dame**  et  si ai* guer- pi pour
+  ((3:2:2E/DC) ((3:2:2D/C)| F2 z |(DC)  B, | C2 (3B,/A,/G,/|A,2 B, C2 z |
+w:       li**         a-*  voir    Es-*cole  a-   mis**     et  a-voir   
+    F   F   F |  F2   E |((3:2:2E/DC)   D |  E2   D |((3:2:2E/DC)  B, | C2 z ||
+w: Est che don drois k'a-       mour** me   Lais-sant       ne-** nil voir.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+  F,6 | G,2 z | F,3 | D,3 | F,2 z | 
+w:Omnes. ~ ~ ~ ~
+	 			 F,6 | F,2 z | A,3 | G,3 | F,2 z |
+  F,6 | G,2 z | F,3 | D,3 | F,2 z|
+				 F,3 | F,2 z | A,2 z | G,6 | F,2 z ||
+%
+W:
+W:J'ai adès d'amour chanté et servi 
+W: En bon espoir 
+W:Ma dame et si ai guerpi 
+W: Pour li avoir
+W:Escole amis et avoir 
+W:Est che don drois k'amour me
+W: Laissant nenil voir.
+W:
+W:
+W:Omnes.
+
+
+X: 406
+T:Dame bele/Fi Mari/Nus n'iert ja jolis 
+C:Adam de la Halle
+B:Montpellier Codex 300v
+F:https://stcpress.org/miscellaneous/damme_belle_fi_maris_nus_niert/damme_belle_pg1.jpg
+F:https://stcpress.org/miscellaneous/damme_belle_fi_maris_nus_niert/damme_belle_pg2.jpg
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n506
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=120
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble_8
+%%sysstaffsep    22.00pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+   C2 D | F2  G | A2 (3G/F/E/ | D2  E |((3:2:2F/EF) G |
+w: Da-me bele et  a-   ve-**   nant et        de** biau
+    F2 z| F2 (3E/D/C/ | E2 (3E/D/C/|D2 (3D/C/B,/| C2 z|
+w: port,  Ar-  ri-**    vé   sui**  a    mal**   port. 
+    E2 ((3E/D/E/)| F2 ((3E/D/E/)| F2 z| (3:2:2A/  A  A ((3:2:2_B/A) | G2 ((3:2:2A/G)| F2 ((3:2:2E/D)|
+w:  Je    muir**   a    grant**	 tort,        Se je n'ai       de*   vous       con-*fort.      Sans*
+    C2 ((3:2:2D/E)| F2 z | E2  F |(GF) E | F3 ||
+w:  nul       res-*sort,  Sui mis  à* la  mort. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+   F2 (3F/E/D/|C2  D|  E2 (3E/D/C/ | D2 ((3:2:2C/D)|((3:2:2C/B,A,) B,|
+w: Fi   Ma-**  ri de vostre a-**    mour      Quar*        j'ai**  a- 
+   C2 z| (3:2:2C/  _B, C  D |(3:2:2E/ D  E z | F2 ((3:2:2E/D)| C2  D |
+w: mi,         Tel com il a-    fiert a-mi,    Qui       me*  sert et 
+    E2 (3E/D/C/ | D     C   B,| C2 z | E2  F |(GF)((3:2:2E/D) |C2 ((3:2:2D/E)|
+w: nuit  et**    jour, Sanz sé-jour,   De cuer mi-*      gnot* et        jo-* 
+   F2 z| (3:2:2F/   F    G   G | A2 ((3:2:4G/F//G//) E/|(3D/ E/  C/    D   B,| C3||
+w: li          Vi-lains vous de- mo-       ri-**    tés,  et je m'en vois  à   li. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3][K:F]
+   F,2   G, |F,2 B,|A,2  F, |G,3|F,2 z|
+w: Nus n'iert ja jo-lis s'il n'ai-me.
+(F,2G,|F,2)(B,|A,2)z|(F,2G,|F,2)(B,|
+A,3)|(F,2G,|F,2)(B,|A,2)(F,|G,3)|F,2 z|
+(F,2G,|F,2)(B,|A,2)(F,|G,3)|F,3||
+
+
+X: 407
+T:Mout me fu grief/Robin m'amie/Portare
+C:Adam de la Halle
+B:Montpellier Codex 192
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n508
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=130
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8 middle=B,
+%%%%sysstaffsep    22.00pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+     G   G  A|(3:2:2B/    c  B  A|(3:2:2G/   G  E  F|G  F  D|(3:2:2E/  E   D   C |
+w: Mout me fu      grief li dé-par-     tir de ma-mi-e-te La       jo-lie au cler 
+   B, z2|E (3:2:2^F/    G     F | E (3F/E/D/ C|D z2| (3:2:2c/  c  B  A |
+w:vis.  Qui      est blanche  et ver- mel-**le-te,         Co-me ro-se  
+   G   F  A |(3:2:2G/   G  A    B| c z2|(3:2:2G/   G   A    B |
+w:par de-sus      lis, Ce m'est a-vis.       Son très dous res 
+   A  G    F|  E   A2| G   F    E |  G ^F   G|  A z2|
+w:Mi fait fre-mir, Et  si oell vair ri-ans lan-guir. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   ^F ((3:2:2D/CD) | E   G2| A (BA)| G z2|  c    B   A|
+w: Ha       diex!** Com-man la lais-*sai!  Blan-che-te 
+  (3:2:2G/   G   E    D|(3:2:2G/    G    A    B | G z2| (3:2:2c/ c   B (3B/A/G/| A   G   G |
+w:    co-   me flour de      lis, Quant vous ver-rai!        Da-me  de   va-** lour Ver-mel-
+  ^F (3:2:2D/ C   D | E  ((3:2:4F/GFG/)| E    A    B|((3G/F/G/) E   F  |G2 z||
+w:le       co-me rose en        mai,*** Pour vous sui   en**  grant do-lour.  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+   C (DE)|(3E/D/C/ B,2| C  (ED)| C z2| E  G2|
+w: Ro-bin*  m'ai-**me, Ro- bin* m'a.  Ro-bin 
+   ^F (FG)| E ((3:2:2D/CD)| E E2 |D (ED)|C z2|
+w:m'a  de-*man-***         dé-e, se m'a-*ra.  
+    C (DE)|  C B,2 |C (DE)|  C ((3:2:2D/CB,)|
+w: Ro-bin* m'a-cha- ta cor-*roi-      e,**   
+   C (DE)| C  B,2|C  (DE)|C ((3:2:2B,/CD)|E    G2|
+w: et au-*mon-iè- re de-*soi-      e**   Pour-quoi
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    ^F (FG)|  E ((3:2:2D/CD)| E    E2| D  (ED)| C z2|
+w: donc ne*  l'a-      me-** roie, A  leur i-*  va.  
+   C (DE)|  C   D2|  C (ED)|C z2| E G2 |
+w: Ro-bin* m'ai-me, Ro-bin* m'a. Ro-bin 
+   ^F  (FG)| E((3:2:2D/CD)|E  E2|D (ED)|C2 z||
+w: m'a  de-*man-***        dé-e, se m'a-*ra.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3]
+  (CB,A,)|(CD2)|(CA,2)|(CB,G,)|A,G,2|
+w: Portare. ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+^F, z2|A, ((3:2:2G,/CB,)|A, A,2|G, z2|C z2|
+(CB,A,)|  (CD2)|(CA,2)|C z2|
+(CB,G,)|(CD2)|(CA,2)|(CB,G,)|(A,G,2)|
+^F, z2|A, ((3:2:2G,/CB,)|A, A,2|G, z2|  C z2|
+(CB,A,)|(CD2)|(CA,2)|(CB,G,)|(A,G,2)|
+^F, z2|A, ((3:2:2G,/CB,)|A, A,2|G, z2|C2 z||
+%
+W:
+W:Mout me fu grief li départir 
+W:De m'amiete la jolie au cler vis. 
+W:Qui est blanche et vermellete, 
+W:Come rose par desus lis, 
+W: Ce m'est avis. 
+W: Son très dous res 
+W: Mi fait fremir, 
+W:Et si oell vair rians languir. 
+W:Ha diex! Comman la laissai! 
+W:Blanchete come flour de lis, 
+W: Quant vous verrai! 
+W: Dame de valour 
+W:Vermelle come rose en mai, 
+W:Pour vous sui en grant dolour.
+W:
+W:
+W: Robin m'aime, 
+W: Robin m'a. 
+W:Robin m'a demandée, 
+W: Se m'ara. 
+W:Robin m'achata corroie, 
+W:Et aumonière de soie 
+W:Pourquoi donc ne l'ameroie, 
+W: A leur iva.
+W: Robin m'aime, 
+W: Robin m'a. 
+W:Robin m'a demandée, 
+W: Se m'ara.
+W:
+W:
+W:
+W:
+W:Portare.
