@@ -1,0 +1,21 @@
+%abc-2.1
+%%barnumbers
+
+X:1
+T:龙芯誓词
+M:4/4
+L:1/4
+Q:1/4=120
+K:F
+M:2/4
+f/c//c// (c | c/)c//B// A/c/ | d/c/ d//c//d//e// | (f2 | f2) |
+g/d//d// (d | d/)z/ d/e/ | f/e/ f//e//f//g// | (a2 | a2) |
+M:4/4
+d>d f d | c d d2 | f/f/ f/d/ e c | A4 | d>c d A | F A G2 | e/e/e/c/ f e | d4 |
+d>d d G | (A/G/) (F/G/) D2 | G/G/ G/A/ c G | A4 | A>A d d | c G A2 | d/d/ d/B/ c B | G4 |
+w:一 腔 热 血|一*颗*心，|精 忠 报 国 龙 芯|人。 |誓 把 强 国|当 己 任，|敢 用 青 春 铸 忠|魂
+|:d>d d d | c d d2 | f/f/ f/d/ e c | A4 | A>A d d | c G A2 | d/d/ d/B/ dg | g4 |
+w:十 年 砺 刃 度 清 苦， 一 朝 亮 剑 破 敌 阵。 待 到 中 华 腾 飞 日， 且 让 世 界 听 龙 吟。
+d>d d d | c d d2 | f/f/ f/d/ e c | A4 | A>A d d | c G A2 | e/e/ e/c/ f e | d4 :|
+w:十 年 砺 刃 度 清 苦， 一 朝 亮 剑 破 敌 阵。 待 到 中 华 腾 飞 日， 且 让 世 界 听 龙 吟。
+| g g g g | e2 c2 | (d4 | d4) |]
