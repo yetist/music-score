@@ -1,0 +1,61 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Alpauffahrt. Ruggusserli. Bb
+T:Naturjodel rund um den Saentis (www.roothuus-gonten.ch)
+%%partsbox
+%P:
+Q:1/4=60
+R:Ruggusserli
+M:6/4
+L:1/4
+K:Bb %%MIDI gchordon
+[P:A] F>F/F//A E/>F/GA, | "Bb"B,>B,GF/>F/GB, | "F7"A,>A, G/(F/ F/>)F/ AA, | "Bb"B,>B,GF !fermata!B,2 | 
+"F7"F>F/F//A E/>F/GA, | "Bb"B,>B,GF/>F/GB, | "F7"A,>A, G/(F/ F/>)F/ AA, | "Bb"B,4z2 |] 
+[P:B] "Bb"B,>D/F//G B,/>B,/FB, | "F7"A,>E/F// G A,/>A,/F2 | A,>E/F//GA,/>A,/FA, | "Bb"B,>D/F//GB,!fermata!F2 | 
+"Bb"B,>D/F//G B,/>B,/FB, | "F7"A,>E/F// G A,/>A,/F2 | F>F/F//AF/>F/GA, | "Bb"B,4z2 |] 
+[P:C] "Bb"B,>B, G/(F/ F/>)F/BB, | "F7"A,>A, G/(F/ F/>)F/A2 | A,>A, G/(F/ F/>)F/ AA, | "Bb"B,>B,/B,//GF !fermata!B,2 | 
+"Bb"B,>D/F// G/(F/ F/>)F/BB, | "F7"A,>E/F// G/(F/ F/>)F/A2 | A,>A, G/(F/ F/>)F/ AA, | "Bb"B,4z2 |] 
+W:
+%W:Parts: ABC
+W:Anmerkung: Joh. Inauen (Franze Johann, 1908-1975) und seine Schwestern Albertine und Berta, 
+W: Brülisau mit Streichmusik Franzsepp Inauen.
+W:Typisch innerrhodische Vokalisation. Franze Johann setzt sein Mittelregister gezielt ein, 
+W: singt "f" mal in Brust - mal in Kopfstimme.
+W:Willi Keller (Hobbysänger) singt dieses Ruggusserli unter dem Namen "em Franze Johann sis".
+W: 
+W:Vocalisation: https://www.roothuus-gonten.ch/mediendateien/jodel/pdf/Alpauffahrt.pdf
+W: *AUDIO*: https://www.roothuus-gonten.ch/cms/index.php/de/naturjodel-rund-um-den-saentis
+% © 2015 ROOTHUUS GONTEN. #1079. SCH028A
+% Sep 8, 2018
+
+X:2
+T:Alpauffahrt. Ruggusserli. F 7+
+%%partsbox
+%P:
+Q:1/4=60
+R:Ruggusserli
+M:6/4
+L:1/4
+K:F %%MIDI gchordon
+[P:A] c>c/2c/4e B/2>c/2dE | "F"F>Fdc/2>c/2dF | "C7"E>E d/2(c/2 c/2>)c/2 eE | "F"F>Fdc !fermata!F2 | 
+"C7"c>c/2c/4e B/2>c/2dE | "F"F>Fdc/2>c/2dF | "C7"E>E d/2(c/2 c/2>)c/2 eE | "F"F4z2 |] 
+[P:B] "F"F>A/2c/4d F/2>F/2cF | "C7"E>B/2c/4 d E/2>E/2c2 | E>B/2c/4dE/2>E/2cE | "F"F>A/2c/4dF!fermata!c2 | 
+"F"F>A/2c/4d F/2>F/2cF | "C7"E>B/2c/4 d E/2>E/2c2 | c>c/2c/4ec/2>c/2dE | "F"F4z2 |] 
+[P:C] "F"F>F d/2(c/2 c/2>)c/2fF | "C7"E>E d/2(c/2 c/2>)c/2e2 | E>E d/2(c/2 c/2>)c/2 eE | "F"F>F/2F/4dc !fermata!F2 | 
+"F"F>A/2c/4 d/2(c/2 c/2>)c/2fF | "C7"E>B/2c/4 d/2(c/2 c/2>)c/2e2 | E>E d/2(c/2 c/2>)c/2 eE | "F"F4z2 |] 
+W:
+%W:Parts: ABC
+%W:Anmerkung: Joh. Inauen (Franze Johann, 1908-1975) und seine Schwestern Albertine und Berta, 
+%W:Brülisau mit Streichmusik Franzsepp Inauen.
+%W:Typisch innerrhodische Vokalisation. Franze Johann setzt sein Mittelregister gezielt ein, 
+%W:singt "f" mal in Brust - mal in Kopfstimme.
+%W:Willi Keller (Hobbysänger) singt dieses Ruggusserli unter dem Namen "em Franze Johann sis".
+W:Vocalisation: https://www.roothuus-gonten.ch/mediendateien/jodel/pdf/Alpauffahrt.pdf
+W:*AUDIO*: https://www.roothuus-gonten.ch/cms/index.php/de/naturjodel-rund-um-den-saentis
+% © 2015 ROOTHUUS GONTEN. #1079. SCH028A
+% Sep 8, 2018
+
+

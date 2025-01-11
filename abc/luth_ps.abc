@@ -1,0 +1,213 @@
+%abc
+%%%%              TABLATURES de LUTH 
+%
+%
+%
+%
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/               
+                   
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+%    Abctab2ps	http://www.lautengesellschaft.de/cdmm/ (obligatoire pour les partitions en tablatures
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  jeudi 13 novembre 2008 à 13:44
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+%%pageheight 29.7cm
+%%pagewidth 21.0cm
+
+%%textfont CaslonAntique 18
+
+%%titlefont CaslonAntique 22
+%%subtitlefont CaslonAntique 16
+%%composerfont   CaslonAntique 10
+
+
+%%headerfont CaslonAntique 12
+%%footerfont CaslonAntique 8
+
+%%annotationfont CaslonAntique 10
+%%infofont CaslonAntique 16
+%%historyfont CaslonAntique 16
+
+
+%%measurefont CaslonAntique 14
+%%partsfont CaslonAntique 14
+%%repeatfont CaslonAntique 14
+
+%%tempofont CaslonAntique 14
+%%vocalfont CaslonAntique 16
+%%voicefont CaslonAntique 16
+%%wordsfont CaslonAntique 16
+%%gchordfont CaslonAntique 14
+%%setfont-1 CaslonAntique 16
+%%setfont-2 CaslonAntique 16
+%%setfont-3 CaslonAntique 16
+%%setfont-4 CaslonAntique 16
+
+%%textfont CaslonAntique 25
+%%vskip 0.5cm
+%%center T A B L A T U R E S    de    L U T H     
+%%textfont CaslonAntique 18
+%%vskip 0.5cm          
+%%center à jouer sur guitare avec la 3ème corde de sol en fa #
+%%textfont CaslonAntique 16
+%%center 
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont CaslonAntique 12
+%%text Transcriptions, mises en partition par 
+%%text Eric Forgeot - http://anamnese.fr.st
+%%text Travail sous licence CC-BY-NC-SA
+%%vskip 0.0cm
+%%text Version :  novembre 2008
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	T A B L A T U R E S    de    L U T H - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont CaslonAntique 12
+
+%%--landscape 1
+
+%%--EPS luth.eps
+% eps inclusion doesn't seem to work in abctab2ps
+
+%%breakall 0
+
+%!--abctab2ps -paper A4 -b % doesn't seem to work
+
+X:1
+T:Une jeune fillette
+Z:Eric Forgeot - http://anamnese.online.fr
+H:Micard 1576 (Chardavoine)   ?
+N:luth donc 3 ème corde de sol en fa#
+L:1/4
+M:C
+K:C french
+%%scale 0.59
+%%--strictness2 1
+%%tabrhstyle modern
+%%tabfontitalian itBorrono
+%%tabfontfrench frFrancisque
+%%--historicstyle
+%%indent 0.6cm
+%%sysstaffsep  30pt
+%%barnumberfont Times-Italic 10 box
+V:L1 clef=frenchtab name="Luth 1"
+V:L2 clef=frenchtab name="Luth 2"
+V:G1 clef=spanishtab name="Guitare 1"
+V:G2 clef=spanishtab name="Guitare 2"
+%
+[V:L1] ,a1 | [a,bc1] [c,a] [d,,c] [a,b] | [c,a,c,1]>a ,d1 [,dd]     | [a,,c1] ,,,c c ,,,b     | [,a,c3] ,a1    |\
+[a,bc1]   [c,a]    [d,,c/]   cda       | [c,a,c3/] a/ ,d ,c [,da1] | [a,,c1] [a,,c] c ,,,b   | [,a,c2] ,,,,,a ||
+[ha,f2] [h,,f1] [f,a] | [da,,,a1] ,,,c/ ,,a ,,b ,,d [ca1] | [da1] [f,a] [h,,f] [ha] | [fca2] [ca1] c     |\ 
+[da,c1] ,,b [a,d] a   | [c,da1] ,,a/ a [,db1] a            | [,c,c1] [a,b] [a,a] ,e | [a,,c2] ,,,,,a/ cdf |
+[ha,f2] [h,,f1] [f,a] | [da,c1] ,,,c/ ,,a ,,b ,,e [ca1]    |[da1] [f,a] [h,,f] [ha] | [f,a/] dca [ca1] c  |\
+[da,,,a/] fdc [a,,,a1] [a,d] | [c,da/] dca ,d ,c ,a1 | [,c,c/] ,d [a,,c1] [a,a/] ,e/4 ,c ,e1 | [a,,c2] ,,,,,a ||
+%
+[V:L2] x1 | [,a,c,a1] [,a,b] [,a,c,] ,c | [,d,,c]>,c ,a1 [,a,,c] | [,c,,a1] [,a,,,d] [,,d,,c2] | [,,c,,a2] ,,,c |\
+[,a,c,a1] [,a,b] [,a,c/] ,,d ,a ,c | [,d,,c/] a ,d ,c ,a1 [,a,,c] | [,c,,a1] [,a,,,d] [,,d,,c] ,a/ ,,d | [,,c,,a2] ,,,c ||
+[,d,,,d2] [,d,,,d1] [c,,a]  | [a,bc2] ,,,,,a1 [,ea,c]  | [a,,c1] [c,,a] [dd,,,d] ,f | [c,d,,c1] ,c [,da,c] ,d  |\
+[a,b,,a3/] ,d/ [,c,,a1] ,c  | [,d,a1] ,,d [,a,,,d1] ,,b |[,,d,a1] [,a,,,a] [,a,,c2]  | [,a,,,a2] ,,b/ ,,d ,a ,c | 
+[,d,,,d3/] ,c/ [,d,,,d] a [c,,a1]|[a,b,,a/] ,,a ,,b ,,d ,a ,c [,ea,,c1] | [a,,c1] [c,,a] [dd,,,d] ,f | [c,d,,c1] ,c [,da,c/] ,c ,d ,a |\
+[a,bc3/] ,d/ [,c,,a] ,d a ,c | [,d,a/] a ,d ,c [,a,,,d1] ,,b | [,,d,a1] [,,b,,a/] ,,d [,a,,c] ,,,,a ,,,,c1 | [,a,,,,a2] ,,,c ||
+%
+%% <!> The parts below is just a carbon copy of the above
+%
+[V:G1] ,a1 | [a,bc1] [c,a] [d,,c] [a,b] | [c,a,c,1]>a ,d1 [,dd]     | [a,,c1] ,,,c c ,,,b     | [,a,c3] ,a1    |\
+[a,bc1]   [c,a]    [d,,c/]   cda       | [c,a,c3/] a/ ,d ,c [,da1] | [a,,c1] [a,,c] c ,,,b   | [,a,c2] ,,,,,a ||
+[ha,f2] [h,,f1] [f,a] | [da,,,a1] ,,,c/ ,,a ,,b ,,d [ca1] | [da1] [f,a] [h,,f] [ha] | [fca2] [ca1] c     |\ 
+[da,c1] ,,b [a,d] a   | [c,da1] ,,a/ a [,db1] a            | [,c,c1] [a,b] [a,a] ,e | [a,,c2] ,,,,,a/ cdf |
+[ha,f2] [h,,f1] [f,a] | [da,c1] ,,,c/ ,,a ,,b ,,e [ca1]    |[da1] [f,a] [h,,f] [ha] | [f,a/] dca [ca1] c  |\
+[da,,,a/] fdc [a,,,a1] [a,d] | [c,da/] dca ,d ,c ,a1 | [,c,c/] ,d [a,,c1] [a,a/] ,e/4 ,c ,e1 | [a,,c2] ,,,,,a ||
+%
+[V:G2] x1 | [,a,c,a1] [,a,b] [,a,c,] ,c | [,d,,c]>,c ,a1 [,a,,c] | [,c,,a1] [,a,,,d] [,,d,,c2] | [,,c,,a2] ,,,c |\
+[,a,c,a1] [,a,b] [,a,c/] ,,d ,a ,c | [,d,,c/] a ,d ,c ,a1 [,a,,c] | [,c,,a1] [,a,,,d] [,,d,,c] ,a/ ,,d | [,,c,,a2] ,,,c ||
+[,d,,,d2] [,d,,,d1] [c,,a]  | [a,bc2] ,,,,,a1 [,ea,c]  | [a,,c1] [c,,a] [dd,,,d] ,f | [c,d,,c1] ,c [,da,c] ,d  |\
+[a,b,,a3/] ,d/ [,c,,a1] ,c  | [,d,a1] ,,d [,a,,,d1] ,,b |[,,d,a1] [,a,,,a] [,a,,c2]  | [,a,,,a2] ,,b/ ,,d ,a ,c | 
+[,d,,,d3/] ,c/ [,d,,,d] a [c,,a1]|[a,b,,a/] ,,a ,,b ,,d ,a ,c [,ea,,c1] | [a,,c1] [c,,a] [dd,,,d] ,f | [c,d,,c1] ,c [,da,c/] ,c ,d ,a |\
+[a,bc3/] ,d/ [,c,,a] ,d a ,c | [,d,a/] a ,d ,c [,a,,,d1] ,,b | [,,d,a1] [,,b,,a/] ,,d [,a,,c] ,,,,a ,,,,c1 | [,a,,,,a2] ,,,c ||
+%% end of copied parts
+% 
+%%begintext
+%%
+%%Une jeune fillette de noble coeur,
+%%Plaisante et joliette de grand' valeur,
+%%Outre son gre on l'a rendu' nonnette
+%%Cela point ne luy haicte dont vit en grand' douleur.
+%%
+%%Vn soir apres complie seulette estoit,
+%%En grand melancolie se tourmentoit,
+%%Disant ainsi, douce Vierge Marie
+%%Abregez moy la vie, puisque mourir je doy.
+%%endtext
+
+Mon pauvre coeur souspire incessament,
+Aussi ma mort desire journellement.
+Qu'a mes parens ne puis mander n'escrire,
+Ma beaute fort empire, je vis en grand tourment.
+
+Que ne m'a-t-on donnee a mon loyal amy,
+Qui tant m'a desiree aussi ay-je moy luy,
+Toute la nuict my tiendroit embrassee
+Me disant la pensee et moy la mienne a luy.
+
+A Dieu vous dy mon pere, ma mere e mes parens,
+Qui m'avez voulu faire nonette en ce couvent,
+Ou il n'y a point de resjouissance,
+Je vis en desplaisance je n'attens que la mort.
+
+La mort est fort cruelle a endurer,
+Combien qu'il faut par elle trestous passer.
+Encor'est plus grand mal que j'endure,
+Et la peine plus dure qu'il me faut supporter.
+
+A Dieu vous dy les filles de mon pays,
+Puis qu'en cest' Abbaye me faut mourir,
+En attendant de mon Die la sentence,
+Je vy en esperance d'en avoir reconfort.

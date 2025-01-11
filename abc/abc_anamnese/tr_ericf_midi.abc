@@ -1,0 +1,475 @@
+%abc
+%%%%
+%
+%     Fichiers temporaires
+%
+%
+%
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/        
+%
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+%    Abctab2ps	http://www.lautengesellschaft.de/cdmm/ (obligatoire pour les partitions en tablatures
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  dimanche 06 septembre 2009 à 19:37
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+%%pageheight 29.7cm
+%%pagewidth 21.0cm
+
+%%textfont CaslonAntique 18
+
+%%titlefont CaslonAntique 22
+%%subtitlefont CaslonAntique 16
+%%composerfont   CaslonAntique 10
+
+
+%%headerfont CaslonAntique 12
+%%footerfont CaslonAntique 8
+
+%%annotationfont CaslonAntique 10
+%%infofont CaslonAntique 16
+%%historyfont CaslonAntique 16
+
+
+%%measurefont CaslonAntique 14
+%%partsfont CaslonAntique 14
+%%repeatfont CaslonAntique 14
+
+%%tempofont CaslonAntique 14
+%%vocalfont CaslonAntique 16
+%%voicefont CaslonAntique 16
+%%wordsfont CaslonAntique 16
+%%gchordfont CaslonAntique 14
+%%setfont-1 CaslonAntique 16
+%%setfont-2 CaslonAntique 16
+%%setfont-3 CaslonAntique 16
+%%setfont-4 CaslonAntique 16
+
+%%textfont CaslonAntique 25
+%%vskip 0.5cm
+%%center Fichiers temporaires     
+%%textfont CaslonAntique 18
+%%vskip 0.5cm          
+%%center 
+%%textfont CaslonAntique 16
+%%center 
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont CaslonAntique 12
+%%text Transcriptions, mises en partition abc par 
+%%text Eric Forgeot - http://anamnese.fr.st
+%%text Travail sous licence cc-by-nc-sa
+%%vskip 0.0cm
+%%text Version :  septembre 2009
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	Fichiers temporaires - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont CaslonAntique 12
+
+
+
+X:1
+T:Mazurka
+C:trad.?
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:3/4
+L:1/8
+Q:1/4=125
+K:F
+FD A2 AB | cd A4 | BA G2 AG | FE F2 D2 |
+FD A2 AB | cd A4 | BA G2 AG | FE D4 |
+dc B2 BA | Bc d4 | cB A2 AG | AB A4 |
+dc B2 BA | Bc d4 | cB A2 GF | EF D4 |]
+
+
+
+
+X:2
+T:Bransle
+C:trad.
+D:Perlinpinpin Fòlc - Als Curiós -- Musica gasconha
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:6/8
+L:1/8
+Q:1/4=110
+K:G
+|: B2 cB cd | c2 BA GA |
+B2 cB cd | c2 B A2 A :|
+|: B2 cB AG | A2 BA GF |
+G2 A B2 G/2G/2 | EF G A2A :|
+
+
+
+
+X:3
+T:The storm before the calm
+C:Blood Axis
+D:Codreanu, Fidelis Legio
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:none
+L:1/8
+Q:1/4=57
+K:A
+%%MIDI transpose 0
+%%MIDI program 0
+%%staves {1 2}
+%%vskip 2cm
+V:1
+|: [M:5/4] (4:5:2c2A2 d/2d/2-d2-d/2A/2 | [M:4/4] B2 G-G/2d/2 c3-c/2A/2 :|
+V:2
+%%MIDI transpose -24
+%%MIDI program 0
+K:A bass
+|: [M:5/4] (4:5:4F,FCF B,B[Fd]B | [M:4/4] CB[Fd]B ccAc :|
+
+
+
+
+
+
+X:4
+T:Overture to the sun
+C:Walter Carlos - (Terry Tucker ?)
+D:Clockwork Orange
+Z:transcription : anamnese@laposte.net
+M:2/4
+L:1/4
+Q:1/4=185
+K:C
+V:1
+^dgfd c=d ^d2 | _BdcB c2c2|\
+^dgfd c=d ^d2 | _BdcB c2c2|!
+c_B^G=G B2B2 | Gdc_B c2c2|\
+c_B^G=G B2B2 | Gdc_B c2c2|!
+^dgfd c=d ^d2 | _BdcB c2c2|\
+^dgfd c=d ^d2 | _BdcB c2c2|!
+c_B^G=G B2B2 | Gdc_B c2c2|\
+c_B^G=G B2B2 | Gdc_B c2c2|!
+egegf/2g/2ag2 | f/2g/2aged2d2|
+egegf/2g/2ag2 | f/2g/2aged2d2|\
+c2c3/2c/2c4 ||
+V:2
+[G3^D3C3]C[D3C3^G,3]G, | [F3D3_B,3]B,[G2C2][G2C2]|\
+[G3^D3C3]C[D3C3^G,3]G, | [F3D3_B,3]B,[G2C2][G2C2]|!
+[^D3C3^G,3]G,[F3=D3_B,3]B,|[D3_B,3G,3]G,[G3^D3C3]C|\
+[^D3C3^G,3]G,[F3=D3_B,3]B,|[D3_B,3G,3]G,[G3^D3C3]C|!
+[G3^D3C3]C[D3C3^G,3]G, | [D3_B,3F3]B,[G2C2][G2C2]|\
+[G3^D3C3]C[D3C3^G,3]G, | [D3_B,3F3]B,[G2C2][G2C2]|!
+[^D3C3^G,3]G,[=D3_B,3F3]B, | [D3_B,3G,3]G,[G3^D3C3]C|\
+[^D3C3^G,3]G,[=D3_B,3F3]B, | [D3_B,3G,3]G,[G3^D3C3]C|!
+[G2E2C2]C2[c3A3F3]C | [c3A3F3]C[A2^F2D2][A2F2D2]|
+[G2E2C2]C2[c3A3F3]C | [c3A3F3]C[A2D2^F2][A2D2F2]|\
+C2C3/2C/2C4 ||
+
+
+
+% Compositions personnelles
+X:5
+T:- - - 6 - - -
+
+
+
+
+%temp (morceaux non terminés de transcrire)
+X:6
+T:- - - 5 Temporaires - - -
+
+
+X:7
+T:Bransle double de Champaigne
+R:Bransle
+C:Claude Gervaise
+N:repris à partir de notes de brouillons (encore des erreurs)
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/4
+Q:1/4=155
+K:F
+G d | d3/2 e/2fe/2d/2 c | G dc A| BGA2 | FFGA | BGAG ||!
+GdcA | B G A2 | F/2G/2A/2B/2 AG | G^F G2 ||
+GBGBAG^F2 | [1 GA^FG | ABAG :| [2 GG^FG | GFG2 ||
+B2c2 | A2 GG| BBcc| AAG2 |
+BBB/2c/2d/2c/2 | c3/2 B/2 AG |
+
+X:8
+T:Est il conclud (Gaillarde)
+R:Gaillarde
+C:Claude Gervaise
+N:
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:6/4
+L:1/4
+Q:1/4=120
+K:C
+V:1
+G G G | A/2G/2F/2E/2 D C G3/2 F/2 | E2 E GGG | A2 GFE2 |\
+F2 F AAA | G2 F E G3/2 F/2 | E2 E AAA | G2 F E G3/2 F/2 |
+|: E2 E E F3/2 E/2 | D2 D E F3/2 E/2 | D2 D C G3/2 F/2 :| E2 E z6 |]
+V:2
+ccc | AA d A B/2A/2G/2F/2 | G2 G ccc | A/2G/2A/2B/2 c A A2 |\
+A2 A ccc | c3/2 B/2 A G/2F/2 G2 | G2 G ccc |
+V:3
+eee | f/2e/2d/2c/2 B c2 B | c2 c eee | f2 e d2 ^c |\
+d2 d fff | e2 d c2 B | c2 c fff e2 d c2 B |
+%/.../
+
+X:9
+T:Est il conclud (Pavane)
+R:Pavane
+C:Claude Gervaise
+N:
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+V:1
+G2 GG | A/2G/2F/2E/2 D E | FE G3/2 F/2 | E4 | G2 GG |\
+A2 A G-|G/2F/2 D E2 | F4 :|
+|: A2 AA | G2 G E | FE G3/2 F/2 | E4 |
+AAA | G2 F E G3/2 F/2 |
+|: E2 E E F3/2 E/2 | D2 D E F3/2 E/2 | D2 D C G3/2 F/2 :| E2 E z6 |]
+V:2
+c2 cc | AA d G | A G/2F/2 G2 | G4 |c2 cc | A/2G/2A/2B/2 c3/2 _B/2 | A _B A2 |\
+A4 :|
+|: c2 cc | c2 c G | A G/2F/2 G2 | G4 |
+
+
+X:10
+T:Norge 2
+N:pas terminé de transcrire !
+A:Hedmark ?
+O:Norge - Norway - Norv\`ege
+Z:transcription (d'oreille) : anamnese@laposte.net
+M:3/4
+L:1/8
+Q:1/4=250
+K:C
+AB ^c | d2 fe ^cA ^c | e2 gfefd^c | fed^cBAGA
+
+X:11
+T:accord violon
+N:
+M:4/4
+L:1/2
+Q:1/4=90
+K:C
+%%MIDI program 45
+G,DAe
+
+X:12
+T:accord guitare
+N:
+M:4/4
+L:1/2
+Q:1/4=90
+K:C
+%%MIDI program 45
+E,, A,, D, G, B, E
+
+X:13
+T:flûte à bec
+N:pas encore terminé !
+N:à utiliser avec une police non proportionnelle !
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:8/2
+L:1/2
+Q:1/4=130
+K:C
+C ^C D ^D E F ^F G G A A B |
+W:
+W:x   x   x   x   x   x   x   x   x   x   x   x
+W:
+W:x   x   x   x   x   x   x   x   x   x   x   x 
+W:x   x   x   x   x   x   x   x   x   x   O   O 
+W:x   x   x   x   x   x   x   x   O   O   x   O
+W:x   x   x   x   x   x   O   O   x   O   x   O
+W:x   x   x   x   x   O   x   O   x   O   O   O
+W:x.  x.  x.  o.  oo  x.  xo  oo  oo  oo  oo  oo 
+W:x.  o.  oo  oo  oo  x.  o.  oo  oo  oo  oo  oo
+W:
+W:C   C#  D   D#  E   F   F#  G   G#  A   A#  B
+W:
+W:
+W:x   O   w   w   w   w   w   w   w   w   w   w
+W:
+W:O   x   x   x   x   x   x   x   x   x   x   x 
+W:x   x   x   x   x   x   x   x   x   x   x   x 
+W:O   O   x   x   x   x   x   x   O   x   x   x
+W:O   O   x   x   x   x   O   x   x   O   x   x
+W:O   O   x   x   x   O   x   O   x   O   O   O
+W:oo  oo  oo  xo  oo  x.  x.  oo  oo  oo  oo  oo 
+W:oo  oo  oo  oo  oo  oo  o.  oo  oo  oo  oo  oo
+W:
+W:C   C#  D   D#  E   F   F#  G   G#  A   A#  B
+W:
+W:
+W:
+
+
+X:14
+T:guitare
+R:
+C:
+H:
+N:
+A:
+O:
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/4
+Q:1/4=70
+K:C
+"Am" cBAB | AE AE | ABcdcAB :| cdeeeedcBABcB |
+
+X:15
+T:
+R:
+C:
+N:
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/4
+Q:1/4=155% -2 tons
+K:D
+E/2 | FFF A/2G/2 F/2E/2 F E/2F/2 DDD C/2D/2 EE F2
+
+X:16
+T:
+R:
+C:
+N:
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/4
+Q:1/4=155
+K:C
+cFcc _d c _A/2 _B/2 c/2 d/2 | C F _E F G _A/2 A/2G/2 F |
+cFc f _e ^c 
+
+
+X:17
+T:The Tale of Sir Robin*
+C:
+N:rythm to be corrected and notes as well !
+D:Monty Python's Holy Grail
+O:
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/8
+Q:1/4=115
+K:G
+B,>E E>F G E2 F GE F^D E2 | E>F G>A B BB Ad cc B2 |
+GABcdddcBAAABA2 | GABBBAGA2 F2 | (G2)
+W:Bravely bold Sir Robin rode forth from Camelot. 
+W:He was not afraid to die, O brave Sir Robin. 
+W:He was not at all afraid to be killed in nasty ways, 
+W:Brave, brave, brave, brave Sir Robin! 
+
+
+X:18
+T:Company of Wolves (fiddle theme for weeding) *
+C:George Fenton ?
+N:retranscription still on progress
+N:original tune can be found 
+N:at http://garvalf.online.fr/temp/compagnie_des_loups_violons.mp3
+N:tuned up 1/2 step in the film
+N:- tune probably works only in AbcMus
+D:
+O:
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/8
+Q:1/4=160
+K:D
+%%MIDI program 110 %fiddle 
+V:1
+|: [D4A4 f2 ] .fg f2 dA | [A4e2] .e=f e2 dA | [D4A2] d2 d2 cB | [E4c]d ec [E4A4] |
+[D4A4 f2 ] .fg f2 dA | [A4e2] .e=f e2 dA | [D4A2] d2 d2 cB | [A,6c]d ec [D4d4] :|
+V:2
+|: z8 | z8 | z8 | z8 :|
+|: z8 | z8 | z8 | z8 :|
+%
+K:C
+V:1
+A2 d2 d2 cB | c2 e2 e2 cB |
+A2 d2 d2 cB | cd ec A2 c2|
+A2 d2 d2 cB | c2 e2 e2 cB |
+A2 d2 d2 cB | cd ec A4 |
+V:2
+A2 d2 d2 cB | C2 DC A,2 A,2 |
+F2 FE D2 F2 | E2 GE C2 E2 |
+C2 D2 D2 CB,| C2 DC A,2 A,2 |
+F2 FE D2 F2 | E2 GE C2 E2 |
+
+
+
+
+
+
+X:19
+T:Au chant de l'alouette*
+R:Chanson
+N:
+D:Pierre de Grenoble (Malicorne)
+O:France
+Z:transcription (d'oreille sauf les paroles) : anamnese@laposte.net
+M:4/4
+L:1/8
+Q:1/4=110
+K:C
+DADD G/2F/2E/2F/2 G/2F/2E/2F/2 | DADD G/2F/2E/2F/2 G2 | Gd/2dcG/2A/2G/2F/2A/2 G2 |
+D>D/2D/2 D C A, FEF G2 DDDFEDFED
+D/2E/2F/2G/2 A/2 G/2 F2 d/2c/2F/2 ""

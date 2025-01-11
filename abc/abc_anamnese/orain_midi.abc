@@ -1,0 +1,520 @@
+%abc
+%%%%        C H A N S O N S   DE  LA   H A U T E - B R E T A G N E 
+%                      par Adolphe Orain - 1902   
+%                        
+%
+%     Musiques traditionnelles des régions de France
+%                      
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/        
+%
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+%    Abctab2ps	http://www.lautengesellschaft.de/cdmm/ (obligatoire pour les partitions en tablatures
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  dimanche 06 septembre 2009 à 19:37
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+%%pageheight 29.7cm
+%%pagewidth 21.0cm
+
+%%textfont CaslonAntique 18
+
+%%titlefont CaslonAntique 22
+%%subtitlefont CaslonAntique 16
+%%composerfont   CaslonAntique 10
+
+
+%%headerfont CaslonAntique 12
+%%footerfont CaslonAntique 8
+
+%%annotationfont CaslonAntique 10
+%%infofont CaslonAntique 16
+%%historyfont CaslonAntique 16
+
+
+%%measurefont CaslonAntique 14
+%%partsfont CaslonAntique 14
+%%repeatfont CaslonAntique 14
+
+%%tempofont CaslonAntique 14
+%%vocalfont CaslonAntique 16
+%%voicefont CaslonAntique 16
+%%wordsfont CaslonAntique 16
+%%gchordfont CaslonAntique 14
+%%setfont-1 CaslonAntique 16
+%%setfont-2 CaslonAntique 16
+%%setfont-3 CaslonAntique 16
+%%setfont-4 CaslonAntique 16
+
+%%textfont CaslonAntique 25
+%%vskip 0.5cm
+%%center Chansons de la Haute-Bretagne     
+%%textfont CaslonAntique 18
+%%vskip 0.5cm          
+%%center Adolphe Orain
+%%textfont CaslonAntique 16
+%%center 
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont CaslonAntique 12
+%%text Transcriptions, mises en partition abc par 
+%%text Eric Forgeot - http://anamnese.fr.st
+%%text Travail sous licence cc-by-nc-sa
+%%vskip 0.0cm
+%%text Version :  septembre 2009
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	Chansons de la Haute-Bretagne - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont CaslonAntique 12
+
+
+%%footer Adolphe O r a i n   ~  Chansons de la Haute-Bretagne  ~
+
+%%note "/.../ Quelques personnes animées, elles aussi, du culte du souvenir, 
+%%note ont bien voulu nous aider dans nos recherches. 
+%%note Nous les remercions et nous les prions de continuer à écouter 
+%%note les fillettes dansant des rondes sur la place du village, 
+%%note la vieille filant sa quenouille, le pâtre rentrant, le soir, 
+%%note son troupeau à l'étable, le meunier dans son moulin, le jeune gars 
+%%note conduisant ses chevaux à l'abreuvoir, les lavandières près du doué, 
+%%note le laboureur aux champs, le bûcheron dans la forêt, le sabotier dans sa hutte,
+%%note et le paysan attardé par les chemins creux.
+%%note
+%%note C'est de cette façon, et en ces lieux, que l'on découvre la vieille poésie
+%%note populaire que les chansons de cafés-concerts tendent à faire disparaître.
+%%note
+%%note Rennes, août 1901."
+
+X:1
+T:Les sabots d'Anne de Bretagne
+R:chanson
+N:p.7
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:6/8
+L:1/8
+Q:1/4=150
+K:Bb
+G2G | B2B A2A | G2G B2B | c2c(d3 |\
+d2) z G2G | B2B A2A | G2G B2B | c2c(d3 |
+d2) z d2d | d2e (d3 | d2)cc2B | G2AB2B |\
+A2GA2A | G2B(d3 | d2) z c2e | d2c HB2A | G3-G2 z ||
+W:C'était Anne de Bretagne - avec des sabots (bis)
+W:Revenant de ses domaines,
+W:en sabot mirlitontaine, ah ! ah ! ah !
+W:Vive les sabots de bois !
+W:
+W:Revenant de ses domaines - avec des sabots (bis)
+W:Entourée de châtelaines
+W:en sabot mirlitontaine (...)
+W:
+W:Voilà qu'aux portes de Rennes,
+W:L'on vit trois beaux capitaines
+W:offrir à leur souveraine
+W:Un joli pied de verveine
+W:s'il fleurit tu seras reine
+W:Elle a fleuri la verveine
+W:Anne de France fut reine
+W:les breton sont dans la peine
+W:Ils n'ont plus de souveraine.
+
+X:2
+T:Le battoué cassé
+R:chanson
+N:p.
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:6/8
+L:1/4
+Q:1/4=120
+K:D
+F/2 | FE/2DF/2 | (F3/2E) F/2 | FE/2DF/2 | (F3/2E) z/2 | D3/2EF/2 | FD<E |
+B,/2 B,/2 B,/2 B,C/2 | DD<D | EF/2FD/2 | E>B, B,/2 B,/2 | B,E<D ||
+W:Du premier coup qu'ell' frappe, (bis)
+W:Son battoué a cassé, - digue ma dondaine,
+W:Son battoué a cassé, - digue ma dondé.
+W:
+W:La fille est désolée, Ell'se mit à pleurer.
+W:Par le grand chemin passe, Beau jeune cavalier.
+W:Qui lui demanda, belle, Qu'avez-vous à pleurer ? /.../
+
+X:3
+T:Les filles des forges de Paimpont
+R:chanson
+N:p.36
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=110
+K:F
+D | D E F G | A3B | c B A G | (F>E)D2 | F2 E D | ^C D E F | G E A G |
+F E F2 | F2 E D | ^C D E F | G E A G | F>E D2 ||
+W:Ce sont les fill's des forges, (bis)
+W:Des forges de Paimpont,
+W:Falaridon, falaridaine,
+W:Des forges de Paimpont,
+W:Falaridain', falaridon.
+
+X:4
+T:La jeune batelière
+R:chanson
+N:
+N:p.114
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+G | G2 A A | G (3F/2G/2A G>G | A>B c/2 B/2 A/2 G/2 | A>A G2 | A A G (3F/2G/2A/2 |
+G>G A>B | c/2 B/2 A/2 G/2 A>A | A (B/2G/2) A A/2 B/2 | (c/2B/2) A/2 B/2 G (F/2G/2) |
+A B/2 G/2 A A/2 B/2 | c/2 B/2 A/2 B/2 (B/2>F/2) G-|G2 z2 ||
+W:Ce sont trois garçons de la cour, qui s'en vont tous trois fair' l'amour
+W:*Iles* s'en vont tout le long des rivières à deux trois pas de la jeune batelière.
+
+X:5
+T:La cressonnière
+R:chanson
+N:
+N:p.136
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=135
+K:A
+A2A A |c>A A A | B2 B B | c>c B z | Bz B>d | c>B B A |
+cz c>B | c>d e z | Bz c>d | c>B A2 z ||
+
+X:6
+T:Les trois gas de guer
+R:chanson
+N:
+N:p.145
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+C C D | E2 G2 | D C C D | E2 G2 | D3E | E D D (A,/2C/2) |
+w:Il é-tait| trois bons | gas, il é-tait | trois bons | gas de | la vil-le de * |
+(3DDD D>E | E D C B,/2 C/2 | D2 C z ||
+w:Guer_ lon la, du | bourg de Ca-ren *|toir_.
+
+X:7
+T:La demande en mariage
+R:chanson
+N:
+N:p.1179
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/8
+Q:1/4=120
+K:A
+z4 z A B c | d3 d d d A B | (c2B) z 
+A B c | d3 d d d A B | (c2B) || 
+z B B e | e2 c2 A2 =c2 | d4 =c>d e d | B A B d =c3 B2 | A3 z || 
+z B B e | e2 ^c2A2 =c2 | d4 =c>d e d | B A B d =c3 B2 | A3 z || 
+
+X:8
+T:Adieu donc ma chère Nanon
+R:chanson
+N:p.227
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:3/4
+L:1/8
+Q:1/4=100
+K:C
+E | E A A3 B | A ^G A B3 A | G F E3E | E A A3 B |
+A ^G A B3 A | G F E3E | E A A B A (A/2B/2) |
+c c c c c/2 c/2 d/2 c/2 | B/2 A/2 ^G/2 A/2 B3 E |
+A B c c d c | A/2 B/2 ^G/2 F/2 E/2 F/2 G/2 B/2 A3/2 z ||
+W:J'ai fait une maîtresse, trois jours n'y a pas longtemps,
+W:je m'suis éloigné d'elle, je n'la vois pas souvent.
+W:J'irai la voir dimanch' n'aura-t-elle pas changé de sentiment ?
+W:Je n'en sais rien ; je me suis engagé pour sept ans, 
+W:adieu donc, ma chère Nanon.
+
+X:9
+T:Le bon messager
+R:chanson
+N:p.241
+N:la partition indique M:3/4
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+B A G2 | B2 DD | GG BA | G2B2 | DD G2 | BA G2 | B2DD | G2z2 | BB BA |
+Bc | dd | de dc | BG A2 || B A/2G/2 AA | DD GG | B A/2G/2 AA | DD G2 ||
+W:J'ai une amie dans le monde et ne sais où la trouver, et ne sais où la trouver.
+W:J'ai un message à lui faire et ne sais qui le fera. 
+W:La violettte double double, la violette doublera.
+
+X:10
+T:En revenant de Nantes
+R:chanson
+N:les barres de mesures ont été recopiée telles quelles
+N:p.255
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:6/8
+L:1/8
+Q:1/4=100
+K:C
+z4 z2 g | g3 f _e d | c3 G2 G | c B d c c z g | g3 f _e d |
+c z c B d | c z d _e f2 | g3 z2 g | g3 f _e d | c3 G2 z ||
+z4 z c B d | c z d _e d | c8 | 
+W:En revenant de Nantes, verde, verde, verde, 
+W:en revenant de Nantes, o mon bonnet, o mon bonnet.
+W:Je rencontre un' fille, verde, verde, verde,
+W:Je rencontre un' fille, o mon bonnet, o mon bonnet.
+
+X:11
+T:Le gars de Ruffigré
+R:chanson (Ronde)
+N:
+N:p.392
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=100
+K:F
+A A/2 A/2 c | (c2F2) | G G/2 G/2 G G | F2 z2 | c c/2 c/2 c c | (f2c) c | c d c B |
+A A A2 | A A/2 G/2 F F/2 G/2 | A G G F | A A/2 G/2 F F/2 G/2 | A G F2 ||
+W:Il était un bon drôle, du bourg de Ruffigné,
+W:qui allait voir les filles, les files de Rougé mes gars !
+W:trali dera, li de ra la lère,
+W:tra li de ra, li de ra la la !
+
+X:12
+T:Sous un tilleul un bal s'est donné
+R:chanson 
+N:
+N:p.121
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+B | B G D2 | A2 (A>G) | A B G B | B G D2 | A2 (A>G) | A B G2 ||
+
+
+X:13
+T:Coq mill' brill'
+R:chanson 
+N:4ème mesure erreur original : 3 croches et 1 croche pointée = 4.5 tmps
+N:p.266
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=120
+K:F
+F F/2 G/2 | A B G A | F2 F A | G F> G A | F2 A A/2 B/2 |
+c c B A | G c B A | G c B A | G c B A | G A B G |
+A F F G | A F G E | F2 F G | A F G E | F2 z2 ||
+W:Mon père a fait bâtir maison coq mill' brill' haridons,
+W:Par quatre-ving-dix-neuf maçons, /.../
+
+X:14
+T:La fille à marier
+R:chanson 
+N:
+N:p.269
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:6/8
+L:1/8
+Q:1/4=120
+K:Bb
+F F B c +segno+ || d d e d c | B2 F F B c | d d e d c | HB2 ||
+d d d | d3 c d e | f2 z d d d | d3 c d e | f2 z c c c | f2 f e2 d |
+c f f e2 d | c f f e2 d | Hc2 || F F B c +segno+||
+W:Il est pourtant temps, pourtant temps, ma mère
+W:Il est pourtant temps de me marier.
+W:Ma fille, nous n'avons point d'argent (2x)
+W:Ma mère nous avons du froment, 
+W:que n'le vendez-vous ? Que n'me mariez vous ?
+W:Il est pourtant temps...
+
+X:15
+T:La fille du boulanger de Rennes
+R:chanson 
+N:noté tel qu'il était écrit
+N:p.286
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:6/8
+L:1/8
+Q:1/4=120
+K:F
+c | f2 f f2 f | f2 e f f a2 | f3 z2 c |
+f2 f f2 f | f2 e f g g | g3 z2 g |
+b2 a2 g2 a2 | f2 e f g a2 | g3-g2 g |
+b2 a2 f2 a | f2 e f g | f4 ||
+
+X:16
+T:Les gas de Locminé
+R:chanson 
+N:
+N:p.306
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/16
+Q:1/4=120
+K:Bb
+d ^c d e | d2 c B c B c | d2 +accent+d2 d ^c d e | d3 c B c B A | G4 G2 G2 ||
+"Refrain." B3 A G ^F G A | +accent+B4 d ^c d e | d3 c B c B A | G2 d2 G2 G2 | 
+B3 A G ^F G A | +accent+B4 d ^c d e | d3 c B c B A | G4 z2 ||
+
+
+
+
+X:17
+T:Lève le pied
+R:chanson 
+N:
+N:p.378
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=80
+K:F
+E F | G c G/2 G/2 E/2 F/2 | G c G G/2 G/2 |
+G c B/2 _A/2 G/2 A/2 | F c F =A/2 B/2 | 
+c f/2 c/2 c/2 d/2 c/2 B/2 | A G c A/2 B/2 |
+c f/2 c/2 c/2 d/2 c/2 B/2 | A G F2 ||
+W:Nous étions trois filles bonnes à marier,
+W:nous nous en allâmes dans un pré danser.
+W:Lève le pied, ma compagne oh ! qu'il fait bon danser (2x)
+
+X:18
+T:Le coeur m'y bat
+R:chanson 
+N:
+N:p.383
+B:Chanson de la Haute-Bretagne - Adolphe Orain - 1902
+O:France
+A:Pays Gallo
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+F G A D | E D D2 || F G A D | E D D2 :|
+A A B A | ^G A (B A) | A A d A | G F E2 | z D E D |
+D2 E2 | D D E F | D2 E2 | E2 z2 ||
+W:Excusez si j'entre en danse, c'est pour un amant chercher ;
+W:je me tourne et je me vire je n'en trouve point à mon gré ;
+W:le coeur m'y bat, gai, gai, le coeur m'y bat gaîment.
+
+
+%%%%%%%%%%%%%%%%%%%
+% % % % % % % % % %
+%%               %%
+%        *        %
+%%      ***      %%
+%      * * *      %
+%%   *********   %%
+%      * * *      %
+%%       *       %%
+%        *        %
+%%      ***      %%
+%       ***       %
+%%     *****     %%
+%      *****      %
+%%    *******    %%
+%    *********    %
+%%  * * *** * *  %%
+%    *   *   *    %
+%% % % % * % % % %%
+%%%%%%%%%%%%%%%%%%%

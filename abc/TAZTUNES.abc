@@ -1,0 +1,627 @@
+X:1
+T:After the Duck
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry 16th. April 1990
+R:Polka/Reel
+Q:1/4=140
+K:G
+G2BDG2BD|GBAGE2D2|DEFGA2G2|FGEF DEFD|
+G2BDG2BD|GBAGE2D2|DEFG AGFE|DEFAG4:|
+B2Bd cBAG|FAEA DEFD|B2Bd cBAG|FAGF GFED|
+B2Bd cBAG|FAEA DEFD|FADA EADA|DEFAG4:|
+
+X:2
+T:Aka Polka
+M:2/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, 8th. May 1989
+R:Polka
+Q:1/4=130
+K:D
+f>e dB|AFA2|AB FB|FA F/2E/2D|f>e dB|AF A2|AB/2A/2 fe|d2 d2:|
+AF/2A/2 BA|FED2|Bc de|fe c/2B/2A|AF/2A/2 BA|FED2|AB/2A/2 fe|d2d2:|
+
+X:3
+T:Alston Fiddle, The
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, November 1988
+R:Reel
+Q:1/4=160
+K:D
+|:D2|E2BA FAFA|defe cAFD|E2BA FAGA|Adef gecA|
+E2 BA FAGA|BAGA BAcA|Adef gecB|A2d2d2:|
+|:e2|f2af gecA|DFAd efge|f2 af gfed|cAceg2f2|
+f2af gecA|DFAd efge|fdge fdec|dBAF D2:|
+
+X:4
+T:April Waltz
+M:3/4
+L:1/4
+Q:1/4=160
+C:Taz Tarry
+S:Copyright B.Tarry, 12th. April 1998
+R:Waltz
+K:G
+DGA|B>AG|DGB|c>BA|B>cB|BAG|DEF|E>DD|
+DGA|B>AG|DGB|c>BA|B>cB|DEF|GBA|G3||
+BzB|B>AG|czc|c>BA|d2d|d>cB|cBA|B>cd|
+BzB|B>AG|czc|c>BA|B>AB|DEF|GBA|G3||
+
+X:5
+T:Bats
+M:4/4
+L:1/4
+C:Taz Tarry
+S:Copyright, B.Tarry 22nd. July 1986
+Q:1/4=240
+K:D
+|:BA/2F/2EB|BA/2F/2EB|d2c=c|BAE2|BA/2F/2EE|BA/2F/2EE|B2gf/2g/2|gcd2:|
+|:eA/2A/2fA/2A/2|Aa^ga|eA/2A/2fA/2A/2|ecB2|eA/2A/2fA/2A/2|ea^ga|a(3f/2f/2f/2ge|fcd2:|
+
+X:6
+T:Baz and Joy
+M:2/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry 19th. July 1997
+R:Schottische
+Q:1/4=140
+K:G
+d2g>d|e2d2|(3Bcd d>B|A2G2|F>G A>B|c>B A>G|F>G A>B|c>A F>D|
+d2g>d|e2d2|(3Bcd d>B|A2G2|F>G A>B|c>B A>G|F>D E>F|G2G2||
+|:G>D E>D|F>D G>D|B>G A>B|c>B A>G|G>D E>D|F>D G>D|(3BAG A>F|G2G2:|
+
+X:7
+T:Bedfordshire Clanger
+M:6/8
+L:1/8
+C:Taz Tarry
+S:Copyright, B.Tarry, 24th. February 1992
+R:Morris Jig
+K:G
+Q:3/8=90
+P:A
+|:D|G2GB2B|c>Bca2g|f>ed A>Bc|d>BG F>ED|
+G2GB2B|c>Bca2g|f>ed A>B^c|d3 d2:|
+P:B
+|:D|G>Bc d>BG|D>AB c>AF|D>EF A>Bc|d>BG F>ED|
+G>Bc d>BG|D>AB c>AF|D>EF A>FD|G3G2:|
+P:C  "Note: If played for Morris and the Morris dance doesn't finish on a B part, play C Part instead of A part to finish"
+D|G2GB2B|c>Bca2g|f>ed A>Bc|d>BG F>ED|
+G2GB2B|c>Bca2g|f>ed D>EF|G3 G2||
+
+X:8
+T:Bell Schottische, The
+C:Taz Tarry 16 June 2019
+N:Named after the Bell Inn, Adderbury
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+d>cd>B A2d2| e>dc>B A2 F2 |D>EF>G A>Bc>d| B>AG>B A4|
+d>ef>d B>cd>B| G>AB>G F2 E2 |D>EF>G A>Bc>d|e2 c2 d4||
+F2 (3FFF F2 F2|B>AG>F G2 E2|D>EF>G A>Bc>d| B>AG>B A4|
+(3FFF F2 (3FFF F2|B>AG>F G2 E2|D>EF>G A>Bc>d|e2 c2 d4||
+
+X:49
+T:Black Swan
+C:Taz Tarry 1 January 2023
+M:3/4
+L:1/8
+K:C
+"Maestoso & Espressivo"
+C6|  E6|  F6|  D6|F6 |  A2 F2 c2|B6|c6|
+d6|  B2 G2 c2|  B2 G2E2 |F6 |  A2 F2D2 | E6 |  D2 B,2 C2|  C6 ||
+G6|  B2 d2g2|g6|a6 | a2 g2 c2|  e2 d2 B2|A6|d6|
+c6|  e2 c2 A2 |d6|a6|  g2 e2 c2 | A6|  d2 B2G2| c6|]
+
+
+X:9
+T:Boys on their Bikes, The
+M:6/8
+L:1/8
+C:Taz Tarry 11th June 2004
+Q:3/8=115
+K:G
+|:ded e2d|c3 E3|FGA B2 A|GFE DFA|
+d^cd e2d|c3 E3|cBA E2 F|1 AGF G3:|2 AGF GAB||
+K:D
+|:d3 B3|GFG G2 z|g3 f3|edc d2 z|
+gfe d=cB|A=ce a3|gec ABc|1dfe dBc :|2 d3 d3||
+
+X:10
+T:Bread Street
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry 1992
+N:revised 2017
+R:Hornpipe
+Q:1/4=120
+K:D
+|:(3ABc|d>cd>e f>dA>F|G>AB>G F>AE>G|F>AG>B A>Bc>A|c>de>f g2(3ABc|
+d>cd>e f>dA>F|G>AB>G F>AE>G|F>AG>B A>Bc>A|e2d>cd2:|
+|:D2|D>EF>A A>FE>D|F>GA>B A2A2|c>de>f g>ec>e|e>dc>B A>GF>E|
+D>EF>A A>FE>D|F>GA>B A2A2|c>de>f g>ec>e|e2d>cd2:|
+
+X:11
+T:Bread Street (Second version)
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry 1992
+R:Reel
+Q:1/4=150
+K:D
+|:(3ABc|dcde fdAF|GABG FAEA|FAGB ABcA|cdef g2(3ABc|
+dcde fdAF|GABG FAEA|FAGB ABcA|cgec d2:|
+|:D2|DEFA AFED|FGAB Agec|cdef gece|edcB AGFE|
+DEFA AFED|FGAB Agec|cdef gece|egecd2:|
+
+X:12
+T:Bunyan's Oak
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, 24th. March 1992
+N:Previously called Bunyan's Orchard
+Q:1/4=120
+K:D
+|:A2 GF FGAB|A2 GF E2 FG|A2 GF FGAd|f>edc dcBA|
+A2 GF FGAB|A2 GF E2 FG|A2 GF FGAB|AGFED4:|
+|:FAABA2 df|e2 dc dcBA|FAAB A2df|eddc dcBA|
+FAABA2 df|e2 dc dcBA|FAAB AGFE|B,DDED4:|
+
+X:13
+T:Declaration Schottische
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, 15th. February 1997
+R:Schottische
+Q:1/4=120
+K:D
+D>FAF GB2B|A>cef gfed|D>FAF GB2B|A>cec dcBA|
+D>FAF GB2B|A>cef gfed|D>FAF GB2B|A>cec d2d2||
+|:f3/2 e/2 d g2 f ed|c>ABc dcBA|f3/2 e/2 d g2 f ed|c>ABc d2d2:|
+
+X:14
+T:Deed Polka
+M:2/4
+L:1/16
+C:Taz Tarry
+S:Copyright B. Tarry 26th. April 1997
+R:Polka
+Q:1/4=100
+K:G
+|:D2EE D2EE|G2A2B4|cBAG A2B2|A2G2 FED2|
+D2EE D2EE|G2A2B4|cBAG A2F2|G4 G4:|
+K:D
+|:d2ee f2f2|gfed e2a2|gfed e2f2|e2d2 cBA2|
+d2ee f2f2|gfed e2a2|gfed e2c2|d4d4:|
+
+X:15
+T:Diamond Sunday (Sunday with Greg)
+C:Taz Tarry
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+DG BB|DG BB|DG cB|B2 B2|cB AG|FG AB|B2 AA|A4|
+DG BB|DG BB|DG cB|B2 B2|cB AG|FG AB|A2 GF|G4||
+K:D
+fd AA|fd AA|gf ed|e2e2|gf ed|cd ef|ed cB|AG FA|
+fd AA | fd AA|gf ed |e2 e2|gf ed |cA Bc|e2 dc| d4||
+
+X:16
+T:Dream Waltz
+M:3/4
+L:1/4
+C:Taz Tarry, 16th September 2010
+Q:1/4=160
+K:D
+E>F G|A Bc|df d|A2 A|Bg e|c2 B|Aa f|g2 e|
+E>F G|A Bc|df d|A2 A|Bg e|c Bc|d3/2 d/2 d|d2 d|]
+Ag e|c2 B|Aa f|g2 f|Bg e|d cd|f>e d|c BA|
+E>F G|A Bc|df d|A2 A|Bg e|c Bc|d3/2 d/2 d|d2 d|]
+
+X:17
+T:Fir Tree Place
+M:4/4
+L:1/8
+C:Taz Tarry 22/1/2005
+Q:1/4=180
+K:D
+|:e2|fede f2 e2|DFAA B2 A2|DFAA B2 A2|f2 d2 B2 A2|
+fede f2 e2|DFAA B2 A2|fede f2 e2|1 d6:|2 d6 d2||
+|:DFAA B2 A2|G,B,DD E2 D2|G,B,DD E2 D2|f2 d2 B2 A2|
+G,B,DD E2 D2|DFAA B2 A2|Acee f2 e2|1 d6 d2:|2 d6||
+
+X:18
+T:Frantic Rant
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry February 1992
+R:Rant
+Q:1/4=200
+K:C
+(3ABc|dBGB dBGB|cAFA cAFA|GECE GECE|DEFG ABcA|
+dBGB dBGB|cAFA cAFA|GECE GECE|DEFDC2||
+G,2|G,A,B,D E2C2|G,B,DEF2D2|G,B,DEG2E2|GFED G2 G,2|
+G,A,B,D E2C2|G,B,DEF2D2|G,B,DEG2E2|GFED C2||
+
+X:19
+T:Friday Night (Through Monday)
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, April 1985
+R:Polka
+Q:1/4=170
+K:D
+|:A2AB A2AB|A2AB AGFD|G2GAG2GA|G2GA GFED|
+A2AB A2AB|A2AB AGFD|G2GAd2dA|BGAFD4:|
+|:f2fed2d2|edcBA2A2|fffed2d2|edcde4|
+f2fed2d2|edcBA2A2|d2dAB2BG|ABAFD4:|
+|:a2aeg2ge|f2fd ecAc|a2aeg2ge|fdge a2a2|
+a2aeg2ge|f2fd ecAc|d2dAB2BG|ABAF D4:|
+
+X:20
+T:Gilbert's Corner
+C: Taz Tarry 7 Feb 1987
+M:4/4
+L:1/8
+K:G
+Q:1/4=150
+d2 BG ECEG|c2 BA BcBA|c2 AF DF A2| ABcA GFED|
+d2 BG ECEG|c2 BA BcBA|B2 AG FG AB|DEFA (G2 G2):|
+GECE GECE|cBAG FGAB|cAFA A2 e2|efge dcBA|
+GECE GECE|cBcd ef g2|efge dcBA|G2 B2 (G2 G2) :|
+
+X:21
+T:Gregorian Rant
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, 9th. July 1995
+R:Rant
+Q:1/4=150
+K:D
+|:D2 FA G2 BB|Acce f2f2|gfed c2e2|edcB AGFE|
+D2 FA G2 BB|Acce f2f2|gfed cdef|1e2dcd2D2:|2e2dc sd2d2s||
+|:f2f2f2f2|gfedc2e2|edcBA2F2|FGABA2d2|f2f2f2f2|
+gfedc2e2|edcB ABce|1e2dc sd2d2s:|2e2dcd2 A2||
+
+X:22
+T:Higgs' Jigg
+T:Higgs' Jig
+C: Taz Tarry 30 Jan 2021
+M:6/8
+L:1/8
+K:G
+ded BGB|c2 B A2 B|ded BGB|d2 f g2 e|
+ded BGB|c2 B A2 B|DEF GAB|A2 F G3:|
+[K:D]
+B3 cBc|dcd efg|B3 cBc|dBG A2 A|
+B3 cBc|dcd efg|agf ecA|e2 f d3:|
+[K:G]
+e2 f dBG|c2 d BGE|A2B GEC|DFA B2 A|
+e2 f dBG|c2 d BGE|DFA GAB|A2 F G3:|
+
+X:23
+T:Hike in the Snow
+M:6/8
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry 19th. December 1999
+Q:3/8=130
+K:D
+|:dfe d2B|A2 F A3|dfe d2B|B3 A3|
+dfe d2B|A2 F A3|ABc e2 c|d3 d3:|
+|:AFA BGB|AFA A3|FAc e2c|B3 A3|
+AFA BGB|AFA A3|Fec B2c|e3 d3:|
+
+X:24
+T:Horse and Jockey
+M:6/8
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry 1983
+R:Jig
+Q:3/8=110
+K:D
+|:f2f fed|B2B BAG|FGA Bcd|efg gfe|
+f2f fed|B2B BAG|FGA BAG|Adc d3:|
+|:fdf fdf|ecA GFE|DFA Bcd|fdf e2g|
+fdA fdA|ecA GFE|DFA dcB|Adcd2:|
+
+X:25
+T:January Waltz
+M:3/4
+L:1/4
+Q:1/4=140
+C:Taz Tarry
+S:Copyright B.Tarry, 16th. August 1992
+R:Waltz
+K:G
+|:B|BAd|d2c/2B/2|AGA|AGA|e2d/2c/2|BAG|ABA|1d2 :|2G3||
+GA_B|_BAG|=FD/F/D|DCD|=F3/2A/_B|_BAG|Bcd|e3|
+ede|e3/2d/c|BAB|BAG|FAd|ecA|ABA|G2|]
+
+X:26
+T:Keldy Forest
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B. Tarry 10/4/2002
+Q:1/4=150
+K:D
+|:d4 A2G2|FGAB =c2A2|d4 e2f2|g2 g2 fe d2|
+d4 A2G2|FGAB =c2A2|B4 e2c2|d4 d4:|
+|:F2AA B2 A2|d2cc A2 F2|G2AA B2 A2|B2 e2 dcBA|
+F2AA B2 A2|E2BB =c2 B2|B2 e2 dcBc|d4 d4:|
+% Output from ABC2Win Version 2.1 f on 01/05/2002
+
+X:27
+T:Late For Work
+M:6/8
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, September 1993
+Q:3/8=110
+R:Jig
+K:G
+|:G2BA2c|BAGg3|gfe dcB|cBA BAG|
+G2BA2c|BAGg3|gfe dcB|cBA G3:|
+|:G2B GBG|F2A FAF|E2A EAE|DFA B2G|
+G2B GBG|F2A FAF|DFA cBA|BAF G3:|
+
+X:28
+T:Lazy Schottische
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, 18th. May 1997
+R:Schottische
+Q:1/4=120
+K:D
+A>G|:F>GA>d f2 e2 |d4A4|d>ef>d g f3|e4e4|
+d>ef>d g f3|c>de>c d B3|B>cd>e f2e2|d4d4:|
+|:f>ed>c B2 A2|G4 E4|G>Bd>f gf3|e4 e4|
+f>ed>c BA3|g>fe>d c A3|B>cd>e f2e2|d4 d4:|
+
+X:29
+T:Merry Fiddler (1st Version), The
+N:Written for Cath Chandler - thank you
+C:Taz Tarry, May 2010. Revised April 2020
+M:6/8
+L:1/8
+Q:3/8=90
+K:D
+|:G>Bd g>ag |f>ed d>BG|B>=c^c d>cd|dBc def|
+G>AB G>AB|G3 E3|g>fe f>ed|Ace d3:|
+|:aAA aAA|a2a a>gf|gBB gBB|g2 g g>fe|
+aAA aAA|a2a a>gf|g>fe a>gf|Ace d3:|
+
+X:30
+T:Merry Fiddler (2nd Version), The
+N:Written for Cath Chandler - thank you
+C: A part Rob Neal May 2012, B Part Taz Tarry, May 2010, C Part Taz Tarry, May 2012
+M:6/8
+L:1/8
+Q:3/8=110
+K:D
+|:A2 f fef|g2 e c2 B|A2 e ede|fed B2 A|A2 f fef|g2 e c2 B|ABc Bcd| cde def:|
+|:aAA aAA|a2a agf|gBB gBB|g2 g gfe|aAA aAA|a2a agf|gfe agf|Ace d3:|
+|:f2 A ABA|g3 f2 e|ecA ABc|def e3|f2 A ABA|g3 f2 A|ABc Bcd|ece d3:|
+
+X:31
+T:Out to Lunch
+M:4/4
+L:1/8
+C:Taz Tarry, 1999
+S:Copyright B.Tarry 8th. January 1999
+Q:1/4=120
+K:G
+|:d>^cd>e d>=cB>A|G>FG>A B>G D2|E>DE>F G>FG>A|B>AB>c B2 A2|
+d>^cd>e d>=cB>A|G>FG>A B>G D2|D2 E>F G2 B2|A>GF>A G2 G2:|
+|:D>B,D>D E>CE>E|F>DF>A B>G D2|D>B,D>D E>CE>G|F>GA>F G2 D2|
+D>B,D>D E>CE>E|F>DF>A B>G D2|E>DE>F G2 B2|A>GF>A G2 G2:|
+
+X:32
+T:Park Home Polka
+M:4/4
+L:1/8
+Q:145
+C:Taz Tarry
+N:Copyright Brian Tarry 16th March 2006
+K:D
+|:A2FA d2cB|A2FD E2BB|A2FA d2ef|gfed dcBA|
+A2FA d2cB|A2FD E2BB|A2FA d2ef|1 gfec d2 d2:|2 gfec d2 A2||
+|:G z Bd gfed|A z FA dcBA|G z Bd gfed|eace agfe|
+Gz Bd gfed|A z FA dcBA|G zBd gfed|1 edce d2 A2:|2 edce d2 d2||
+
+X:33
+T:Patrick's Polka
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, 17th. July 1995
+R:Polka
+Q:1/4=150
+K:D
+|:d2GAB2GG|ABAGF2D2|d2GA BGAB|A2c2d4|
+G2 BG AB=cA|Bcd2efg2|gfed cdef|e2dcd4:|
+|:E2EEF2FF|GFGAB2d2|E2EEF2FF|G2F2E4|
+E2EEF2FF|GFGAB2d2|efgf edcd|e2dcd4:|
+
+X:34
+T:Pegsdon Hills
+C: B.Tarry 22/3/2014
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+|:D2|G2 GA B2 GD| E2 EG c2 cA|E2 EF G2 B2|AGFE DCB,A,|
+G2 GA B2 GD|EEEGc2 c2|BdBG FGAF |G2 GG G2:|
+|:GA|B2 Bd gdcB|c2 ce agfe|fdfa gfed |edce A2 GA|
+BAGA Bcde| fede fg a2 |BdBG cAFA| AGGF G2:|
+
+X:35
+T:Pendle
+M:2/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry, 1987
+Q:1/4=100
+K:D
+"Use drone on A or D strings (as appropriate) throughout the A part"
+|:(FA BA)|(FA BA)|(FA BA)|F2 D2|(FA BA)|(FA BA)|(FA BA)|d4:|
+|:fa fe|d2 ef|e2 cA|B2 A2|fa fe|d2 ef|e2 cA|B4:|
+
+X:36
+T:Pete's Kettle
+M:9/8
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry 15th. September 1998
+Q:3/8=120
+K:D
+|:d2e fed B2A|def gfe c2A|d2e fed B2A|agf edc d3:|
+|:DEF FGA ABc|DEF FGA E2D|DEF GAB cde|afe dce d3:|
+|:aff aff afe|aff afe dBA|aaa aaa aaa|ABc cec d3:|
+
+X:37
+T:Pump Room Wedding March, or, Pump and Circumstance
+M:4/4
+L:1/4
+C:Taz Tarry
+S:Copyright B.Tarry, 22nd. May 1998
+R:March
+Q:1/4=100
+K:G
+P:A                      Play AB repeated, finish on C (resolved A)
+D|GDGd|d c/2B/2Ad|c B/2A/2 G/2A/2B|A/2G/2F/2G/2 A/2c/2B/2A/2|
+GDGd|d c/2B/2Ae|e/2d/2^c/2B/2 A B/2^c/2|d2 d2||
+P:B
+edc/2d/2e|dc B/2c/2d|cBAB|c/2d/2e/2c/2 d/2e/2f/2g/2|
+edc/2d/2e|dc B/2c/2d|c/2B/2A/2B/2 ^c/2d/2e/2^c/2|d2 d!D.C.!||
+P:C
+D|GDGd|d c/2B/2Ad|c B/2A/2 G/2A/2B|A/2G/2F/2G/2 A/2c/2B/2A/2|
+GDGd|d c/2B/2Ae|"rit. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ." cBAd|c/2B/2A/2F/2 G2||
+
+X:48
+T:Skylarks at the Clappers
+C:Taz Tarry 11 December 2022
+M:4/4
+L:1/8
+K:G
+|:A|D>FA>B A>FE>D|D>FA>B d2 (3dBA|G>AB>d e>dB>d| e>de>f a2 (3gfe|
+g>fe>d e>d (3Bcd |e>dB>d e2 (3dBA|G>AB>G A>GE>D| E>DA>F G3:|
+|:A|B>d (3Bcd c>e (3cde|(3def e>f d3 f|(3efg (3fga (3gab a2|g>af>a e2 (3agf|
+g>f (3agf f>e (3gfe|(3edB e>c A2 e>d|G>A (3BAG A>GE>D| E>DA>F G3:|
+
+X:38
+T:Summer's Jaunt
+C: Taz Tarry  30 July 1986
+M:C|
+L:1/8
+K:D
+Q:1/4=120
+F|:D2 D>F D2 D>F|(3EFG A>B A2 F2|E2 E>G E2 E>G|(3FGF A>F D2 D2:|
+A2 A>d B2 B>d|(3ABA A>F E2 D2|A2 A>d B2 d2|(3efg e>c d2 d2:|
+
+X:39
+T:Taylor's Ale
+M:4/4
+L:1/8
+C:Taz Tarry
+S:Copyright B.Tarry 31/9/2006
+Q:1/4=160
+K:D
+|:a2fe dBAF|D2 FA ABcA|f2fe dBAF|ABce d z e2|
+a2fe dBAF|D2 FA ABcA|ABcd efge|afec d2d2:|
+|:FAAA BAFA|ABce ecBA|FAAA BAFA|ABce d z A z|
+FAAA BAFA|DEFD FABF|ABcd efge|afec d2 A2:|
+
+X:40
+T:Two and Threequarters Squared
+M:2/4
+L:1/16
+C:Taz Tarry
+S:Copyright B.Tarry, March 1985
+R:Polka
+Q:1/4=120
+K:G
+d4B4|A2FAG4|A2DD E2DD|=F2DD ^F2DD|d4B4|A2FAG4|A2DD E2DD|E2F2G4:|
+K:D
+B4A4|A2FD E2D2|A2AA B2A2|=c2c^c d2A2|B4A4|A2FD E2D2|A2AA B2A2|F2AFD4:|
+
+X:41
+T:What the Hull?  (Crooked version)
+C:Taz Tarry October 1988
+M:4/4
+L:1/8
+K:G
+Q:1/4=140
+a>b ag ed (3efg|a>b ag ed e2|a>b ag ed ef|GA Bd ed (3efg|
+a>b ag ed (3efg|a>b ag ed e2|a>b ag ed ef| [M:5/4] GA Bd edef g2  ||
+[M:4/4]GA BG AB dA|[M:5/4]GA BG AG AB d2|[M:4/4] GA BG AB dA| Bd ed ef g2|
+GA BG AB dA|[M:5/4]GA BG AG AB d2|[M:4/4] GA BG AB dA| [M:3/4] Bded (3efg||]
+
+X:42
+T:What the Hull?  (Regular version)
+C:Taz Tarry October 1988
+M:4/4
+L:1/8
+K:G
+Q:1/4=140
+a>b ag ed (3efg|a>b ag ed e2|a>b ag ed ef|GA Bd ed (3efg|a>b ag ed (3efg|a>b ag ed e2|a>b ag ed ef| GA Bd ed (3efg ||
+GA BG AB dA|GA BG BA A2 | GA BG AB dA| Bd ed ef g2|
+GA BG AB dA|GA BG BA A2 |GA BG AB dA|  Bd ed (3efg a2|]
+
+X:43
+T:Where swopt the Plover (in its pleasure free)
+C: Taz Tarry 24 December 2020
+Q:1/4=100
+M:4/4
+L:1/8
+K:D
+%%textfont Times-Italic 12
+%%begintext right
+Tune title taken from 'The Mores' by John Clare
+%%endtext
+"G"d (g "D"f2) "G"d (g "D"f2) |"Bm"f>edc "A"BABc|"G"d (g"D"f2) "D"A (f"A"e2)  |"Bm"f>edc "A"B4|
+"G"d (g"D"f2) "D"A (f"A"e2)  |"G"f>edc "A"BAFA|"G"F>ABc "A"edcd |"G"(3edd "A"ce "D"d4:|
+"G"F2 "A"A2 "D"d4|"G"cA"A"dB "D"e!slide!f3 |"G"dBcA "D"GBAc|"Bm"f>edf "A"e4|
+"D"d2 "G"f2 "A"a4|"D"a>fed "A"e>cBA|"Bm"F>ABc "A"edcd |"G"(3edd "A"ce "D"d4:|
+
+X:44
+T:Whither?
+M:4/4
+L:1/8
+R:Reel
+Q:1/4=200
+K:G
+BAGE D2 G2|A2AB AGE2|BAGE D2 G2|A2ABA2 A2|
+BAGE D2 G2|A2AB AGE2|A2AB AGE2|AFA2G4:|
+gdgd e2d2|e2ef ed B2|gdgd e2d2|efed BGBd|
+gdgd e2d2|e2ef ed B2|edef edBG|AFA2 G4:|
+
+X:45
+T:Woodchester Mansion
+C:Taz Tarry     © 2 July 2020
+Q:3/8=110
+M:6/8
+L:1/8
+K:D
+FAd fed|FAd fed|gfe dcB|ABA GFE|
+FAd fed|FAd fed|gfe ABc|dfe d3:|
+!slide!f2 f e2 e|dfe dcB|ABA =c2!slide!^c/c/|dfe dcB|
+!slide!f2 f e2 e|dfe dcB|FDF  BGB|dfe d3:|

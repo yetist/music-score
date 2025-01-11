@@ -1,0 +1,86 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Ginggejockes (trad. AR). Bb
+S:Naturjodel rund um den Saentis (www.roothuus-gonten.ch)
+%%partsbox
+%P:
+%Q:1/4=60
+R:Naturjodel
+M:4/4
+L:1/4
+K:Bb %  (%%MIDI gchordo) 
+f>e/d//cg | Bdf{/d}g | Acf {/=e}g | Bdf2 | 
+w: tro ho-o ja ho ja ho jo-(o)o  ja ho tro (o)ho ja di ho 
+f e/d/ cg | Bdf {/d}g | Acf {/e}g | B4 || 
+w: tro bo bu ja ho  ja ho jo (ho)o  ja ho tro (o)ho  ja  
+Acf {/=e}g | Bdf {/d} g | Acf {/=e}g | Bdf2 | 
+w: tra o bo (o)ho  ja o tro (o)ho  tra o o (o)ho ja di ho 
+fe/d/ cg | Bdf {/d}g | Acf {/e}g | B4 |] 
+w: tro ho-o ja ho ja ho jo (ho)o  ja ho tro (o)ho  ja 
+W:
+%W:Parts: 
+W:Titel aus dem gesprochenen Text entnommen.
+W: Tonträger Alpabfahrt Schwägalp-Rossfall
+W:
+W:Teil 1 erinnert heute an das Volkslied "Wenn mi Schatz go fuettere goht"
+W:
+W:Auf Schellackplatten hat man oft ganze Alpfahrten inszeniert und dazu nebst den Schellen,
+W: des Dialekts, Einzelteile von bekannten Naturjodel gesungen.
+W:
+W: Hier hören wir zwei Teile, welche gut zusammenpassen und vermutlich auch so
+W: gesungen wurden. Ein Hinweis dazu liefert die heute nicht mehr gängie Form:
+W:Takt 1-4, Takt 5-8, aber auch Takt 13-16 bestehen aus dem gleichen Motiv. 
+W:Dazwischen eingeschoben ist eine Art "B-Teil".
+W:
+W: Generell hört man heute selten 2teilige Naturjodel. Im Appenzellischen sind diese
+W: meist 3teilig, im Toggenburg gar 4- oder 5teilig.
+W:
+W:https://www.roothuus-gonten.ch/mediendateien/jodel/pdf/Ginggejockes.172.pdf
+W: *AUDIO*:  www.roothuus-gonten.ch/cms/index.php/de/naturjodel-rund-um-den-saentis
+% © 2015 ROOTHUUS GONTEN. #172 (SCH020A)
+% Feb. 14 2019
+
+X:2
+T:Ginggejockes (trad. AR). F 5-
+S:Naturjodel rund um den Saentis (www.roothuus-gonten.ch)
+%%partsbox
+%P:
+%Q:1/4=60
+R:Naturjodel
+M:4/4
+L:1/4
+K:F %  (%%MIDI gchordo) 
+c>B/2A/4Gd | FAc{/A}d | EGc {/=B}d | FAc2 | 
+w:tro ho-o ja ho ja ho jo-(o)o  ja ho tro (o)ho ja di ho
+c B/2A/2 Gd | FAc {/A}d | EGc {/B}d | F4 || 
+w:tro bo bu ja ho  ja ho jo (ho)o  ja ho tro (o)ho  ja
+EGc {/=B}d | FAc {/A} d | EGc {/=B}d | FAc2 | 
+w:tra o bo (o)ho  ja o tro (o)ho  tra o o (o)ho ja di ho
+cB/2A/2 Gd | FAc {/A}d | EGc {/B}d | F4 |] 
+w:tro ho-o ja ho ja ho jo (ho)o  ja ho tro (o)ho  ja
+W:
+%W:Parts: 
+%W:Titel aus dem gesprochenen Text entnommen.
+%W:Tonträger Alpabfahrt Schwägalp-Rossfall
+%W:Teil 1 erinnert heute an das Volkslied "Wenn mi Schatz go fuettere goht"
+%W:Auf Schellackplatten hat man oft ganze Alpfahrten inszeniert und dazu nebst den Schellen,
+%W:des Dialekts, Einzelteile von bekannten Naturjodel gesungen.
+%W:Hier hören wir zwei Teile, welche gut zusammenpassen und vermutlich auch so
+%W:gesungen wurden. Ein Hinweis dazu liefert die heute nicht mehr gängie Form:
+%W:Takt 1-4, Takt 5-8, aber auch Takt 13-16 bestehen aus dem gleichen Motiv. 
+%W:Dazwischen eingeschoben ist eine Art "B-Teil".
+%W:Generell hört man heute selten 2teilige Naturjodel. Im Appenzellischen sind diese
+%W:meist 3teilig, im Toggenburg gar 4- oder 5teilig.
+%W:https://www.roothuus-gonten.ch/mediendateien/jodel/pdf/Ginggejockes.172.pdf
+W:*AUDIO*:  
+W:www.roothuus-gonten.ch/cms/index.php/de/naturjodel-rund-um-den-saentis
+% © 2015 ROOTHUUS GONTEN. #172 (SCH020A)
+% Feb. 14 2019
+
+
+
+
+

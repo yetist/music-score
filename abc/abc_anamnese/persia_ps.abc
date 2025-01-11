@@ -1,0 +1,614 @@
+%abc
+%%%%                   P E R S I A   
+%      
+%            musiques du folklore persan / iranien
+%                      
+%                      
+%                   
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/        
+%
+%%format persia.fmt
+%
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+%    Abctab2ps	http://www.lautengesellschaft.de/cdmm/ (obligatoire pour les partitions en tablatures
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  dimanche 06 septembre 2009 à 19:37
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+%%pageheight 29.7cm
+%%pagewidth 21.0cm
+
+%%textfont Bookman-Demi 18
+
+%%titlefont Bookman-Demi 22
+%%subtitlefont Bookman-Demi 16
+%%composerfont   Bookman-Demi 10
+
+
+%%headerfont Bookman-Demi 12
+%%footerfont Bookman-Demi 8
+
+%%annotationfont Bookman-Demi 10
+%%infofont Bookman-Demi 16
+%%historyfont Bookman-Demi 16
+
+
+%%measurefont Bookman-Demi 14
+%%partsfont Bookman-Demi 14
+%%repeatfont Bookman-Demi 14
+
+%%tempofont Bookman-Demi 14
+%%vocalfont Bookman-Demi 16
+%%voicefont Bookman-Demi 16
+%%wordsfont Bookman-Demi 16
+%%gchordfont Bookman-Demi 14
+%%setfont-1 Bookman-Demi 16
+%%setfont-2 Bookman-Demi 16
+%%setfont-3 Bookman-Demi 16
+%%setfont-4 Bookman-Demi 16
+
+%%textfont Bookman-Demi 25
+%%vskip 0.5cm
+%%center P E R S I A     
+%%textfont Bookman-Demi 18
+%%vskip 0.5cm          
+%%center (some scales for Iranian music - in construction)
+%%textfont Bookman-Demi 16
+%%center 
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont Bookman-Demi 12
+%%text Transcriptions, mises en partition abc par 
+%%text Eric Forgeot - http://anamnese.fr.st
+%%text Travail sous licence cc-by-nc-sa
+%%vskip 0.0cm
+%%text Version :  septembre 2009
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	P E R S I A - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont Bookman-Demi 12
+
+
+
+
+
+
+X:1
+T:Dastgâh-e Shur (ancien)
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
+G +koron+A _B c +koron+d _e f g |
+
+X:2
+T:Dastgâh-e Shur (moderne)
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
+G +koron+A _B c d _e f g |
+
+X:3
+T:dastgaahe_Shur2
+M:none
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+G +koron+A _B c d +koron+e f g |
+
+
+
+X:4
+T:Dastgâh-e Navâ
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
+G A _B c d +koron+ e f g |
+
+X:5
+T:Dastgâh-e Segâh
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
++koron+A _B c +koron+d _e f g +koron+a |
+
+
+X:6
+T:Dastgâh-e Tchahârgâh
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
+G +koron+ A B c d +koron+ e ^f g |
+
+X:7
+T:Dastgâh-e Homâyun
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
+G +koron+ A B c d _e f g |
+
+
+X:8
+T:Dastgâh-e Esfahân (ancien)
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
+G A _B c d +koron+ e +sori+f g |
+
+X:9
+T:Dastgâh-e Mâhur
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
+G A B c d e ^f g |
+
+X:10
+T:Dastgâh-e Râstpandjgâh
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
+F G A +koron+ B B c d e f |
+
+
+X:11
+T:Exemple (Nâva)
+M:none
+L:1/8
+Q:1/4=120
+K:F
+%%MIDI program 111
++koron+E/2F/2+koron+E/2F/2+koron+E/2F/2 G2 F<G F<G cc G z ||
+
+
+X:12
+T:test sori
+M:none
+L:1/4
+Q:1/4=90
+K:C
+%%MIDI program 111
++sori+A _B c +koron+d _e f g +koron+ a |
+
+
+
+
+%%------------------
+
+
+X:13
+T:Bou-ye djou-ye mouliyan **
+C:
+S:
+A:Iran
+D:Marzieh / Banan
+Z:Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:3/8=97
+K:Bb
+K:Gm
+%%staves {1 2}
+%%vskip 1cm
+V:1
+%%MIDI program 0
+%%MIDI transpose 0
+%%MIDI control 7 120 %volume
+%%MIDI control 10 100 %pan
+G4 AB | d4 cB | dc BA Bc | d2 g4 |
+d4 ed | c4 Bc |d4 cB | A6 |
+G4 AB | d4 cB | B4 AG | ^F4 A2 G2 | 
+z4 B2 | A2 c2>B2 | G4 A2 | G2 B2>G2 | ^F4 D2 | ^F2G4 |
+G4 AB | d4 cB | AG 
+z2 A2 | B2 c4 | B4 A2 | G2 c4 | B4 A2 | G2B4 | 
+[A4d4] ed | c4 de | cB
+z2 B2 | A2 c2>B2 | G4 A2 | G2 B2>G2 | ^F4 D2 | ^F2G4 |
+%
+%
+%A2GA2GF3/E3/D3 G2FG2FE3/D3/C3 |
+%D3/4E3/4F3/4G3/4A3/4G3/4F3/4G3/4A3/A3/A3/
+V:2
+%%MIDI program 1
+%%MIDI transpose -12
+%%MIDI control 7 105 %volume
+%%MIDI control 10 70 %pan
+K:Gm bass
+G,2[D2G2][D2G2] | D,2[D2G2][D2G2] | G,2[D2G2][D2G2] | D,2 G,2 z2 |
+D,2D2D2 | A,,2D2D2 | D,2D2D2 | A,,2 D2 z2 |
+G,2[D2G2][D2G2] | D,2[D2G2][D2G2] | G,2[D2G2][D2G2] | ^F,4 D,2 G,2 | 
+z4 z2 | D,2 z4| G,2 z4 | G,2 z4 | D,2 z4 | D,2 G,2 z2 |
+G,2[D2G2][D2G2] | D,2[D2G2][D2G2] |
+G,2 z4 | D,2 z4 | B,2 z4 | D,2 z4 | G,2 z4 | D,2D,4 |
+G,2[D2G2][D2G2] | D,2[D2G2][D2G2] |
+G,2 z4 | D,2 z4| G,2 z4 | G,2 z4 | D,2 z4 | D,2 G,2 z2 |
+
+
+X:14
+T:Sarv o Bid
+C:
+S:
+A:Iran
+D:Marzieh 
+Z:Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:3/8=105
+K:F
+%%%staves {1 2}
+V:1
+%%vskip 1cm
+%%MIDI program 41
+%%MIDI transpose -1
+%%MIDI control 7 120 %volume
+%%MIDI control  100 %pans
+z4 
+| D2 D2 D2 FE | D2 F2 A4 | D2 F2 AGFE | D2 F2 A4 |:
+A2 GA BA GF | B4 G4 | FE FG E4 | G2 FG AG FE | A4 F4 | ED EF D4 :| 
+DFAG FEFA | GFGF EDEG | FEFE D^CDF | E2A2 E4 |
+
+
+X:15
+T:Dokhtar-e Koli
+C:
+S:
+A:Iran
+D:Marzieh / Shapoori
+Z:Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/4
+Q:3/8=110
+K:F
+%%vskip 1cm
+D D/2D/2 AA G F/2G/2 A2 | A>c B AG E/2F/2 G2 :|
+G>F AG F>E GF E>D FE D2 :|
+
+
+%%%staves {1 2}
+%%vskip 1cm
+%% program 41
+%%MIDI program 1
+%%MIDI transpose -1
+%%MIDI control 7 120 %volume
+%%MIDI control  100 %pans
+%%z2 g4 e f g a g a f2 
+
+
+
+X:16
+T:Mikhâm beram kouh
+T:I want to go to the mountain
+N:Shekâr-e âhou (deer hunt)
+C:Iranian folksong
+A:Iran
+S:Kaambiz Roshan Ravaan
+Z:Eric Forgeot - http://anamnese.online.fr
+L:1/8
+M:6/8
+Q:1/4=100
+K:Em
+K:G
+V:1
+%%MIDI program 0
+%%staves {1 2}
+%%EPS persia_biche.eps
+%%vskip 1cm
+EE2 BBA | B6 | cc2 BAG | A6 |
+|: AA2 AGF | G2 G F E2 | F>AG FE^D |1 E3A3 :|2
+E6 | BB2 eed | e6 | dd2 edc |B6 |: 
+AA2 AGF | G2 G F E2 | F>AG FE^D |1 E3A3 :|2 E6 |]
+V:2
+%%MIDI program 0
+E,G,B, E,G,B, | E,G,B, ^D,F,B, | ^D,F,C =D,F,B, | ^C,E,A, =C,E,A, |
+|: A,,E,A, A,,E,A, | E,G,B, E,G,B, | ^D,F,B, D,F,B, |1 E,G,B, CB,A, :|2
+E,G,B, E,3 | E,G,B, E,G,B, | E,G,B, ^D,F,B, | =D,F,A, C,E,A, | B,,E,G, B,,E,G, |: 
+A,,E,A, A,,E,A, | E,G,B, E,G,B, | ^D,F,B, _E,F,B, |1 E,G,B, CB,A, :|2 E,G,B, E,3 |]
+
+
+X:17
+T:Rashid Khân
+O:Iran
+Z:anamnese@laposte.net
+M:6/8
+L:1/8
+Q:1/4=105
+K:C
+V:1
+%%MIDI program 0
+%%staves {1 2}
+EE2 BA2 | G3 (GAB) | GA2 (cBA) | (G2A) B3 |
+EE2 BA2 | G3 (GAB) | GA2 (cBA) | G2 =F E3 |
+G3 G3 | AA2 F3 | E2 G (FEF) | GG2 E3 |
+G3 G3 | AA2 F3 | E2 G (FEF) | GG2 E3 ||
+V:2
+%%MIDI program 0
+%%MIDI transpose 0
+E,G,B, E,A,C | E,G,B, E,G,B, | E,A,C E,A,C | E,G,B, E,G,B, |
+E,G,B, E,A,C | E,G,B, E,G,B, | E,A,C E,A,C | E,G,B, E,G,B, |
+E,G,B, E,A,C | F,A,C F,A,C | E,A,C F,A,C | E,G,B, E,A,C | 
+E,G,B, E,A,C | F,A,C F,A,C | E,A,C F,A,C | E,G,B, E,A,C ||
+
+
+
+X:18
+T:Wedding Hymn
+C:Iranian trad. song
+A:Iran
+S:Norman Sharp
+Z:Eric Forgeot - http://anamnese.online.fr
+L:1/8
+M:4/4
+Q:1/4=100
+K:Eb
+K:Cm
+V:1
+C | C3/2 D/2 EF | G c2 G | A3/2 G/2 F G | A2 G ||
+C | C3/2 D/2 EF | G c2 d | e3/2 d/2 c d | e2 d ||
+V:2
+
+
+X:19
+T:Tchish dar âmad moqad mati mahour 
+N:Setâr 57
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+%%MIDI program 111
+G,>C B,A, | C4 | CB, A,B, | G,2 z2 | G,A, B,C | D4 | C>B, A,B, | C2 z2 |
+G>c BA | c4 | cB AB | G2 z2 | GA Bc | d4 |c>B AB | c2 z2 | C>E EE | E4 |
+DE FE | D2 z2 | G,>D DD | D4 | CD ED |C2 z2 | F>E DC | E>D CB, | CD EC | 
+D4 | E>D CB, | D>C B,A, | G,A, B,D | C2 z2 | CD EF | G4 | +b+AG FG | +b+AG FG |
++b+AG A_B | G4 | GF G+b+A | F2 z2 | C4 | C_B +b+A,G, | +b+A,_B, | C2 z | c4 | c_B +b+AG | 
++b+Ac _BA | G2 z2 |
+
+
+
+X:20
+T:Âhngi dar rakoutchk
+T:setâr 55
+L:1/8
+Q:1/4=120
+M:6/8
+K:F
+A/2B/2AG A/2B/2AG | A/2B/2Ac A3 | G/2A/2GF G/2A/2GB |1 AGF A3 :|2 AGF D3 |
+D/2E/2D/2C D/2E/2FG | AGF A3 B/2A/2GF A/2G/2FE |1 DEF GFE :|2 DEF D3 |]
+
+X:21
+T:
+T:ney 50
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+A>A GF | A2 z2 | "repet" | A>G AB | G2 z2 | G>G F=E |
+G2 z2 | "repet" | G>F GA | F2 z2 :| F>E DE | C2 z2 | "repet"
+|:C{d}E/2F/2 G{F} EF | G2 z2 | A>E F G{F} F2 z2 :|]
+
+
+
+X:22
+T:zard mâidjeh
+T:setâr 62
+L:1/8
+Q:1/4=120
+M:2/4
+K:F
+B,2 CD | D2-DF | "repet" | DC/2C/2CD | "repet"|"repet"| B,C B,D | DC/2C/2 CD |"repet" |
+CB,B, B,C | B,+b+A/2A/2 AB, | +b+A,G,G, G,+b+A, | G,2 z2 :|
+
+
+
+
+X:23
+T:Daramad of Shur
+L:1/8
+Q:1/4=135
+
+K:C
+M:4/4
+%%MIDI program 111
+d +koron+e g f +koron+e d c _B A G A d2 {c}_B2 {A}G2 |
+G A c _B A G F +koron+E D +koron+E F G A c {_B} A2 {G} F4 |
+FFF A2 G2 {F}+koron+EEE G2 F2 {+koron+E } DDDF2 +koron+ E2 |
+
+
+
+X:24
+T:tableau ney
+L:1/4
+Q:1/4=120
+M:none
+K:C
+B, C ^C +koron+D D _E +koron+E E F +sori+F ^F ^F G _A A |
+
+%%Azerbaîdjan
+
+
+X:25
+T:Mode humâyun
+M:none
+N:e indiqué (_e)
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+DE^FGHA2 _B2 ^cdef
+
+X:26
+T:Mode shushtar
+M:none
+N:B indiqué (=B)
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+GHA2_B^cd2efg
+
+X:27
+T:Mode bidâd
+M:none
+N:f indiqué (^f)
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+de2fgHa2 _bc'd'
+
+X:28
+T:Mode shushtar
+M:none
+N:B indiqué (=B)
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+GHA2_B^cd2efg
+
+X:29
+T:Mode bidâd
+N:f indiqué (^f)
+M:none
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+de2fgHa2 _bc'd'
+
+
+X:30
+T:Mode zâbol
+M:none
+N:_e indiqué bemol barré et ^f indiqué bécarre
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+HB2cd2_e ^fgab 
+
+
+X:31
+T:Mode Mugam Kharej Segâh
+M:none
+N:A indiqué dièse et second =f indiqué dièse. e indiqué bémol
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+^F G A HB2 c d2 e =f g a b 
+
+
+
+X:32
+T:Mode Muye
+M:none
+N:_e indiqué bécarre
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+Hd2 _e ^f g2 a _b c'
+
+
+
+X:33
+T:test Mode zâbol
+M:none
+L:1/4
+Q:1/4=250
+K:C
+%%MIDI program 111
+%HB2cd2_e ^fgab
+GAB^F2 BcBd GF2 d2d2 
+^f/2g/2 a2 b/2^f/2_e2 _e/2c/2 B2 A2A2 cc B2
+A2 ^F2^F2 AA _E2
+
+
+
+X:34
+T:test tombak
+M:2/4
+L:1/8
+Q:1/8=120
+K:perc
+
+%
+%%MIDI program 1
+%%MIDI channel 10
+%
+%
+V:1
+%G"3"sd/"3"sd/ G!u!B | G"3"sd/"3"sd/ G!u1!B  :| |: G"2"sd/"2"sd/ G"3"sd/"3"sd/ |
+%G"2"sd/"2"sd/ G!u!B | G"3"sd/"3"sd/ Gsd/sd/    | G"3"sd/"3"sd/ G!u1!B :| G2 z2 |
+%B"2"sd/"2"sd/ G"3"sd | Gsd/sd/ Gsd | !n2!d2 z2 | G"3"sd/"3"sd/ G"2"sd | G"3"sd/"3"sd/ G"2"sd | 
+%G"2"sd/"2"sd/ G!u1!B/!u1!B/ | G"3"sd/"3"sd/ G"2"sd |
+
+
+
+
+
+
+

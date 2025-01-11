@@ -1,0 +1,1243 @@
+%abc
+%%%%              S C A N D I N A V I A  
+%      
+%            musiques du folklore scandinave
+%                      
+%                      
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/               
+                   
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  mardi 23 septembre 2008 à 23:05
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+%TypographerFraktur-Medium
+
+
+
+%%textfont AlteSchwabacher 18
+
+%%titlefont AlteSchwabacher 22
+%%subtitlefont AlteSchwabacher 16
+%%composerfont   AlteSchwabacher 10
+
+
+%%headerfont AlteSchwabacher 12
+%%footerfont AlteSchwabacher 8
+
+%%annotationfont AlteSchwabacher 10
+%%infofont AlteSchwabacher 16
+%%historyfont AlteSchwabacher 16
+
+
+%%measurefont AlteSchwabacher 14
+%%partsfont AlteSchwabacher 14
+%%repeatfont AlteSchwabacher 14
+
+%%tempofont AlteSchwabacher 14
+%%vocalfont AlteSchwabacher 16
+%%voicefont AlteSchwabacher 16
+%%wordsfont AlteSchwabacher 16
+%%gchordfont AlteSchwabacher 14
+%%setfont-1 AlteSchwabacher 16
+%%setfont-2 AlteSchwabacher 16
+%%setfont-3 AlteSchwabacher 16
+%%setfont-4 AlteSchwabacher 16
+
+%%textfont AlteSchwabacher 25
+%%vskip 0.5cm
+%%center S c a n d i n a v i a     
+%%textfont AlteSchwabacher 18
+%%vskip 0.5cm          
+%%center musiques du folklore scandinave
+%%textfont AlteSchwabacher 16
+%%center 
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont AlteSchwabacher 12
+%%text Transcriptions par 
+%%text Eric Forgeot
+%%text http://anamnese.fr.st
+%%vskip 0.0cm
+%%text Version :  septembre 2008
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	S c a n d i n a v i a - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont AlteSchwabacher 12
+
+
+
+%%vskip 0.5cm
+%%sep
+%%text Norge :
+
+
+X:1
+T:To halling i form etter Thorvald Trondsgård
+R:Halling
+S:Folldal Spellmannslag
+N:http://home.no.net/janwes/folldal/
+D:Óslift (16)
+O:Norge - Norway - Norvège
+A:Hedmark
+Z:transcription (d'oreille) : Eric Forgeot - http://anamnese.online.fr
+P:[Halling 1]
+M:2/4
+L:1/8
+Q:1/4=188
+K:F
+e |: f2 fa | g2 ga | f2 fa | g2 ec |
+     f2 fa | g2 ga | f2 fa | gf ed |
+     f2 fa | g2 g=b| a4    |1 a3 e :|2 a4|:
+ {e}f2 ed | ^c2 A2 | B2  AG | A2F2 |
+ {e}f2 ed | ^c2 A2 | B2  AG | A4   |
+ {e}f2 ed | ^c2 A2 | B2  AG | A2F2 |
+    F2 EG |  FEDF  | ED^CE  | D4  :||:
+P:[Halling 2]
+K:C
+ {e}f2 fa | g2 g b | a2 ge | f2 d2 |
+ {e}f2 fa | g2 g b | a2 gf | e4 :||:
+     efde | ^c3 A  | ^cBAG | AB^cd |
+     efde | ^c3 A  | ^cBAG | A4   :|]
+
+X:2
+T:Reinlendar i form etter Thorvald Trondsgård
+R:Reinlendar
+S:Folldal Spellmannslag
+N:à réviser
+N:http://home.no.net/janwes/folldal/
+D:Óslift (11)
+O:Norge - Norway - Norvège
+A:Hedmark
+Z:transcription (d'oreille) : Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/8
+Q:1/4=120 %tempo à vérifier
+K:C
+ E2 |: A>G AB c2 cB | c>d ef e4 |\
+ [1 e>f ed c>B cd | e>f ed e3 c :|\
+ [2 e>f ed c>B cB | AG A3 e |
+ |: a2 ae g2 ge | f2 fd e2 e2 |\
+ [1 A>G AB c2 cB | c>d ef e3 e :|\
+ [2 A>G AB cB AG | A4 z4 |]
+
+X:3
+T:Springleik etter Thorvald Trondsgård
+R:Springleik
+S:Folldal Spellmannslag
+N:
+N:http://home.no.net/janwes/folldal/
+O:Norge - Norway - Norvège
+A:Hedmark
+Z:transcription (partition) : Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=130
+K:F
+ A>B GA F>A-| (3cAc (3BG-B A>G-| A>B- GA F>A |(3GAB A4 :|
+|: A>B GA F>F | (3EFE D2 D-^C | D>E-(3FD-F E>^C | D2 A4 |
+ A>B GA F>F | (3EFE D2 D-^C | D>E-(3FD-F E>^C | (3EGF D4 :|
+
+X:4
+T:Springleik etter Thorvald Trondsgård (liaisons correctes, mais pbs)
+R:Springleik
+S:Folldal Spellmannslag
+N:
+N:http://home.no.net/janwes/folldal/
+O:Norge - Norway - Norvège
+A:Hedmark
+Z:transcription (partition) : Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=130
+K:F
+ A>B GA F>(A| (3c)Ac (3B(GB) A>(G| A)>(B G)A F>A |(3GAB A4 :|
+|: A>B GA F>F | (3EFE D2 (D^C) | D>(E (3F)(DF) E>^C | D2 A4 |
+ A>B GA F>F | (3EFE D2 (D^C) | D>(E (3F)(DF) E>^C | (3EGF D4 :|
+
+X:5
+T:Skottenes hjemve*
+T:Vals i form etter Thorvald Trondsgård
+R:Waltz
+S:Folldal Spellmannslag
+N:à réviser - à terminer
+N:http://home.no.net/janwes/folldal/
+D:Óslift (29) & Chants et danses de Norvège / Auvidis
+O:Norge - Norway - Norvège
+A:Hedmark
+Z:transcription (d'oreille) : Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=85
+K:C
+ A A2^c d2 | ef ag f2 | ff ed ea | ^cd Bc A2 |
+ G A2^c d2 | ef ag f2 | ff ed ea | ^cd2 (3e/d/c/ d2 |]
+
+X:6
+T:Vals i form etter Thorvald Trondsgård 1
+R:Waltz
+S:Folldal Spellmannslag
+N:http://home.no.net/janwes/folldal/
+D:Óslift (5)  & Chants et danses de Norvège / Auvidis
+O:Norge - Norway - Norvège
+A:Hedmark
+Z:transcription (d'oreille) : Eric Forgeot - http://anamnese.online.fr
+P:AABB
+M:3/4
+L:1/4
+Q:1/4=150
+K:F
+P:[A]
+Add | c>BG | G/A/BB | A>FD | D/E/FF | E>^CA, | A,/G/FE | D/^C/D/ E/F/G/ |
+Add | c>BG | G/A/BB | A>FD | D/E/FF | E>^CA, | A,/G/FE | D3 ||
+P:[B]
+A,D/ ^C/D/E/ | F/G/A>A | ABA | Gd>c | BAG | FE>D | ^CDD/^C/ | D/E/A,2 |
+A,D/ ^C/D/E/ | F/G/A>A | ABA | Gd>c | BAG | FE>D | ^CD>D | DD2 |]
+%
+%var A,D/^C/D/E/ | F/G/A>A | ABA | Gd>c | BA>G | FE>D | ^CDD/^C/ | D/E/A,2 |
+%var A,D/^C/D/E/ | F/G/A>A | ABA | Gd>c | BA>G | FE>D | ^CD>D| DD2 |]
+
+X:7
+T:Vals i form etter Thorvald Trondsgård 2
+R:Waltz
+S:Folldal Spellmannslag
+N:http://home.no.net/janwes/folldal/
+D:Óslift (20)
+O:Norge - Norway - Norvège
+A:Hedmark
+Z:transcription (d'oreille) : Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:3/4=125
+K:F
+AB {B}A2 G2 | F2E2D2 | DEFG A2 | efef d2 | fag=b a2 | ageg f2 | ef ed ^ce | d4 A2 :|"/.../" z6 |]
+
+X:8
+T:Villeman
+C:Trad.
+N:Les paroles ne sont pas encore dans le bon ordre...
+D:Storm "Nordavind"
+O:Norge - Norway - Norvège
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=120
+K:Eb
+ F2 F>G A3/2G/ | F>=E F2c2 | c4 f2 |\
+ c2 c>c B3/2A/ | A3/2B/ B2c2  | c4 B2 |
+ B3/2c/ A2 A>F | G2 G2 A2-| A2 A>B G2 |\
+ G>A F2 F>E | E2 F2 F2-| F2 z4 |]
+W:Villemann gjeng'e for straumen aa staa,
+W:Hei fagraste lindelauvet alle
+W:Meistarleg kunna han gullhorpa slaa 
+W:For dei runene dei lystede aa vinne
+W:
+W:Han leika med lempe, han leika med list :
+W:fuglen daana paa ville kvist.
+W:
+W:Han leika med lempe, han leika med gny :
+W:De gjallar i berg, og de rungar i sky
+W:
+W:Han leika med vreie og leika med harm,
+W:Han leika Magnill av nykkjens arm.
+
+X:9
+T:Oppi Fjellet
+T:Ingrids vise
+T:Ræven og haren
+C:Trad. / tekst : Bjørnstjerne Bjørnson
+N:
+D:Storm "Nordavind"
+O:Norge - Norway - Norvège
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+ B, |: E>F G2 F>E | F>^D B,2 D>B, | E2 E2 ^D>B, |[1 E2 E2 z B, :|[2 E2 E2 z F |!
+ G>F G2 B>B | B>A F3 A | G>F E>F G>E | F>^D B,2 D>B, | E2 E2 ^D>B, | E2 E2 z |]
+W:Og ræven laa under bjerkerod  
+W:      Bortved lynget, bortved lynget, 
+W:Og haren hopped paa lette fod,  
+W:      Over lynget, over lynget 
+W:"Det er vel noget til solskinnsdag !  
+W:Det glitrer for, og det glitrer bag, over lynget"  
+W:
+W:Og ræven laa under bjerkerod, (...)  
+W:Og haren hopped i vilde mod, (...)  
+W:"Jeg er saa glad over alle ting !"  
+W:Hu-hei, gjør du slike svære spring, over lynget ?  
+W:
+W:Og ræven vented bag bjerkerod, (...)  
+W:Og haren tumled ham midt imod, (...)  
+W:"Aa huttetu da, men er du der ! - "  
+W:- Aa, kjære, hvor tør du danse her over lynget ? 
+
+X:10
+T:Haavar Hedde
+C:Trad. 
+N:
+D:Storm "Nordavind"
+O:Norge - Norway - Norvège
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=120
+K:Eb
+C | G>G A>G | G2 CD | E>D C>=B, | C2 zG | G>F G>=B | d>c cB | G>G F>F |!
+G2 zF | E>E F>E | D2 zC |  G>G A>G | G2 CD | E>D C>=B, | C2 z |]
+W:Eg heiter Håvar Hedde 
+W:og er så ven ein kar ; 
+W:no vil eg burt og gifta meg 
+W:og ryddja meg ein gard. 
+W:Eg bur opp under fjell, 
+W:og jenta hev eg lova ;  
+W:eg svik ho inkje hell 
+W:
+W:Eg heter Håvar Hedde 
+W:og bur opp under nut, 
+W:no vil eg burt og gifta meg 
+W:eg vil 'kje lenger gange gut. 
+W:Eg bur opp under... 
+W:
+W:Garden den er liten  
+W:men skogen den er god 
+W:og heve der tvo furur, 
+W:og dei skal stå i ro. 
+W:Eg bur opp under... 
+W:
+W:Og når det lid på tida 
+W:og borni aukar på, 
+W:så høgg eg ned den eine, 
+W:den andre let eg stå. 
+W:Eg bur opp under... 
+W:
+W:Men når me verte gamle 
+W:og kvar skal hava sit, 
+W:så høgg eg ned den andre 
+W:og då er skogen kvitt. 
+W:Eg bur opp under... 
+W:
+W:Det var no inkje undrands 
+W:at Håvar totte vondt, 
+W:han reiste i frå Lanjei 
+W:den myrke haustenott. 
+W:Eg bur opp under... 
+W:
+W:Han reiste i frå Lanjei 
+W:og då var jenta fest, 
+W:man det var med ein annan  
+W:det hav han trega mest. 
+W:Eg bur opp under...
+
+X:11
+T:Nordmannen
+R:Folkevise
+C:tekst : Ivar Aasen / melodi : Ludvig M. Lindeman
+N:
+D:Storm "Nordavind"
+O:Norge - Norway - Norvège
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/8
+Q:1/4=120
+K:F
+A>F |"Dm"D2 DE "Bb"F2 FG |"A"A4 "Dm"F2 AB |"F"c2 AF "C7"G2 EC | "F"F4 z2 A>B |!
+"A7"G2 GA "Dm"F2 FG | "A"E4 A2 A^c | "Dm"d2 AB "A7"(AG) FE | "Dm"D4 z2 |]
+W:Millom bakkar og berg ut med havet 
+W:heve nordmannen fenge sin heim, 
+W:der han sjølv heve tuftene grave  
+W:og sett sjølv sine hus uppå deim. 
+W:
+W:Han såg ut på det steinute strender ; 
+W:det var ingen som der hadde bygt. 
+W:"Lat oss rydja og byggja oss grender, 
+W:og så eiga me rudningen trygt." 
+W:
+W:Han såg ut på det bårute havet ; 
+W:der var ruskut å leggja utpå ; 
+W:men der leikade fisk nedi kavet, 
+W:og den leiken, den ville han sjå. 
+W:
+W:Fram på vinteren stundom han tenkte : 
+W:Gjev eg var i eit varmare land ! 
+W:Men når vårsol i bakkane blekte, 
+W:fekk han hug til si heimlege strand. 
+W:
+W:Og når liene grønkar som hagar, 
+W:når det laver av blomar på strå, 
+W:og når netter er ljose som dagar, 
+W:kan han ingen stad vanare sjå. 
+W:
+W:Sud om havet han stundom laut skrida, 
+W:der var rikdom på benkjer og bord, 
+W:men ikring såg han trelldomen kvida 
+W:og så vende han atter mot nord. 
+W:
+W:Lat no andre om storleiken kivast, 
+W:lat deim bragla med rikdom og høgd, 
+W:mellom kaksar eg inkje kan trivast, 
+W:mellom jamninger helst er eg nøgd.
+
+X:12
+T:Solveigs sang
+R:Folkevise
+C:tekst : Ibsen / melodi : Grieg
+N:
+D:Storm : Oppunder Skrenk og Villmark
+O:Norge
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=85
+K:C treble
+V:1
+(E2 | A2 Bc d2 ef | fe ec A2) (Ac | cB B^G E4)-|E6 
+ E2 | A2 Bc d2 ef | fe ec A2 Ac | cB BG E4-|E6
+ zE | (E^G Bc A2 e^d | B2 d^c A3) (A | cB BA e3) E |
+     E^G Bc A2 e^d | BB d^c A3 A | [F3c3] B[D3B3] A | [C8A8] |]
+V:2
+K:C bass
+z2 | A,2 [E2c2] A,2 [E2d2] | A,2 [E2c2] A,2 [E2c2] | A,2 [E2d2] A,2 [E2c2] |
+[K:C treble] [c6a6] z2 | A,4 G,4 | C4 [K:C bass] f4 | e4-[A4e4][K:C treble]|
+[c6a6] z2 [K:C bass]| d4 c4 | =B2_B2 A4 | [^D4A4f4] [E4^G4e4] |
+ d4 c4 | B2_B2 A4 | [D4A4f4] [E4^G4e4] | [A,8E8] |]
+W:Kanske vil der gaa baade Vinter og Vaar, baade Vinter og Vaar,  
+W:og næste Sommer med, og det hele Aar og det hele Aar  
+W:men engang vil du komme, det ved jeg vist, det ved jeg vist  
+W:og jeg skal nok vente, for det lovte jeg sidst, det lovte jeg sidst.  
+
+X:13
+T:Solveigs sang (seconde notation)
+R:Folkevise
+C:tekst : Ibsen / melodi : Grieg
+N:
+D:Storm : Oppunder Skrenk og Villmark
+O:Norge
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=85
+K:C treble
+%%MIDI program 1
+V:1
+(E2 | A2 Bc d2 ef | fe ec A2) (Ac | cB B^G E4)-|E6 
+ E2 | A2 Bc d2 ef | fe ec A2 Ac | cB BG E4-|E6
+ zE | (E^G Bc A2 e^d | B2 d^c A3) (A | cB BA e3) E |
+     E^G Bc A2 e^d | BB d^c A3 A | [F3c3] B[D3B3] A | [C8A8] |]
+V:2
+K:C bass
+z2|A,,2 [E,2C2] A,,2 [E,2D2]|A,,2 [E,2C2] A,,2 [E,2C2]|A,,2 [E,2D2] A,,2 [E,2C2]|
+[K:C treble] [c6a6] z2 | A,4 G,4 | C4  [K:C bass] F4|E4-[A,4E4][K:C treble]|
+[c6a6] z2 [K:C bass]|D4 C4|B,2_B,2 A,4|[^D,4A,4F4] [E,4^G,4E4]|
+D4 C4|B,2_B,2 A,4|[D,4A,] [E,4^G,4]|[A,,8E,8]|]
+
+X:14
+T:Ranveig
+R:Folkedanse
+C:Grieg / Trad.
+N: TODO : pb avec la transposition
+O:Norge
+A:Lom
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:1/4=85
+K:C
+%%abc2pscompat
+%%staves (1 2) (3 4)
+V:1
+K:C treble
+%%MIDI transpose 0
+%%MIDI program 1
+"Allegro"A/>B/ ce | (3d/B/c/ A^G | A/>B/ cB | d/>c/ A^G |
+A/>B/ cA | d/>c/ B2 | (A/>B/ c[B=e] | !crescendo(!e/>^d/ e^G |
+A/>B/ c=A!crescendo)! | d/>c/ !diminuendo(!A^G | A/>B/ !diminuendo)!cA | "rit."A/>^G/ HA2) |]
+V:2
+K:C treble
+%%MIDI transpose 0
+%%MIDI program 1
+A3 | A3 | A3 | A3 |
+A3 | [F2A2] ^G | [F2A2] ^G | [^F2A2] E |
+=F2 E | ADE | F3/2 E ^D/ | =D2 H^C |]
+V:3
+K:C bass
+%%MIDI transpose -24
+%%MIDI program 1
+c'/>d'/ e'c' | (3f'/d'/e'/ c'b | c'/>d'/ e'd' | f'/>e'/ c'b |
+c'/>d'/ e'c' | b/>c'/ d' (e'-|e' _e'd' | c'b[_bd'] | 
+d'2 ^c' | d'b2 | c'/>b/a ^f | d He2) |] 
+V:4
+K:C bass
+%%MIDI transpose -24
+%%MIDI program 1
+a3 | a3 | a3 | a3 |
+a3 | z3 | z3 | z3 |
+a^ag | _f=fe | dcB | _BHA2 |]
+%%MIDI transpose 0
+
+X:15
+T:Nordens kvinner
+C:Trad. / Jørgen Moe
+N:"Femmes du Nord"
+O:Norge - Norway - Norvège
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=115
+K:F
+c | "F"c>d c2 A>c | "C7"B>B "F"A2 z c | "Bb"B>d "F"d>c c>E | "C7"G2"F"F2 z :| F | "C"E>F G>G "F"A>c |
+B>B A2 z F | E>F G>G A>c | B>B A2 c2 | B>B A2 c2 | B>B A2 zc |B>d (d>c) c>E | G2 F2 z |]
+
+X:16
+T:Det lysnet i skogen
+C:Sigurd Islandsmoen / Jørgen Moe
+N:
+O:Norge - Norway - Norvège
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/8
+Q:1/4=115
+K:G
+D | "G"(B>B) "D"AB "G"G2 "C"FE | "D"D2 DC "G"B,3 D/-D/ | "C"(CD) DF "G"G>G AF | "A"E2"D"D4 zD |
+"G"B>B "D"AB "Em"G2 "C"FE | "D"D>D DC "G"B,3 B, | "Am"(CD) DF "G"G>G AF | "D"F2"G"G4 z B |
+"G"d>d Bc d2 BG | "D"A>G Ac "G"B3 B | "Em"B>A GE "G/B"D2 GB | "Am"(A>^G) A^A "B"B3 D |
+"C"G>G FE "Am"B>B GA | "D7"F2 "G"G4 z |]
+W:Det lysnet i skogen, da ilte jeg frem. 
+W:Snart stod jeg hvor bakke stupet skrånet.
+W:Jeg så den vide bygd, og jeg så mitt kjære hjem, 
+W:jeg så de brede fjorder der skar seg inn i bukt, 
+W:og elven så jeg blinke og krumme seg så smukt. 
+W:Jeg lentes til de sollyse sletter.
+W: /.../
+
+X:17
+T:Svarterabben
+R:Folkevise
+C:Trad.
+N:
+O:Norge - Norway - Norvège
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=120
+K:F
+"Dm"D>E F>G A>B | A<G E>G  F2 | "A"E>D ^C2 D(E/F/) |(D<^C) A,3 z |!
+"Dm"D2 F>G A>B | (A<G) E>G  F2 | "A"E>D ^C2 D(E/F/) |(D<^C) D3 z |!
+"A"A2 A,>A, A,>A, | A,2 A,>G, A,2 | A2 A,>A, A,>A, | A,2 A,>G, A,2 |!
+"Dm"D2 F>G A>B | "Gm"(A<G) B3 z | "A"d2 d>d d>d | "Dm"d2 d4 |]
+
+X:18
+T:Liti Kjersti
+R:
+C:Trad
+H:
+N:
+O:Norge - Norway - Norvège
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=70
+K:G
+D D | E2 B c | BA B A | G2 F G | B3 G | F E F G |
+F3 E | E2 B c | B2 B A | G2 FG | B2 A G |F E F G |F3 F |
+E2 B c | BA B2 | AF A G | GF G G | F3 E | E2 |]
+W:Liti Kjersti ho var seg saa lite eit viv,
+W:Brunfolen loeyper lett,
+W:ho kune kje raade sitt unge liv.
+W:Med det regner og det blaes.
+W:For langt nord i fjello,
+W:djupt under hello
+W:der leikar det.
+
+X:19
+T:Liti Kjersti (2)
+R:
+C:Trad
+H:
+N:chanté par Kirsten Bråten Berg
+D:Chants de danses de Norvège
+O:Norge - Norway - Norvège
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/4
+Q:1/4=120
+K:G
+"B" F F/F/ F A | "z" G G/E/ F2 | F/E/ E/E/ ^D B,/ ^D/ | E F E2 
+|: E E/E/ ^D ^D/^D/ | EE/F/ G2 | F3/2 F/4F/4 E3/2 E/4E/4 | DDB,2 |
+F F/F/ F A | G G/E/ F2 | F/E/ E/E/ ^D B,/ ^D/ | E F E2 :|
+
+X:20
+T:Liti Kjersti (3)
+R:
+C:Trad
+H:
+B:Folque p.10
+D:
+O:Norge - Norway - Norvège
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/4
+Q:1/4=120
+K:F
+DD/D/ ^CC/C/ | D D/E/ Fz | E2 DD | CEHF>F |
+E E/E/ GG/G/ | FF HE>E | (E/D/)D/D/ ^C A,/C/ | D2 DZ |] 
+
+X:21
+T:Sinclair-visa
+R:
+C:Edvard Storm / Trad.
+H:
+B:Folque p.38
+D:
+O:Norge - Norway - Norvège
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/8
+Q:1/4=120
+K:F
+F2 | "Dm"F2 (FE)D2 DA | "F"A2 (AG) "Dm"F3G | "F"AA A2 "Gm"G2 FF |
+"C"EE G2 "Bb"F2"A"E2 | [M:6/4] "Dm"D2 AA "F"A2 (AG) "Dm"F3G | [M:C] "F"AAA2 "Gm"GGF2 |
+ [M:6/4] "C"EED2 "Bb"Fz D2 "A"^C3D | [M:C]"Dm" DA A2 "F"AGF2 | "A7"E4 "Dm"D2 :|
+W:Herr Sinclar drog over salten Hav,
+W:Til Norrig hans Cours monne stande ;
+W:Blandt Gudbrands Klipper han fandt sin Grav,
+W:Der vanked så blodig en Pande.
+W:- Vel op før Dag
+W:De kommer vel over den Hede -
+W:
+W:Herr Sinclar drog over Bølgen blå,
+W:For svenske Penge at stride ;
+W:Hjælp dig Gud ! du visselig må
+W:I Græsset for Nordmanden bide.
+W:
+W:Månen skinner om Natten bleg,
+W:De Vover så sagtelig trille ;
+W:En Havfru op af Vandet steg,
+W:Hun spåede Herr Siclar ilde.
+
+X:22
+T:Sinclair-visa (fele)
+R:
+C:Edvard Storm / Trad.
+H:
+B:Folque p.39
+D:
+G:Fele / Fiddle / Violon
+O:Norge - Norway - Norvège
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/8
+Q:1/4=120
+K:F
+V:1
+%%staves (1 2)
+%%MIDI program 43
+A2 |: A2 A2 A2 DA | AB {AB}AA A2 AA | A2 A2 A2 A2 | 
+AA A2 A2 A2 | [M:6/4] D2 A2 AB {AB}AA A2 AA | [M:C] A3 A A2 A2 | 
+[M:6/4]AA A2 Az A2A3D | [M:C]D2 A2A2A2 | A2 EAD2AA :|
+V:2
+%%MIDI program 43
+D2 |: F2(FE)D2 (A,D)| (DD) (DG) F2 (FG) | A2 A2 G2F2 | 
+EEG2FG/F/ EF/E/ | [M:6/4] A,2 D2 (DD) (DG) F2 FG | [M:C] A3 A G2F2 |
+[M:6/4] EED2 Fz (D2[^C3E3]) C | [M:C]D2D2 DE {E}F2 | {EF}ED ^CED2 (EF) :|
+
+X:23
+T:Huldre-Kve
+R:
+C:Edvard Storm / Trad.
+H:
+B:Folque p.41
+D:
+O:Norge - Norway - Norvège
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=130
+K:F
+|: F(G/A/) F(G/A/) | B(G/A/) A(G/A/) | F(G/A/) F(G/A/) | B(G/A/) A2 :|
+|: FA, EA, | (D/E/)(F/D/) EA, | FA, EA, | D2D2 :|
+
+X:24
+T:Reinlender
+R:Reinlender
+C:Trad.
+H:
+B:Folque p.74
+D:
+O:Norge - Norway - Norvège
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/8
+Q:1/4=175
+K:C
+ABcd {d}e2e2 | e^fdf {f}e2 c2 | cBdB {B}c2 Ac | BA^GB A2 z2 :|
+K:A
+{g}a2a2a2 ba | g2 e2 e4 | dcBc defa | g2 e2e2 fg |
+{g}a2a2a2 ba | g2 e2 e4 | dcBc dBGB | A2c2A2 z2 ||
+K:C
+a2a2 g3 f | edef ecAB | c2c2 defd | e2e2 ^f2^g2 | 
+a2a2 g3 f | edef ecAB | c2c2 BdcB | A2 c2 A2 z2 |]
+
+
+X:24
+T:Springar
+R:Springar
+C:Trad.
+B:Folque p.72
+D:
+O:Norge - Norway - Norvège
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:3/8=80
+K:C
+%%MIDI program 43
+[Ae] (3[Ae][Af]B |: [df]>e e>[ec] [eB]>[^GB] | [Ae]>[Be] [ce]>[de] (3[Ae][Af]B | [df]>e e>[ec] [eB]>[^GB] |
+[A2A2] [A2e2] (3[Ae][Af]B :||: [df]>e e>c e>a | a>^g a>e (3efd |
+[df]>e e>c e>a | [Aa]>[A^g] [Aa]>e (3efd | [df]>e e>[ec] [eB]>[^GB] |
+[Ae]>[Be] [ce]>[de] (3[Ae][Af]B | [df]>e e>[ec] [eB]>[^GB] |1 [A2A2] [A2e2] (3[Ae][Af]B :|2 [A2A3] :|
+
+
+
+X:25
+T:Underjordisk melodi
+R:Halling
+C:Trad?
+H:1695
+N:Heinrich Meyer
+O:Norge - Norway - Norvège
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=100
+K:A
+A | Be (B/c/d/B/) | c>d cA | Be (B/c/d/B/) | c3/2 :|!
+|: A | Be B/c/d/B/ | cdcA | Be B/c/d/B/ | cd c2 |\
+ .e .e | .e .e |!
+ee/d/ c | dd/c/ B | ee/d/ c | dd/c/ B | cB/A/ BA/G/ | A2 A :|
+
+X:26
+T:Nystev
+R:Stev
+C:Trad
+H:
+N:
+O:Norge - Norway - Norvège
+A:Setesdal
+Z: Eric Forgeot - http://anamnese.online.fr
+M:5/2
+L:1/8
+Q:1/8=90
+K:C
+A | A G uB Hd A | G G vF/G/ A A | vF G vF D uB, | C C HD D |
+A | A G uB Hd A | G G vF/G/ A A | vF G {vF}D D uB, | C _E HD ||
+W:Saa klaarna livet, Saa vakna voni
+W:Saa saag eg sommar og sol paa jordi
+W:Saa ljos og klaare laag livsens veg
+W:daa eg elska han og han elska meg.
+
+X:27
+T:Skogsnerten
+R:reinlender
+C:Sven Nyhus
+H:
+N:p.28
+B:Fra Bergrosa til Trollsteget
+O:Norge - Norvège - Norway
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|2
+L:1/8
+Q:1/4=110
+K:C
+ue>vd |: "Am" e2 (e>d) e2 (e>d) | "Am" e2 A2 A>(Ace) |"Am"{ag}a3 g "D"~^f2 ed |\
+ "D" (^f^gf) e2 "Am" e2 a>=g | "F" a2 (a>g) a2 (a>g) |"Dm"{ag}a3 f d2 (fa) |
+"C"(gag) ec "G7"~B2 GB |1 "C"(dedc2) c2 e>d :|2 "C"(dedc2) c2 "Am"Ac |: % /.../
+
+
+X:34
+T:Reven og Bjørnen
+R:
+C:Trad.
+O:Norge - Norvège - Norway
+D:Folque
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/4
+Q:1/4=165
+K:Dm %_b
+"Dm"A A/A/ A A/A/ | "C"E G/E/ "F"F>E | "Dm"D/^C/ D/E/ F E/D/ | 
+"A"E2 A, A,/A,/ | "Dm"A A/A/ A A/A/ | "C"E G/E/ "F"F>E | "Dm"D/^C/ D/E/ F E/D/ |
+"A"E A, "Dm"D>D | "A"^C D E F/D/ | E A, A, A,/A,/ | "Dm"A, AAA |
+"C"E G "F"F2 | "Dm"DEF E/D/ | "A"E A, "Dm"D z |]
+W:Reven han sto inni hola og grov,
+W:- Her lier uti sagde reven -
+W:Steffa maure fatta i rova og drog.
+W:- For bonden slenger vipp uti tirumtapp
+W:og Kranselin kom ikkje før rova slapp.
+W:Steffa maure med sitt rosenkinn
+W:han vant seier på Kranselin - /.../
+
+X:34
+T:Springleik
+R:Springleik
+C:Trad.
+O:Norge - Norvège - Norway
+N:etter Sylfest Stamstadbakken
+N:W. Brimi, Lom
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=135
+K:F
+a2 |: {ga}g2 (ef) d>(d|{cd}c)A/B/ [GB]A [FA]>A | c/(A/B) [GB]A [FA]>A |1.3. (3GAB {AG}A2-A2 g2 :|/.../
+
+%%vskip 0.5cm
+%%sep
+%%text Island :
+X:28
+T:Trolldans
+C:Trad.
+N:
+O:Island
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/8
+L:1/8
+Q:1/4=120
+K:F
+C | "F"F F/F/ F E | "G/F"(F/G/) (A/=B/) c>c | "F"A A c>c |\
+ "C7"B G "F"F2 | A A "C/F"G G | "F"A A F F |!
+ A A/A/ "C/F"G F/G/ | "F"A2 z2 | "Am"c c/c/ "Bb"d d/d/ |\
+ "Gm"B A/A/ "C"G F/F/ | "F"F2 F2 | "Dm"A G/G/ A B/B/ |!
+ "Am"c c/c/ "Bb"d B/B/ | "Gm"(BA) "C7"G2 | "F"F2 z |]
+
+
+
+
+%%vskip 0.5cm
+%%sep
+%%text Sverige :
+X:31
+T:Katarinas Vals
+R:Valse
+C:Maria Jonsson
+N:
+O:Sverige
+Z: Eric Forgeot - http://anamnese.online.fr
+P:AAB
+M:3/4
+L:1/8
+Q:1/4=144
+K:C
+P:A
+AB cB AG | A2 E3F | DE CB, A,B, | CD E2 E2 | B,3E EG |1
+Bc A2 E2 :|2 Bc A4 :: A3 a ga | ef ed e2 | d3 f ed |
+cd Bc A2 | z2 EG Bc | A3 c BA | GA ED E2-|E6 |
+A3 a ga | ef ed e2 | d B2 cA2 | BG2 AF2 | EDE2 G2 | A6 :|
+
+X:32
+T:Knuss-Olles livstycke
+R:Polska
+C:Olof Jonsson-From (födt 1796)
+H:
+N:Trad. /folk
+B:http://old.ljusdal.se/from/polska22.htm
+D:Elements
+O:Sverige - Sweden - Suède
+A:Boda (Järvsö)
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/16
+Q:1/4=100
+K:C
+(AB)cB A2E2 C2A,2 | c2Bc (dc)BA e2E2 | (ED)FD E2C2 B,2A,2 | E2DE F2D2 B,2G,2 |
+(G,C)EC (DE)FD (EF)GE | (AB)cA (Bc)dB c2C2 | (G,C)EC (DE)FD (EF)GE | (AB)cA (Bc)dB (cB)A^G |
+A2 a^g a2AB c2ec | (BA)^GA B4 [A4A4] :: G2ce g4g4 | G2ce g2eg f2d2 | G2Bd f4f4 | G2Bd f2df e2c2 |
+(Gc)(ec) (Gc)(ec) (Gc)(ec) | (^GB)(eB) (^GB)(eB) (^GB)(eB) | (=Gc)(ec) (=Gc)(ec) (=Gc)(ec) |
+(^GB)(eB) (^GB)(eB) e2E2 | (ED)FD E2C2 B,2A,2 | a2gf e2d2 c2B2 | (A^G)BG A2E2 c2A,2 | G,2fe f2d2 B2G2 |
+(Gc)(ec) (de)fd [e4e4] | (AB)cA (Bc)dB (cB)A^G | A2 a^g a2AB c2ec | (BA)^GA B4 [A4A4] :|
+
+X:33
+T:Vi vandra (?)*
+R:
+C:Trad.
+H:
+N:%% traduction %%
+N:%Maintenant nous sommes prêts pour aller dans la forêt
+N:%avec les vaches, les veaux et le mouton.
+N:%Nous passons à travers les marais humides et boueux
+N:%Pour leur trouver quelque chose à manger,
+N:%Pour ce voyage que nous avons attendu si longtemps. 
+O:Sverige - Suède - Sweden
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/8=140
+K:D
+B2 | AA/B/ GG Be d2 cA/c/  B2 | AA/B/ G>G FE ^D>E F/E/F/G/ E4 :|
+B2 ^de f2 af gg fe B3 c A2 G AB2 ce | d2 cA/c/B2 | A A/B/ G>GF E ^D>EF/E/F/G/ E4 |]
+W:Nu äro vi redo att vandra till skogs
+W:med kor och med kalvar och får.
+W:Vi vandra igenom de sumpiga träst
+W:för att vi ska få något bete för dem
+W:för vår marsch som vi strävat så lang. /.../
+
+X:34
+T:Bonden och Räven
+R:
+C:Trad.
+H:
+O:Sverige - Suède - Sweden
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=135
+K:
+|: A2 d>^c d>e | f2 e>d e2 |
+A2 d>^c d>e |1 f2 e4 :|2 f2 e3a ||:
+g2 g>f e>f | g2 f2 ea |
+g2 g>f e>f | g2 f2 ee |
+f2 e>d ^c>d |1 e2 d3 a :|2 e2 d4 ||
+
+X:35
+T:Nr 14
+R:Polska
+C:Olof Jonsson-From (födt 1796)
+H:
+N:Trad. /folk
+N:Nr 14 i K.P. Lefflers "Om Nyckelharpospelet på Skansen"
+B:http://old.ljusdal.se/from/
+O:Sverige - Sweden - Suède
+A:Boda (Järvsö)
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=110
+K:F
+A>^c d(e f/e/)f/g/ | a>(f d)^c [A2A2] | A>G E>F D>E | ^C2 E2 A2-|A>^c d>e fa |
+({ef}e>^c) [D4d4] :||: f>a ge =ce | fe/f/ gf/g/ (a2|b)>a gf ed | [E2^c2] [A4A4] |
+f>a ge =ce | fe/f/ gf/g/ (a2|b)>a gf ed | (^c/d/)e/c/ [D2d2] z2 :|
+
+X:36
+T:Nr 17
+R:Polska
+C:Olof Jonsson-From (födt 1796)
+H:
+N:Trad. /folk
+N:Nr 17 i K.P. Lefflers "Om Nyckelharpospelet på Skansen"
+B:http://old.ljusdal.se/from/
+O:Sverige - Sweden - Suède
+A:Boda (Järvsö)
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=130
+K:C
+G2 (c>B) c>d | (d>e) e2 [G,2G2]-|[G,2G2] (f>e) d>c | 
+Bc/B/ AB/A/ [G,2G2]-|[G,2G2] (g>^f) g>a | (a>b) b2 
+
+X:37
+T:Scottishe suédoise
+R:Scottish
+N:tagafolk.abc
+O:Sverige
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/8
+Q:1/4=135
+K:C
+E2Ac efec | d2dBd4 | d2ef edcB | cdcB cBAc |\
+E2Ac efec | d2dBd4 | d2ef edcB | c2B2 A4  ::
+a2agf4 | efedc4 | B2BB edcB | ABcd eAce |\ 
+a2agf4 | egedc4 | B2BB edcB | Acec A4  :|
+
+X:38
+T:Scottishe de la colle à chaux
+R:Scottish
+N:parties CDE peut-être pas de Suède
+N:tagafolk.abc
+O:Sverige
+Z: Eric Forgeot - http://anamnese.online.fr
+P:ABABABCDEE
+M:C|
+L:1/8
+Q:1/2=76
+K:C
+P:A
+ABcde2 ec | defga4 | a2 gf e3d |1c2B2c2A2 :|2 c2B2A4 |
+P:B
+|: ABcA B2B2 | B2 cd e2c2 | ABcA B2 Bd |1 c2B2c4 :|2 c2B2A4 |
+P:C
+|: AGAB c3B | A2A2A4 | G2G2A2G2 | E2E2D2E2 |
+   AGAB c3B | A2A2A4 |1 c2c2B2G2 | A2A2A4 :|2 cedc BEcB | A4A4 ||
+P:D
+   AGcd e3g | fedf edcB | AGcd e3g | fedc B4 ||
+P:E
+   AGAB A3A | Bcdc B2G2 | AGAB A3A | (3Bcd edcB A2 ||
+
+%%vskip 0.5cm
+%%sep
+%%text Danmark 
+X:29
+T:Wild basen
+R:Pols
+C:Erik Jensen
+S:For Borgere og Bønder p.468
+H:1790
+N:Erik Jensens nodebog 1790 nr.7
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=140
+K:G
+|: cAdf e2 | E2.G2.A2 | dAdfed | c4 A2 :|
+|: FDGB.A2 | A,2.C2.D2| GDGBAG | F4 D2 :|
+
+X:30
+T:Menuet
+R:Menuet
+C:Mads Nielsen
+S:For Borgere og Bønder p.467
+H:1764
+N:Mads Nielsen nodebog 1764 nr.18
+N:Jens Henrik Koudal Museum Tusculanum Forlag
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=135
+K:D
+|: d2 d2 d2 | cdec d2  | B2 A2 G2 | FGAF D2 |\
+   A2 A2 A2 | ^GABG A2 | dbcaB^g  | a6     :|!
+|: e2 efed | c2 Bc A2|f2 fefc   | d2 cd B2 |
+    g2f2e2 | fdec d2 | b2 a2 g2 | fefg a2  | f2 edec | d6 :|
+
+
+X:39
+T:Menuet
+R:Menuet
+S:http://www.dafo.dk/spillemand/
+N:n°3
+N: pb antépénultième mesure ?
+B:Rasmus Storms nodebog - 1760
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=135
+K:C
+d2 AdAd | e2 AeAe | f2 gfed | edef e2  | d2 Addg |
+e2 dec2 | f2 cfcf | g2 cgcg | a2 _baga | f6      | a2 fa | f2 gfef | d6 ||
+
+X:39
+T:Serras
+S:http://www.dafo.dk/spillemand/
+S:http://spillefolk.dk/nodesamling/listnode.php
+S:http://spillefolk.dk/nodesamling/pdf/po-serras4.pdf
+N:n°4
+N: K= si bemol et non pas C
+B:Rasmus Storms nodebog - 1760
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=125
+K:C
+fe d2^c2 | de f2 e2 | gfge | fe d2^c2 | de f2 e2 | fa A2 ^c2 | d6 :||:
+Ad | e2 AeAe | f2 gfed | f6 :||: a2 eaea | f2 ef d2 | g2 dg fa | 
+g2 egeg | f2 gfed | ^c2 Bc A | d2 AdAd | e2 Aeae | fa A2 ^c | d6 :||:
+fg a2 (gf) | ef g2 (fe) | fgagaf | ef 
+
+
+
+X:40
+T:Menuet
+R:Menuet
+S:http://www.dafo.dk/spillemand/
+N:n°17
+B:Rasmus Storms nodebog - 1760
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=135
+K:D
+d2 e2 c2 | d2 DEFG | A2 d2 c2 | d4 B2 | A2 D2 f2 | e2 dcBA |
+B2 E2 ^G2 | A6 :||: Aa A2A2 | A2 GF G2 | g2g2 fg | e4 f2 | 
+e4 d2 | A4 G2 | F4 E2 | A2 d2 c2 | d6 :|
+
+X:41
+T:Amalie Vals *
+R:waltz
+S:http://www.dafo.dk/spillemand/
+N:n°3
+B:Frederik Vilhelm Lind - Gullestrup 1867-95
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=135
+K:G
+B2 A G2 | c2 A A2 | d2 A B2 | e6 | d2 A G2 |B6 | A2 D2 E2 |
+F2 G2 A2 | B2 A G2 | c2 A A2 | d2 A B2 | e6 | E2 F2 G2 | (D4B2) |
+(B4A2) | G2 A A :||:
+K:D
+
+X:42
+T:Rejnlænder
+R:reinlander
+S:http://www.dafos.dk/spillemand/
+N:n°102
+B:Frederik Vilhelm Lind - Gullestrup 1867-95
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/16
+Q:1/4=135
+K:G
+Bc | d2c'2c2a2 | B2g2 gdAF | F2e2 edcA | G2Bc dcBc |
+     d2c'2c2a2 | B2g2 gdAF | F2e2 edcA | G2GF G2 :||:
+FG | A2de fed2 | B2ef gfed | /.../
+
+X:43
+T:Mazurka (à réviser)
+R:Mazurka
+S:http://www.dafos.dk/spillemand/
+N:n°112
+B:Frederik Vilhelm Lind - Gullestrup 1867-95
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+F>A d2 F2 | G>B e3d | c>e a>g f>e | d>f A3G | F>A d2 F2 | G>B e3d | 
+c>e a>g f>e | d2 [F2d2] z2 :||: B>c d2 c>B | g>g f4 | B>c d2 c>B |
+ ^A>c f>e d>c | B>c d2 c>B | b>b d3e | f>g f>e c>d | B2 B2 z2 :|
+K:D %% ou G ?
+|: (3dfa c'2c'2 | c'2 c'>c c2 | (3A^df a2a2 | a2 g>f | (3gfg a>g f>e | 
+d>d b4 || c'>c' f4 | b>b g4 || c'>(a f)>(d b)>a | g2 [B2g2] z2 :|
+
+
+X:43
+T:Mazurka 
+R:Mazurka
+S:http://www.dafo.dk/spillemand/
+N:n°59
+B:Frederik Vilhelm Lind - Gullestrup 1867-95
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+AG | FA df a2 | EA ce g2 | (3fed (3fed cd | edcBAG |
+     FA df a2 | EA ce g2 | (3fed (3fed cd | d2d2 :||: 
+f2 | gfgbag | fefagf | edegfe | defg a2 | 
+     gfgbag | fefagf | edegfe | defg a2 | d2d2 :||:
+
+X:43
+T:Mazurka 
+R:Mazurka
+S:http://www.dafo.dk/spillemand/
+N:n°35/33
+B:Hans Markus Gravlund  Nielsen - Store-Heddinge 1865
+O:Danmark
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+d2 d>B G2 | e2 e>c A2 | f2 f>de>f | g2 b>gd>B | 
+d2 d>B G2 | e2 e>c A2 | f2 f>de>f | g2 G2 z2 |
+g2 b>ag>f | e2 e>c A2 | a2 a>gf>e | d2 d>B G2 | 
+d2 d>B G2 | e2 e>c A2 | a2 f>de>f | g2 G2 z2 :|
+
+%%text Finland :
+
+X:1 % numéro dans le fichier
+T:Levan polkka % titre
+R:Polka % rythme
+C:Trad. / Eino Kettunen % compositeur
+O:Suomi % pays d'origine
+O:Finland % pays d'origine
+Z: Eric Forgeot - http://anamnese.online.fr % celui qui l'a transcrit
+D:Loituma : Things of Beauty % discographie éventuelle
+N:http://www.tvfolk.net/artistVideo.php?ID=420 % note additionnelle, ici vous pouvez voir le groupe en live
+M:2/4 % type de mesure (ici c'est en 2 temps)
+L:1/8 % note de base (ici c'est la croche)
+Q:1/4=115 % tempo
+K:G % tonalité
+|:Be e>f | ge e>g | fd d>f | ge e2 |
+Be e>f | ge e>g | ba gf | ge e>g |
+bb/b/ ag| fd df | aa gf | ge e>g |
+bb/b/ ag| fd df | aa/a/ gf| ge e2 :|
+W: Nuapurista kuulu se polokan tahti % et les paroles... pour ceux qui les comprennent :)
+W: jalakani pohjii kutkutti.
+W: Ievan äiti se tyttöösä vahti
+W: vaan kyllähän Ieva sen jutkutti,
+W: sillä ei meitä silloin kiellot haittaa
+W: kun myö tanssimme laiasta laitaan.
+W: Salivili hipput tupput täppyt
+W: äppyt tipput hilijalleen.
+W:
+W: /.../
+

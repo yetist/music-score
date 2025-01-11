@@ -1,0 +1,16 @@
+% Generated more or less automatically by swtoabc by Erich Rickheit KSC
+X:1
+T:O Holy Night
+M:4/4
+L:1/16
+K:C
+ E4 E3 E| G4- G3 G A3 A F3 A| c8 G3 G E3 D| C4 E3 F G4 F3 D| C8 z8|\
+
+M:2/4
+ E4 E3 E|
+M:4/4
+ G4- G3 G A3 A F3 A| c8 G3 G ^F3 E| B4 G3 A B4 c3 B| E8 z4 G4| G4 A4 D4 G4|\
+ A3 G c3 E A4 G3 G| G4 A4 D4 G4| A3 G c3 E G8| c12 B3 A| B12 B4| d8- d3 A A3 A|\
+ c8 c4 z2 c2| e8- d4- d3 G| c12 B3- A| G8- G3 G A3 G| G8 z4 c4| d12 G4|\
+ e12 d4| c8 B4 c3 d| c8- c8|
+

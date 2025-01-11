@@ -1,0 +1,819 @@
+%abc
+%%%%               
+%      
+%              Le premier livre des chansons à deux ou à troix parties
+%
+%                                 Tielman Susato
+%                      
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/                
+                   
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/ abcmus/  (pour l'écoute)
+%    Abc2win     http://www.c7r.com/ abc/  (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/ abcMIDI/  (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/  (pour le format postscript)
+%    Abctab2ps	http://www.lautengesellschaft.de/ cdmm/  (obligatoire pour les partitions en tablatures
+% 
+% en ligne : http://www.concertina.net/ tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/   
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/ licenses/ by-nc-sa/2.0/ fr/ 
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  dimanche 26 octobre 2008 à 16:26
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+
+%%textfont GoudyMediaeval-Regular 18
+
+%%titlefont GoudyMediaeval-Regular 22
+%%subtitlefont GoudyMediaeval-Regular 16
+%%composerfont   GoudyMediaeval-Regular 10
+
+
+%%headerfont GoudyMediaeval-Regular 12
+%%footerfont GoudyMediaeval-Regular 8
+
+%%annotationfont GoudyMediaeval-Regular 10
+%%infofont GoudyMediaeval-Regular 16
+%%historyfont GoudyMediaeval-Regular 16
+
+
+%%measurefont GoudyMediaeval-Regular 14
+%%partsfont GoudyMediaeval-Regular 14
+%%repeatfont GoudyMediaeval-Regular 14
+
+%%tempofont GoudyMediaeval-Regular 14
+%%vocalfont GoudyMediaeval-Regular 16
+%%voicefont GoudyMediaeval-Regular 16
+%%wordsfont GoudyMediaeval-Regular 16
+%%gchordfont GoudyMediaeval-Regular 14
+%%setfont-1 GoudyMediaeval-Regular 16
+%%setfont-2 GoudyMediaeval-Regular 16
+%%setfont-3 GoudyMediaeval-Regular 16
+%%setfont-4 GoudyMediaeval-Regular 16
+
+%%textfont GoudyMediaeval-Regular 25
+%%vskip 0.5cm
+%%center Le premier Livre des chansons à deux ou à troix partie     
+%%textfont GoudyMediaeval-Regular 18
+%%vskip 0.5cm          
+%%center Tielman Susato   Anvers 1544
+%%textfont GoudyMediaeval-Regular 16
+%%center 
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont GoudyMediaeval-Regular 12
+%%text Transcriptions par 
+%%text Eric Forgeot
+%%text http://anamnese.fr.st
+%%vskip 0.0cm
+%%text Version :  octobre 2008
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	Le premier Livre des chansons à deux ou à troix partie - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont GoudyMediaeval-Regular 12
+
+
+
+
+X:1
+T:Titres
+M:2/4
+K:Am
+K:C
+%%endtext
+%%multicol end
+%%multicol start
+%%leftmargin 4.5cm
+%%begintext
+  De mon malheur
+  Longtemps y a
+  De jour en jour
+  Se dire je l'osoye
+  Maulgré moy vis
+%%endtext
+%%multicol new
+%%leftmargin 12.5cm
+%%begintext
+  Je prens en gré
+  Mon povre cueur
+  O combien est malheureux le désir - Response
+  Ma maistresse, ma bonne amye
+%%endtext
+%%multicol end
+
+
+X:2
+T:De mon malheur
+R:Chanson
+C:Tielman Susato
+H:1544
+N:version vérifiée, sans erreur apparente
+A:Anvers
+B:Premier livre des chansons
+%O:Flandres
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/4
+Q:1/4=110
+V:1 nm="M.S."
+V:2 nm="T."
+V:3 nm="B."
+K:C
+%%abc2pscompat
+% abc 2 ps compat = corrige les basses si elles ne sont pas entrées avec les virgules
+%%staves [1 | 2 | 3]
+%%measurenb 0
+%%measurebox 1
+%%staffsep 49pt
+%%sysstaffsep 30pt
+V:1
+%%MIDI channel 1
+%%MIDI program 60       % General MIDI french horn
+%%MIDI transpose 0
+%%MIDI control 7 110 %volume
+%%MIDI control 10 100 %pan
+%%freegchord 1
+"(Chantez a deux si bon vous semble, Puis chanterez tous troix ensemble.)"
+z2 D2 | DD F2-|F DCD |\
+EE G2 | FE2 D | E4 |A2 AA |
+GG AA |_B A>G F | ED F2-|\
+F ED2 | ^C4 | 
+z2 D2 | DD F2-|FD CD | EE G2 |\
+FE2 D | E2 z2 | A2 AA | GG AA |
+_B A>G F | EG FE-|E/ D/  D2 ^C | D4 |
+E2 EE | F3 E | A2 GE | F E2 D | E2 zE | EE A2 |\
+z AAA | c3/2 B/4A/4G E | FG AB-|B/ A/  A2 ^G |
+AA GF-|F E/ D/  ^C2-|^C2 z =C | DEFG |
+AAc>B | AG2 F-|FEFA-|AGF>E | DFFG | A3A | GGFF | 
+G>F E/ D/ C/ B,/  | A,CDF | ED2^C | D2z2 | F2FG | A3A | GGFF |
+G>F E/ D/ C/ B,/  | A,/ B,/ C/ D/  EF | ED2 ^C | HD4 |]
+V:2
+%%MIDI channel 2
+%%MIDI program 69       % General MIDI english horn
+%%MIDI transpose -12
+%%MIDI control 7 110 %volume
+%%MIDI control 10 30 %pan
+K:C treble-8
+D>E FG-|G F/2E/2 D/2E/2F/2G/2|A _BAB|\
+c2 =B G|A>G F2|E2 A>B|cdcA|
+Bc>BA|GF>EF/2G/2|A _B AD|\
+DEFG|E4|
+D>E FG-|G F/2E/2 D/2E/2F/2G/2|A _BAB|\
+cc =B G|A>G F2|E2 A>B|cd2c|
+Bc>BA|GF/2E/2 F/2G/2A/2F/2|G/2A/2 _B A2|\
+GFE2 |D2 z2| 
+G2 GG|A F/2G/2 A/2B/2 c-|c B/2A/2B A-|AG F2|E AAA|\
+c2 zd|dd f3/2e/4d/4|c A c2|de cd-|d/2c/2c/2B/4A/4 B2|\
+AF GA|D/2E/2F/2G/2 A2|  
+zFGA | Bcd c/ B/  |
+AF/ G/  A/ B/  c-|c BA G/ F/  | G2 FF | FGAF | GA_B_B | A/ G/ F/ E/  D A | =Bcd2 |
+cB c/ B/ A/ G/  | FAGF | G/ F/ F/ E/4D/4 E2 | DFFG |A3 B | cd2c | BcA_B |
+Gc3/2 B/ A/ G/  | FA2F | G/ F/ F/ E/4D/4 E2 | HD4 |]
+V:3
+%%MIDI channel 3
+%%MIDI program 70       % General MIDI bassoon
+%%MIDI transpose -24
+%%MIDI control 7 110 %volume
+%%MIDI control 10 65 %pan
+%%freegchord 1
+"(Veulx tu chanter par bon advis, Attens que tu en soys requis.)"
+K:C bass
+z4|z2 z d|ddfd|\
+c>d ee|dcd2|A4|f2 ff|
+ecff|ga d2|z G df-|
+fcdG|A4| 
+f>g a_b-|_ba/2g/2f d |ddfd|\
+cA ee|fcd2|A2f2|fd a2|
+e2ff|ga d2|c G A>B|
+cdA2|d4| 
+c2 ce|d3 c|AA e A-|A/2B/2 cdd|A2 za|\
+aa d2|z ddd|a3/2 g/4f/4e c|fefd|
+f2 e2|Ad eA|_B2 A2| a2_ba | dAde |
+f>e f/ g/  a-|a/ g/  efd | c2 zd | fed2 | zdde | f3f | eedd | 
+e2A2 | zABd | cdA2 | d2z2 | d2dg | f3/2e/4d/4 a2 | e2fd |
+e>dcf-|f e/ d/  c/ A/  d | cdA2 | Hd4 |]
+W:De mon malheur me puis je bien contenter,
+W:De tant avoir je ne m'en doibs lamenter,
+W:A tous les maulx me puis je bien adresser,
+W:A tous amis je ne me puis confesser,
+W:De tout soulas me puis je bien abréger, De tous regretz, 
+W:De tous regretz me puis je bien conforter [conforter]
+W:A tous desduictz me puis je bien absenter,
+W:Puis que d'ung point ne me puis réconforter ? (2x)
+%%MIDI transpose 0
+
+%%newpage 
+
+X:3
+T:Longtemps y a
+R:Chanson
+C:Tielman Susato [orig. Clément Marot]
+H:1544
+N:compatible Abc2midi & Abcm2ps
+A:Anvers
+B:Premier livre des chansons
+%O:Flandres
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/4
+Q:1/4=110
+K:F
+%%staves [1 | 2 | 3]
+V:1 nm="S."
+V:2 nm="A."
+V:3 nm="T."
+%%measurenb 0
+%%staffsep 49pt
+%%sysstaffsep 27pt
+V:1
+%%MIDI channel 1
+%%MIDI program 60       % General MIDI french horn
+%%MIDI transpose 0
+%%MIDI control 7 110 %volume
+%%MIDI control 10 100 %pan
+%%freegchord 1
+"(Chantez a deux si bon vous semble, Puis chanterez tous troix ensemble.)"
+   d4 | d2 dc/ B/ | A2 z A |\
+w:Long|temps y__| a  que |
+ccde | f>e dc-|c/ B/ A/ G/  A2 | G2 z d |
+w:je vis en es-|poir_______|_ et |
+cBAG | A/  B/  cBA | z dcB | A z/ c/  de |\
+w:que ri-gueur a | des-sus moy pou-voir, | Et que ri-|gueur a des-sus |
+f>e d/ c/  e-|e/ d/  d2 ^c | d4 | z ddd |
+w:moy ___ pou|____| voir; | 
+A2 z A | c>d ee | f2 e d-|d/ c/ B/ A/  B A-|\
+A/ G/ G2 ^F | G2 z A | Bcd2-|ddcA |
+BBAd | efgg | fdf2 | ed2^c |\
+d4 | z2 d2 | ddd c/ B/  | A2 z A | ccde |
+f>e dc-|c/ B/ A/ G/  A2 | G2 z2 | d2dd |\
+A2 z A | c>d ee | f2 e d-|d/ c/ B/ A/  B A-|
+A/ G/ G2 ^F | G2 z2 | d2dd | A2 z A |\ 
+c>d ee |f2 e d-|d/ c/ B/ A/  B A-| A/ G/ G2 ^F | HG4 |]
+V:2
+%%MIDI channel 2
+%%MIDI program 69       % General MIDI english horn
+%%MIDI transpose 0
+%%MIDI control 7 110 %volume
+%%MIDI control 10 30 %pan
+D>E F G-|G F/ E/ D>E | FDF>G | 
+w:Long__temps|___y_|a que je vis
+AABA/ G/ | F/ E/ D/ E/  F/ G/ A-|A/ G/  G2 ^F | G4 |
+w:en espoir__|_______|___|_|
+ z GFE | DC D/  E/  F | E D z G | FEDC |
+w:Et que ri-|gueur a des-sus moy | pou-voir, et | que ri-gueur a |
+D>E F G-|G/ F/ F/ E/4D/4 E2 | D2 zG | GGDD |
+w:des-sus moy pou |______|voir. 
+F>G A3/2G/4F/4 | EFGC | zDEF | G3/2 F/4E/4D C-|
+C/ B,/ B,/ A,/4G,/4A, B,-|B, A,/ G,/ D2 | DEFG-|G/ F/ D/ E/  F>E |
+D/ C/ B,/ A,/  D3/2 C/4B,/4 | A, D E/ F/ G/ A/  | B>A F/ G/ A/ F/  | G/ F/ F/ E/4D/4E2 |
+D2 z2 |G2 GG | GF/ E/ D2 | z DF>G | AABA/ G/  | 
+F/ E/ D/ E/  F/ G/  A-|A/ G/  G3/2 ^F/4E/4^F | G2G2 | GGDD |
+F>G A3/2G/4F/4 | EFGC | zDEF | G3/2 F/4E/4D C-|
+C/ B,/ B,/ A,/4G,/4A,2 | G,2 G2 | GGDD | F>G A3/2G/4F/4 | 
+EFGC | zDEF | G3/2 F/4E/4D C-|
+C/ B,/ B,/ A,/4G,/4A,2 | HG,4 |]
+V:3
+%%MIDI channel 3
+%%MIDI program 70       % General MIDI bassoon
+%%MIDI transpose -12
+%%MIDI control 7 110 %volume
+%%MIDI control 10 65 %pan
+%%freegchord 1
+K:F treble-8
+"(Veulx tu chanter par bon advis, Attens que tu en soys requis.)"
+z4|z d B G|d3 d|
+AcBc|d>c B A/ G/ |F G d2|G c2 B|
+A G/  G/  de|fedd|cBAG|A/2 B/2 cBA|
+z ddc|B2 A2|B2 G2|GG B z/  d/ | 
+ddAd | cAc/  d/  =e | dBcd | GB2F |
+G2D2 | _E2D2 | z2z G | BBFF | 
+G2 D z/  d/  | cfcc | dGd2 | cBA2 |
+B3G | G4 | z dBG | d3 d | AcBc|
+d>c B A/ G/ |F G d2| G2 z G | GGBz/ d/  |
+ddAd | cAc/  d/  =e | dBcd | GB2F |
+G2D2 |G2 zG | GGBz/ d/  |
+ddAd | cAc/  d/  =e | dBcd | GB2F |
+G2D2 | HG4 |]
+W:Longtemps y a que je vis en espoir
+W:Et que rigueur a dessus moy pouvoir, (2 fois)
+W:Mais si jamais je rencontre Allégeance
+W:Je lui diray : "Madame, venez veoir 
+W:Rigueur me bat, faites m'en la vengeance" (3 fois)
+%%MIDI transpose 0
+
+%%newpage
+
+X:4
+T:De jour en jour
+R:Chanson
+C:Tielman Susato
+H:1544
+N:compatible Abc2midi & Abcm2ps
+N:vérifié le 23:42 06/ 02/ 02
+A:Anvers
+B:Premier livre des chansons
+%O:Flandres
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/4
+Q:1/4=100
+K:F
+%%staves [1 | 2 | 3]
+V:1 nm="S."
+V:2 nm="A."
+V:3 nm="Bar."
+%%abc2pscompat
+%%measurenb 0
+%%staffsep 58pt
+%%indent 50
+V:1
+%%MIDI channel 1
+%%MIDI program 60       % General MIDI french horn
+%%MIDI transpose 0
+%%MIDI control 7 110 %volume
+%%MIDI control 10 100 %pan
+%%freegchord 1
+"(Chantez a deux si bon vous semble, Puis chanterez tous troix ensemble.)"
+z2 G2 | BBA>B | cdef-|
+f e/ d/  c/ B/ c/ d/  | ed2^c | d2 zd | ddc>A | Bcd>c | BA/ G/  A/ B/ c/ B/  | A/ G/  G2 ^F | G4 | z2G2 |
+BBA>B | cdef-| f e/ d/  c/ B/ c/ d/  | ed2^c | d2 zd | ddc>A | Bcd>c | BA/ G/  A/ B/ c/ B/  |
+A/ G/  G2 ^F | G2 zG |: G2F2 | GGAA | B>c de-|e/ d/ d2 ^c | d4 | zddd |
+f>edc | B>AGF | zddd | f>ed2-|dcBA/ G/  | FB2A | B4 | zddd |
+c>ABc | d>cBB | A/  d/  d/  d/  c/  A/  B/  c/  |
+d>cBA-|AG2^F |1 G2zG :|2 HG4 |]
+V:2
+%%MIDI channel 2
+%%MIDI program 69       % General MIDI english horn
+%%MIDI transpose 0
+%%MIDI control 7 110 %volume
+%%MIDI control 10 30 %pan
+K:F treble
+G,2 B,C | D>E F2-|F E/ D/  C D-| D/ E/ F/ G/  A3/2 G/4F/4 | G/ F/ E/ D/  E2 | DGGG | FDEF |
+G F/ E/  D/ C/ B,/ A,/  | G,C3/2 D/ _E/ D/  | C/ B,/ A,/ G,/  A,2 | G,2 z2 | G,2 B,C |
+D>E F2-|F E/ D/  C D-|D/ E/ F/ G/  A3/2 G/4F/4 | G/ F/ E/ D/  E2 |
+DGGG | FDEF | G F/ E/  D/ C/ B,/ A,/  | G,C3/2 D/ _E/ D/  | C/ B,/ A,/ G,/  A,2 | G,G, B,2-|:B,CDD |EGFD-|
+D/ C/ B,/ A,/ G, G-|G/ F/ E/ D/  E2 | DGGG | B>AGF/ E/  | 
+D/ C/ D/ E/  F/ G/ A/ F/  | G>FED-|D/ C/ B,/ A,/ G, z/ D/  | DDG2 | 
+F>E DC | D_EC2 | B,2 zG, | G,/ A,/ B,/ C/  D/ E/ F/ D/  |
+EFGF/ E/  | DGGG | FDE/ F/  G-|GF/ E/ DC-|CB,A,2 |1 G,G,B,2-:|2 HG,4 |]
+V:3
+%%MIDI channel 3
+%%MIDI program 70       % General MIDI bassoon
+%%MIDI transpose -24
+%%MIDI control 7 110 %volume
+%%MIDI control 10 65 %pan
+%%freegchord 1
+%%clef=treble -8
+"(Veulx tu chanter par bon advis, Attens que tu en soys requis.)"
+K:F bass
+g2gc | g>f d/ e/ f/ g/  | abad |
+d' c'/ b/ af | c'd' a2 | zgg/ a/ b/ c'/  | d'baa |
+gabg-|gf/ e/ fc | fgd2 | g2z2 | g2gc |
+g>f d/ e/ f/ g/  | abad | d' c'/ b/ af | c'd'a2 |
+zgg/ a/ b/ c'/  | d'baa | gabg-|gf/ e/ fc |
+fgd2 | zgg2 |: _e2d2 | c2 ff | 
+g>abg | b2 aa | bbg2 | zggg |
+d'bba | g2cd | gz/ g/ bg | d'2zg |
+bfga | b_ef2 | Bgg/ a/ b/  c'/  | d'gbb |
+aaga | b z/ g/  g/ a/ b/  c'/  | d'bag |
+g/ f/ g/ a/  bf-|fgd2 |1 zgg2 :|2 Hg4 |]
+W:De jour en jour tu me fais consumer, Te gardant foy d'amour et loyaulté ;
+W:Que pleust à dieu avoir esté sommé Alors que fuz surprins de ta beaulté, de ta beaulté ;
+W:Je te supplye n'user de cruaulté, Mais me donner, Mais me donner de ton corps joyssance
+W:Car aultrement n'auroye resjouyssance, (2x)
+W:Je te supplye... etc.
+%%MIDI transpose 0
+
+
+%%newpage
+
+
+
+X:1
+T:Se dire je l'osoye
+R:Chanson
+C:Tielman Susato
+H:1544
+N:compatible Abc2midi & Abcm2ps
+A:Anvers
+B:Premier livre des chansons
+%O:Flandres
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/4
+Q:1/4=110
+K:C
+%%staves [1 | 2 | 3]
+V:1 nm="M.S."
+V:2 nm="T."
+V:3 nm="B."
+%%abc2pscompat
+%%measurenb 0
+%%staffsep 57pt
+%%sysstaffsep 30pt
+%%indent 50
+V:1
+%%MIDI channel 1
+%%MIDI program 68       % General MIDI Oboe
+%%MIDI transpose 0
+%%MIDI control 7 110 %volume
+%%MIDI control 10 100 %pan
+%%freegchord 1
+"(Chantez a deux si bon vous semble, Puis chanterez tous troix ensemble.)"
+z4 | z2 D2 | DFED | F>G A/ B/ A-|A^G A2 | A2 AA | GE F2 | EEEG |!
+FE F>G | A/ B/  A2 G/ F/  | E A2 ^G | A4-|A2 zG  | A c>B A  | G2 F E/ D/  | C F2 E | F4 |
+zDDF | EDF>G | A/ G/  A2 ^G | A4 | z GA c-|c/ B/ A>GF-|F/ E/4D/4 EF>E | D2C2 |
+zCDF-|FED2 | C4 | zF2F | EFzF | FFED-|D/ C/ C2B, | C2 zE | AAGF-|
+F/ E/ E2 D | E3D/ C/  | D2 zC | FFED-|D/ C/ C/ B,/4A,/4B,2 | A,2 zA | cAAA | A/ G/ F/ E/  F/ G/  A-|
+A ^G A2-|A2 zA | cAAA | A/ G/ F/ E/  F2 | E4-|E2 zE | E/ D/ C/ B,/  A,A | A/ G/ F/ E/  D G-|
+G/ F/ E/ D/  C/ B,/ A,/ B,/  | [M:3/2] C/ D/  E>D D2 ^C | [M:2/2] D2 z A | cAAA |
+A/ G/ F/ E/  F/ G/  A-|A ^G A2-|A2 zA | cAAA | A/ G/ F/ E/  F2 | E4-|E2 zE | E/ D/ C/ B,/  A, A |
+A/ G/ F/ E/  D G-| G/ F/ E/ D/  C/ B,/ A,/ B,/  | [M:3/2] C/ D/  E>D D2 ^C | [M:2/2] HD4 |]
+V:2
+%%MIDI channel 2
+%%MIDI program 69       % General MIDI english horn
+%%MIDI transpose -12
+%%MIDI control 7 110 %volume
+%%MIDI control 10 30 %pan
+K:C treble-8
+G2 G _B | AG _B>c | d2 zd | dd cA |=B2 A2 | z DDF | E2 DF/2G/2 | A/2B/2 A2 G |!
+A2 D2 | z AAA | cc B2|Acdf-|f/2e/2 d2 c-|c/2B/2A/2G/2 F2 | z GA c-|c/2B/2 A G2|FDDF |
+EDF>G | ABAd-|d/ c/ c/ B/4A/4 B2 | Acdf-|fedc/ B/  | A>GA_B | G2F2 | zGAc-|
+c/ B/  AGd-|d/ c/ c2 B | cF2F | EF D/ E/ F/ G/  | ADGF |
+D/ E/ F/ G/  A _B | GAFG | A3/2 G/4F/4 E A-|A/ B/  c>BA/ G/  |
+A/ G/ F/ E/  F2 | EAAA | G_B2 A/ G/  | F/ G/ A/ B/  c/ A/  B-|
+B/ A/  A2 ^G | A4 | zdfd | dd d/ c/ B/ A/  | B2 Ad | fddd | cd2 c/ B/  | AD z A | 
+cAAA | A/ G/ G/ F/4E/4 FE | AA/ G/  F/ E/ D | dd/ c/  B/ A/ G | c>B A/ G/  F | EG>FE/ D/  E2 | D4 | zdfd |
+dd d/ c/ B/ A/  | B2 Ad | fddd | cd2 c/ B/  | AD z A | 
+cAAA | A/ G/ G/ F/4E/4 FE | AA/ G/  F/ E/ D | dd/ c/  B/ A/ G | c>B A/ G/  F | EG>FE/ D/  E2 | HD4 |]
+V:3
+%%MIDI channel 3
+%%MIDI program 57       % General MIDI Trombone
+%%MIDI transpose -24
+%%MIDI control 7 110 %volume
+%%MIDI control 10 65 %pan
+%%freegchord 1
+K:C bass
+%%clef=bass
+"(Veulx tu chanter par bon advis, Attens que tu en soys requis.)"
+z4 | z2 g2 | gfg3/2 f/4e/4 | dd f2 |
+e2 A d | ddfd | g2 f d | c A e2 |
+A aa _b |a d d/2e/2f/2g/2 | a2 e2 | f2 d2-|
+d2 z e | f>g a f-|fedc | f2 c2 | z aad |
+gfd>c | Addd | ffe2 | A2 zd | dc f/ g/ a-|a/ g/ f/ e/  d2 | c2d>c | _B2A2-|
+A2 zd-|defg | a3g/ f/  | ga2d | za_ba |f/ g/ a z d | ecde | Aabc'-|c'/ b/ a/ g/4f/4 e f-|
+f cda | bc'2 a | _b>agf/ e/  | d/ e/ f/ g/  a d | f2e2 | Adfd/  d/  | addd | d>c d/ e/ f |
+eefd | d>c d/ e/ f/ g/  | a d d/ c/ d/ e/  | f2d2 | A2 zA | ccdc | Aaa/ g/ f/ e/  | dd g>f |
+e/ d/ ccd | [M:3/2] c>BcdA2 | [M:2/2] z dfd/  d/  | addd | d>c d/ e/ f |
+eefd | d>c d/ e/ f/ g/  | a d d/ c/ d/ e/  | f2d2 | A2 zA | ccdc | Aaa/ g/ f/ e/  | dd g>f |
+e/ d/ ccd | [M:3/2] c>BcdA2 | [M:2/2] Hd4 |] 
+W:Se dire je l'osoye, (3x)
+W:D'où me vient le souffrir,
+W:Mon mal allegeroye
+W:Sans en jecter soupir, (2x)
+W:Mais trop bien sçay que mal me veult saisir, 
+W:que mal me veult saisir, (2x)
+W:Pour user ou que soye, (2x)
+W:Ma vie, ma vie en des plaisir
+W:Pour user où que soye, (2x)
+W:Ma vie, ma vie en des plaisir.
+%%MIDI transpose 0
+
+%%newpage
+
+
+X:1
+T:Maulgré moy vis
+R:Chanson
+C:Tielman Susato
+H:1544
+N:compatible Abc2midi & Abcm2ps
+N:vérifié le 15 mai 2002
+A:Anvers
+B:Premier livre des chansons
+%O:Flandres
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/4
+Q:1/4=100
+K:C
+%%staves [1 | 2 | 3]
+V:1 nm="S."
+V:2 nm="A."
+V:3 nm="Bar."
+%%abc2pscompat
+%%measurenb 0
+%%staffsep 58pt
+%%indent 50
+V:1
+%%MIDI channel 1
+%%MIDI program 60       % General MIDI french horn
+%%MIDI transpose 0
+%%MIDI control 7 110 %volume
+%%MIDI control 10 100 %pan
+%%freegchord 1
+"(Chantez a deux si bon vous semble, Puis chanterez tous troix ensemble.)"
+z4 | A3A | B2A2 | zEGA | c3B | A2 zE | GAc2 |
+BA2G-|G/ F/ DE2 | z D F>E | D2 z A |
+BAA2 | zA d2-|d cBA | GAc2-|
+c BA^G | A4 | zccc | BAc>B |
+G/  A/  BAF | FFE2 | DF>E C | z/  E/  G>F D/  E/  |
+FEzD | DCDF | FGF E/ D/  | E2E2 |
+zAA2 | G2Ac-|c cd>c | B/ A/  A2 ^G | 
+A2 zA | AAcG | BA>GF-|FED2 | H^C4 |] 
+V:2
+%%MIDI channel 2
+%%MIDI program 69       % General MIDI english horn
+%%MIDI transpose 0
+%%MIDI control 7 110 %volume
+%%MIDI control 10 30 %pan
+K:C treble
+A,>B, CD-|D C/ B,/ CD-|DEF3/2 E/4D/4 |
+C>DED | z A,CD | F3E | EA, A,/ B,/ C/ D/  |
+E/ D/  F2 E-|E/ D/  D2 ^C | D2 zA | BAAD-|
+D F2 E/ D/  | EDDD | G3F | EDCA, |
+E>D CB, | A,2 zF | FFE2 | DF>E C/  D/  | 
+E D/ E/  F/ G/  A | z ccc | B A c>B | G/ A/  B2 A-|
+AGF2 | E2 zD | DCDA, | A,G,A,C-|
+C CDC | B,B,A, E-|EEF>E | DCB,2 |
+A,DDD | F2 CE | D>CA,D-|DEF2 | HE4 |]
+V:3
+%%MIDI channel 3
+%%MIDI program 70       % General MIDI bassoon
+%%MIDI transpose -24
+%%MIDI control 7 110 %volume
+%%MIDI control 10 65 %pan
+%%freegchord 1
+%%clef=bass
+"(Veulx tu chanter par bon advis, Attens que tu en soys requis.)"
+K:C bass
+a2 ab | a3 d | ggf>g |
+a3/2 g/4f/4 e f-|f/ e/ f/ g/  a d | d/ e/ f/ g/  a2 | gc'>ba |
+gfde | cda2 | d2 zd | gfd z/ d/  |
+gfd2 | a d'>c'b/ a/  | g>f ga | zd a2-|
+agae | f>g af | f/ g/ a/ b/  c'c' | gfa>g | 
+e/  f/  gdf | f/ g/ a/ b/  c'c' | gfa>g | e>f g f/ e/  |
+def>g | a2 dd | feda | c'baa-|
+aadf | ggfa-|aad>e | gaee |
+f2dz/ d/  | dd a/ b/  c' | gf>ed-|dcd2 | Ha4 |]
+W:Maulgré moy vis et en vivant je meurs, et en vivant je meurs ;
+W:De jour en jour, de Jour en jour
+W:se changent mes douleurs, (2x)
+W:Tant qu'en vivant trop longue m'est la vie,
+W:Tant qu'en vivant trop longue m'est, trop longue m'est la vie
+W:Mourir je crains et le vivre m'ennuye, (2x)
+W:Ainsi me tiens en paine et en langueurs.
+%%MIDI transpose 0
+
+%%newpage
+
+
+X:23
+T:Je prens en gré
+R:Chanson
+C:Tielman Susato
+H:1544
+N:n°24
+A:Anvers
+B:Premier livre des chansons
+O:Flandres
+Z: Eric Forgeot - http://anamnese.online.fr
+L:1/4
+Q:1/4=100
+M:C|
+%%staves [1 2 3]
+V:1 nm="M.S."
+V:2 nm="T."
+V:3 nm="Bar."
+%%abc2pscompat
+%%measurenb 0
+K:F
+V:1
+%%indent 3cm
+%%MIDI channel 1
+%%MIDI program 60       % General MIDI french horn
+%%MIDI transpose 0
+%%freegchord 1
+"(Chantez a deux si bon vous semble, Puis chanterez tous troix ensemble.)"
+z4 | F2 FG | A/ G/ A/ B/  A c | B3 A | G2 z c | B A2 G/ F/  | E>F GA | 
+GF2E | F2 z2 | F2 FG | A/ G/ A/ B/  Ac | B3 A | G2 z c | B A2 G/ F/  | E>F GA | 
+GF2E | F2 zF |  FF B>A | GFG2 | z GGG | c>BAG | F2z A | ABAD | 
+A2B2 | AG2 ^F | G2zc | c/  c/  c>B A/  G/  | FG G/  G/  F-|F/  E/  D/  C/  D B | B/  B/  B>A G/  F/  |
+Gz/ G/ GG | c>BAG-|GF2E | F2 z c | c/  c/  c>B A/  G/  | FG G/  G/  F-|F/  E/  D/  C/  D B | B/  B/  B>A G/  F/  |
+Gz/ G/ GG | c>BAG-|GF2E | HF4 |]
+V:2
+K:F
+%%MIDI channel 2
+%%MIDI program 69       % General MIDI english horn
+%%MIDI transpose 0
+F2FG | AABG | Ff2e | d/ c/ B/ A/  GF | z cBA | GF>GA/ B/  | ccBc-|
+c/ B/ AG2 | zFFG | AABG | Ff2e | d/ c/ B/ A/  GF | z cBA | GFA>B | c2Bc-|
+c/ B/ AG2 | zFFF | B>A G/ F/ G/ A/  | B/ c/  d B/ c =B/  | c2zc | ccfe | dd c/ B/ A/ G/  | FGAB |
+cd2B | c/ B/ B/ A/4G/4 A2 | Gcc/  c/  c | z/  f/  f/  f/  f>e | d/ c/ B/  A/  G/ A/ B/ c/  | dB B/  B/  B-|B/  A/  G/  F/  G2 |
+z/  G/  G/  G/  cz/ c/  | c/  c/  f/  F/  F/  F/  c/  B/  | A B G2 | F4 | 
+V:3
+%%MIDI channel 3
+%%MIDI program 70       % General MIDI bassoon
+%%MIDI transpose -12
+K:F bass
+%%freegchord 1
+"(Veulx tu chanter par bon advis, Attens que tu en soys requis.)"
+z4 | f2 B _e | d3 c | g>f _ef | _ec d/  =e/ f | gazc'-|c'/ b/ agf |
+efc2 | f2 z2 | f2 B _e | d3 c | g>f _ef | _ec d/ =e/ f | gazc'-|c'/ b/ agf |
+efc2 | f2 BB | B b>ag/ f/  | _ede/  c/  g | z/  c/  c/  c/  c'>b | a>gfc | dBf>g | agfg | 
+fdg2 | fgd2 | zcf>f | f2 zd | d/  d/  _e>e d/  c/  | B2 z2 | _e e/  e/  e>d |
+W:Je prens en gré la dure mort Pour vous madame, Pour vous madame par amour,
+W:Navré m'avez mais à grant tort Dont de brief, Dont de brief fineray mes jours,
+W:La chose me vient à rebours, La chose me vient à rebours, Souffrir si tost la mort amere,
+W:O dure mort, O dure mort que faictes vous, O dure mort que faictes vous ?
+%%MIDI transpose 0
+
+%%newpage
+
+
+X:24
+T:Mon povre cueur
+R:Chanson
+C:Tielman Susato
+H:1544
+N:n°28
+A:Anvers
+B:Premier livre des chansons
+O:Flandres
+Z: Eric Forgeot - http://anamnese.online.fr
+L:1/4
+Q:1/4=120
+M:C|
+K:C
+%%abc2pscompat
+%%measurenb 0
+%%staves [1 | 2 | 3]
+V:1
+%%MIDI channel 1
+%%MIDI program 60       % General MIDI french horn
+%%MIDI transpose 0
+z2c2 | ccBG | ABc3/2 B/4A/4 |
+G2zG | GGFD | EFG F/ E/  | DDEG-|
+GFED/ C/  | DDCE | AcBA-|A/ G/ F/ E/  D A-|
+A/ G/  G2 ^F | G4-|G4 | z ccc | 
+BGAB | c>B A2 | G2zG | AcBA |
+GA>GF/ E/  | [M:3/2] D A>G G2 ^F | [M:2/2] G2zc | cc A2 |
+[M:3/2] GA2 GF E/ D/  | [M:2/2] EGGG | AG/ F/ G A-| 
+V:2
+%%MIDI channel 2
+%%MIDI program 69       % General MIDI english horn
+%%MIDI transpose -12
+f2ff | ecde | fe/ d/ c2 |
+zccc | BGAB | cB/ A/ GG | BdcB |
+Ad>cc-|cBc2 | zcdf-|f/ c/  d2c |
+BA/ G/ A2 | G2zc | ccBG | A>B c/ d/ e/ f/  |
+g>e fe | z fff | ecde | fcdf |
+edcd-|d/ c/ A/ B/  cBA2 | Gccc | A>Bcd |
+e A/ B/  c/ d/ e/ c/  dd | ccccB | A/ B/ c/ d/  e f-|
+V:3
+%%MIDI channel 3
+%%MIDI program 70       % General MIDI bassoon
+%%MIDI transpose -12
+K:C bass
+f2ff | c'agg | fga3/2 g/4f/4 |
+eccc | gefg | cdeg-|g fee |
+d2a2 | ggac'-|c'/ b/ agf | d2f2 |
+ged2 | e2 zc | ccge | f>gaa |
+g2 z2 | z fff | 
+%%MIDI transpose 0
+
+%%newpage
+
+X:28
+T:O combien est malheureux le désir - Response
+R:Chanson
+C:Tielman Susato
+H:1544
+N:
+A:Anvers
+B:Premier livre des chansons
+O:Flandres
+Z: Eric Forgeot - http://anamnese.online.fr
+L:1/4
+Q:1/4=100
+%%abc2pscompat
+%%measurenb 0
+M:C|
+K:C
+V:1
+%%MIDI channel 1
+%%MIDI program 60       % General MIDI french horn
+%%MIDI transpose 0
+d4 | e3d | cAcc | d3d | e2zf | ffed | cd A/ G/ A/ B/  |
+cd3/2 B/ c/ d/  | e d2 ^c | d2 z2 | d4 | e3d | cAcc | d3d | e2zf |
+ffed | cd A/ G/ A/ B/  | cd3/2 B/ c/ d/  | e d2 ^c | 
+d4 | zddd | ^c c d2|d =c BB | Accc | d2 dd | e2 ff | ed2c/ B/  | ^c4 |
+d4 | e3d | cAcc | d3d | e2zf | f2 zf | f3e | ddcc |
+BB A/ B/ c/ d/  | ed2^c | dff2 | zff2-|f edd | ccBB | A/ B/ c/ d/  e d2^c | Hd4 |]
+V:2
+%%MIDI channel 2
+%%MIDI program 69       % General MIDI english horn
+%%MIDI transpose 0
+D>E FG-|G/ F/ E/ D/  CD | EF>EE | FG2^F | G z/ A/  AA | FDGF | ED>EF/ G/  |
+AF G/ F/ E/ D/  | CDE2 | D4 | F>EFG-|
+G/ F/ E/ D/  CD | EF2E | FG2^F | G z/ A/  AA | FDGF | ED>EF/ G/  |
+AF G/ F/ E/ D/  | CDE2 | DGGG | FFG>F | EF>ED/ E/  | F/4E/4F/4G/4A2 ^G |
+AFFE | D z/ G/ GF | EAAF | G2FG | E4 |
+F>EFG-|G/ F/ E/ D/  CD | EFFE | FG2^F | GzA/ A2 | z/ A/  _B/  B/ A>G | F/ E/ D/ E/  F/ G/  A | FGEF |
+G/ F/ D/ E/  F/ G/ A/ F/  | G/ F/ E/ D/ E2 | D z/ A/  A z/ A/  | _B/  B/  A/ G/  F/ E/ D/ E/  |
+F/ G/  AFG | EF G/ F/ D/ E/  | F/ G/ A/ F/  G/ F/ E/ D/  E2 | HD4 |]
+V:3
+%%MIDI channel 3
+%%MIDI program 70       % General MIDI bassoon
+%%MIDI transpose -12
+d3 G |c3B | AFA2 | dGd2 | z Ad2 | dfcd | AD d3/2 c/4B/4 | 
+A_BGA-|A_BA2 | D4 | d3 G |
+%%MIDI transpose 0
+
+
+%%newpage
+
+X:29
+T:Ma maistresse, ma bonne amye
+R:Chanson
+C:Tielman Susato
+H:1544
+N:
+A:Anvers
+B:Premier livre des chansons
+O:Flandres
+Z: Eric Forgeot - http://anamnese.online.fr
+L:1/4
+Q:1/4=110
+%%abc2pscompat
+%%measurenb 0
+M:C|
+K:C
+V:1
+%%MIDI channel 1
+%%MIDI program 60       % General MIDI french horn
+%%MIDI transpose 0
+z4 | G2 GG | A/ G/ A/ B/ c d-|
+d/ c/  c2 B | c>B AG/ F/  | E>F G2 | z GGG | 
+ABGc-|c B/ A/  B2 | zGGG | ABGc-|
+c/ B/ A/ G/  A B-|B/ A/  G2 ^F | G4 | zG>FE/ D/  |
+ Cc2 B/ A/  | GABd-|d/ c/ B/ A/  GA-|AG c2 |
+B3G | Ac2B | AGF2 | E4 | zEED | EGGF | E4 | zGGF | G z/ B/ BA | BcA G/ F/  | E/ C/  c2B | c2 zG |
+BBAB | [M:3/2] c3/  B/4A/4 GB A2 | [M:2/2] G4 | 
+[M:3/2] zGB BAB | [M:2/2] c B/ A/  GA |
+V:2
+%%MIDI channel 2
+%%MIDI program 69       % General MIDI english horn
+%%MIDI transpose 0
+D2DD | E/ D/ E/ F/  G E | FFED |
+ED/ C/ D2 | CC DE-|E/ D/  C2 B,| C2zC | CDEC | E>FG2 | E2 CC | CDEC |
+V:3
+%%MIDI channel 3
+%%MIDI program 70       % General MIDI bassoon
+%%MIDI transpose -12
+K:C bass
+z2 g2 | c'3c | f>g ab | 
+c'ag2 | z cfe | 
+W:Ma maistresse, ma bonne amye,
+W:Tres humblement je vous supplye, (2x)
+W:Que de moy ayez souvenance,
+%%MIDI transpose 0

@@ -1,0 +1,351 @@
+%abc
+%%%%              TABLATURES de LUTH 
+%
+%
+%
+%
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/               
+
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+%    Abctab2ps	http://www.lautengesellschaft.de/cdmm/ (obligatoire pour les partitions en tablatures
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  dimanche 06 septembre 2009 à 19:37
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+%%pageheight 29.7cm
+%%pagewidth 21.0cm
+
+%%textfont CaslonAntique 18
+
+%%titlefont CaslonAntique 22
+%%subtitlefont CaslonAntique 16
+%%composerfont   CaslonAntique 10
+
+
+%%headerfont CaslonAntique 12
+%%footerfont CaslonAntique 8
+
+%%annotationfont CaslonAntique 10
+%%infofont CaslonAntique 16
+%%historyfont CaslonAntique 16
+
+
+%%measurefont CaslonAntique 14
+%%partsfont CaslonAntique 14
+%%repeatfont CaslonAntique 14
+
+%%tempofont CaslonAntique 14
+%%vocalfont CaslonAntique 16
+%%voicefont CaslonAntique 16
+%%wordsfont CaslonAntique 16
+%%gchordfont CaslonAntique 14
+%%setfont-1 CaslonAntique 16
+%%setfont-2 CaslonAntique 16
+%%setfont-3 CaslonAntique 16
+%%setfont-4 CaslonAntique 16
+
+%%textfont CaslonAntique 25
+%%vskip 0.5cm
+%%center T A B L A T U R E S    de    L U T H     
+%%textfont CaslonAntique 18
+%%vskip 0.5cm          
+%%center à jouer sur guitare avec la 3ème corde de sol en fa #
+%%textfont CaslonAntique 16
+%%center 
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont CaslonAntique 12
+%%text Transcriptions, mises en partition abc par 
+%%text Eric Forgeot - http://anamnese.fr.st
+%%text Travail sous licence cc-by-nc-sa
+%%vskip 0.0cm
+%%text Version :  septembre 2009
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	T A B L A T U R E S    de    L U T H - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont CaslonAntique 12
+
+%%--landscape 1
+
+%%--EPS luth.eps
+% eps inclusion doesn't seem to work in abctab2ps
+
+%%breakall 0
+
+%!--abctab2ps -paper A4 -b % doesn't seem to work
+
+X:1
+T:Une jeune fillette
+Z:Eric Forgeot - http://anamnese.online.fr
+H:Micard 1576 (Chardavoine)   ?
+N:luth donc 3 ème corde de sol en fa#
+L:1/4
+M:4/4
+K:C french
+%%scale 0.59
+%%--strictness2 1
+%%tabrhstyle modern
+%%tabfontitalian itBorrono
+%%tabfontfrench frFrancisque
+%%--historicstyle
+%%indent 0.6cm
+%%sysstaffsep  30pt
+%%barnumberfont Times-Italic 10 box
+V:L1 clef=frenchtab name="Luth 1"
+V:L2 clef=frenchtab name="Luth 2"
+V:G1 clef=spanishtab name="Guitare 1"
+V:G2 clef=spanishtab name="Guitare 2"
+%
+[V:L1] a | [Abc] [Ca] [D,c] [Ab] | [CAC]>a d [dd] | [A,c] c c b | [Ac3] a |\
+[Abc] [Ca] [D,c/2] cda | [CAc3/2] a/2 d c [da] | [A,c] [A,c] c b | [Ac2] a ||
+[Af2] [f] [Fa] | [dA,,a] c/2 a b d [ca] | [da] [Fa] [f] [a] | [fca2] [ca] c |\ 
+[dAc] b [Ad] a | [Cda] a/2 a [db] a | [Cc] [Ab] [Aa] e | [A,c2] a/2 cdf |
+[Af2] [f] [Fa] | [dAc] c/2 a b e [ca] |[da] [Fa] [f] [a] | [Fa/2] dca [ca] c |\
+[dA,,a/2] fdc [A,,a] [Ad] | [Cda/2] dca d c a | [Cc/2] d [A,c] [Aa/2] e/4 c e | [A,c2] a ||
+%
+[V:L2] x | [ACa] [Ab] [AC] c | [D,c]>c a [A,c] | [C,a] [A,,d] [D,c2] | [C,a2] c |\
+[ACa] [Ab] [Ac/2] d a c | [D,c/2] a d c a [A,c] | [C,a] [A,,d] [D,c] a/2 d | [C,a2] c ||
+[D,,d2] [D,,d] [C,a] | [Abc2] a [eAc] | [A,c] [C,a] [dD,,d] f | [CD,c] c [dAc] d |\
+[AB,a3/2] d/2 [C,a] c | [Da] d [A,,d] b |[Da] [A,,a] [A,c2] | [A,,a2] b/2 d a c | 
+[D,,d3/2] c/2 [D,,d] a [C,a]|[AB,a/2] a b d a c [eA,c] | [A,c] [C,a] [dD,,d] f | [CD,c] c [dAc/2] c d a |\
+[Abc3/2] d/2 [C,a] d a c | [Da/2] a d c [A,,d] b | [Da] [B,a/2] d [A,c] a c | [A,,,a2] c ||
+%
+%% <!> The parts below is just a carbon copy of the above
+%
+[V:G1] a | [Abc] [Ca] [D,c] [Ab] | [CAC]>a d [dd] | [A,c] c c b | [Ac3] a |\
+[Abc] [Ca] [D,c/2] cda | [CAc3/2] a/2 d c [da] | [A,c] [A,c] c b | [Ac2] a ||
+[Af2] [f] [Fa] | [dA,,a] c/2 a b d [ca] | [da] [Fa] [f] [a] | [fca2] [ca] c |\ 
+[dAc] b [Ad] a | [Cda] a/2 a [db] a | [Cc] [Ab] [Aa] e | [A,c2] a/2 cdf |
+[Af2] [f] [Fa] | [dAc] c/2 a b e [ca] |[da] [Fa] [f] [a] | [Fa/2] dca [ca] c |\
+[dA,,a/2] fdc [A,,a] [Ad] | [Cda/2] dca d c a | [Cc/2] d [A,c] [Aa/2] e/4 c e | [A,c2] a ||
+%
+[V:G2] x | [ACa] [Ab] [AC] c | [D,c]>c a [A,c] | [C,a] [A,,d] [D,c2] | [C,a2] c |\
+[ACa] [Ab] [Ac/2] d a c | [D,c/2] a d c a [A,c] | [C,a] [A,,d] [D,c] a/2 d | [C,a2] c ||
+[D,,d2] [D,,d] [C,a] | [Abc2] a [eAc] | [A,c] [C,a] [dD,,d] f | [CD,c] c [dAc] d |\
+[AB,a3/2] d/2 [C,a] c | [Da] d [A,,d] b |[Da] [A,,a] [A,c2] | [A,,a2] b/2 d a c | 
+[D,,d3/2] c/2 [D,,d] a [C,a]|[AB,a/2] a b d a c [eA,c] | [A,c] [C,a] [dD,,d] f | [CD,c] c [dAc/2] c d a |\
+[Abc3/2] d/2 [C,a] d a c | [Da/2] a d c [A,,d] b | [Da] [B,a/2] d [A,c] a c | [A,,,a2] c ||
+%% end of copied parts
+% 
+%%begintext
+%%
+%%Une jeune fillette de noble coeur,
+%%Plaisante et joliette de grand' valeur,
+%%Outre son gre on l'a rendu' nonnette
+%%Cela point ne luy haicte dont vit en grand' douleur.
+%%
+%%Vn soir apres complie seulette estoit,
+%%En grand melancolie se tourmentoit,
+%%Disant ainsi, douce Vierge Marie
+%%Abregez moy la vie, puisque mourir je doy.
+%%endtext
+
+
+
+
+
+
+
+X:2
+%
+%%--tabaddflags    0
+%%--tabflagspace   3.0pt
+%%--tabfontscale   1.2
+%%--tabfontsize    11
+%%--titleleft      yes
+%%scale 0.59
+T:Marche pour la Cérémonie des Turcs (Le bourgeois gentilhomme)
+C:Lully - transcription from score by Arto Wikla October 2006
+Z:converted from tab with tab2abc 1.6
+M:4/4
+L:1/8
+K:frenchtab
+%
+V:L1 clef=frenchtab name="Luth 1"
+V:G1 clef=spanishtab name="Guitare 1"
+V:1
+%staff 1
+%[V:L1]
+%[,abc,a2] [,a,b{,,a}] |\
+%[,,bc{,a}3/2] :,,a/ .,,,c1 [a{,a}/] {a} |\
+%[,ab,,a1] .,,,c/ :,c [,da,c1] [,d{,,a}/] ,,b |\
+%[,dd,,c1] {a} [,aba,d3/2] .,,d// :,a | 
+%staff 2
+%|\
+%[,bbcd1] {,a}/ ,a T[,,de{a}1] .,,,a/ :,,b |\
+%[,,bacd2] [,,bacd3/2] ,,,,,c/ :|\
+%[,,bacd2] ||\
+%[,dff,d2] [,ed,,c3/2] ,c// ,e |\
+%[aab,,a1] .,a/ .[c,d]
+%staff 3
+%[da,,,a1] [c,bc/] a |\
+%[ca,b1] :,a/ .,,d [,abc1] [,a,,,a/] ,,,,,c |\
+%[,ab,,d1] +,,,c/ a [,cee1] ,,,,,c/ c |\
+%[,ea,c1] ,a |:  [a,b{,a}1] a |\
+%[a,b,d1] .,b/ :c
+%staff 4
+%[cb,,a1] [,e,,c/] a// c |\
+%[d,,,,a/] ,,a ,,b .[c,d] [a,,,,d] ,d .[,b,c] ,a |\
+%[,,d,a] ,a ,,a ,,b T[,,abc1] ,,,,c/ ,,,c |\
+%[,,,c,a1] ,,,,,a/ {a} :|\
+%H[,,,c,a4] ||] 
+V:2
+%[V:G1]
+%[,abc,a2] [,a,b{,,a}] |\
+%[,,bc{,a}3/2] :,,a/ .,,,c1 [a{,a}/] {a} |\
+%[,ab,,a1] .,,,c/ :,c [,da,c1] [,d{,,a}/] ,,b |\
+%[,dd,,c1] {a} [,aba,d3/2] .,,d// :,a | 
+%staff 2
+%|\
+%[,bbcd1] {,a}/ ,a T[,,de{a}1] .,,,a/ :,,b |\
+%[,,bacd2] [,,bacd3/2] ,,,,,c/ :|\
+%[,,bacd2] ||\
+%[,dff,d2] [,ed,,c3/2] ,c// ,e |\
+%[aab,,a1] .,a/ .[c,d]
+%staff 3
+%[da,,,a1] [c,bc/] a |\
+%[ca,b1] :,a/ .,,d [,abc1] [,a,,,a/] ,,,,,c |\
+%[,ab,,d1] +,,,c/ a [,cee1] ,,,,,c/ c |\
+%[,ea,c1] ,a |:  [a,b{,a}1] a |\
+%[a,b,d1] .,b/ :c
+%staff 4
+%[cb,,a1] [,e,,c/] a// c |\
+%[d,,,,a/] ,,a ,,b .[c,d] [a,,,,d] ,d .[,b,c] ,a |\
+%[,,d,a] ,a ,,a ,,b T[,,abc1] ,,,,c/ ,,,c |\
+%[,,,c,a1] ,,,,,a/ {a} :|\
+%H[,,,c,a4] ||] 
+
+X:3
+%
+%%--tabaddflags    0
+%%--tabflagspace   3.0pt
+%%--tabfontscale   1.2
+%%--tabfontsize    11
+%%--titleleft      yes
+%%scale 0.59
+T:Canarie (Le bourgeois gentilhomme)
+C:Lully - Arr. Arto Wikla 2006
+Z:converted from tab with tab2abc 1.6
+V:L1 clef=frenchtab name="Luth 1"
+V:G1 clef=spanishtab name="Guitare 1"
+L:1/8
+K:frenchtab
+M:4/4
+V:L1 clef=frenchtab name="Luth 1"
+V:G1 clef=spanishtab name="Guitare 1"
+%
+%staff 1
+V:1
+%[V:L1] |:  [,abc3/2] .,,d/ [,a,a1] |\
+%[,,,cd3/2] [,,aa/] [,,bc1] |\
+%[,,a,a1] ,,,,c/ .,,b :,,d1 |\
+%[,,bc,a3/2] :,,a/ .,,,c1 |\
+%[,,d,,c1] {a}/ .,a :,b1 | 
+%staff 2
+%|\
+%[,a,,,d1] ,,,,,a/ .,c :,d1 |\
+%[,c,,a1] ,,,,,c/ .,e :a1 |\
+%[,e,,c3/2] .,c/ ,a1 ::  +[a,b1] +,,a/ c [d,,c1] |\
+%[c,,,c3/2] a/ ,d1 | 
+%staff 3
+%|\
+%[,c,,b3/2] ,d/ [,a,,c1] |\
+%[,,e,,c3/2] ,,c/ ,,a1 |\
+%[,daa{a}3/2] a/ c1 |\
+%[,cb,,a3/2] .[,da/] .[a,b1] |\
+%[,,e,,c1] [,a,,,d1] [,,b,,a/] ,c | 
+%staff 4
+%|\
+%[,ce,,c2] [,aaac1] |\
+%[,df,,d3/2] ,f/ ,d1 |\
+%[,d,,,c3/2] ,b/ [,a,,,d1] |\
+%[,b,c{,a}3/2] ,a/ [,,d{a}1] |\
+%[,a,a,d3/2] ,,d/ ,,b1 | 
+%staff 5
+%|\
+%[aab,,a3/2] .,e/ a1 |\
+%[,ea,c3/2] a/ [c,,,a1] |\
+%[,a,a,d1] [a,,,d1] [,b,,a/] c |\
+%[ce,,c2] [aab,,a1] :|] 
+%%
+V:2
+%[V:G1]
+%|:  [,abc3/2] .,,d/ [,a,a1] |\
+%[,,,cd3/2] [,,aa/] [,,bc1] |\
+%[,,a,a1] ,,,,c/ .,,b :,,d1 |\
+%[,,bc,a3/2] :,,a/ .,,,c1 |\
+%[,,d,,c1] {a}/ .,a :,b1 | 
+%staff 2
+%|\
+%[,a,,,d1] ,,,,,a/ .,c :,d1 |\
+%[,c,,a1] ,,,,,c/ .,e :a1 |\
+%[,e,,c3/2] .,c/ ,a1 ::  +[a,b1] +,,a/ c [d,,c1] |\
+%[c,,,c3/2] a/ ,d1 | 
+%staff 3
+%|\
+%[,c,,b3/2] ,d/ [,a,,c1] |\
+%[,,e,,c3/2] ,,c/ ,,a1 |\
+%[,daa{a}3/2] a/ c1 |\
+%[,cb,,a3/2] .[,da/] .[a,b1] |\
+%[,,e,,c1] [,a,,,d1] [,,b,,a/] ,c | 
+%staff 4
+%|\
+%[,ce,,c2] [,aaac1] |\
+%[,df,,d3/2] ,f/ ,d1 |\
+%[,d,,,c3/2] ,b/ [,a,,,d1] |\
+%[,b,c{,a}3/2] ,a/ [,,d{a}1] |\
+%[,a,a,d3/2] ,,d/ ,,b1 | 
+%staff 5
+%|\
+%[aab,,a3/2] .,e/ a1 |\
+%[,ea,c3/2] a/ [c,,,a1] |\
+%[,a,a,d1] [a,,,d1] [,b,,a/] c |\
+%[ce,,c2] [aab,,a1] :|] 
+%%

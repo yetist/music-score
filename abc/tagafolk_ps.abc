@@ -1,0 +1,1295 @@
+%abc
+%%%%               
+%      
+%               Répertoire du groupe Champenois Tagafolk
+%                      
+%                      
+%                   
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/        
+%
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  mardi 23 septembre 2008 à 23:05
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+
+%%textfont CaslonAntique 18
+
+%%titlefont CaslonAntique 22
+%%subtitlefont CaslonAntique 16
+%%composerfont   CaslonAntique 10
+
+
+%%headerfont CaslonAntique 12
+%%footerfont CaslonAntique 8
+
+%%annotationfont CaslonAntique 10
+%%infofont CaslonAntique 16
+%%historyfont CaslonAntique 16
+
+
+%%measurefont CaslonAntique 14
+%%partsfont CaslonAntique 14
+%%repeatfont CaslonAntique 14
+
+%%tempofont CaslonAntique 14
+%%vocalfont CaslonAntique 16
+%%voicefont CaslonAntique 16
+%%wordsfont CaslonAntique 16
+%%gchordfont CaslonAntique 14
+%%setfont-1 CaslonAntique 16
+%%setfont-2 CaslonAntique 16
+%%setfont-3 CaslonAntique 16
+%%setfont-4 CaslonAntique 16
+
+%%textfont CaslonAntique 25
+%%vskip 0.5cm
+%%center Tagafolk     
+%%textfont CaslonAntique 18
+%%vskip 0.5cm          
+%%center Quelques extraits du répertoire de reprises
+%%textfont CaslonAntique 16
+%%center http://tagafolk.fr.st
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont CaslonAntique 12
+%%text Transcriptions par 
+%%text Eric Forgeot
+%%text http://anamnese.fr.st
+%%vskip 0.0cm
+%%text Version :  septembre 2008
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	Tagafolk - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont CaslonAntique 12
+%
+%   Ces retranscriptions sont de mon fait (d'oreille ou à partir de partitions, 
+%   mais le codage abc est de moi), hormis lorsque le champs Z: n'est pas mentionné.
+%   Certains titres se retrouvent alors dans le reste de mes fichiers abc, si la
+%   mention N:tagafolk.abc y figure (pour faire un lien entre les deux).
+%
+%    (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it 
+% 
+%
+% Dernière mise à jour : 07/05/2002
+% http://anamnese.online.fr/abc/
+% site "officiel" du groupe Tagafolk : http://tagafolk.fr.st
+%
+%%%%
+
+
+
+X:1
+T:Scottishe suédoise
+R:Scottish
+O:Sverige
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:C
+L:1/8
+Q:1/4=135
+K:C
+E2Ac efec | d2dBd4 | d2ef edcB | cdcB cBAc |\
+E2Ac efec | d2dBd4 | d2ef edcB | c2B2 A4  ::
+a2agf4 | efedc4 | B2BB edcB | ABcd eAce |\ 
+a2agf4 | egedc4 | B2BB edcB | Acec A4  :|
+
+X:2
+T:suédois
+R:
+O:Sverige
+Z:<anamnese@laposte.net>
+M:C
+L:1/8
+Q:1/4=135
+K:F
+AFDF AFDF ADdD cDBD ABAG F2G2E4 |
+AFDF AFDF ADdD cDBD ABAG F2E2D4 :|
+A,2D2 DEF2FGA2 ABA4 | d2def2feddd^cd2 | 
+def2e2d2 ABcd cBA2 FGAB AGF2G2E4 |
+def2e2d2 ABcd cBA2 FGAB AGF2E2D4 |
+
+X:3
+T:Scottishe de Besançon
+T:Scottishe à deux tons ?
+T:Scottish à Kerbeuf ?
+T:Scottishe à Dédé
+R:Scottiche
+N:tagafolk.abc
+O:France
+D:voir La Mirlitantouille
+Z:<anamnese@laposte.net>
+M:C
+L:1/8
+Q:1/4=206
+K:C
+G2c2 e2c2 | BcBA G4 | Bcde dcBc | defd e2c2 |\
+G2c2 e2c2 | BcBA G4 | Bcde dcBc | dedB c4  :|
+A2c2 e2c2 | BcBA B4 | Bcdc BAGA | B2c2 B2A2 |\
+A2c2 e2c2 | BcBA B4 | Bcdc BAGA | B2c2 A4  :|
+
+
+X:4
+T:Scottishe
+R:Scottish
+N:morceau soumis à droit d'auteur : n'est jamais joué en bal (seulement répétitions)
+O:
+Z:<anamnese@laposte.net>
+M:C
+L:1/8
+Q:1/4=135
+K:C
+e2e2d2d2 | c2c2B4 | ABcA BdcB | cBAc B4 |
+e2e2d2d2 | c2c2B4 | ABcA BdcB | A2G2 A4 ::
+ABcAB4 | BcdBc4 | edcB ABcA | BdcB c2A2 |
+ABcAB4 | BcdBc4 | edcB ABcA | BdcB A4 :|
+
+X:5
+T:Scottishe de la colle à chaux
+R:Scottish
+O:Sverige
+Z:<anamnese@laposte.net>
+P:ABABABCDEE
+N:parties CDE peut-être pas de Suède
+N:tagafolk.abc
+M:C|
+L:1/8
+Q:1/2=76
+K:C
+P:A
+ABcde2 ec | defga4 | a2 gf e3d |1c2B2c2A2 :|2 c2B2A4 |
+P:B
+|: ABcA B2B2 | B2 cd e2c2 | ABcA B2 Bd |1 c2B2c4 :|2 c2B2A4 |
+P:C
+|: AGAB c3B | A2A2A4 | G2G2A2G2 | E2E2D2E2 |
+   AGAB c3B | A2A2A4 |1 c2c2B2G2 | A2A2A4 :|2 cedc BEcB | A4A4 ||
+P:D
+   AGcd e3g | fedf edcB | AGcd e3g | fedc B4 ||
+P:E
+   AGAB A3A | Bcdc B2G2 | AGAB A3A | (3Bcd edcB A2 ||
+
+
+X:6
+T:Plinn
+R:Plinn
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+P:AABCBC
+M:C
+L:1/8
+Q:1/4=145
+K:C
+P:A
+e2de cdec | e2de cde2 :: e2dc BAAG | A2GA FGA2 :|
+P:B
+d2cd ecd2  | d2cd ecd2 |\
+d2cd ec dd | d2cd ecd2 |
+P:C
+|: f2ef gafe | d2cd ecd2 :|
+
+X:7
+T:Suite d'Hanter Dro (1)
+R:Hanter Dro
+%C:Trad.
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:3/4
+L:1/8
+Q:1/4=85
+K:C
+P:[1]
+cc/B/ ce ed | ce/g/ gf/e/ dd | cc/B/ ce ed 
+|1 ce/g/ g/g/f/e/ d2 :|2 ce/g/ g/g/f/e/ dd/e/ |: 
+P:[2]
+ff/e/ fa g2 | eg/f/ ed cd/e/ | ff/e/ fa g/f/e/c/ 
+|1 d/d/e/f/ ed cd/e/ :|2 d/d/e/f/ ed c2 |] 
+
+X:8
+T:Suite d'Hanter Dro (2)
+R:Hanter Dro
+%C:Trad.
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:3/4
+L:1/8
+Q:1/4=85
+K:C
+P:[1]
+ee/f/ {eg}ed c2 | ed/c/ BB/d/ c>A | e/d/e/f/ {eg}ed c2
+|1 ed/c/ BB c>A :|2 ed/c/ BB c2 |
+P:[2]
+AA/B/ c/B/c/d/ e2 | cd/e/ fd/f/ e2 | cd/e/ fe d>B | de/d/ cB cB/c/ |
+AA/B/ c/B/c/d/ e2 | cd/e/ f/g/a/f/ e2 | cd/e/ fe d>B | de/d/ cB A2 |]
+
+X:9
+T:Kas a-Barh 
+R:Kas a-Barh
+%C:Trad.
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:4/4
+L:1/16
+Q:1/4=85
+K:C
+A2GA B2Bd cBAG ABcd | AAGA B2Bd ccBBA4 |
+AAGA B2Bd cBAG ABcd | AAGA BGBd ccB2 ABcd 
+|: e2ce f3d (3dddcd e2c2 | A2GA B2Bd  cBAG ABcd |
+eceg agfe dG(3GGG efed |1 c2cA BGBd ccB2 ABcd :|2 
+c2cA BGBd ccB2 A4 ||
+
+X:10
+T:Kas a-Barh
+R:Kas a-Barh
+%C:
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:4/4
+L:1/8
+Q:1/4=80
+K:C
+ee/f/ e>d cB AB/c/ | dd B>G A/B/c/d/ e2 | ee/f/ e>d cB AB/c/ | dd B>G A/B/c/B/ A2 ::
+egA2 egB2 | ddB>G A/B/c/d/ e2 | egA2 egB2 | dd B>G A/B/c/B/ A2 :|
+
+
+X:9
+T:Kost'er Hoed 
+R:Kost'er Hoed 
+%C:Trad.
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+M:4/4
+L:1/16
+Q:1/4=85
+K:C
+e>d cA Bc de |1 fe dc g4 :|2 fe de c3/ e/e/ :| /.../
+
+X:9
+T:Kost'er Hoed 
+R:Kost'er Hoed 
+%C:Trad.
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:4/4
+L:1/8
+Q:1/4=160
+K:C
+AB cB dc {Bd}B2 | cB AG A2A2 | AB cB dc BB | cB AG A2A2 ::
+AB cB dc (3BcB | AB cd ee/e/ eg | e2 dc ed {ce}c2 | Bc AG A2A2 :|
+
+X:11
+T:A la cours du palais 
+R:an dro
+%C:Trad.
+D:voir Traînes-Meuriennes
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:4/4
+L:1/8
+Q:1/4=162
+K:C
+c2cc BAB2 | cBAB cBA2 | c2cc BABB | cBAB c2A2 :|
+BABc d2BB-| BABc d2B2 | BABc d2BB-| BABc d2B2 ||
+
+
+X:11
+T:An dro 
+R:an dro
+%C:Trad.
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+A/B/c/d/ ee d/e/d/c/B A/B/d | c A2 B/c B/A/ B2 |
+A/B/c/d/ ee d/e/d/c/B A/B/d | c A2 B/c B A2|
+
+X:9
+T:Gavottes
+R:Gavotte ton simple
+%C:Trad.
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+M:4/4
+L:1/8
+Q:1/4=150
+K:G
+P:[1]
+DG GE FG A2 | AG FE D2D2 :||: DG GE FG AB | cB AF G2G2 :|
+P:[2]
+dd B/d/B AB cB | AB c/B/A B2B2 :||: dd B/d/B AB cB | AB c/B/A G2G2 :|
+
+X:9
+T:Tamm-Kreiz
+R:Tamm-Kreiz
+%C:Trad.
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+M:none
+L:1/8
+Q:1/4=50
+K:C
+Ae ee fe dc B3 c de dB c2A2 :| [M:6/8][Q:1/4=180] A2 B c3 | cBA B3 | B2 ee2 d |
+ c2 Bc2 A | A2 Bc3 | cBA B3 | B2 ee2 d | c2 BA3 ||
+
+X:9
+T:Gavottes
+R:Gavotte ton double
+%C:Trad.
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+M:4/4
+L:1/8
+Q:1/4=150
+K:G
+P:[1]
+GB cB G2 FG | AB c/B/A GBA2 | AB cB G2 FG | AB c/B/A G2G2 :|
+|: Bc de dB d2 | d/c/B AB GB A2 | Bc de dB d2 | d/c/B AB G2 G2 :|
+P:[2]
+GF GA Bc d2 | d/c/B AB G2 G2 :||: Gd cd ed cB | AB c/B/A Bc dB |
+GB AB cB d2 | d/c/B AB G2 G2 :|
+
+
+
+X:12
+T:Morceau Louis (simplifié)
+R:
+O:France
+Z:<anamnese@laposte.net>
+M:C
+L:1/8
+Q:1/4=130
+K:C
+ee2f ecA2 | A>B cA BcBE | ee2f ecA2 | A>B cA B2B2 ::
+E^G2 A B2 c2 | d>c Bd cBA2 | E^G2 A B2 c2 | d>c BA cB^G2 |
+E^G2 A B2 c2 | d>c Bd cBA2 | E^G2 A B2 c2 | d>c BA e2e2 ||
+
+X:13
+T:Cercle Circassien
+R:
+N:tagafolk.abc
+O:France
+Z:<anamnese@laposte.net>
+M:6/8
+L:1/8
+Q:3/8=130
+K:C
+"Am"E2 A A2 "G"G | "Am"E2 E "G"DCD | "Am"E2 AA2 B | "F"cAc "G" BGB |\
+"Am"E2 A A2 "G"G | "Am"E2 E "G"DCD | "Am"EAB "F"cdc | "G"BcB "Am"A3 ::
+"Am"e2 e efe | "G" dcB "F"A2 B | cAA ABc | "G"dBB Bcd |\
+"Am"e2 e efe | "G" dcB "F"A2 B | cdc "G"BcB | "Am"A2 A A3 :|
+
+X:14
+T:Tarantelle
+R:Cercle
+N:tagafolk.abc
+O:France
+Z:<anamnese@laposte.net>
+M:6/4
+L:1/8
+Q:3/8=130
+K:C
+EAB cBc dcB c3 | ABc BAB dc Bc3 |
+EAB cBc dcB c3 | ABc BAB dc BA3 ::
+a2a e2e a2a e3 | ede f3 fgf e3 |
+cde d3 Bcd c3 | ABc BAB dc BA3 :|
+
+X:15
+T:Cercle de l'ours
+R:Cercle
+N:tagafolk.abc
+O:France
+Z:<anamnese@laposte.net>
+M:C
+L:1/8
+Q:1/4=114
+K:C
+A/B/c/d/ eA A/B/c/d/ eA | ABc2 Bc dB | cd eA eA eA | AB c2 B2 A2 ::
+A>c Ac BAG2 | A>c Ac dddc/d/ | ee dd cc BB |1 AedB A2 A2 :|2 [M:3/4] AedB A2 |]
+
+
+
+
+
+X:16
+T:Avant-deux Mardi-Gras
+R:Avant-deux
+N:tagafolk.abc
+O:France
+A:Poitou
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:1
+%%MIDI program 20
+A/B/c/d/ ee dg dB | GB A/B/c/d/ ee e2 | A/B/c/d/ ee dg dB | GB A/B/c/B/A2 A2 :||:
+A/E/C/E/ AA cB G2 | G/E/C/E/ GG E G A2 | A/E/C/E/ AA cB G2 |  G/E/C/E/ GG E G A2 |
+e/c/A/c/ ee ce g2 | g/e/c/e/ gg eg e2 | e/c/A/c/ ee ce g2 | g/e/c/e/ gg eg e2 |
+V:2
+%%MIDI program 20
+A,2 A,2 G,2 G,2 | G,2 G,2 A,2 E,2 | A,2 A,2 G,2 G,2 |G,2 G,2 A,2 A,2 :||: 
+A,2 A,2 A,2 .C,2 | C,2 C,2 C,2 A,2 | A,2 A,2 A,2 C,2 | C,2 C,2 C,2 A,2 |
+A,2 A,2 A,2 .C,2 | C,2 C,2 C,2 A,2 | A,2 A,2 A,2 .C,2 | C,2 C,2 C,2 A,2 |
+
+X:17
+T:Bourrée des semailles
+T:Bourrée Ra Ta Tam Bourbonnaise
+R:Bourrée
+N:parfois aussi appelé La bergère de Coulandon
+N:tagafolk.abc
+D:voir Amustrad
+O:France
+A:
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+f2 ef | d3 e/f/ | gf ed | e/f/e/d/c2 |
+f2 ef | d3 e/f/ | gf ed | c4 :: 
+d>e cd | B3 c | d>c dg | f/g/ f/e/ dc |
+d2 cd |  B3 c | d>c dc/d/ | c4 :|
+%var
+de/d/ cd | B3 c | d>c dg | f/g/ f/e/ dc |
+W:"Je prends le blé, je le sème à la volée..."
+W:"Je fauche..."
+
+X:18
+T:Bourrée plet
+R:Bourrée
+N:il doit y avoir une légère imprécision de rythme que je n'ai pas encore réussi à corriger
+D:voir 
+O:France
+A:
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:3/4
+L:1/8
+Q:1/4=115
+K:G
+BBc BAG | FGA GFE | BBc BAG | AGF E3 ::
+FFG F>E F | B2GFE2 | FFG FEF | BGF E3 :|
+
+X:19
+T:Derrière chez nous
+R:Bourrée
+N:
+D:Voir Maluzerne
+O:France
+N:tagafolk.abc
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=140
+K:F
+G2GF | G3 A| B>AGF | G2 DE | F2FE | F3 G | A>GFE |1 D4 :|2 D3 G |:
+K:Bb
+B2 e2 | d3 c | A>c BA | B2 (3A/B/A/ G |
+B2 e2 | d3 c | A>c BA |1 G3 G :|2 G4 |]
+W:Derrière chez nous, il y a une montagne
+W:Moi et mon amant [ma maîtresse] la montons bien souvent
+W:En la montant grands dieux qu'il y a de peines
+W:En descendant quel soulagement !
+
+X:20
+T:Derrière chez nous
+R:Bourrée
+N:tagafolk.abc
+D:Voir Maluzerne
+O:France
+A:
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=140
+K:G
+A2AG | A3 B| c>BAG | A2 EF | G2GF | G3 A | B>AGF |1 E4 :|2 E3 A |:
+K:C
+c2 f2 | e3 d | B>d cB | c2 (3B/2c/2B/2 A |
+c2 f2 | e3 d | B>d cB |1 A3 A :|2 A4 |]
+W:Derrière chez nous, il y a une montagne
+W:Moi et mon amant [ma maîtresse] la montons bien souvent
+W:En la montant grands dieux qu'il y a de peines
+W:En descendant quel soulagement !
+
+X:21
+T:Cercle écroulé
+R:Hanter Dro
+N:tagafolk.abc
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+M:6/8
+L:1/8
+Q:1/4=95
+K:C
+ed/e/ gd e2 f/e/d/c/ B/c/d/B/ cA | ed/e/ gd e2 f/e/d/c/ B/c/d/B/ Az | [M:1/6] z2 | 
+ed/e/ gd e2 f/e/d/c/ B/c/d/B/ c2 |: AB/c/ AG c2 cB/c/ edcB | AB/c/ AG c2 cB/c/ edB2 :|
+ed/e/ gd e2 f/e/d/c/ B/c/d/B/ Az | [M:1/6] z2 ||
+
+X:21
+T:Cercle écroulé (2) *
+R:Hanter Dro
+N:tagafolk.abc
+O:France
+D:Bleizi-Ruz Hanter droiou
+Z:<anamnese@laposte.net>
+M:6/8
+L:1/16
+Q:1/4=95
+K:F
+|: GABGA2 d2 cBAB | GABGA2 d2 cBAB | AGFGA2  d2 cBA2 :| 
+|: dfdcB2 AG c4   | ABAGF2 GA B2 z2 | [M:1/4] z4| [M:6/8] dfdcB2 AG A4 | dffcd2BAG4 :|
+
+
+
+
+X:22
+T:Cercle 2 ?
+R:Cercle ?
+N:
+O:France
+Z:<anamnese@laposte.net>
+M:4/4
+L:1/8
+Q:1/4=160
+K:C
+AB | c2 cc de d2 | GG AB cB AA | Bc BE EE AB |
+     c2 cc de d2 | GG AB cB AB | AG A2 AA3 |
+g2 gg fe dG | GG3 a2 aa | ba ge ee fg | fe gf ed GG | GA Bc BA BA | GA2 AA3 | 
+
+X:23
+T:Cercle 3 
+R:Cercle 
+N:
+O:France
+Z:<anamnese@laposte.net>
+M:6/8
+L:1/8
+Q:1/4=160
+K:C
+B2B cBc | d2 gg3 | G2 G AGA | BcB AGA |
+B2B cBc | d2 gg3 | B2B AGA |1 G5 A :|2 G3-G2 B |
+ddc ABc | ddB G2B | dcB ABc | ddB g2 d |
+eec gge | ddB g2d | ded dcB | B3A3 :|
+d || g2 d B d | gfe dcB | gee e2d | ege e2d |
+     g2 d B d | gfe dcB | cAd e2 d | egB A2 d :|
+BGG dGG | BGG dcB | cAA eAA | cAA edc |
+BGG dGG | BGG dcB | c2d e2d | egB A2 d :|
+BcB BAG | Bcd e2 d | BcB BAG | A3 d2c |
+BcB BAG | Bcd e2 d | BdB ABA |1 G2 d2c :|
+
+X:23
+T:Cercle 4 
+R:Cercle 
+N:
+O:France
+Z:<anamnese@laposte.net>
+M:6/8
+L:1/8
+Q:1/4=180
+K:G
+P:1
+GAG FGF | E2 B B2 A | GAG FGF | DEA AFD |
+GAG FGF | E2 B B2 A | GAB dBA | ABG FED :|
+GAB d2 | edB dBA | GAB dBA | ABG FED |
+GAB d2 | edB def | gfe dBA | ABG FED |
+P:2
+EAA EAA | BAB G2A | Bee edB | dBA A3 |
+EAA EAA | BAB G2A | Bee edB | def gfg |
+eaa age | dBA G2 A | Bee edB | def gfg |
+eaa age | dBA G2 A | Bee edB | dBA A3 :|
+
+
+X:24
+T:?
+R:
+N:
+O:France
+Z:<anamnese@laposte.net>
+M:4/4
+L:1/8
+Q:1/4=160
+K:C
+eef2 eed2 edcBc2 A2 
+eef2 eed2 edcB A4
+A2B2c2B2A2G2A2E2
+
+X:25
+T:gavotte 
+R:
+N:tagafolk.abc
+O:France
+A:Bretagne
+Z:<anamnese@laposte.net>
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+EDEF GAB2 | edBA B2B2 |
+EDEF GAB2 | edBA B2B2 |:
+edBA BAG2 | GEFG A2B2 |
+edBA BAG2 | GEFG E2E2 :|
+
+X:26
+T:gavotte variations
+R:
+%C:Trad/ + arrangement personnel
+N:
+O:France
+Z:<anamnese@laposte.net>
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+V:1
+EDEF GAB2 | edBA B2B2 |
+EDEF GAB2 | edBA B2B2 |:
+edBA BAG2 | GEFG A2B2 |
+edBA BAG2 | GEFG E2E2 :|
+V:2
+EDEF GFE2 | BcBA G2E2 |
+EDEF GFE2 | BcBA G2E2 |:
+BcBA GFE2 | BcBA dcB2 |
+BcBA GFE2 | BcBA G2E2 :|
+
+X:27
+T:suite de polkas piquées
+R:polka
+O:France
+A:
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+P:AABBCC AABBCC
+M:2/2
+L:1/8
+Q:1/4=140
+K:C
+%%MIDI program 21 %% accordéon
+P:A
+e2g2 d/e/f/d/ ec | e2g2 d/e/ d c2 ::
+d/e/f/e/ d e/f/ g f e c | d/e/f/e/ d e/d/ c B c2 ::
+P:B
+gag2 f/g/f/e/ d2 | gag2 f/g/f/e/ d2 ::
+ecBc d/c/d/f/e c | ecBc d/e/d/B/ c2 ::
+P:C
+dec2 d/e/d/c/B G | fed>g ^f a/g/e2 |
+dec2 d/e/d/c/B G | fed>g ^f a/g/c2 |
+e/f/g/e/ c ee d/c/d2 | d/e/f/d/ B dc/B/c/e/g2 |
+e/f/g/e/ c ee d/c/d2 | d/e/f/d/ B dc/B/c/e/c2 |]
+
+X:28
+T:Maraichines
+R:
+O:France
+A:Vendée
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:6/8
+L:1/8
+Q:1/4=120
+K:G
+[P:1A] GGG GGG | A2AB2G | GGG GGG | A2FG3 :: [P:1B][M:2/4] (3GFE DD | EF G2 |
+(3GFE DB, |1 CA,B,2 :|2 CA,G,2 |: [P:2A] DDG2 | (3GFG A2 |
+Ac BG |1 FG AA :|2 FA G2 |: [P:2B] G3/2A/4B/4 AG | FG A2 | G3/2A/4B/4 AG |
+FAG2 :||: [P:3A] c2 Bc | d2d2 | e>d cB |1 A3/2B/4A/4 G2 :|2 A3/2B/4A/4 G3/2G/4G/4 |:
+[P:3B] Bdc2 | BA G3/2G/4G/4 | Bd cB |1 A2 G3/2G/4G/4 :|2 A2 G2 ||
+
+X:29
+T:Bourrée d'Aumont
+R:Bourrée
+O:France
+A:Auvergne
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:3/8
+L:1/8
+Q:3/8=110
+K:C
+cdg | f2e | d2e | cB2 | cdg | f2e | dec | d3 ::
+gfe | def | g>ag/f/ | ec2 | efe | ded | c2 B | c3 :|
+
+X:30
+T:Valse écossaise
+R:Valse
+O:
+Z:<anamnese@laposte.net>
+M:3/4
+L:1/4
+Q:1/4=212
+K:C
+P:A
+B |: e2d | c2d | ABc | G2G |1 e2d | c2B | ABc | def :|2 Adc | Bed | cB/A/ e/d/ | c |
+G |: e2G | e2G | egz/e/|c2G|1 d2G | d2G | de/d/ c/d/ | ecG :|2 Adc | Bed | cB/c/ e/d/ | c2 
+P:B
+|: cde | cde | fed | cBA | GAB | GAB | ced |1 cBA :|2 c3 |
+|: BAG | B2B | AGF | A3 | ABc | ABc | edc | BAG :|
+P:C
+|: A2A | c2c | BGG | GAB | A2A | a2a | gee | e2 f |
+g/e/ ce | g2 f/e/ | dec | BAG | efg | e2d | cdB | A2 :|
+
+X:31
+T:Valse de Gallice
+R:Valse
+O:
+Z:<anamnese@laposte.net>
+M:3/4
+L:1/4
+Q:3/4=80
+K:C
+P:(1)
+ecBABc e2c2 AdcBF2 c2B4
+ecBABc e2c2 AdcBE2 B2A4 ::
+P:(2)
+ABc2d2e4 e2fed2g2e4 ::
+P:(3)
+gfe def e2c2A2
+edcBcdc2A2E2
+dcBABcB2F2E2 FEF2 ^G2A2 c2e2 ::
+
+
+
+%%vskip 0.5cm
+%%sep
+%%text Chansons :
+ 
+
+X:32
+T:Pique la baleine
+R:Chanson
+%C:
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+"Bm"B B/ B/ "D"f f |"E"e e "F#"f2 |"Bm"B B B B/ B/ |"G"d B "A"c2 |
+"Bm"B B/ B/ "D"f f |"E"e e "F#"f2 |"Bm"B B B B/ B/ |"G"d "A"c "Bm"B2 |
+B/ c/ d/ B/ "A"c c |"Bm"B/ c/ d/ B/ "A"c2 |"D"f/ f/ f/ f/ "Em"f/ e/ d/ c/ |"G"d "A"c "Bm"d2 |
+B/ c/ d/ B/ "A"c c |"Bm"B/ c/ d/ B/ "A"c2 |"D"f/ f/ f/ f/ "Em"f/ e/ d/ c/ |"G"d "A"c "Bm"B2 ||
+W:Pour retrouver ma douce douce amie, Oh! mes boués ! Ouh, là ! Ouh ! là là ! (bis)
+W:Pique la baleine, joli baleinier, Pique la baleine, je veux naviguer !      (bis)
+W:
+W:Aux mille mers j'ai navigué,
+W:Oh ! mes boués ! Ouh, là ! Ouh ! là là ! (bis)
+W:
+W:Des mers du Nord aux mers du Sud.
+W:Je l'ai retrouvée que j'm'ai neyé.
+W:Dans les grands fonds, elle m'asepérait.
+W:Tous deux ensemble on a pleuré.
+W:En couple à elle je me suis couché.
+
+X:33
+T:La partance
+R:Chanson
+%C:
+Z:<anamnese@laposte.net>
+N:tagafolk.abc
+M:3/4
+L:1/4
+Q:1/2=90
+K:G
+EEF | G2B | GF2-|F3 | E>FG | F2D |
+E3-|E3 | zBB | B2A | BG2-|G3 |
+GAB | (BA)G | F3-|F3 | EBB | B2 G |
+FE2-|E3 | G/ G/-G G | F2D | E3-|E3 ||
+W:1. La journée que j'épouse, je recois commandement: 
+W:Un commandement de guerre, pour servir le roi Louis; 
+W:en sortant de l'église, m'a bien fallu partir.
+W:
+W:2. La partance a été longue, l'a bien duré sept ans. 
+W:Au bout de la septième, mon congé ils m'ont donné; 
+W:dans les bras de ma chère j'irai m'y reposer.
+W:
+W:3. La journée que j'arrive, ma femme elle se remarie. 
+W:J'arrive devant sa porte, trois petits coups j'frappa. 
+W:J'ai posé ma valise, mon or et mon arbent.
+W:
+W:4. Et les gens de la noce m'ont convié à souper, 
+W:et moi qui étais bien aise, je n'ai pas refusé; 
+W:j'ai déplacé ma chaise auprès de la mariée.
+W:
+W:5. Mais les gens de la noce se sont trouvés insultés: 
+W:"Retirez-vous, gendarme! Retirez-vous d'ici! 
+W:La mariée de ce soir, elle vous appartient pas.
+W:
+W:6. T'en souviens-tu, la belle, les rires et les serments? 
+W:T'en souviens-tu, la belle, voilà ce soir sept ans? 
+W:T'en souviens-tu, la belle que ton mari est absent?"
+W:
+W:7. La belle elle me devine, elle s'écrie en larmes: 
+W:"Par la mort de Jésus-Christ! 
+W:A c'matin j'étais veuve et c'soir j'ai deux maris!"
+
+
+X:32
+T:Dans la ville de Nantes
+%C:trad.
+M:3/8
+L:1/8
+Q:1/4=130
+K:C
+defd2e|c2A|defd2c|A3:|AGA c2c|d2d|cAF G2G|Ade|
+|:f2d e2c Ade|f2de2c|1dde:|2d3||
+W:
+W:Dans la ville de Nantes
+W:Il y a-t-un rosier
+W:Qui ne donne de l'ombre
+W:Rien qu'une fois l'été.
+W:
+W:(refrain)
+W:Je vous ai menti souvent
+W:M'avez-vous toujours dit vrai ?
+W:
+W:Toutes le filles de Nantes
+W:Elles vont s'y promener
+W:La plus jolie de toutes
+W:Son coeur elle m'a donné
+W:
+W:Bonsoir, bonsoir la belle,
+W:Je viens vous demander
+W:La tant jolie ceinture
+W:Que vous m'y promettez.
+W:
+W:Ma tant jolie ceinture
+W:Je ne peux la donner
+W:A un marchand de Nantes
+W:On va m'y marier.
+
+X:97
+T:La laine des moutons
+R:Bourrée
+O:France
+N:tagafolk.abc
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:3/4
+L:1/4
+Q:1/2=110
+K:F
+D |: G/G/G A | B2 B | A/B/ c |  AB2 D | 
+     G/G/G A | B2 B | A/B/ c |1 AG2 D :|2
+AG2 d|: d2 c | B2 B | A/B/ c |  AB2 d |
+        d2 c | B2 B | A/B/ c |1 AG2 d :|2 AG2 z ||
+W:La laine des moutons, c'est nous qui la tondaine,
+W:La laine des moutons, c'est nous qui la tondons.
+W:Tondons, tondons, la laine des moutaines,
+W:Tondons, tondons, la laine des moutons.
+W:
+W:La laine des moutons, c'est nous qui la lavaine,
+W:La laine des moutons, c'est nous qui la tondons.
+W:Lavons, lavons...
+
+
+X:97
+T:Le deuil d'amour
+R:Bourrée
+O:France
+N:tagafolk.abc
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/2=110
+K:F
+F | D > E F G | A3 A | B > A GA | FE D F |
+    D > E F G | A3 A | B > A GA | FE D A |
+A2 d2 | A3 A | B > A G F | E3 F | G2 B2 | A > G F E | D3 z ||
+
+
+X:56
+T:Nous étions trois marins
+R:Hanter dro
+%C:trad.
+O:France
+A:Bretagne
+Z:S Piron
+M:2/4
+L:1/8
+Q:1/4=85
+K:C
+cc/2c/2 BA|G2 cc/2c/2|df ed:|
+|de/2f/2 ge/2d/2|c2 AB/2c/2|df ed|
+cd/2c/2 AG/2F/2|G2 cc/2c/2|AFG2||
+W:
+W:Nous étions trois marins qui allaient sur la mer
+W:Le vent nous était bon, la mer était contraire.
+W:
+W: refrain
+W:Gai, maluron, malura les gars sont pour les filles
+W:Gai, maluron, malura les filles sont pour les gars
+W:
+W:Le vent nous a poussé sur les côtes d'Irlande
+W:Près d'un moulin à vent nous avons mouillé l'ancre.
+W:
+W:Et dedans ce moulin, y'avait une servante,
+w:Sitôt quelle m'a vu, m'a fait la révérence.
+W:
+W:Je luis ai demandé "d'où vient la connaissance?"
+W:Ne t'en souviens-tu pas quand nous étions ensemble ?
+W:
+W:A la foire, au marché de la ville de Nantes.
+W:Pour choisir un anneau, parlant de l'amour tendre
+W:
+W:L'est encore à mon doigt, le voudrais-tu reprendre ?
+W:Je le reprendrai pas, nous dormirons ensemble.
+W:
+W:Dans un p'tit lit bien fait, couvert de roses blanches.
+W:Là où qu'à la minuit, le rossignol y chante.
+
+
+
+
+X:34
+T:Nous étions trois marins* (temp)
+R:Chanson
+%C:
+M:2/4
+L:1/8
+Q:1/4=120
+K:F
+DEFG2A2F2 BAGGGFED2 |
+DEFG2A2F2 FBAGA^FG2 |
+DGABBBBA AGFGAB2A2 |
+
+
+
+
+%%vskip 0.5cm
+%%sep
+%%text [autres retranscripteurs] :
+ 
+
+X:30
+T:L'harmonica
+R:polka
+O:France
+M:C
+L:1/8
+K:C
+z6 e>d|cA AG EA Ac|B/2A/2G/2A/2 BG A2 e>d|cA AG EA Ae|
+e>d cB A2 zB|c>B ce d>c de/2d/2|cB Ac B2 z e/2d/2|cA AG EA Ae|
+e>d cB A2 e>d|cA AG E/2A/2A/2A/2 AA|G/2G/2G/2G/2 G/2A/2B/2c/2 d2
+e>d|cA AG E/2A/2A/2A/2 AA|ee e/2d/2c/2B/2 A4||
+W:
+W:Dans mon sac de matelot, j'ai mis tout ce que j'avais de plus
+beau
+W:Souvenirs de tous pays, bouteille de rhum et de whisky
+W:Une montre et elle ne marche pas, ma pipe et mon tabac
+W:J'y ai mis l'harmonica, qu'j'avais acheté à Malaga.
+W:
+W:Avec mon harmonica
+W:Je souffle, la voilà
+W:L'harmonica, l'harmonica
+W:Pour la gigue et la polka
+W:Ecoutez çà les gars
+W:Faut faire de l'harmonica
+W:
+W:Il m'accompagne partout, une chanson prête à chaque trou
+W:Il sait des tas de refrains, dont les plus beaux sont de marins
+W:A bord pendant les quarts à bord, il fait rêver les gars
+W:Il leur parle de la terre, de la mer et de leurs amours.
+W:
+W:Du temps où j'étais pas manchot, je faisais l'amour dans les pays chauds
+W:A une sombre beauté, qui ne voulait pas se laisser tenter
+W:Sa peau et son corps étaient noirs, mais elle ne voulait rien
+savoir
+W:Je lui dit que j'étais matelot, elle a crié je suis perdue.
+W:
+W:Celui qu'a composé la chanson, c'est Henri Jacques matelot de
+pont
+W:Si elle est à votre goût les gars, faut lui payer un coup
+W:Avec sa gueule de trafiquant, faut lui rincer les dents
+W:Offrez-lui un pot de tafia, je vous jure bien qu'il le boira.
+
+
+
+
+X:35
+T:Black Nag
+R:Contredanse
+%C:Traditionnel 
+N:Chapelloise
+N:abc original modifié
+B:Playford
+Z:J.M. HENRY
+M:6/8
+L:1/8
+K:G
+E |: "Am"AGA "G" BAB| "C"cBc "G"Bcd| "C"edc "G"BAB|1 "Am"cBc A2E :|2 "Am"A3 A2  A ||
+"Em"BGE BGE|BGE BGE| "Am"ecA ecA| ecA ecA| "Em"BGE BGE| BGE "G"Bcd| "C"edc "G"BAB| "Am"A3 A2||
+
+X:36
+T:Mary and Dorothy
+S:Playford
+Z:unknown
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+B| e2 e e>fg| f2 f f>ga| g>ag f>gf |b2 B B2 B| e2 e e>fg |f2 f f>ga| g>a
+g f>gf |b2 B B2::G/2A/2 |B2 B B>AG d2 D D2 A/2B/2|  c2 c c>BA| e2 E E>FG
+| A>Bc B2 B| E3 E2:|
+
+X:37
+T:Bourrée de la Chapelotte
+%C:trad.
+O:France
+A:Massif Central
+Z:www.tradfrance.com
+M:3/8
+L:1/8
+Q:1/4=120
+K:D
+F2G|A2A|B/2A/2Bc|BAd|d2d|c2B|A/2B/2AG|F2D|
+F2G|A2A|B/2A/2Bc|BAd|d2d|c2B|Aec|d3|
+f/2f/2ff|B3|e/2e/2ee|A3|d2d|c2c|A/2B/2AG|F3|
+f/2f/2ff|B3|e/2e/2ee|A3|d2d|c2c|Aec|d3||
+
+X:38
+T:L'eau de roche
+R:Scottiche
+N:première partie adaptée de l'air sur www.tradfrance.com
+O:France
+A:Massif Central
+M:C
+L:1/8
+Q:1/4=150
+K:C
+c2de f2d2 | gfga gfed | c2de f2d2 | gfga g4 |\
+defd g2fe | dedc BAG2 | defd g2fe | dedB c4 |
+Geee Geee | Geef e2d2 | Gddd Gddd | Gdde c4 |\
+edef e2d2 | dcde d4   | gagf edef | e2d2 c4 ||
+
+X:39
+T:Les grandes poteries
+R:Bourrée à 3 temps
+%C:Trad.
+O:France
+A:Massif Central
+M:3/4
+L:1/4
+Q:1/4=200
+K:C
+Z:??
+e/2f/2|:geg|g/2e/2 c e/2f/2|geg|g2 d/2e/2| fdd|d2 c/2d/2|ecc|1 c2
+e/2f/2:|2 c2 B/2A/2|
+|:G2A|G2A|Gcd|e3|dcd|cBA|1GAG|E2F:|2Ged|c3||
+
+X:40
+T:Laride (temp)
+%C:Breton
+S:Blowzabella
+M:2/2
+L:1/8
+Q:1/2=120
+K:C
+A4 e4 | d2 f2 e4 | d3 e d2 B2 | c2 d2 e2c2 |\
+A4 e4 | d2 f2 e4 | d3 e d2 B2 | c2 B2 A4 :|
+A4 c4 | c2 A2 B4 | B2 d2 d2 B2 | c2 d2 e2c2 |\
+A4 c4 | c2 A2 B4 | B3 c d2 e2 | c2 B2 A4 :|
+
+X: 58
+T:Drummond Castle
+R:jig
+O:Scottish
+Z:id:hn-jig-58
+N:transposed 5 steps down
+M:6/8
+K:D
+EFE ~e3|edB ~d3|G2G BAG|FAd AFD|EFE ~e3|edB ~d3|BdB ABd|1 BAF E2B,:|2 BAF E2F||
+|:G2G GBG|A2A ABA|G2G BAG|FAd AFD|G2G BAG|ABd e2d|BdB ABd|1 BAF E2F:|2 BAF E2B,||
+
+X:2
+T:Donnybrook Fair
+T:Joy of My Life, The
+R:jig
+Z:This is about as often found under one title as the other.
+M:6/8
+K:G
+D|~G3 AGA|Bee dBA|BAB GAB|AGE GED|~G3 AGA|Bee dBA|BAB GAB|AGF G2:|
+f|gfe fed|ege dBA|Bee fed|Bee e2 f|~g3 fed|ege dBA|BAB GAB|AGF G2 f|
+|gfe fed|ege dBA|Bee fed|Bee e2 f|~g3 aga|bge dBA|BAB GAB|AGF G2||
+
+X:103
+T:Statia Donnelly's
+R:Jig
+Z:As played by the CHB
+M:6/8
+K:G
+D|GED G2A|Bge dBA|GED G2A|BGB AFD|\
+GED G2A|Bge dBA|GEE BAB|GEE E2::f|\
+g2e fed|ege dBA|gfe afd|Bee e2f|\
+gfe fed|e/2f/2ge eBA|GEE BAB|GEE E2:|
+
+
+
+%% -- morceaux en prévision ? :
+X:41
+T:John Ryan's
+R:polka
+N:transposer en sol
+D:Planxty
+Z:id:hn-polka-9 (Henrik Nordbeck)
+M:2/4
+L:1/8
+K:D
+dd B/c/d/B/|AF AF|dd B/c/d/B/|AF ED|
+dd B/c/d/B/|AF Ad/e/|fd e/d/c|1 d2 d2:|2 d2 d>e||
+|:fd de/f/|gf ed/e/|fd Ad|fd/f/ a>g|
+fd de/f/|gf ed/e/|fd e/d/c|1 d2 d>e:|2 d2 d2||
+
+X:42
+T:Bourrée à six de Briantes
+R:bourrée à 2 temps
+%C:trad
+O:France
+A:Berry
+Z:trouvé sur site www.tradfrance.com
+M:2/4
+L:1/8
+Q:1/4=150
+K:C
+|:c2G2|E2C2|D>E FD|E>F GG|c2G2|E2C2|D>F ED|1C4:|2C3 G|
+|:E>G EG|A2F2|A>c BA|G3 G| E>G EG|A2A2|GF ED|C3 G:||
+
+X:43
+T:Valse du départ
+R:Valse
+N:<!> droits d'auteurs ?
+O:
+Z:<anamnese@laposte.net>
+M:5/4
+L:1/8
+Q:1/4=212
+K:C
+E |: ABc2 c | dBc2e | dcB2 E |1 cBA2E :|
+W:/.../
+
+X:44
+T:Baillez-li
+R:Bourrée à 2 temps
+O:France
+A:Bourbonnais
+Z:?
+M:2/4
+L:1/8
+Q:220
+K:G
+G>F GB|AG FD|A>G Ac|BA G2|G>F GB|AG FA/2B/2|cB/2A/2 EF|G4:|
+|:F>A FA|GA BA|F>A FA|GF E2|F>A FA|GA BA/2B/2|cB/2A/2 EF|G4:|
+
+X:45
+T:Carnaval de Lanz
+%C:trad.
+O:France
+A:Pays basque
+Z:trouvé sur site www.tradfrance.com
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+B/2c/2|:dd/2e/2 d/2c/2B/2A/2|G>B BB|A>B cd|e2 dB/2c/2|
+dd/2e/2 d/2c/2B/2A/2|G>B BB|A>B cF|1G2-GB/2c/2:|2G2F2|
+|:G>B dg|gfa2|A>B cd|edg2|G>B dg|gfa>g|fdef|g2-g2:|
+|:d>ddd|e>dcB|c>cce|dBG2|d>ddd|e>dcB|c>ced|1G2-G z:|2G2zg|
+|:eccd/2e/2|=fddz|d/2c/2d/2e/2 =fd|BGGg|
+ec c/2d/2e/2=f/2|g3 d/2e/2|=fdcd|1c3g:|2c3B/2c/2||
+
+X:46
+T:Valse à 5 temps
+%C:trad.
+S:collectée par Edouard BAUER du Folk de la rue des Dentelles Strasbourg
+H:collectée dans les années 70
+O:France
+A:Alsace
+M:5/4
+L:1/4
+Q:1/4=210
+K:G
+D/2G/2|FAGBB|AcB2D/2G/2|FAGBd|cAG2:|
+d|cABGd|cAB2D/2G/2|FAGBd|cAd2d|cABGd
+|cAB2D/2G/2|FAGBd|cAG2
+
+
+X:23
+T:Polka
+O:France
+M:2/4
+L:1/8
+Q:170
+K:C
+ee AA/2B/2|cB/2A/2 e2|e/2f/2e/2d/2 ee|e/2f/2e/2d/2 e2|ee
+AA/2B/2|cB/2A/2 e2|e/2f/2e/2d/2 cc/2B/2|Ac/2B/2 A2:|
+|:ee a2|g/2a/2g/2d/2 e2|e/2f/2e/2d/2 ee|e/2f/2e/2d/2 e2|ee
+a2|g/2a/2g/2d/2 e2|e/2f/2e/2d/2 c/2d/2c/2B/2|Ac/2B/2 A2:||
+
+
+

@@ -1,0 +1,624 @@
+%abc
+%%%%               
+%      
+%        S u i t e   n° 1   e n   L a   m i n e u r
+%                 par Robert de Visée
+%            
+%         I. livre de guittarre dédié au Roy (1682)     
+%                      
+
+%
+% Note : cette partition n'est peut-être pas rigoureuse au point de vue de la 
+%        notation habituelle pour de la guitare, mais j'ai fait néanmoins du mieux que 
+%        j'ai pu pour rester fidèle aux notes.
+%
+%  <!> important :  certains morceaux ont été transcrits avec des codages spéciaux
+%                   pour Abcm2ps, et risquent de présenter des données inhabituelles 
+%                   pour des logiciels d'écoute. Une correction
+%                   possible est de remplacer automatiquement les signes de silence 
+%                   invisibles ("x") par les signes standards ("z") [en respectant la casse).
+%                   Utiliser Abc2midi sinon.
+%
+%    pages sur Robert de Visée :
+%      http://g.rebours.free.fr/5F/5.Robert_de_Visee.html
+% 
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/               
+                   
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  mardi 23 septembre 2008 à 23:05
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+
+%%textfont CaslonAntique 18
+
+%%titlefont CaslonAntique 22
+%%subtitlefont CaslonAntique 16
+%%composerfont   CaslonAntique 10
+
+
+%%headerfont CaslonAntique 12
+%%footerfont CaslonAntique 8
+
+%%annotationfont CaslonAntique 10
+%%infofont CaslonAntique 16
+%%historyfont CaslonAntique 16
+
+
+%%measurefont CaslonAntique 14
+%%partsfont CaslonAntique 14
+%%repeatfont CaslonAntique 14
+
+%%tempofont CaslonAntique 14
+%%vocalfont CaslonAntique 16
+%%voicefont CaslonAntique 16
+%%wordsfont CaslonAntique 16
+%%gchordfont CaslonAntique 14
+%%setfont-1 CaslonAntique 16
+%%setfont-2 CaslonAntique 16
+%%setfont-3 CaslonAntique 16
+%%setfont-4 CaslonAntique 16
+
+%%textfont CaslonAntique 25
+%%vskip 0.5cm
+%%center Suite n°1 en La mineur     
+%%textfont CaslonAntique 18
+%%vskip 0.5cm          
+%%center I. livre de guittarre dédié au Roy (1682)
+%%textfont CaslonAntique 16
+%%center par Robert de Visée
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont CaslonAntique 12
+%%text Transcriptions par 
+%%text Eric Forgeot
+%%text http://anamnese.fr.st
+%%vskip 0.0cm
+%%text Version :  septembre 2008
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	Suite n°1 en La mineur - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont CaslonAntique 12
+
+%
+%%%%
+
+
+% sudo cp *.pfb /var/lib/defoma/gs.d/dirs/fonts
+% type1inst
+% cat Fontmap >> /var/lib/defoma/gs.d/dirs/fonts/Fontmap
+
+%%scale 0.71q
+%%continueall 0
+%%maxshrink 0.50
+%%staffsep 40pt
+%%sysstaffsep 30pt
+
+
+%%pageheight    29.7cm
+%%pagewidth     21cm
+%%topspace      0.00
+%%topmargin     0.80cm
+%%botmargin     1.00cm
+%%leftmargin    1.30cm
+%%rightmargin   1.20cm
+
+
+
+%%titlespace     0.20cm
+%%subtitlespace  0.10cm
+%%composerspace  0.10cm
+%%musicspace     0.20cm
+%%partsspace     0.10cm
+%%wordsspace     0.00cm
+%%textspace      0.20cm
+%%vocalspace     18pt
+
+%%lineskipfac 1.1
+%%parskipfac 0.3
+
+
+
+
+X:1
+T:Titres
+M:2/4
+K:Am
+K:C
+%%endtext
+%%multicol end
+%%multicol start
+%%leftmargin 4.5cm
+%%begintext
+  Prélude .......... p.1
+  Allemande .... p.2
+  Courante ....... p.3
+  Sarabande ...... p.3
+  Gigue .............. p.4
+%%endtext
+%%multicol new
+%%leftmargin 12.5cm
+%%begintext
+  Passacaille .... p.5
+  Gavotte I ...... p.6
+  Gavotte II ..... p.6
+  Bourrée ......... p.6
+%%endtext
+%%multicol end
+
+
+
+X:1
+T:Prélude (suite en La mineur)
+R:
+C:Robert de Visée
+H:1682
+B:I. livre de guittarre dédié au Roy (1682)
+G:guitare
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/8
+Q:1/4=105
+%%ABC2TAB:EADGBe
+K:Am
+K:C treble
+%%staves (1 2)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+z/c/e z/c/e/c/ z/c/e z/c/e/c/  | z/B/e z/B/e/B/ z/B/e z/d/e/d/ |
+z/^c/e z/c/e/c/ z/c/g z/c/g/c/ | z/d/f z/d/f/d/ z/d/f z/d/f/d/ |
+z A/B/c2 e(cB2) | zBed zAc=G | zed2 z(d ^c)g |
+z d ^f2 zd g2 | zce^f z B g2 | zdg=f  zec2 |z (c'b)c' f(f e)f |
+z^f (ba) ze ^gB ||\ 
+M:3/4
+ze ae a2 | z (a =g^f) g2 | z ^f2 (f gf) |
+ze2 (e ^fe) | z (^c ^de) ^fd | z (^d e)(^f g^c) | z (^c=d)(e =f)B |
+z(B =cB)e2 | z A (Bc d2) | z (^G A)(B cd) | e3 (e ^fg) |
+^f2 z (f ga) | z (a ^g^f) g(^c | d)(AB2) dB | !arpeggio![e6a6] |]
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+A>E A2 A>E A2 | B>E ^G2 B>E G2 | A>E A2 A>E A2 | A>D A2 A>D A2 |
+A3 A-A3 A | ^G4 A4 | F3 (FE4) | D3=cB3 B | A4 G3A | B4 c3d | e4 a4 |
+[D4d4] D4 ||\
+M:3/4
+c4-cD | E4-EE | ^D2 =D4 |
+^c2 =c4 | B6 | E6 | =D6 |
+=c4-cA | B4-B^G | A6 | z(Bc4) |
+[Dd]c B4 | E6-|E3 E-E2 | [A6c6] |] 
+
+X:2
+T:Allemande (suite en La mineur)
+R:Allemande
+C:Robert de Visée
+G:guitare
+B:I. livre de guittarre dédié au Roy (1682)
+O:France
+N:une petite imprécision qui aurait nécessité une voix de plus pour l'éviter :
+N:  vers la 27ème mesure il y a un "mi" aigu sous la trille qui est une blanche et non pas une noire.
+N:De plus les arpèges rapides (balayages) n'ont pas été tous marqués
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/8
+Q:1/4=95
+K:Am
+K:C treble
+U: I=!arpeggio!
+%%staves (1 2)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+I[c3/2e3/2]I[c/e/] |: I[c2e2]I[c2e2][EAce]e ^f[^G^g] | [e2a2][e2a2] !trill![e3a3] ^g | a4 Ac Bd |
+Ie4 e2 [^d2^f2] | [e2^g2] (e=d) !trill!^c2 (a=g) | f3 f !trill!f3 [ce] | [c4e4] [ec'](b a)!trill!g |
+(fe) (dc) d(e f)g | e4 a3 g | (ag) fe !trill!d2 de | !trill!A3 A d3d |
+Id2ed !trill![A3c3]B | B2 zB-B4 |1 I[^G8B8e8] :|2 I[B6e6] ||
+|: (ba) | !trill!^g^f ge fa gb | ac' c4 z2 | !trill!B2 (Bc) d(c d)[^ce] |
+I[d2f2] f6 | I[c2e2] z e !trill!d3d | d4 e2d2 | !trill!c2 (AB) cd e^f |
+I[d2g2] I[d2g2] !trill![c3g3] ^f | [B4g4] c'2 c'b | a2 bc' !trill!^g3 a | zb e2 (a=g) fe |
+(fe) (dc) (dc B)A | ^G4 c2d2 | I[c2e2] ^f2 ^g2 a2 |
+I!trill![e4^g4] [^fd'](c' b)a | [e2^g2] [c2e2a2] !trill!a3^g | a3 c-c2 A2 | I[c6e6] :|
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+[E3/2A3/2] [E/A/] |: [E2A2][E2A2]A4 | [A2c2][A2c2]e3z | c2A6 |
+c2 (BA) !trill!=G2 ^F2 | [E6B6] z2 | [D4A4d4] [D3B3] [EG] | [E4G4] [G4c4e4] |
+z4 [F4B4c4] | [G4c4] [F4-c4-f4] | [F4c4] B2 [G2_B2d2] |[E4A4^c4] [F4A4] |
+[E4^G4]A3 [E^G] | [E2^G2] B2E2^G2 |1 (ED) (EF) (ED) (cB) :|2 [E6^G6] ||
+|: z2 | z8 | z2 (AB c)(D EF) | G4 F3E |
+[D2A2] (DE F)G AB | [E2G2] F2 ^F4 | [G4B4] ^G4 | [A2e2] z2 z4 |
+[G2B2][G2B2] A4 | G2F2 [G4c4e4] | f2 [d2f2] [B2e2] ^F2 | ^G4 A4 |
+D4F4 | ([Ee][Dd]) (cB) zA zB | [E2G2] [Dd]c [B2d2] [A2c2] |
+B4 [A4d4^f4] | d2 Ae e3z | A2A2 E4 | [E6A6] :|
+
+X:3
+T:Courante (suite en La mineur)
+R:Courante
+G:guitare
+C:Robert de Visée
+U:I=!arpeggio!
+B:I. livre de guittarre dédié au Roy (1682)
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/2
+L:1/8
+N:à la toute dernière mesure : 
+N:  le premier A n'est pas A2 mais A6 ce que le format abc ne permet pas de rendre
+N:  car [A2c4] n'est pas autorisé...
+N: idem pour | c3 (d c)B A2 ^c4 | qui devrait être c3 (d c)B A6 ^c4 |
+Q:1/4=95
+K:Am
+K:C
+%%staves (1 2)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+I[Ace] | [E3A3c3e3] (f e)d !trill!c2A3 a | !trill!^g4 z2a2 b3 b |
+([e2b2]c')(b a)g (fe) [d2f2] z e | !trill!d3d g2 c2 !trill!B3c | d6 d2d2 [^c2e2] |
+I[d6f6] c4 B2 | c3 c d2 e2 !trill!d3 [Be] | [B6e6] [B4e4] z :|
+|: I[^gb] | I[^g3b3] g ab [a2c'2] !trill!b3 a | !trill!^g6 [B6g6] | [e6a6] [e2a2] !trill!f3 e |
+[d2f2] z=g (ag) fe d3 d | d2 B2 Ac z d !trill!d3 c/d/ | c2 z4 Bd !trill!c3 B |
+c3 c !trill![A2^c2] z c2 ^d2 e-|e^f B4 b2 !trill!a3b | !trill!^g6 [e2a2] (a=g) fe |
+[d2f2] ze d2 (cB) c3 d | (cB) (A^G) A3 B !trill!B3 A/B/ | z2 c4 [c4e4] z :|
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+E | A6 A6 | [B3e3] f (ed) c2 [^G4d4e4] |
+[A6c6] z2A2 c2 | B6 A2 G4 | [D3G3B3] G (FE) F4 E2 |
+[D3A3] [D(d)] (=cB) A2A2 ^G2 | [E6A6] G2F3 [E^G] | [E2^G2] E2G2 [E4G4] z :|
+|: [Be] | [B3e3] zz2 [A2e2] d3 z | [B3e3] B cD E2 [D2d2] (cB) | c3 (d c)B A2 ^c4 |
+[D2A2] =c2 F4 ^F4 | G4 z2 F2 G3 z | z2 B2A2 [^G6e6] |
+[E4A4] E2 G2 ^F2 E2 | ^D6 [^d6f6] | [B2e2] e2 [D2d2] ^c6 |
+[D2A2] =c2 B4 [E4A4] | E4 F2 D2 E4 | A2 A2 E2 [E4A4] z :|
+
+X:4
+T:Sarabande (suite en La mineur)
+R:Sarabande
+G:guitare
+C:Robert de Visée
+B:I. livre de guittarre dédié au Roy (1682)
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+N:dernière ligne voix 1 : (B>c d)>e [d2f2]  au lieu de B>c d>e [d2f2] 
+M:3/4
+L:1/8
+Q:1/4=95
+K:Am
+K:C
+%%staves (1 2 3)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+e3 e [e2a2] | !trill![d3g3] f !trill!e2 | c'3 b [ea]g | !trill![d2^f2] b>a [e2^g2] |
+=g3 g g>a | !trill!=f3 e [d2f2] | [=c2e2] z e (dc) | !trill!c3 B (Bc) :| 
+|:c'3 c' c'2 | b2>>b2 b2 | [ea](b a)g (^fe) | !trill![B3^d3] e [B2e2] |
+B>c d>e [d2f2] | !trill!^f3 f [e2g2] | g>^g-g [eg] [e2a2] |!trill! [e3a3] ^g a2 :|
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+[E4A4c4] [A2c2] | B4 c2 | [G4c4e4] ^c2 | A2 z2 B2 |
+[=G4B4e4] [G2c2d2] | [A4^c4] [D2A2] | [E2G2] F4 | G4 c2 :|
+|: [G4c4e4] [d2f2] |[G4d4] [^G2d2e2] | [A6c6e6] | ^F3 z [E2^G2] |
+[E4A4e4] [D2A2]| [D4A4d4] [E2B2] | [E3^B3] [EB] [A2c2] | e3 z A2 :|
+V:3
+%%MIDI program 24
+%%MIDI channel 3
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 65 %pan
+ x6 | x6 | x6 | x6 |
+ x6 | x6 | x6 | x6 :|
+|:x6| (f2e2)x2| x6 | x6 |
+ x6 | x6 | (c2 d) x3 | x6 :|
+
+X:5
+T:Gigue (suite en La mineur)
+R:Gigue
+G:guitare
+C:Robert de Visée
+B:I. livre de guittarre dédié au Roy (1682)
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=155
+K:Am
+K:C
+%%staves (1 2)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+A B2    |: c2>c2 d2 | e6 | e2>^f2g2 | !trill!^f6 |
+ ^f2>^g2 a2 | !trill!^g6 | a6    | b2>a2b2       | c'2>b2 a2    | !trill!=g4 g2 |
+[e3g3] a e2  | [A6d6f6]   | z3 g d2  | e3 e d2 | !trill!c4 B2 | A6 | 
+d3 c d2 | !trill!B6 | g3 f e2 | f3 g e2-|e2 !trill!d3 [Be] |
+[^G6B6e6] | z3 B-B2 |1 [B3e3] A B2 :|2 [B4e4] |: b2 | (c'2b2) a2 |
+!trill!^g6-|g4 ^g2 | a4 a2 | (a2=g2) f2 | !trill!e4 e2 |
+[E3A3^c3e3]fg2 | f3 g e2 | d3 e c2 | !trill!B6 | z6 | 
+z2 c2 d2 | !trill!d3 c B2 | c4 g2 | c'3 c'b2 | (a2b2) c'2 |
+!trill!b4 a2 | !trill![^g4e4] e2 | (a2=g2) a2 | !trill! ^f4 d2 | (g2=f2) f2 |
+!trill!e3 f g2 | !trill!f4e2 | !trill!d4c2 | !trill!B4A2 | !trill!^G6 |
+!trill![D3d3] (cB2) | z3 A [D2B2] | !trill![A3B3] A ^G2 | (^G2A4) | z3 c-c2 | [c4e4] :|
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+z z2 |: [E6A6] | z3A B2 | c6 | [D3d3] c [D2d2] |
+ B6 | [B3e3] e [D2d2] | c2B2A2 | [^G6d6e6] | [A6c6e6] | [B6d6] |
+[G4c4] z2 | D3 [Dd] c2 | !trill!B6 | [E4G4c4] D2 | E6 | F2>E2 F2 |
+D6 | G3 F G2 | E6 | [D4A4d4] (A2|G2) F3 [E^G] |
+[E4^G4] B2 | E4 ^G2 |1 [E3^G3] z z2 :|2 [E4^G4] |: z2 | z6 | 
+z4 e2 | (f2e2) d2 | [c6e6] | c6 | c6 |
+A6 | d4 =c2 | B4 A2 | G4 G2 | (F2E2)D2 |
+E4 F2 | G3 z z2 |  [E4G4] z2 | [G6c6e6] | f6 |
+[d4f4] z2 | B6 | ^c6 | D6 | B6 |
+c6 | [D4B4] c2 | B4 A2 | D6 | E4 E2 |
+[^G6B6] | c6 | E6 | A4 E2 | A4 A2 | [E4A4] :|
+
+X:6
+T:Passacaille (suite en La mineur)
+R:Passacaille
+G:guitare
+C:Robert de Visée
+B:I. livre de guittarre dédié au Roy (1682)
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=95
+K:Am
+K:C
+%%staves (1 2 3)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+%%text "A la fin de chaque couplet l'on joue le premier une fois seulement." 
+AB cd | !segno![c2e2] [^c2e2] ^fg | !trill![A2d2^f2] [Acf][Acf] [d2^g2] | [e2a2] A2A^G | [c2e2] :|
+"[1er couplet]"[ea]e ab | [e2c'2] bc' (ba) | [B2^g2] [Be](=f e)d | [A2c2] z A B^G | (^GA) :|
+!segno!AB cd |: "[2e couplet]"z (b c')d' | [e2b2] z ([fa] [fb])[ec'] | [e2a2] z (e- e)d |
+B6  | a2 :|!segno!AB cd|:"[3e couplet]"(f!trill!e) (d!trill!c) | d2 B3 z |
+[A2c2] (ag) (f!trill!e) | (dc) (c!trill!B) A^G | [c2e2] :| !segno! AB cd
+|:"[4e couplet]" ze (ef) | !trill!d3 d (de) | !trill!c3 c (cd) | !trill![A2B2] B(^c d)B | [A2=c2] |]
+!segno! AB cd |:"[5e couplet]" [Be](f e)d | !trill![A2^c2] [ea](b a)g | !trill![d2^f2] [fb](c' b)a |
+^g>a a3 g | (^ga) :| !segno! AB cd |: "[6e couplet]"a=g !trill!fe | [df]d [Bg]f !trill!ed |
+ec [ec'](b a)g | (fe) (dc) (c<B) (A/^G/) | [A2c2] :| !segno!AB cd ||
+|:"[7e couplet]" e3 e | a2 !trill!=g3 a | !trill![d2^f2] b3c' | ([ca][db]) !trill!^g3 a | [e2a2] :|
+|: AB cd | [c2e2] [^c2e2] ^fg | [A2d2^f2] [A=cf][Acf] [d2^g2] | [e2a2] [E4B4] | [c2e2] :|
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+z4 | [E2A2] [E4A4] | [D4A4] B2 | cD [E4B4] | [E2A2] :|
+[A4c4] | [A2c2] [d2f2] z2 | (E^F)^G4 | AD E4 | A2 :|
+z4 | A4 | ^G2 =G4 | ^F2 =F4 |
+(EF) ([Ee][Dd]) (c!trill!B) | [A2c2] :|z4 |: z4 | [E2^G2] G4 |
+E2 A4 | D2 E4 | [E2A2] :| z4 
+|: c2 (cd) | B2B2 (Bc) | A2A2 (AB) | E2 [E4^G4] | E2 |]
+z4 |: ^G4 | E2 ^c4 | A2 ^d4 |
+e>z [e3e3]z | A :| z4 |: A4 | [D2A2]G4 |
+c2 [c4e4] | d2D2 E2 | E2 :| z4 ||
+%7ème
+|:[E4A4c4] | AB ^c2 A2 | [D2A2] [^G4d4e4] | e2 [B4e4] | A2 :|
+|:z4 | [E2A2] [E4A4] | [D4A4] B2 | cD A2 A^G | [E2A2] :|
+V:3
+%%MIDI program 24
+%%MIDI channel 3
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 65 %pan
+x4 | x6 | x6 | x6 | x2 :: x4 | x6 |
+x6 | x6 | x2 :| x4 |: x4 | x6 | x3 ^ga2 | 
+^g2  g4 | x2 :| x4 |: x4 | x2 ([Ee][Dd]) cB |
+x6 | x2 A3 x | x4 :| x4 
+|: x4 | x6 | x6 | x6 | x6 |]
+x4 |: x4 | x6 | x6 |
+ x6 | x2 :| x4 |: x4 | x6 |
+ x6 |  x4 A x | x6 :| x4 || 
+
+
+
+X:7
+T:Gavotte (suite en La mineur)
+R:Gavotte
+G:guitare
+C:Robert de Visée
+N:remplacer les "z" par "x" de la portée 3 pour imprimer avec Abcm2ps
+B:I. livre de guittarre dédié au Roy (1682)
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/4
+Q:1/4=120
+K:Am
+K:C treble
+%%staves (1 2 3)
+%%MIDI transpose -12
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+e3/2 e/ | e3/2 d/ !trill!c3/2 B/ | cA z/ a g/ | (f/g/) e !trill!e3/2 [B/e/] | [B2e2] ::
+e>^f | [Bg] !trill![d^g] a b/c'/ | [eb] [eb] [e/a/](b/ a/)g/ | ^f [eg] !trill!f>e |
+[^G2B2e2] [A3/2c3/2e3/2a3/2] =g/ | (=f/e/) (d/c/) g>f | e/(d/ c/)B/ [c3/2f3/2] e/ | d/(c/ B/)A/ !trill!^G>A | [A2A2] :|
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+[E2A2c2] | A2 A2 | [EA] (A/G/)FE | E (A/G/) F3/2 [E/^G/] | [E2^G2] ::
+[E2=G2B2] | [EG] B  [A2c2e2] | [^Gd] [Gd] [A2c2e2] | ^d [EB] B A/ [E/^G/B/] |
+([E/e/][D/d/]) c/B/ A2 | D2 [E2G2B2d2] | c2 [F2A2] | D2 E2 | E2 :|
+V:3
+%%MIDI program 24
+%%MIDI channel 3
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 65 %pan
+%%MIDI program 24
+x2 | cBA^G | x4 | x4 | x2 ::
+
+
+X:8
+T:Gavotte (suite en La mineur)
+R:Gavotte
+G:guitare
+C:Robert de Visée
+B:I. livre de guittarre dédié au Roy (1682)
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/4
+Q:1/4=120
+K:Am
+K:C treble
+%%MIDI transpose -12
+%%staves (1 2)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+!lowermordent!c/(c/ d/)e/   |  d>d d !trill!c/>B/          |\
+A (A/=G/) (a/g/) f/e/       |  [d/f/]e/ (d/c/)  !trill!B>A | (^G<A) ::
+[e3/2a3/2] =g/              |  !trill![d/^f/]e/ d g>=f     |\
+!trill!e (d/c/) c'>c'       |  [^fc'] b/a/ !trill!a>g      |
+[B2g2] c'>b                 |  [f2a2] b/(a/ b/)^f/         |\
+!trill![e^g] e a>a          |  [eb] [ec'] !trill![e3/2^g3/2] [e/a/] | [e2a2] :|
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+[E2A2] | [A2B2] [E2^G2]     | [E2A2c2] F2  | [D2A2] E2 | [E2A2] ::
+[A3/2^c3/2] z/ | [D2A2]     [D2G2B2d2] |   c2 [G2c2e2] | [Ac] [Gdg] D2 |
+G/(A/ G/)=F/ [G2c2e2] |[A2c2] [d3/2f3/2] z/ | B2[c2e2] | [^Gd] [Ac] B3/2 [A/c/] | [A2c2] :|
+
+X:9
+T:Bourrée (suite en La mineur)
+R:Bourrée
+G:guitare
+C:Robert de Visée
+B:I. livre de guittarre dédié au Roy (1682)
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C|
+L:1/8
+Q:1/4=120
+K:Am
+K:C treble
+%%MIDI transpose -12
+%%staves (1 2)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+e2 |: a2 ab c'2 (ba) | [e2b2] [e3b3] (b c'd') | [d2^g2] [e2a2] !trill![e3a3] g |1 [A6a6]e2 :|2
+{^g}a4 z2 e^f | g2 [B2d2g2] [E2A2^c2g2] [Ff]e | [d2f2] f3 (g fe) | d2 ed !trill!e3 d |
+!trill!^c4 z (c d)e | [d2f2] ed e2 (dc) | d2 (cB) [A2c2] BA | !trill![^G2B2]AB !trill!B3 A | [A4A4] :|
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+z2 |: [A4c4e4] [A4c4e4] | [^G2d2] [G3d3] z z2 | e2 [A2c2] e3 z |1 z2 E2A2 z2 :|2
+A2 (AB)c4 | B2 [D2G2] A4 | [D2A2] [D6A6d6] | _B4 G4 |
+[E2A2] AGF4 | [D4A4] =c4 | B4 E4 | D4 E4 | E4 :|
+
+
+
+%%vskip 2.5cm
+
+%%textfont CaslonAntique 8
+%%text Also available at Werner Icking Music Archive -- http://icking-music-archive.sunsite.dk/
+
+

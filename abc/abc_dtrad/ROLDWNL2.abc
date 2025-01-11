@@ -1,0 +1,18 @@
+% Generated more or less automatically by swtoabc by Erich Rickheit KSC
+X:1
+T:Roll Down the Line
+M:4/4
+L:1/8
+K:G
+ A| BdB GD G2| z B/2d/2 d/2d/2 B/2 G3/2 B2| z B B2 BB| BA A2 F/2 A3/2|\
+ B/2 B3/2 A2| z B| c/2c/2c/2 c/2 AA FA| z B c/2c/2 B/2B/2 AF| A2 z|\
+ A/2A/2| A3/2 F/2 AA BG| G3/2 A/2
+M:5/4
+| BGE, D G3/2 z/2 d2 d/2d/2 B/2B/2| B B2 B B2
+M:4/4
+| B B2 B B2 z d| ddB B e2 d2|
+M:3/4
+ ^c =c2 c c2| d c2 c c2|
+M:4/4
+ d c2 c c2 d2| BBG G e2 d2| ^c =c2 c B2||
+

@@ -1,0 +1,1052 @@
+%abc
+%%%%              F r a u   N A C H T I G A L L 
+%      Volkslieder vom 12. Jahrhundert bis zur Gegenwart
+%            
+%                      Herausgegeben
+%                           von
+%               Carl Reyß und Fritz Spieser 
+%    
+%                          (1928)  
+%                      
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/        
+%
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  mardi 23 septembre 2008 à 23:05
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+%%textfont AlteSchwabacher 18
+
+%%titlefont AlteSchwabacher 22
+%%subtitlefont AlteSchwabacher 16
+%%composerfont   AlteSchwabacher 10
+
+
+%%headerfont AlteSchwabacher 12
+%%footerfont AlteSchwabacher 8
+
+%%annotationfont AlteSchwabacher 10
+%%infofont AlteSchwabacher 16
+%%historyfont AlteSchwabacher 16
+
+
+%%measurefont AlteSchwabacher 14
+%%partsfont AlteSchwabacher 14
+%%repeatfont AlteSchwabacher 14
+
+%%tempofont AlteSchwabacher 14
+%%vocalfont AlteSchwabacher 16
+%%voicefont AlteSchwabacher 16
+%%wordsfont AlteSchwabacher 16
+%%gchordfont AlteSchwabacher 14
+%%setfont-1 AlteSchwabacher 16
+%%setfont-2 AlteSchwabacher 16
+%%setfont-3 AlteSchwabacher 16
+%%setfont-4 AlteSchwabacher 16
+
+%%textfont AlteSchwabacher 25
+%%vskip 0.5cm
+%%center F r a u   N a c h t i g a l l     
+%%textfont AlteSchwabacher 18
+%%vskip 0.5cm          
+%%center Volkslieder vom 12. Jahrhundert bis zur Gegenwart
+%%textfont AlteSchwabacher 16
+%%center Herausgegeben von
+%%center Carl Reyß und Fritz Spieser (extraits - Auszüge)
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont AlteSchwabacher 12
+%%text Transcriptions par 
+%%text Eric Forgeot
+%%text http://anamnese.fr.st
+%%vskip 0.0cm
+%%text Version :  septembre 2008
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	F r a u   N a c h t i g a l l - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont AlteSchwabacher 12
+
+
+%? footer --  F r a u   N a c h t i g a l l  -- (1682)
+
+
+X:1
+T:Frau Nachtigall 
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.3
+M:C
+L:1/4
+Q:1/4=150
+K:Eb
+P:1
+ B, | EE/B,/ EG | FE/D/ E 
+P:2
+B, | GG/F/ GB | AG/F/ G 
+P:3 
+B | E/G/ G/B/ Be | (e>B) B 
+P:4
+f | e>d e/B/ G/F/ | (B,F/) E :|
+W:Frau Nachtigall klein Vögelein so lehr uns all das Singen
+W:fein mit fröhlichem Gelingen aus ganzem Herzen singen !
+%
+%
+%
+T:Frau Nachtigall (Kanon)
+%%staves 1 [2 3 4]
+V:1
+ B, | EE/B,/ EG | FE/D/ EB, | GG/F/ GB | AG/F/ GB | E/G/ G/B/ Be | (e>B) Bf | e>d e/B/ G/F/ | (B,F/) E B, | EE/B,/ EG | FE/D/ EB, | GG/F/ GB | AG/F/ GB | E/G/ G/B/ Be | (e>B) Bf | e>d e/B/ G/F/ | (B,F/) E ||
+V:2
+z | z4 | z3 B, | EE/B,/ EG | FE/D/ EB, | GG/F/ GB | AG/F/ GB | E/G/ G/B/ Be | (e>B) Bf | e>d e/B/ G/F/ | (B,F/) E B, | EE/B,/ EG | FE/D/ EB, | GG/F/ GB | AG/F/ GB | E/G/ G/B/ Be | (e>B) Bf ||
+V:3
+z | z4 |  z4 |  z4 | z3 B, | EE/B,/ EG | FE/D/ EB, | GG/F/ GB | AG/F/ GB | E/G/ G/B/ Be | (e>B) Bf | e>d e/B/ G/F/ | (B,F/) E B, | EE/B,/ EG | FE/D/ EB, | GG/F/ GB | AG/F/ GB ||
+V:4
+z | z4 |  z4 |  z4 |   z4 |  z4 | z3  B, | EE/B,/ EG | FE/D/ EB, | GG/F/ GB | AG/F/ GB | E/G/ G/B/ Be | (e>B) Bf | e>d e/B/ G/F/ | (B,F/) E B, | EE/B,/ EG | FE/D/ EB,||
+
+X:3
+T:O Straßburg...
+R:Volksweise
+O:France
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.5
+M:C
+L:1/4
+Q:1/4=150
+K:G
+{D/}D{D/} | "G"{G}G2{G} BG | "D"A2cA | "G"BGdB | "D"A2 z (A/ B/) |:
+"C"cc e/ -e/ c | "G"B2 dB | "D"AAcA |1 "G"(GBd) B/ -B/ :|2 "G"G2 z |]
+W:O Straßburg, o Straßburg, du wunderschöne Stadt, 
+W:darinen liegt begaben so manicher Soldat (2x)
+
+X:4
+T:Ich stand...
+R:Volksweise
+O:
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.7
+M:6/8
+L:1/8
+Q:1/4=150
+K:D
+D | D2D A2A | F3 E2E | F2F GA B | A3 z2A | (d A) d (c B) A |
+B3 A3 | G3 FA d | A>B A/G/ F2 E | D4 z |]
+
+X:5
+T:Es wollte ein Mädchen...
+R:Volksweise
+O:France
+A:Elsässische Volksweise
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.8
+M:3/4
+L:1/4
+Q:1/4=150
+K:E
+B, | EEF | GG B/ c/ | (B3/2A/) G/B/ | F2 z | BB e/ B/ |
+G>A B | cB A/ G/ | F>G A/c/ | B/ A/ B B | G2 || 
+
+X:6
+T:Es ging beim hellen Mondenschein...
+R:Volksweise
+O:France
+A:Elsässische Volksweise
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.9
+M:6/8
+L:1/4
+Q:1/4=150
+K:E
+B,/ | EF/ GA/ | cB/ BG/ | BA/ FG/ | E3/2-E z :|
+G/  | FF/ F/G/ ^A/ | B d/dd/ | e e/ f e/ | d c/ B A/ | 
+G G/G A/ | c B/ B G/ | B A/ F G/ | E3/2-E/ z/ |]
+
+X:7
+T:Es waren zwei Köningskinder...
+R:Volksweise
+O:
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.11
+M:C
+L:1/4
+Q:1/4=150
+K:G
+D | B B/ B/ B A | (A3/2G/) G D | cc/ c/ c/B/ d/ B/ |
+A2 zD | d-d/ e/ d c/ c/ | (Bd) d/c/ B/A/ | G G/ G/ B/A/ G/A |
+B2 A2 | B B/ B/ d/c/ B/A/ | G2 z |]
+W:1. Es waren zwei Köningskinder, die hatten einander so lieb, 
+W: sie konnten zusammen nicht kommen, das Wasser war viel zu tief,
+W: das Wasser war viel zu tief.
+
+X:8
+T:Freunde, kommt all zusammen...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.16
+M:3/4
+L:1/4
+Q:1/4=150
+K:D
+B/>c/ |"Bm" d B "F#7" F | "Bm" B/>c/ B B/>c/ | "Bm" d B "F#7" F |"Bm" B/>c/ B B/>d/ |
+"F#m" c A F | "D" A/>B/ A A/>B/ | "A" c A "Bm" ^G | "F#m"F/>^G/ F/z D/>E/ |
+"D" FF "G" G | "D" A/>B/ A "G" B/>B/ | "Bm" FF "G" B | "F#7" c/>d/ c B/>c/ |\
+ "Bm" d B "F#7" F | "Bm" B/>c/ B z |]
+W:Freunde, kommt all zusammen, lauschet all auf mein Singen,
+W:ich will euch Rolands Märe aus Hispanien vorbringn,
+W:was für ein' schöne Maide er mit Kühnheit befreite,
+W:eh er mußte verscheiden.
+
+X:9
+T:Ei, du feiner ...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.18
+M:C|
+L:1/4
+Q:1/4=150
+K:D
+"D" F > G A "G"B | "D" A2 A "G" G | "A" F-F "A7" E E | "D" D3 z ::
+ "A" c3/2  "B" d/ "C#" e "D" f | "A" e2 e "D"d |"A" c-c "E7" B-B |"A" A3 A :| 
+d2 B2 | A3 A | d B | A3 A | d2 d e | d2 c2 | d2 B2 |
+ A3 z | F > G A B | A > A A G | F F E E | D3 z |]
+
+X:10
+T:Und unser liebe Frauen...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.20
+M:C
+L:1/4
+Q:1/4=150
+K:G
+B, | "Em" EEGG | "C" E2 "G" DD | "Em" GG "D" A-A | "G" B2 zB |
+"Em" BBBB | "Am" c2 "Em" BB/B/ | "Am" AA "B7" (GF) 
+|1 "Em" E2 z :|2 E2 "Em" z B,/ B,/ | "Em" E E/ E/ "B" F F/ F/ |
+"Em" G/ F/ G/ "D"A/ "G"B "C"e | "G" d/ c/ B/ "D7"A/ "Em"G "Am"B/ A/ |
+"B" G "B7"F/ F/ "Em" HE B, | "Em" E F "Em" G F/>E/ | "Em" B3 |]
+W:1. Und unser liebe Frauen vom kalten Bronnen, 
+W: bescher' uns armen Landsknecht' eine warme Sonnen,
+W: damit wir nicht er frieren, ziehn in des Wirtes Haus 
+W: wir ein mit vollem Beutel, mit leerem wieder aus.
+W:
+W: Und die Trummen, die Trummen lerman, lerman, lerman, 
+W: hei, ri, tiri, tiraudi frisch Landsknecht', voran ! 
+W: Frisch auf, ihr Landsknecht', voran !
+W:
+W:2. Und unser liebe Frauen vom kalten Bronnen, 
+W:bescher uns armen Landsknecht eine warme Sonnen! 
+W:Damit wir nicht erfriueren, ziehn wir dem Bauersmann 
+W:sein wollen Hemd vom Leibe; das steht ihm übel an. 
+W:
+W:3. Und unser liebe Frauen vom kalten Bronnen, 
+W:bescher uns armen Landsknecht eine warme Sonnen, 
+W:damit wir endlich finden vor aller Arbeit Ruh! 
+W:Der Teufel hol das Saufen, das Raufen auch dazu!
+W:
+W:4. Wir schlucken Staub beim Wandern, der Beutel hängt uns hohl; 
+W:der Kaiser schluckt ganz Flandern, bekomm's ihm ewig wohl.
+W: Er denkt beim Länderschmause, wie er die Welt erwürb; 
+W:mir liegt ein Lieb zu Hause, das weinte, wenn ich stürb.
+W:
+W:5. Der Trommler schlägt Pararde, die Seidenfahnen wehn.
+W:Jetzt heißt's auf Glück und Gnade ins Feld marschieren gehn. 
+W:Das Korn wogt auf den feldern, es schnappt der Hecht im Strom. 
+W:Der Wind weht heiß von Geldern hinauf'gen Berg op Zoom.
+
+X: 10
+T:Und unser liebe Frauen... [transposé]
+R:
+N:p.20
+B:Frau Nachtigall (Straßburg - 1928)
+O:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/4
+Q:1/4=150
+K:C
+E | "Am" AAcc | "F" A2 "C" GG | "Am" cc "G" d-d | "C" e2 ze | "Am" eeee |\
+"Dm" f2 "Am" ee/2e/2 | "Dm" dd "E7" (cB) |1 "Am" A2 z:|2 
+A2 "Am" z E/2 E/2 | "Am" A A/2 A/2 "E" B B/2 B/2 | "Am" c/2 B/2 c/2 "G"d/2 "C"e "F"a |\
+"C" g/2 f/2 e/2 "G7"d/2 "Am"c "Dm"e/2 d/2 |\
+"E" c "E7"B/2 B/2 "Am" HA E | "Am" A B "Am" c B/2>A/2 | "Am" e3 |]
+W:1. Und unser liebe Frauen vom kalten Bronnen, 
+W:bescher' uns armen Landsknecht' eine warme Sonnen,
+W:damit wir nicht er frieren, ziehn in des Wirtes Haus 
+W:wir ein mit vollem Beutel, mit leerem wieder aus.
+W:
+W:Und die Trummen, die Trummen lerman, lerman, lerman, 
+W:hei, ri, tiri, tiraudi frisch Landsknecht', voran ! 
+W:Frisch auf, ihr Landsknecht', voran !
+
+X:11
+T:Sei Gott ...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.23
+M:3/4
+L:1/4
+Q:1/4=130
+K:F
+A | "Dm"A/>G/ F "Gm"G | "A7"F/>E/ "Bb"D "D"A | "Gm"B/ A/ G "C7"A |
+"F"G F :| A | "F"c/ d/ cf | e/ d/ cA | "C"G/ F/ E "C7"G |
+"F"F/ E/ F z/ "Dm"A/ | "Gm"d/ c/ B "A"A | "Bb"G"F"F |]
+W:1. Sei Gott willkomm'n, Frau Nachtigall, allhier in grüner Linden ;
+W: 
+
+X:12
+T:Weiss mir 1...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.30
+M:C
+L:1/4
+Q:1/4=150
+K:G
+G | G F E D | (GA) B2 | c2 B (A|A) G2 F | G2 z :| G |
+
+X:13
+T:Weiss mir 2...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.31
+M:C
+L:1/4
+Q:1/4=150
+K:D
+"D"AFD | A > A "G"B c/B/ | "D"A z/c/ "G"dB | "D" A F/D/ "A7"(FE) |
+
+X:14
+T:Da droben auf jenem Berge...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.39
+M:3/4
+L:1/4
+Q:1/4=150
+K:E
+B, | E>F G/A/ | (B>c/) B/A/ | (G2-F) | E2 F | (G3/2F/) G | (B3/2A/) G |
+
+X:15
+T:Es flog ein kleins Waldvögelein ...
+R:Volkslied
+O:
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.40
+M:C
+L:1/4
+Q:1/4=150
+K:G
+"G"G | GdBG | "D"F3/2G/ AD | "C" E G "Am" G "D7" F | "G"G2z :|
+ G | Gd d/c/ B | A2 Ac | BAAB G |
+
+X:16
+T:Rein Feuer...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.43
+M:3/6
+L:1/4
+Q:1/4=130
+K:F
+C | FF G/G/ | AAB | c d/c/ B/A/ | (AG) c | d B d/f/ | f/c/ c A/ c/ |
+c/B/ AG | (F3/2 A/G/B/ | A3/2 c/B/d/ | c Hf/) z A/ c/ | c/B/ AG | F2 |]
+W:
+
+X:17
+T:Wenn ich ein Vöglein...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:Aus Siebenbürgen
+N:p.44
+M:3/4
+L:1/4
+Q:1/4=130
+K:G
+GGG | B>A G | BBB | d>c B | dcB | A2 z | A2 G/ F/ |
+GAB | c2 B/ A/ | Bcd | d/c/ B A | G2 z |]
+W:Wenn ich ein Vöglein wär'und auch zwei Flüglein hätt,
+
+X:18
+T:Es saß ein klein wild Vögelein...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:Aus Siebenbürgen
+N:p.45
+M:3/4
+L:1/4
+Q:1/4=130
+K:C
+E | "Am" A/>A/ A > B | "Am" c/>B/ A>A | "E" e/ e/ E E | "Am" A A z 
+|: e | "C" e/>d/ c>e | "G7" d/ > c/ B>B | "Am" A B c>"E"^G | "Am" A A z :|
+W:Es saß ein klein wild Vögelein auf einem grünen Ästchen ; 
+W:Es sang die ganze Winternacht, die Stimm tät laut erklingen.
+W:
+W:"O, sing mir noch, o, sing mir noch, du kleines, wildes Vögelein ! 
+W:Ich will um deine Federchen dir Gold und Seide winden."
+W:
+W:"Behalt dein Gold und deine Seid ! Ich will dir nimmer singen ; 
+W:ich bin ein klein wild Vögelein, und niemand kann mich zwingen."
+
+X:19
+T:Rosestock, Holderblüh...
+R:
+O:Deutschland
+A:Schwäbisches Tanzliedchen
+S:
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.50
+M:3/4
+L:1/4
+Q:1/4=100
+K:C
+"C" e3/2 d/ c/E/ |"G7" A G/F/ D |"G7" A G/F/ D |"C" A G/E/ C | 
+"C" e3/2 d/ c/E/ |"G7" A G/F/ D |"G7" G A B |"C" c2 z |
+"G" d/ c/ d2 |"C" e/ d/ c2 |"G7" GAB |"C" c/ B/ c/ d/ e |
+"G" f/ e/ d2 |"C" e/ d/ c2 |"G7" GAB |"C" c2 z |]
+
+X:20
+T:Wo e kleins...
+R:
+O:Deutschland
+A:Schwäbisches Volklied
+S:
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.51
+M:3/8
+L:1/8
+Q:1/8=150
+K:G
+"G" D G G | "D7" F > E D | "D7" c A F | "G" A G z | 
+"G" D G G | "D7" F > E D | "D7" c A F | "G" G2  z |
+"D" A > B A | "A7" A > B A | "A7" A > B A | "D" A > B A | 
+"G" G F E | "D" D c2 | "D7" B/A/ G/F/ E/F/ | "G" G2 z ||
+W:Wo e kleins Hüttle steht, ist e kleins Gütle,
+W:Wo e kleins Hüttle steht, ist e kleins Gut. /.../
+
+X:21
+T:Mädel, schau mir ins Gesicht !
+R:
+O:Deutschland
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.54
+M:2/4
+L:1/8
+Q:1/8=160
+K:G
+   d>B | "G" G G "D7" A A/B/ |\
+G2 d>B | "G" G G "D7" A A/B/ | "G" G2 F/G/ A/B/ |
+"D" c A "G" B G | "D7" A D F/G/ A/B/ |\
+"D" c A "G" B G | "D7" A D B>c | 
+"G" d d B>c | "G" d "C" ((3ec A) |
+"G" ((3dB G) "D" ((3cA F) | "G" G2 ||
+
+X:22
+T:Dort niedn in jenem Holze...
+R:
+O:Deutschland
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.54
+M:2/4
+L:1/8
+Q:1/8=160
+K:A
+E | A>A A c/B/ | AF E A | F D/-D/ E/G/ B | A2 z A/B/ | c>B c e |
+dc B c | A c B>A | GF E A | F D/-D/ E/G/ B | A2 z |]
+W:
+
+X:23
+T:Sah ein Knab' ein Röslein stehn...
+R:
+O:Deutschland
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.58
+M:6/8
+L:1/8
+Q:1/8=150
+K:F
+A2 A c>B A | G2 G G3 | A2 A Bc d | d3 c2 z |
+c2 B  A2 A | A2 G F3 | F2 F FG A | B2 A G3 |
+A2 A c>B A | A3 G2 z | A2 c d2 d | cd e f3 |
+f2 d  c2 A | G>AG F2 z |]
+W:1. Sah ein Knab' ein Röslein stehn, Röslein auf der Heiden,
+W: war so jung und morgenschön, lief er schnell, 
+W: es nah zu sehn, sah's mit vielen Freuden.
+W: Röslein, Röslein, Röslein rot, Röslein auf der Heiden.
+
+X:24
+T:Das Feld...
+R:
+O:Deutschland
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.59
+M:9/8
+L:1/8
+Q:1/8=150
+K:F
+V:1
+c | c C B B3 A2 F | A>G E F3-F z C | F3/2 E/4 G G3 F2 D |
+C3/2 B,/4 C A3-A z F/4G/4 | A F E (D2F) A2 F | E3/2 D/4 E F3-F z |]
+V:2
+c | c C d d3 c2 A | c>B G A3-A z C | A3/2 G/4 B B3 A2 F |
+A3/2 G/4 E  F3-F z A/4B/4 | c A c f3    c2 A | c3/2 B/4 G F3-F z |]
+W:1. Das Feld steht in Blumen voll Honingseim ; 
+W: ich hab mich verloren und find nimmer heim,
+W: ich hab mich verloren und find nimmer heim.
+
+X:25
+T:Stehn zwei Stern...
+R:
+O:Deutschland
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.59
+M:C
+L:1/4
+Q:1/4=150
+K:A
+E E | "D"F F/E/ "A"E c | c/B/ A "A"E E | "D"F d/B/ "E"c "E7"B |
+"A"A2 "E"E d/ c/ | "E"B2 E e/ d/ | "A"c2 E E | "D"F d/B/ "E"c "E7"B | "A"A2 |]
+
+X:26
+T:Es steht ein Lind...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:vérifier signature
+N:p.70
+M:C
+L:1/4
+Q:1/4=150
+K:A
+E | "A"AA"D"AB | "E"G>F E"F#m"A | "C#m"GE"A"F"B7"F |
+ "E"E2 zE | "A"AA "C#mx"c>"Bx"d | "A"c2"E7"B2 | 
+"F#"(A/B/c/B/ A "B7"G/F/ | G>F) EE | "D" FGAB | c>B AE |\
+ "D"F"Bm"G"F#m"A"E"B | c3B | "A" A2 z |]
+W:Es steht ein Lind in jenem Tal, ach Gott, was tut sie da ?
+W:Sie will mir helfen trauern, trauern, 
+W:daß ich mein Lieb verloren hab, daß ich mein Lieb verloren hab.
+
+X:27
+T:Sterben ist ein schwere Buß...
+R:Volksweise
+O:
+H:1799
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.71
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+"Em" B>A G F |"Em" E>B, B :| "Em" G G B B | "C" G G "G" B2 |\
+ "Am" c2 "Em" G2 | "F#X"A2 "G"G2 | "Am" F "B7" F "Em" HE2 |]
+W:Sterben ist ein schwere Buß,
+W:weiß wohl, daß ich sterben muß.
+W:Und ein Röslein rosenrot pfantz mein Schatz nach meinem Tod.
+W:
+W:2. Sterben ist ein harte Pein,
+W:Wenn zwei Herzallerliebste sein,
+W:Die des Todes Sichel schneidt,
+W:Ach, das ist das größte Leid.
+W:
+W:3. Denn was hilft ein Blümelein,
+W:Wenn es heißt: ins Grab hinein !
+W:Ach, was hilft ein Röslein rot,
+W:Wenn es blüht nach Liebestod !
+
+X:28
+T:Ich hört' ein Sichelein rauschen...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.74
+M:6/8
+L:1/8
+Q:1/4=150
+K:F
+F/G/ | "F"(AG) A (cB) A | "Gm"G3 D G/A/ | BA B "C"dc B | "F"A3-A z |: A/B/ |
+"F"cd c c f "B"d | "F"c3 A2 F/G/ | "C"AB A "C7"GA G | "F"F3-F z :]
+
+X:29
+T:Ich wollt, wenns Rosen schneit...
+S:Aus Normähren.
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.75
+M:6/8
+L:1/8
+Q:1/4=130
+K:E
+E | B2 B AF B | G3-G z E | e2EE c>d e/c/ | B2 z e d c |
+c B B c B A | A3/2 G/ G zz E/G/ | B>c B F>G A | G3-G z |]
+W:Ich wollt, wenns Rosen schneit (3x)
+W:daß mir mein Herz erfreut (2x)
+
+
+X:29
+T:So grün als ist die Heiden...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.76
+M:3/4
+L:1/8
+Q:1/4=130
+K:A
+E | A3 E (3CEA | A2G2 zE | E G B2 e2 | c2 A2 z |: E |
+A c e2 e2 | d c B2 z d | c A G2 B2 | B2 A2 Z :|
+W:
+
+
+
+X:29
+T:Auf, du junger Wandersmann !
+S:Volksweise aus Franken.
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.86
+M:C
+L:1/4
+Q:1/4=130
+K:A
+"A"A>E A"E"B | "A"ccc z | "E"B>c de | "E"dcBB |
+"A"cecA | "E7"c/B/ B "A"A2 | "A"A>cee | 
+"D"f"C#"ee"B"d | "E"B>c dd | "C#"e"B"dd"A"c |
+"A"Accc | "E"B d/B/"A"c2 | "A"e>dcc/A/ | "D"B "E7"B/G/ "A"A2 |]
+W:Auf, du junger Wandersmann ! Jetzo kommt die Zeit heran,
+W:
+
+X:29
+T:Das Wandern ist des Müllers Lust
+S:Caarl Zöllner
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.91
+M:2/4
+L:1/8
+Q:1/4=125
+K:A
+E | A>E C D | E>F E A | c>E A B | c>d c A |
+ (c2B2) | A2 z E | B B c/B/ ^A/B/ |
+ G B E E | B B c/B/ ^A/B/ | G B E E | 
+ F G A B | c>B A c | (e2G2) | A2 z2 |]
+
+
+X:30
+T:Muß i denn...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.94
+M:2/4
+L:1/8
+Q:1/4=110
+K:D
+D/ E/ | "D"F F/ A/ "G"G (G/ B) | "D"A A/ G/ F2 |
+"D"A A/ G/ F (F/ A/) | "A"G G E A | "D"F2 z :| 
+D/ F/ | "A"E>F G E | "D"F>G A A/ A/ | "G"B B d c/B/ |
+"D"A2 z D/ F/ | "D"A A/ B/ A A/ d/ | "D"A A/ G/ F2 | 
+"D"A A/ G/ F F/ A/ | "A"G G E A | "D"F2 z |]
+
+
+X:30
+T:Ich ging an einem...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.95
+M:C
+L:1/4
+Q:1/4=150
+K:G
+D | "G"G DD G/-G/ | "C"(G E/A/) A > G | "D"F d/-d/ d c/d/ |
+ "G"B2 z (G/B/) | "G"d B/-B/ d/ B/ d/ B/ | "D"(A>B) AA | 
+"G"GB"F#x"A"Ex"G | "D"F"A7"A"D"D d/e/ | "G"d/c/ B "D"d/e/ d/c/ | "G"B2 z |] 
+
+X:30
+T:Wohlan, die Zeit ist kommen...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.96
+M:C
+L:1/4
+Q:1/4=150
+K:C
+C/E/ | GcAc | (G>F) EG | FFDF | EAG C/E/ |
+       GcAc | (Ge)ee | edAB | c2 z C/ E/ |
+       GcAc | G3/2 G/4 G/ F/ E G/ G/ | FFDF | EAG C/E/ |
+       GcAc | (Ge)ee | edAB | c2 z |]
+W:Wohlan, die Zeit ist kommen, mein Pferd, daß muß gesattelt sein.
+W:Ich hab mirs vorgenommen, geritten muß es sein.
+W:Fidirula rula....
+
+X:31
+T:Viel Freuden mit sich bringet...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.97
+M:C
+L:1/4
+Q:1/4=150
+K:E
+B | "E"(B>A) G "B"(A>G) F | "E"(G2-E) G>F E | 
+"A"F2 E "B7"(D>C) D | "E" E3-E2 :| F/G/ | "A"A2 A "C#"A2 "E"B |
+ "A"c2 "G#"B "F#"(c>d) "E"e | "B"(d>c) B2 "F#7"(^A>G) A | 
+"B"B3-B2 B | "E"(B>A) G "B"(A>G) F | "E"G2 E "Cm#"(G>F) E |
+ "A"A2 E "B7"(D>C) D | "E"E3-E2 |]
+W:Viel Freuden mit sich bringet die frölich Sommerzeit ;
+W:im grünnen Wald jetzt singet wiedrum vor Freudigkeit
+W:ohn' Unterlaß mit hellem Schall aus ihrem Hälslein 
+W:zart sehr schön und sein Frau Nachtigall, kein' Müh' und Fleiß sie spart.
+
+X:32
+T:Wer jagen will...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.101
+M:3/4
+L:1/8
+Q:1/4=130
+K:F
+F | "F"F A c3 c | "F"f c A2 AB | "C"c B/A/ B2 G2 |
+ "F"(GA3) z :| A | "C"G B G3 F | "F"A c c3 A |
+"C"G B B3 G | "F"A c Hc2 z F | "F"F A c3 c | 
+"F"f  c A2 Ac | "C"c B/A/ B2 G2 | "F"(GA3) z |]
+
+X:32
+T:Der Jäger in dem grünen Wald...
+R:Jäger- und Handwerkerlieder
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.102
+M:C
+L:1/4
+Q:1/4=130
+K:G
+D | "G"G>FED | "C"E>D"G"B,D | GGA"D"d | "G"d2"Am"(c"D"d) |
+"G"B2z|: d/ d/ |"D"A/>c/ c/ c/ cd |"G"Bddd/ d/ |
+ "D"A/>c/ c/ c/ c d | "G"BddD | "G"(G>F) ED | 
+"C"(E>D) "G"B, D | GG"D"Ad | "G"d2 "Am"(c"D"d) | "G"B2 z :|
+
+X:32
+T:Ein Jäger aus Kurpfalz...
+R:Jäger- und Handwerkerlieder
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.103
+M:2/4
+L:1/8
+Q:1/4=130
+K:F
+C | F A A A | A3c | c B B A | A G G F |
+E G G G | G2 c2 | A A G G | F2 z2 |:
+A | c3 B | A3 c | f c c A | A>G G F |
+ E G G G | G2 c2 | A A G G | F2 z2 :|
+
+X:32
+T:Es wollt ein Jägerlein jagen dreiviertel Stund...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.104
+M:6/8
+L:1/8
+Q:1/4=125
+K:D
+A | "D"A2 A "A7"AB c | "D"d3 A2 A | "G"B2 B dc B |
+ "D"A3 F2 A | "A"A2 G E2 c | "D"d2 ff2 d |
+ "G"e2e "A7"cB c | "D"d3-d z |: A | "D"AF A AF A |
+ "D"AF A AF A | "D"A2 d "A7"c2 e | "D"d3-d z :|
+
+
+X:32
+T:Ein Bäumlein stand im tiefen Tal...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.118
+M:2/4
+L:1/8
+Q:1/8=130
+K:A
+E | E A A c | cB B2 | A/ B/ c/ d/ e c | B2 z A | A c c e | e d d d |
+c c e c | B A B2 | A>G A c | B>A B e | c/ B/ A/ B/ c B | AA2 z2 |]
+
+
+X:32
+T:Hans, Hans...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.120
+M:3/4
+L:1/4
+Q:1/4=130
+K:E
+E2 z | G2 z | B3 | zz E | F G/-G/ B | A>G F | DF A/-A/ | G>F E | G>EB, | G>EB, |
+G>EB, | G>EB, |EGA | HB3 | cde | B>A G | AFB | G/ F/ G/ A/ B | cde | B>AG | AFD | E2 z |]
+
+X:33
+T:Vo Luzern...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.123
+M:2/4
+L:1/8
+Q:1/4=130
+K:E
+B, E E D/E/ | F C F2 | D D/c/ B2 | E E/c/ B2 | B, E E D/E/ | F C F2 |
+D D/c/ B D | E2 z2 | e2 c2 | B B/ G/ E2 | D D/c/ B2 | E E/c/ B2 | 
+e2 c2 | B B/ G/ E2 | D D/c/ B2 | E2 z2 |]
+
+X:33
+T:Liebe Schwester, tanz mit mir !
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.130
+M:2/4
+L:1/8
+Q:1/4=120
+K:F
+C F F F | E G C2 | C E G B | A c F2 |
+A A B2  | G G A2 | F F G G | E E F2 |]
+W:Liebe Schwester, tanz mit mir !
+W:Beide Hände reich ich dir.
+W:Einmal hin, einmal her, und herum, das ist nicht schwer.
+
+X:33
+T:Es kam ein Herr zum Schlößlein...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.131
+M:C
+L:1/8
+Q:1/4=120
+K:G
+D2 | de dc Bc BA | (G2B2) D2D2 | de dc Bc BA | (G2B2) D2D2 |
+G2G2 A2A2 | Bd cB A2 D2 | B2G2 A2F2 | GB AF G2 |] 
+W:Es kam ein Herr zum Schlößlein auf einem weißen Rößlein,
+W:da schaut die Frau zum Fenster raus und sagt :
+W:"Der Man ist nicht zu Haus."
+
+X:33
+T:Zwischen Berg und tiefem Tal...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.131
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+D>D G2 B2 | B>A A>G A2 | D F A2 c2 | c2B2 z2 |: d>c B2d2 |
+d>c c>B c2 | (c>B) A2 c2 | c>B B>A B2 | GB d2 BG | A2G2 z2 :|
+
+
+X:33
+T:Widele, wedele...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.132
+M:3/8
+L:1/8
+Q:1/4=120
+K:G
+d > d d | d > c B | c2 c | c > B A | G2 G | G A B |1 (A2d) | d3 :|2
+						   A3 | G2 z |]
+G- G D | B > A G | A- A D | c > B A | B- B G | d > c B | (A2d) | d2 z |
+d d d | d > c B | c c c | (c > B) A | G G G | (G A) B | A3 | G2 z |]
+ 
+
+
+X:34
+T:Wunderschön prächtige...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.137
+M:3/4
+L:1/4
+Q:1/4=150
+K:F
+FFF | (F/G/ A/) G/ F | AAA | (A/B/ c/) B/ A | cfd | c>B A |
+G/A/ B A | G2 z :| cAc | c/A/ B2 | BGB | B/G/ A2 |
+:F F/C/ A/G/ | A/G/ F A/B/ | cAc | f2 z | ddd | c>B A/c/ |
+c/B/ AG | F2 z :]
+
+X:35
+T:Meerstern, ich dich grüße !...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.138
+M:C
+L:1/4
+Q:1/4=150
+K:E
+E>D EF | G2G z | B/G/ B/c/ B/A/ F/B/ |1 G2 z2 :
+|2 G2 z E/F/ | GG A/G/ A/c/ | BB zA | G/B/ G/E/ FF | E3 z |] 
+
+
+X:35
+T:Es sungen drei Engel...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.139
+M:3/8
+L:1/4
+Q:1/4=150
+K:C
+c | c- c c | (B A) c | (B G) A | E2 :|
+|: A | (G A) G | (E c) E | (G A) G |E2 :|
+W:1. Es sungen drei Engel ein süßen Gesang,
+W:   daß in dem hogen Himmel klang.
+W:2. Sie sungen, sie sungen alles so wohl
+
+
+X:36
+T:Die güldne Sonne voll Freud und...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.153
+M:C
+L:1/4
+Q:1/4=150
+K:E
+BBc | (B>A)G | BAF | (G>F)E | GAB | c2c | FGA | B2B | EEF |
+G>AB | FED | E2z | BBA | GGF | E>DC | DB,z | EEF |GGF | G>G ^A |
+BBz | GEF | G>A B | FED | E2 z |]
+W:Die güldne Sonne voll Freud und Wonne bringt unsern Grenzen mit ihrem Glänzen ein herzerquikkendes, liebliches Licht.
+
+
+
+X:37
+T:Der grimmig Tod mit seinem Pfeil...
+B:Frau Nachtigall (Straßburg - 1928)
+Z: Eric Forgeot - http://anamnese.online.fr
+N:p.159
+H:Aus der Zeit des dreißigfärigen Krieges. Weise 1539 augezeichnet.
+M:C
+L:1/4
+Q:1/4=150
+K:C
+"Am"A2"Dm"AA | "Gm"GA"A7"FE | "Bb"D2"Dm"A2 | "C"c"Bb"d"F"A"E"B | "Am"c2"Am"A2 :|\
+ "F"c2"C"cc | "Dm"A2F2 | "Bb"G"C7"G"F"F2 | z2"F"A2 |
+"Dm"AA"Gm"GF | "A7"(FE)"Dm"D2 | "Am"A2"F"A"C"G | "F"A2"Dm"B2 |\
+ "Am"c"Cx"A"E"E2 | z2"E"E2 | "Am"e"Bx"d"Cx"A"Dm"B | "E7"B2"Am"A2 |] 
+W:Der grimmig Tod mit seinem Pfeil tut nach dem Leben zielen.
+W:Das Leben schwindt wie Rauch im Wind, kein Fleisch mag ihm entrinnen,
+W:kein Gut noch Schatz findt bei ihm Platz : du muß mit ihm von hinnen !
+W:
+W:Kein Mensch auf Erd uns sagen kann, wann wir von hinnen müssen ; 
+W:wann kommt der Tod und klopfet an, so muß mn ihm aufschließen.
+W:Er nimmt mit Gwalt hin jung und alt, tut sich vor niemand scheuen. 
+W:Des Königs Stab bricht er bald ab und führt ihn an den Reihen.
+
+
+
+-----------------
+
+%%sep
+
+X:1
+T:Annexes
+M:2/4
+K:C  
+%%multicol start
+%%leftmargin 3.5cm
+%%begintext
+Volkslieder
+
+erklingen überall, wo das Singen 
+der Frau Nachtigall Herzen erfreut.
+Zu euch, liebe Sänger, kommt "Frau 
+Nachtigall" und will mit euch wieder
+und wieder singen von dem, was 
+Menschenbrust bewegt. Alte und neue 
+Lieder sind's, vom zwölsten 
+Jahrhundert an bis auf den heutigen Tag.
+Willkommen, ihr alle, jung und alt, 
+in Nachtigalls Garten ! 
+Bringt euer ganzes Hetz mit ! 
+%%endtext
+%%multicol new
+%%leftmargin 10.5cm
+%%begintext
+
+Ihre Weisen werden es euch antun. 
+Sie werden euch manchmal bei der 
+Arbeit noch durch den Sinn gehen 
+und manchen grauen Tag vergolden.
+So dient das Volkslied nicht nur 
+der Unterhaltung, sondern der 
+Erbauung und wird eine Quelle der Kraft. 
+/.../
+
+Straßburg, im Mai 1928.
+
+%%endtext
+%%multicol end
+
+% Annexes :
+%
+%  Volkslieder
+% 
+% erklingen überall, wo das Singen der Frau Nachtigall Herzen erfreut.
+% Zu euch, liebe Sänger, kommt "Frau Nachtigall" und will mit euch wieder und wieder singen von dem, 
+% was Menschenbrust bewegt. Alte und neue Lieder sind's, vom zwölsten Jahrhundert an bis auf den heutigen Tag.
+% Willkommen, ihr alle, jung und alt, in Nachtigalls Garten ! Bringt euer ganzes Hetz mit ! 
+% Ihre Weisen werden es euch antun. Sie werden euch manchmal bei der Arbeit noch durch 
+% den Sinn gehen und manchen grauen Tag vergolden.
+% So dient das Volkslied nicht nur der Unterhaltung, sondern der Erbauung und wird eine Quelle der Kraft. 
+% /.../
+% Straßburg, im Mai 1928.
+
+
+ 

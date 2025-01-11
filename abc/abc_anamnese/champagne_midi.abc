@@ -1,0 +1,1011 @@
+%abc
+%%%%                   C H A M P A G N E   
+%                        
+%
+%               musiques des régions de France
+%                      
+%                      
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/        
+%
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+%    Abctab2ps	http://www.lautengesellschaft.de/cdmm/ (obligatoire pour les partitions en tablatures
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  dimanche 06 septembre 2009 à 19:37
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+%%pageheight 29.7cm
+%%pagewidth 21.0cm
+
+%%textfont CaslonAntique 18
+
+%%titlefont CaslonAntique 22
+%%subtitlefont CaslonAntique 16
+%%composerfont   CaslonAntique 10
+
+
+%%headerfont CaslonAntique 12
+%%footerfont CaslonAntique 8
+
+%%annotationfont CaslonAntique 10
+%%infofont CaslonAntique 16
+%%historyfont CaslonAntique 16
+
+
+%%measurefont CaslonAntique 14
+%%partsfont CaslonAntique 14
+%%repeatfont CaslonAntique 14
+
+%%tempofont CaslonAntique 14
+%%vocalfont CaslonAntique 16
+%%voicefont CaslonAntique 16
+%%wordsfont CaslonAntique 16
+%%gchordfont CaslonAntique 14
+%%setfont-1 CaslonAntique 16
+%%setfont-2 CaslonAntique 16
+%%setfont-3 CaslonAntique 16
+%%setfont-4 CaslonAntique 16
+
+%%textfont CaslonAntique 25
+%%vskip 0.5cm
+%%center C H A M P A G N E     
+%%textfont CaslonAntique 18
+%%vskip 0.5cm          
+%%center musiques traditionnelles françaises
+%%textfont CaslonAntique 16
+%%center 
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont CaslonAntique 12
+%%text Transcriptions, mises en partition abc par 
+%%text Eric Forgeot - http://anamnese.fr.st
+%%text Travail sous licence cc-by-nc-sa
+%%vskip 0.0cm
+%%text Version :  septembre 2009
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	C H A M P A G N E - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont CaslonAntique 12
+
+%%EPS champenoise.eps
+
+%%abc-charset iso-8859-15
+
+
+X:1
+T:La Varsovienne [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=135
+K:C
+D2 B>B B2 | D2 B>B B2 | D2 B>B B2 | c2 A4 | D2 A>A A2 | D2 A>A A2 | D2 A>A A2 | B2 G4 :|
+Bc d2 d2 | e2 c4 | AB c2c2 | d2B4 | GA B2B2 | c2 A4 | ^FG A2A2 | B2 G4 :|
+
+X:2
+T:La gigue marchée de Romilly [ou Rumilly] [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+cd e2-|ef ed | Bc d2-|de c2 :| 
+(3Gce (3Gce | (3Gce ed | (3GBd (3GBd | (3GBd c2 :|
+
+X:3
+T:Les claquettes de Vendeuvre  [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+G/2 | A>G F>D | DC C2 | Gc/2c/2 c2 | GB/2B/2 B>G | B>A G/2F/2E/2D/2 | A2 G>G :| C2 || A,2 
+C>D EF | G>A GE | F>G FD | E2 CA, | C>D EF | G>A GE | F>G FD | C2 :|
+
+X:4
+T:Les claquettes de Vendeuvre (b)  [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:D
+A2 | B>A G>E | ED D2 | Ad/2d/2 d2 | Ac/2c/2 c>A | c>B A/2G/2F/2E/2 | B2 A>A ||
+D3 A, | D>E FG | A>B AF | G>A GE | F2 DA, | D>E FG | A>B AF | G>A GE | D3 :|
+
+
+X:5
+T:La marche Napoléon [ok]
+R:
+S:
+N:|... :| c2-ce/d/ c2 BA | <-> |... | c-c/e/ d2 c2 BA |
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=135
+K:C
+"4 fois puis 2 fois"
+c>c e2 c>c G2 | c>c e>e c>c G2 :: "3 fois chaque phrase" c>e d>f e>d c>e | d>c B>A G>B A>G | c>e d>f e>d c>e |
+d>A B>G c4 | c-c/2e/2 d2 c2 BA | GF GA FA G2 | c3 f a2 gf | ec de g2f2 :|
+
+X:6
+T:La petite boiteuse [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+cA cA | cA FF | GG G2 | FG A2 | cA cA | cA FF | GG G2 | c2 F2 :|
+
+X:7
+T:La soyote de Vendeuvre [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+BB BA/2B/2 | cB A2 | AA AG/2A/2 | BA G2 | BB BA/2B/2 | cB A2 | AA AG/2A/2 | BA G2-|G2 G>D | B zz>D |
+B zz>D | B>B c>B | A zz>D | A zz>D | A zz>D | A>A B>A | G2-G>D | B zz>D | A zz>D |
+B>B c>B | A zz>D | A zz>D | A zz>D | A>A B>A | G3z :|
+
+X:8
+T:La polka piquée de Bar s/Aube [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=135
+K:G
+B3d3 | GGG F3 | A3c3 | FFFG3 :: Bcd dcB | ABc B3 | GFG A2 d |1 cBA B2 G :|2 cBA G3 +D.C.+ :|
+
+X:9
+T:La gigue de Villeneuve au Chemin [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+Gc | e>d ef | ed GB | d>c de | c2 Gc | ed e>f | ed GB | d>c de |
+c2 ee/2e/2 | ee/2e/2 ef | ed dd/2d/2 | dd/2d/2 de | c2 ee/2e/2 | ee/2e/2 ef | ed dd/2d/2 | dd/2d/2 de | c2z :| 
+
+X:10
+T:La gigue de Bar s/Aube [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=135
+K:C
+C>D E>F E>D C2 |1 E>F G>G E>F G>G :|2 (3GGG A2 G2 C2 | G>G G>G F>E F2 |
+D>E F>F E>D E>C | G>G G>G F>E F2 | (3DEF G>F E>D C2 :|
+
+X:11
+T:La mazurka de Bergère [semble ok mais transposé]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:1/4=135
+K:C
+G | cGc | e2 c/2e/2 | gec | cBG | BGB | c2 B/2A/2 | gfd | e2 g | cGc | e2 c/2e/2 |
+g e c | c B G | BAB | d2 BA | gfd | c3 || g | e d/2>e/2 f/2>e/2 | d2 g | 
+g/2a/2 g/2f/2 e/2d/2 | ecg | e d/2>e/2 f/2>e/2 | d2 G | G/2A/2 G/2F/2 E/2D/2 | c3 :|
+
+X:12
+T:La polka de l'Ardusson [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=185
+K:C
+E3 G3 | FED E2 C | E3 G3 | FED C3 :: EDC EDC | EGA G3 | GAc G2G |1 FED E2C :|2 FED C3 |]
+
+X:13
+T:La polka du talon [ok]
+R:
+S:
+N:|1 fed e2 c :| ou |1 fed e2 d :|
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=185
+K:C
+e3 g3 | fed e2c | e3 g3 | fed c3 :: cde cde | cde d3 | ddd d2 g |1 fed e2 c :|2 fed c3 |]
+
+X:14
+T:Les anguilles [revoir rythme]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+cc c>G | cc c2 | e>d c>d | e2 c2 :: cB cd | edcB | dc BG | G>G :: e2d2 | ee c2 |
+ed cd | e2c2 | e2 dd | ee c2 | ee ec | ed e2 c2 e2 | e2 c2 :| "fin" c/2c/2c/2c/2 c c/2c/2 | dd G>G :| c2 e2 | e2 c2 ||
+
+
+X:15
+T:Les anguilles [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:D
+d/2d/2d/2d/2 dd/2d/2 | ee A>A |: dd d>A | f2d2 | d/2c/2d/2e/2 f/2e/2d/2c/2 | e/2d/2c/2A/2 A>A :||: f2e2 | ff d2 |
+fe de | f2d2 | f2 ee | ff d2 | ff fd | fe f2 | d2 f2 | f2 d2 :|
+"fin" d/2d/2d/2d/2 d d/2d/2 | ee A>A :| d2 f2 | f2 d2 ||
+
+
+X:16
+T:La soyotte de Bar s/Aube [sans doute bon]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+Gc | ed/2e/2 fe | d2 dd | dd cd | ec Gc | ed/2e/2 fe | c3 G/2c/2 | e3 G/2c/2 |
+e2-e>e | e>e e>e | d2-d>d | d>g f>d | e2 :| 
+
+X:17
+T:Le branle de la belle
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:F
+C2 | F>F A>A | c2 A2 | G>G (3GAG | F2 z C :| A>B c>c | c2 c>c | B>B c2 |
+A2 A>C | A>B c>c | c2 c>c | B>B c2 | (3GAG c2-|c2 zC2 :|
+
+X:18
+T:Le branle de la belle [var]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:F
+C2 |: F>F A>A | c2 A2 | G>G (3GAG |1 F2 z2 :|2 F2 z3/2 C/2 | A>B c>c | c2 c>c | B2 Bz |
+A2 A>C | A>B c>c | c2 c>c | B>B c2 | (3GAG c2-|c2 z2 :|
+
+X:19
+T:La sicilienne (de Neuville /Seine) [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+G/2A/2B/2c/2 dd | e/2d/2c/2e/2 dd | G/2A/2B/2c/2 dd | e/2d/2c/2B/2 A2 | cB/2A/2 BA/2G/2 | AG/2^F/2 GD | 
+cB/2A/2 BA/2G/2 | AG/2F/2 GE || "variante" B/2B/2B/2B/2 BG/2B/2 | dG B2 | B/2B/2B/2B/2 BG/2B/2 | ed c2 | 
+cc/2B/2 AA/2G/2 | FF/2E/2 D2 | AA/2G/2 F/2D/2E/2F/2 | G2 BG :|
+
+X:20
+T:La valse-vienne [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=135
+K:F
+C2 D>C A2 | F2 E4 | C2 D>C B2 | G2 F4 | C2 D>C c2 | A2 G4 | C2 CC CC DE F4 :|
+[M:6/8] C2 | A2 A c3 | c3 F2F | A3 A3 | (3CCC (3DEF G3 | B2B d3d | A2 G B3B3 | BAB cBG | F6 z C2 :|
+B/2c/2BA f2 F | G/2A/2GG F3 | B/2c/2BA f2c | c/2dc/2d GA B2 :|
+
+X:21
+T:Le quadrille de Neuville
+R:
+S:
+N:variante possible avec | B>B d>d | c>B A2 | à la place de | B>B d>d | c>c A2 | dans la partie "c"
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+P:aaaabbbbcc
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+P:a
+GB | d2 d/2c/2B/2A/2 |1 cB :|2 G2 z :: 
+P:b
+BG/2B/2 dB | BA AG | BGB dB | BA G2 :|
+P:c
+B>B d>d | c>c A2 | d>c B>A | B2 G2 | B>B d>d | c>c A2 | d>c B>A | G2 G z || 
+
+X:22
+T:La Tambourinette [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+C2 | F/2F/2F/2F/2 FF/2F/2 | FG AF | F/2F/2F/2F/2 FF/2F/2 | AG FC ::
+FF FF/2F/2 | FGAF | GG GF/2G/2 | AG FC :|
+
+X:23
+T:La boulangère de Bragelone
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=155
+K:Bb
+DEF G3 | F3 DEF | G3 F3 | DEF G2A | F2G F3 ::
+BBB B2 B | A2B c2c | G2 c B2A | G3F3 ::
+AAA A2 B | A2 G F2 G | F3F3 :|
+
+X:24
+T:Les Jolivette de Neuville au Pont
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=135
+K:Bb
+FF/2F/2 GB Ac cB | FF/2F/2 G/2B/2A/2G/2 Ac B2 ::
+BB/2B/2 ee dd cc/2c/2 | dd GG/2G/2 cc F2 ::
+(3FFF (3GGG (3AAA B>d | (3FFF (3GGG (3AAA B2 :|
+
+X:25
+T:La grande danse de St Benoit [ok mais pb tonalité]
+R:
+S:
+N:original marqué K:Ab
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=135
+K:Db
+e | cA Ae dB Be | cA Ad B/2A/2G/2F/2 Ee | cA Ae dB Be |
+d/2c/2B/2A/2 B/2c/2d/2G/2 (B2A) || E | AA cA =AB Bd/2B/2 | A/2G/2F/2E/2 F/2A/2G/2B/2 A/2B/2c/2d/2 e/2f/2g/2a/2 | 
+AA cA =AB Bd/2B/2 | AGFE F/2A/2G/2B/2 (3AAA |: c | f2 =e/2f/2g/2e/2 f2 cd | cBAG B/2A/2G/2A/2 Ec |
+f2 =e/2f/2g/2e/2 f2 cd | cB GA F3 :|
+
+
+X:26
+T:La grande danse de St Benoit [correction]
+R:
+S:
+N:correction
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=135
+K:Bb
+f | dB Bf ec cf | dB Be c/2B/2A/2G/2 Ff | dB Bf ec cf |
+e/2d/2c/2B/2 c/2d/2e/2A/2 (c2B) || F | BB dB =Bc ce/2c/2 | B/2A/2G/2F/2 G/2B/2A/2c/2 B/2c/2d/2e/2 f/2g/2a/2b/2 | 
+BB dB =Bc ce/2c/2 | B/2A/2G/2F/2 G/2B/2A/2c/2 BB B |: d | g2 ^f/2g/2a/2f/2 g2 de | dcBA c/2B/2A/2B/2 Fd |
+g2 ^f/2g/2a/2f/2 g2 de | dc AB G3 :|
+
+
+X:27
+T:La ronde de carnaval
+R:
+S:
+N:ajout d'un début de reprise à la deuxième mesure (ommision ?)
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:D
+D |: A>c A>E | A>c A>E | A>c e>A |1 c2 B>G :|2 A2 Az | (3ABA (3GFG | (3AGF (3EFG | A/2A/2 GFG | A2 E2 :| 
+
+
+X:28
+T:Quadrille de Romilly [ou Rumilly]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+P:(1)ABABA (2)CCACCA (3)DEEDE :| (4)FFCCFF (5)CCGC
+M:2/4
+L:1/8
+Q:1/4=135
+K:G
+P:A
+GD EF | G2 FG | A2 GA | B2 G2 | GD EF | G2 EF | A2d2 ||
+[P:B] Gc cc | cB/2c/2 d2 | ce dB | cd ec | Gc cc | cB/2c/2 d2 | ce dB | c2c2 ||
+[P:C] B d>B | B d>B | A2 B>c | BG | B d>B | B d>B | A2 c>B | G2G2 ||
+[P:D] DG GG | G4 | DB BB | B4 | Gd dd | dB GB | c2B2 | A4 |
+DG GG | G4 | DB BB | B4 | Gd dd | de dc | B2A2 | G4 ||
+[P:E] BB/2c/2d2 | BB/2c/2d2 | AB Ad | B2G2 | BB/2c/2d2 | BB/2c/2d2 | DD EF | G2G2 ||
+[P:F] (3BGB (3BGB | (3cAc (3cAc | (3BGB (3BGB | AD D2 | (3BGB (3BGB |
+(3cAc (3cAc | (3ded (3cBA | G2G2 ||
+[P:G] G/2B/2d G/2B/2d | F/2A/2c F/2A/2c | AB [AA][Fd] | B2 G2 | G/2B/2d G/2B/2d | 
+F/2A/2c F/2A/2c | AB [AA][Fd] | G4 ||
+
+
+X:29
+T:Marguerite [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/4
+Q:1/4=135
+K:A
+AA | A2 | G/2A/2 B/2G/2 | AE | cc | c2 | B/2c/2 d/2B/2 | cA | ee | f e/2d/2 | cB | e2 | A/2G/2 A/2d/2 |
+c/2B/2 c/2d/2 | cB | cA | ee | f e/2d/2 | cB | e2 | A/2G/2 A/2B/2 | c/2B/2 c/2d/2 | cB | A2 ||
+
+X:30
+T:Perdriole [ok : mais mode de A ou D ?]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:A
+d2 A>B | A2 A>B | A>G F>E | F2D2 | d2 A>B | A2 A>B | A>G F>E | D2 D>F | F>E F>G | A2 A>B |
+A>G F>E | F2 D>F | F>E F>G | A2 A>B | A>G F>E | D2 D>c | D>D D>D | D>D E>E | A>A F2 |
+D>c D>D | D>D D>D | E>E A>A | D4 | FF FG | A2 FA | G2 E>G | F2E2 | FF FG | A2 FA | GF DC | D4 ||
+
+X:31
+T:Gigue de Villeneuve [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:D
+AB f>f | fg fe | Ac e>d | ef d2 :: ff/2f/2 ff/2f/2 | fg fe | ee/2e/2 ee/2e/2 | ef d2 :|
+
+X:32
+T:Pioche [rythme certaines mesures ?]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:A
+a4 | g4 | f3e2f3g2 | e4 | d>f e>d | c>e d>c | B>d c>B | c2A2 :|2 A2A2 |:
+Ac Ac | BB/2c/2 dB | GB GB | Ac e2 | Ac Ac | BB/2c/2 dB | GB GB | Ac A2 :|
+a4 | g4 | f3ef3g | e4 | d>f e>d | c>e d>c | B>d c>B | c2A2 :|2 A2A2 |:
+Ac/2e/2 ag | fe dc | Bc/2d/2 ed | cB cA | Ac/2e/2 ag | fe dc | Bc/2d/2 ed | cA A2 :| a4 | g4 | a4 ||
+
+X:33
+T:Pioche [rythme corrigé]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:A
+a4 | g4 | f>e f>g | e4 | d>f e>d | c>e d>c | B>d c>B | c2A2 :|2 A2A2 |:
+Ac Ac | BB/2c/2 dB | GB GB | Ac e2 | Ac Ac | BB/2c/2 dB | GB GB | Ac A2 :|
+a4 | g4 | f>e f>g | e4 | d>f e>d | c>e d>c | B>d c>B | c2A2 :|2 A2A2 |:
+Ac/2e/2 ag | fe dc | Bc/2d/2 ed | cB cA | Ac/2e/2 ag | fe dc | Bc/2d/2 ed | cA A2 :| a4 | g4 | a4 ||
+
+
+X:34
+T:La soyotte d'Aube [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:D
+A | d>d d>f | d>d d>f | e>e (3ede | f2 d>c | d>d d>f | d>d d>f | e>e (3efe |
+d2d>d | g2g>g | f2f>f | e>e (3ede | f2 d>d | g2 g>g | f2 f>f | e>e (3efe | d2 z>A | f>f f>a |
+f>f f>a | g>g (3gfg | a2 f>A | f>f f>a | f>f f>a | g>g (3gag | f2 f>d | b2 b>b | a2 a>f |
+e>e (3ede | f2 d>d | b2-b>b | a2 a>f | e>e (3efe | d2 z2 :||: A/2A/2f d2 | Af d2 | (3eee ee |1f2d2 
+:|2 d2 zd | g2-g>g | f2-f>f | e>e (3eee | f2 d>d | g2-g>g | f2-f>f | e>e (3efe | d2 z2 || 
+
+
+
+X:35
+T:La soyotte de Neuville [ok]
+R:Polka
+S:
+N:le rythme n'est probablement pas exactement ainsi
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+A/2 |: F2>>A2 | F2>>A2 | ff gf | (e2e)A | e2>>A2 | e2>>A2 | e>e f>e |1 d2 d>A :|2 d2<<z2 ||
+ff fe/2f/2 | gf e2 |1 ee ee | de fd :|2 ee ed/2e/2 | fed2-|d2>>G2 ||
+
+X:36
+T:La marche de carnaval de St Aubin
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:D
+z2 d/2e/2 | (d2 A)A/2B/2 | (A2 E)E/2F/2 | GA Bc | (f2 e) d/2e/2 |
+(d2 A)A/2B/2 | (A2 E)E/2F/2 | G>A f>e | d4 | A4 | A>d c>e | B4-|B2 e>d | c2>B2 |
+Ac d>e | f4 | A4-|Ad c>e | B4-|B2 e>d | c2>B2 | Ac f>e | d2 z2 || 
+
+X:37
+T:Les bâtons et les serviettes
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:D
+D/2E/2F/2G/2 AA | d/2c/2B/2c/2 A2{A} | D/2E/2F/2G/2 AA | d2 ^A2 :| cB/2A/2 BA/2G/2 | 
+AA/2B/2 GA/2B/2 | cB/2A/2 BA/2G/2 | A2G2 :|
+
+X:38
+T:L'Allemande
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:D
+DF Ad | d3 f | ed cB | AG FE | DF Ad | d3 f2 | ed cB | A4 :|
+DF AF | GB BG | FG AF | F3 E | DF Ad | B3g | fe dc | d4 :|
+
+
+X:39
+T:L'Piston
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=135
+K:G
+df df df | d2 de ee | de f2 d2 | df df df | d2 de ee | f2 e2 d2 |
+d g2 g f2 | de ee de | f2 d2d g-|g g f2 fe | ee fe d2 ||
+
+X:40
+T:Chibreli
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:D
+cc | cB/2c/2 dc | B2 BB | BA/2B/2 cB | A2 cc | cB/2c/2 dc | B2 BB | AB/2c/2 BA |
+%variation : | B2 BB | Bd/c/ Bc |
+A2 cd | e2 cd | e2e2 | fe dc | c2B2 | cde2 | cde2 | ee fe | dB A2 || 
+
+
+X:41
+T:La bique [ok]
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=130
+K:F
+F2 | D A A G | A2 +emphasis+F2 | D A A G | A2 A2 | A B c A | G2+emphasis+ G2 |
+w:Il | é-tait u-ne | biqu' qui | a-vait bien cent | ans, el-|le s'en fut aux | choux, aux |
+G A G F | HE A A G | A2 (3FEF | D A A G | A2 (3FEF | HD A A A ||
+w:choux de Jean Ber-|trand Pour tous les|jours fai-re ri-|botte et aux dé-|pens des bonnes|gens~! Elle a d'l'en|
+[M:6/8] HB A G G G G | +emphasis+A G F F F F | G F E A A A | F3 E3 | D2 z z3 ||
+w:ten, ma bique elle a d'l'en-|ten, ma bique elle a d'l'en-|ten, ma bique elle a d'l'en-|ten-de-ment~! |
+%%vskip 1cm
+%%wordsfont CaslonAntique-Roman
+W:I
+W:Il était une biqu' 
+W:qui avait bien cent ans
+W:elle s'en fut aux choux
+W:Aux choux de Jean Bertrand
+W:
+W:Pour tous les jours faire la ribotte
+W:et aux dépens des braves gens !
+W:Elle a d'l'enten, ma bique (bis)
+W:elle a d'l'entendement !
+W:
+W:II
+W:Jean Bertrand qui la vit,
+W:la prit la nuit dedans,
+W:il la fit assigner
+W:par quatre-vingt sergents
+W:
+W:III
+W:La bique qui était très sage
+W:se rendit au jugement
+W:elle retroussa sa queue
+W:et s'assit sur un banc
+W:
+W:IV
+W:Elle fit trois pets au juge
+W:et quatre aux assisants
+W:plus un bichet de crottes
+W:qu'était pour Jean Bertrand
+W:
+W:V
+W:Puis elle fourra sa corne 
+W:au... du président
+W:le cher homme qu'était fier
+W:n'en fut pas très content
+W:
+W:VI
+W:Sans bruit le tribunal
+W:prisant peu ces façon
+W:fit remettre à quinzaine 
+W:et leva le séant
+
+
+
+
+X:42
+T:La valse des belles
+R:Valse
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:3/4
+L:1/4
+Q:1/2=115
+K:G
+M:4/4
+DGA | B2G | DGA | B2G | dcB | A2B | cBA | B2G | DGA | B2G | DGA | B2G |
+dcB | A2F | DAF | G2z || edc | B2B | cde | d3 | dcB | c2A | cBA |
+B2 G | edc | B2B | cde | d3 | dcB | c2A | DAF | G2z ||
+W:Belles jeunes filles, sous les chamilles, mains dans la main, le long des chemins
+W:elles s'amusent usent de ruse, en parlant des amours de demain.
+W:
+W:Des yeux qui brillent, et s'équarquillent, à la vie douce qui les entraine,
+W:C'est la beauté, même la gaité, filles éternelles, vous êtes belles.
+
+X:43
+T:Pour bien fêter de l'hyménée
+R:
+S:
+N:
+A:Champagne
+G:
+O:France
+Z:3/4
+L:1/8
+Q:1/4=140
+K:Bb
+M:4/4
+D E | F2 F D F B |d2 B2 F d | c2 A F A c | B2-Bz :|
+w:Pour bien |fê-ter de l'hymé-|née le jour |heu-reux, le jour char-mant_
+w:Je ne |vois dans cette assem-|blé-e que des | a-mis, que des pa-|rents_
+c B | A2 A c B G | G2 F2 c B | A2 A c B G | F2-Fz D E |
+F2 F D F B | d2 B2 F d | c2 A F A c | B4 ||
+W:Pour bien fêter de l'hyménée le jour heureux, le jour charmant
+W:Je ne vois dans cette assemblée que des amis, que des parents
+
+
+%%vskip 0.5cm
+%%sep
+%%text Chansons enfantines
+
+
+
+X:44
+T:Qu'est-ce qui se passe ici si tard
+R:
+S:
+N:p. 60
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+GG | ee de | c2 Bc | dd/2d/2 cd | ee gg | ee de | c2d2 | e2 (3BcB | A2 z2 ||
+
+X:45
+T:Mariera qui voudra
+R:
+S:
+N:p. 81
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=135
+K:G
+d2B2 g2d2 | d2 BB gg d2 | dd dd dd ed | dd ed ef g2 |
+dd B2 gg d2 | d>e dc BA | BG | dd B2 gg d2 | d>e dc BA G2 |]
+
+X:46
+T:Mademoiselle, voulez-vous ?
+R:
+S:
+N:p. 90
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=135
+K:D
+F>G A2 F2 | d2 A4 | B>A G2 E2 | A>G F2 D2 |
+F>G A2 F2 | d2 A4 | B>A G2 E2 | A2 D4 |]
+
+
+X:47
+T:La fille du coupeur de paille
+R:
+S:
+N:p. 126
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/4
+Q:1/4=135
+K:G
+G G/2>B/2 G2 | G G/2>B/2 G2 | c c/2>c/2 BB | AABG |
+G G/2>B/2 G2 | G G/2>B/2 G2 | c c/2>c/2 BB | AAG2 |
+c c/2>c/2 BB | AABG | c c/2>c/2 BB | AAG2 |]
+W:Sur mon chemin j'ai rencontré la fille du coupeur de paille
+W:Sur mon chemin j'ai rencontré la fille du coupeur de blé
+W:la fille du coupeur de paille, la fille du coupeur de blé.
+
+
+
+%%vskip 0.5cm
+%%sep
+%%text autres morceaux 
+
+
+X:48
+T:Valse de Champ Rouget
+R:Valse
+S:Folklore de champagne n°98
+N:p. 126
+A:Champagne
+G:
+O:France
+Z:Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:3/4=120
+K:G
++segno+
+Gcd | e2g | e2g | e3 | efe | edc | ded | cBA |
+Gcd | e2g | e2g | e3 | efe | edc | ded | c3 :|
+d>d d/2d/2 | dBd | g2f | c3 c>c c/2c/2 | cBc | e2d | B3 |
+d>d d/2d/2 | dBd | g2f | c3 c>c c/2c/2 | cBc | e2f | g3 +segno+|]

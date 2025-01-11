@@ -1,0 +1,338 @@
+%abc
+%%%%               
+%      
+%        S u i t e   n° 2   e n   L a   m a j e u r
+%                 par Robert de Visée
+%            
+%         I. livre de guittarre dédié au Roy (1682)     
+%                      
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/        
+%
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+%    Abctab2ps	http://www.lautengesellschaft.de/cdmm/ (obligatoire pour les partitions en tablatures
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  dimanche 06 septembre 2009 à 19:37
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+%%pageheight 29.7cm
+%%pagewidth 21.0cm
+
+%%textfont CaslonAntique 18
+
+%%titlefont CaslonAntique 22
+%%subtitlefont CaslonAntique 16
+%%composerfont   CaslonAntique 10
+
+
+%%headerfont CaslonAntique 12
+%%footerfont CaslonAntique 8
+
+%%annotationfont CaslonAntique 10
+%%infofont CaslonAntique 16
+%%historyfont CaslonAntique 16
+
+
+%%measurefont CaslonAntique 14
+%%partsfont CaslonAntique 14
+%%repeatfont CaslonAntique 14
+
+%%tempofont CaslonAntique 14
+%%vocalfont CaslonAntique 16
+%%voicefont CaslonAntique 16
+%%wordsfont CaslonAntique 16
+%%gchordfont CaslonAntique 14
+%%setfont-1 CaslonAntique 16
+%%setfont-2 CaslonAntique 16
+%%setfont-3 CaslonAntique 16
+%%setfont-4 CaslonAntique 16
+
+%%textfont CaslonAntique 25
+%%vskip 0.5cm
+%%center Suite n°2 en La mineur     
+%%textfont CaslonAntique 18
+%%vskip 0.5cm          
+%%center I. livre de guittarre dédié au Roy (1682)
+%%textfont CaslonAntique 16
+%%center par Robert de Visée
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont CaslonAntique 12
+%%text Transcriptions, mises en partition abc par 
+%%text Eric Forgeot - http://anamnese.fr.st
+%%text Travail sous licence cc-by-nc-sa
+%%vskip 0.0cm
+%%text Version :  septembre 2009
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	Suite n°2 en La mineur - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont CaslonAntique 12
+%
+% Note : cette partition n'est peut-être pas rigoureuse au point de vue de la 
+%        notation habituelle pour de la guitare, mais j'ai fait néanmoins du mieux que 
+%        j'ai pu pour rester fidèle aux notes.
+%
+%  <!> important :  certains morceaux ont été transcrits avec des codages spéciaux
+%                   pour Abcm2ps, et risquent de présenter des données inhabituelles 
+%                   pour des logiciels d'écoute. Une correction
+%                   possible est de remplacer automatiquement les signes de silence 
+%                   invisibles ("x") par les signes standards ("z") [en respectant la casse).
+%                   Utiliser Abc2midi sinon.
+%
+%    pages sur Robert de Visée :
+%      http://g.rebours.free.fr/5F/5.Robert_de_Visee.html
+% 
+
+
+
+%%scale 0.71
+%%continueall 0
+%%maxshrink 0.50
+%%staffsep 40pt
+%%sysstaffsep 30pt
+
+
+%%pageheight    29.7cm
+%%pagewidth     21cm
+%%topspace      0.00
+%%topmargin     0.80cm
+%%botmargin     1.00cm
+%%leftmargin    1.30cm
+%%rightmargin   1.20cm
+
+
+%%titlefont      Garamond-Bold 13
+%%subtitlefont   Garamond-Bold 10
+%%composerfont   Garamond-Italic 10
+%%partsfont      Garamond-Bold 10
+%%vocalfont      Garamond 12   % note: gets scaled by "scale"
+%%gchordfont     Garamond 12
+%%textfont       Garamond 10
+%%wordsfont      Courrier 8
+
+%%titlespace     0.20cm
+%%subtitlespace  0.10cm
+%%composerspace  0.10cm
+%%musicspace     0.20cm
+%%partsspace     0.10cm
+%%wordsspace     0.00cm
+%%textspace      0.20cm
+%%vocalspace     18pt
+
+%%lineskipfac 1.1
+%%parskipfac 0.3
+
+%%textfont Garamond-Bold 17
+%%center Suite n°2 en La majeur
+%%textfont Garamond 16
+%%center I. livre de guittarre dédié au Roy (1682)
+%%textfont Garamond-Italic 14
+%%center  par Robert de Visée
+%%vskip 0.5cm
+%%textfont Garamond-Italic 9
+%%text Transcriptions :
+%%text <anamnese@laposte.net> - http://anamnese.fr.st
+%%vskip 0.3cm
+%%text Version : juillet 2002
+%%sep
+%%textfont Garamond 10
+
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer Robert de Visée --  S u i t e   e n   L a   m a j e u r  -- (1682)
+
+
+
+X:1
+T:Titres
+M:2/4
+K:Am
+K:C
+%%endtext
+%%multicol end
+%%multicol start
+%%leftmargin 4.5cm
+%%begintext
+Aeade  
+Cae  
+%%endtext
+%%multicol new
+%%leftmargin 12.5cm
+%%begintext
+Saabade  
+%%endtext
+%%multicol end
+
+
+
+X:2
+T:Allemande (suite en La majeur)
+R:Allemande
+C:Robert de Visée
+H:1682
+B:I. livre de guittarre dédié au Roy (1682)
+G:guitare
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:4/4
+L:1/8
+Q:1/4=105
+%%ABC2TAB:EADGBe
+K:A
+%%staves (1 2)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+
+%%MIDI program 24
+%%MIDI channel 3
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 65 %pan
+
+X:3
+T:Courante (suite en La majeur)
+R:Allemande
+C:Robert de Visée
+H:1682
+B:I. livre de guittarre dédié au Roy (1682)
+G:guitare
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+
+L:1/8
+Q:1/4=105
+%%ABC2TAB:EADGBe
+K:A
+M:4/4
+%%staves (1 2 3)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+[ea] | a3 a b2 c'2 +trill+b3 a | +trill+[e2g2] e4 (a=g) +trill+g3 [df] |
+[d6f6] [B2e2] e3 f | +trill+d3 c [=A2c2] [c2f2] g3 g |
+{g}a6 =e2 f3f | =g2 z=f e3 +trill+f3 e | [B6e6] e4 z :|
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+[Ac] | [A4c4e4] z4 [^d2f2] z | B4 x2[c4-e4-][ce] [EA] |
+[D6A6] c6 ^A4 | B4 [F2=A2] [F2A2] [^E4B4c4] |
+[F6A6c6] [=E2=G2B2=e2] [^D4A4B4] | [E2=G2B2] B2 c2 A2 B3 [E^GB] | [E2G2] E2 G2 [E4G4B4] z :|
+V:3
+%%MIDI program 24
+%%MIDI channel 3
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 65 %pan
+x | x12 | 
+
+
+X:4
+T:Sarabande (suite en La majeur)
+R:Sarabande
+C:Robert de Visée
+H:1682
+B:I. livre de guittarre dédié au Roy (1682)
+G:guitare
+O:France
+Z:<anamnese@laposte.net> -- http://anamnese.fr.st
+M:3/4
+L:1/8
+Q:1/4=105
+%%ABC2TAB:EADGBe
+K:A
+%%staves (1 2)
+V:1
+%%MIDI program 24
+%%MIDI channel 1
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 85 %pan
+[c2e2] [c2e2] [c2e2] | +trill+[B3e3] d +trill+c2 | (cd) d2 d2 |
++trill+c3 B B2 | [e2g2] [e2g2] [e2g2] |
+V:2
+%%MIDI program 24
+%%MIDI channel 2
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 45 %pan
+[E2A2] [E2A2] [E2A2] | G4 [E2A2] | [D4A4] [E2G2] |
+[E4A4] [E2G2] | [E2B2] [E2B2] [E2B2]
+
+%%MIDI program 24
+%%MIDI channel 3
+%%MIDI transpose -12
+%%MIDI control 7 120 %volume
+%%MIDI control 10 65 %pan
+
+
+
+
+%%vskip 2.5cm
+
+%%textfont Garamond-Italic 8
+%%text Transcription : <anamnese@laposte.net> -- http://anamnese.fr.st
+%%text Available at Werner Icking Music Archive -- http://icking-music-archive.sunsite.dk/
+
+
