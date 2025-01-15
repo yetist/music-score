@@ -6,29 +6,12 @@ T: 电影《大话西游之大圣娶亲》片头曲
 C:作曲：赵季平
 C:记谱：全体起立
 M:4/4
-L:1/4
+L:1/8
 Q:1/4=60
 K:G
 %%measurenb 0
 %%%measurebox 1
 M:4/4
-E/F/ G/A/ B<E | D<(E E2) | E/F/ G/A/ d<B |{A} B4 | c/B/A/G/ A<F |
-B/A/G/F/ G<E | F/E/D/E/ F<d | {^c}B4 | E/F/G/A/ B<E | D<(E E2) |
-E/F/ G/A/ d<B | A<(B B2) | c/B/A/G/ A<F | B/A/G/F/ G<E | F/E/D/E/ F<d |
-^c<(B B) B/d/ | e2 g>e|d/(B/ B2) z/d/ | e2 G>A| B//d//(B/B2) B/d/|
-e2 g g/e/ | d3/2 e//d// B d/B/|A>B A/!fermata!G3/2 | G/E/ D<E b,/d/ | e2 g>e |
-d/(B/B3/2) e/d/ | e>e G>A|d<(B B) B/d/ | e2 g>e |d3/2 e//d// B d/B/ |
-A2 B/A/ (G | G3) G/E/ | D<(E (E2) | E) z z z | Z|]
-
-
-X:2
-T:芦苇荡
-C:作曲：赵季平
-C:记谱：全体起立
-L:1/8
-Q:1/4=60
-M:4/4
-K:G
 V:1 treble
 V:1
  EF GA B E3 | D (E3 E4) | EF GA d B3 |{A} B8 | cBAG A F3 | %5
@@ -38,4 +21,3 @@ V:1
  e4 g2 ge | d3 e/d/ B2 dB | A3 B A !fermata!G3 | GE D E3 Bd | e4 g3 e | %25
  d(B B4) ed | e3 e G3 A | d (B3 B2) Bd | e4 g3 e | d3 e/d/ B2 dB | %30
  A4 BA (G2 | G6) GE | D (E3 (E4) | E2) z2 z2 z2 | z8 |] %35
-

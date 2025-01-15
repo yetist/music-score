@@ -1,21 +1,22 @@
 %abc-2.1
-%%barnumbers
 
 X:1
 T:龙芯誓词
 M:4/4
-L:1/4
+L:1/8
 Q:1/4=120
+%%measurenb 0
+%%%measurebox 1
 K:F
 M:2/4
-f/c//c// (c | c/)c//B// A/c/ | d/c/ d//c//d//e// | (f2 | f2) |
-g/d//d// (d | d/)z/ d/e/ | f/e/ f//e//f//g// | (a2 | a2) |
+fc/c/ (c2 | c)c/B/ Ac | dc d/c/d/e/ | (f4 | f4) |
+gd/d/ (d2 | d)z de | fe f/e/f/g/ | (a4 | a4) |
 M:4/4
-d>d f d | c d d2 | f/f/ f/d/ e c | A4 | d>c d A | F A G2 | e/e/e/c/ f e | d4 |
-d>d d G | (A/G/) (F/G/) D2 | G/G/ G/A/ c G | A4 | A>A d d | c G A2 | d/d/ d/B/ c B | G4 |
+d2>d2 f2 d2 | c2 d2 d4 | ff fd e2 c2 | A8 | d2>c2 d2 A2 | F2 A2 G4 | eeec f2 e2 | d8 |
+d2>d2 d2 G2 | (AG) (FG) D4 | GG GA c2 G2 | A8 | A2>A2 d2 d2 | c2 G2 A4 | dd dB c2 B2 | G8 |
 w:一 腔 热 血|一*颗*心，|精 忠 报 国 龙 芯|人。 |誓 把 强 国|当 己 任，|敢 用 青 春 铸 忠|魂
-|:d>d d d | c d d2 | f/f/ f/d/ e c | A4 | A>A d d | c G A2 | d/d/ d/B/ dg | g4 |
+|:d2>d2 d2 d2 | c2 d2 d4 | ff fd e2 c2 | A8 | A2>A2 d2 d2 | c2 G2 A4 | dd dB d2g2 | g8 |
 w:十 年 砺 刃 度 清 苦， 一 朝 亮 剑 破 敌 阵。 待 到 中 华 腾 飞 日， 且 让 世 界 听 龙 吟。
-d>d d d | c d d2 | f/f/ f/d/ e c | A4 | A>A d d | c G A2 | e/e/ e/c/ f e | d4 :|
+d2>d2 d2 d2 | c2 d2 d4 | ff fd e2 c2 | A8 | A2>A2 d2 d2 | c2 G2 A4 | ee ec f2 e2 | d8 :|
 w:十 年 砺 刃 度 清 苦， 一 朝 亮 剑 破 敌 阵。 待 到 中 华 腾 飞 日， 且 让 世 界 听 龙 吟。
-| g g g g | e2 c2 | (d4 | d4) |]
+| g2 g2 g2 g2 | e4 c4 | (d8 | d8) |]
