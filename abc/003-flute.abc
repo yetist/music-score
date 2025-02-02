@@ -3,32 +3,25 @@
 %%measurenb 0
 %%%measurebox 1
 
-X: 1
-T: 听妈妈讲那过去的事情
-T: 儿童歌曲
-C: 管　桦 词
-C: 瞿希贤 曲
-M: 2/4
-Q: 稍慢
-L: 1/4
-K: Eb clef=treble
-V: lyrics=down
-!mp!c | B3/2 G/ | (F3/4B//) G/B/ | F/E/ C/E/ | B,/ z/ G | (F2| F) E/F/ | !crescendo(!B>!crescendo)!G | F/E/ (F3/2/G//) | !diminuendo(!C/B,1/4B,1/4 (G/F/)!diminuendo)!|
-w:月 亮 在 白 * 莲 花 般 的 云 朵 里 * 穿 行， * 晚 风 吹 来 一 阵 阵 * 快 乐 的 歌 *
-E2| G/!mf!B/ c/B/ | e d3/2/ c1/4 | B/c/ B/(G/ | G2)| B c/B/ | F>A | G/F1/4F1/4 c/(B/ | B2)|
-w:声 我 们 坐 在 高 高 的 谷 堆 旁 边， * 听 妈 妈 讲 那 过 去 的 事 情。 *
-G/ B/ c/ B/ | e d3/2/ c1/4 | B/ c/ B/ (G/ | G)2| B c/ B/ | F3/2 A/ | G/ F1/4 F1/4 | G/ (E/ | E)2||/ !f!ine
-w:我 们 坐 在 高 高 的 谷 堆 旁 边， * 听 妈 妈 讲 那 过 去 的 事 情。 *
-G!mp! (B,3/2/ C1/4 ) | E2| G3/2/ F1/4 E1/4 B,1/4 C/ | E2| F/ F/ G/ F/ | c3/2/ B1/4 A1/4 G1/4 F/ | B2| c!accent! (B/ !accent! (e/ | e)) d/ c/ |
-w: 那 时 * 候 妈 妈 没 有 土 地， 全 部 生 活 都 在 两 只 手 上。 汗 水 * * 流 在
-B!accent! (G/ !accent! (c/ | c)) B/ c1/4 B1/4 | (A1/4 G1/4 ) B/ F | G (B, | B,/ ) C/ B3/2/ G1/4 | F/ G F/ | (E B,/ C/ ) | E2|
-w: 地 主 * * 火 热 的 田 * 野 里， 妈 妈 * 却 吃 着 野 菜 和 谷 * * 糠
-e d/ c/ | B!accent! (G/ !accent! (c/ | c)) B/ !accent!c1/4 B1/4 | (A/ !accent!G/ ) F | G (B, | B,/ ) C/ B3/2/ G1/4 | F/ G F/ | E (B,/ C/ ) | E2|
-w: 冬 天 的 风 雪 * * 狼 一 样 嚎 * 叫， 妈 妈 * 却 穿 着 破 烂 的 单 衣 * 裳。
-e!f! d3/2/ c1/4 | B (G/ ) c/ | c)) B/ c1/4 B1/4 | A1/4 G1/4 B/ F | G!mf! (B, | B,/ ) C/ (B3/2/ G1/4 ) | F/ G F/ | E (B,/ C/ ) | E2|
-w: 她 去 给 地 主 * * 缝 一 件 狐 皮 长 袍， 又 冷 * 又 饿 * 跌 倒 在 雪 地 * 上。
-e!pp! d/ c/ | B (G/ (c/ | c)) B/ c1/4 B1/4 | (A/ G/ ) F | G (B, | B,/ ) C/ B3/2/ G1/4 | F/ G F/ | E (B/  c/ ) | (E2| E) ||/ &dc
-w: 经 过 了 多 少 * * 苦 难 的 岁 * 月， 妈 妈 * 才 盼 到 今 天 的 好 光 * 景。 *
+X:1
+T:芦苇荡
+T: 电影《大话西游之大圣娶亲》片头曲
+C:作曲：赵季平
+C:记谱：孤夜寒星
+M:4/4
+L:1/8
+Q:1/4=60
+K:G
+M:4/4
+V:1 treble
+V:1
+ EF GA B E3 | D (E3 E4) | EF GA d B3 |{A} B8 | cBAG A F3 | %5
+ BAGF G E3 | FEDE F d3 |{^c} B8 | EFGA B E3 | D (E3 E4) | %10
+ EF GA d B3 | A (B3 B4) | cBAG A F3 | BAGF G E3 | FEDE F d3 | %15
+ ^c (B3 B2) Bd | e4 g3 e | d(B B4) z d | e4 G3 A | B/d/(B B4) Bd | %20
+ e4 g2 ge | d3 e/d/ B2 dB | A3 B A !fermata!G3 | GE D E3 Bd | e4 g3 e | %25
+ d(B B4) ed | e3 e G3 A | d (B3 B2) Bd | e4 g3 e | d3 e/d/ B2 dB | %30
+ A4 BA (G2 | G6) GE | D (E3 (E4) | E2) z2 z2 z2 | z8 |] %35
 
 X:2
 T:奇异恩典
