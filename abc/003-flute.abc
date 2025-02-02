@@ -51,3 +51,39 @@ G2(B/G/) | B2A | G2 G/E/ | D/E/ F/G/ A| G2(B/G/) | B2 A/B/ |
 G2 B/G/ | !diminuendo(!B2 !diminuendo)!A | G2 D | G2 B/G/ | !mf!B2 A | G2 E |
 D2 !crescendo(!D | G2 B/!crescendo)!G/ | B2 A | (d3 | d2) !crescendo(!B | d>!crescendo)!B d/B/ |
 G2 D | E>G G/E/ | D2 D | !diminuendo(!G2 B/G/ | !diminuendo)!B2 A | G3 |]
+
+X: 3
+T: 穿越时空的思念
+C: 苍强曲谱
+M: 4/4
+L: 1/4
+K: C
+z2 A,/ C/ | D D/F/ G A/c/ | A G/F/ D A/G/ | D A/G/ D C | A,3A,/C/ |
+D D/F/ G A/c/ | A G/F/ D A/G/ | D A/G/ D C | D3A/c/ |
+d>c d e/c/ | d c/G/ A A/c/ | d>c d/f/ e/c/ | A3 A/c/ |
+d>c d e/c/ | d c/G/ A A/G/ | D A/G/ D C | D3 A/c/ | d>c d e/c/ |
+d c/G/ A A/c/ | d>c d/f/ e c | A3 A/c/ | d>c d e/c/ |
+d c/G/ A A/G/ | D A/G/ D C | D3 A/G/ | D A/G/ D C | D4|]
+
+X: 4
+T: 沧海一声笑
+M: 4/4
+L: 1/4
+K: A clef=treble
+(ff3/4e// ) (c/B/ ) A2| c3/4B// A/F/ E2| (E3/4F//) (E3/4F//) (A3/4B//) (c/e/ ) | (f3/4e//) (c/B//A//) B2|
+f/(f//e// c/B/) A2| c3/4B// A/F/ E2| (E3/4F//) (E3/4F//) (A3/4B//) c/e/ | (f3/4e//) (c//B//A/) B2|
+f/(f//e// c/B/) A2| (c3/4B//) (A/F/ ) E2| E3/4F// E3/4F// A3/4B// c/e/ | (f3/4e// ) (c//B//A/ ) B2|
+f/(f//e// c/B/) A2| (c3/4B//) A/F/ E2| (E3/4F//) (E3/4F// )  (A3/4B// ) c/e/ | (f3/4e// ) c/B/ A2||
+
+X:5
+T:孤星独吟
+M:4/4
+L:1/4
+K:Bb clef=treble
+|: G>A B c/d/ | c4| A>G F D/F/ | G4| B>G G d |
+c4| F>G A B/A/ | G4| d3G | c3d/c/ |
+(B2B/)G/ B/c/ | A3 B/c/ | d3 c/B/ | c4|1 F/G/ (A2 A/)F/ |
+G4:|2 F/G/ A2 G/F/ | G4| D3 c/B/ | c4|
+B3 A/G/ | A3 B/c/ | (d3 d/)G/ | c3 d/c/ | (B2 B/2)G/ B/c/ |
+A4| d3 G | c3 d/c/ | (B2 B/)G/ B/c/ | A3 B/c/ |
+d3 c/B/ | c3 d/c/ | B3 G | A3 B | (G4| G4)||
